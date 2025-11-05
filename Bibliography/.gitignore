@@ -1,0 +1,7 @@
+*
+!.gitignore
+Books/
+corpus/
+geoparser-1.3/
+Domain-Adaptive-NER-main/
+

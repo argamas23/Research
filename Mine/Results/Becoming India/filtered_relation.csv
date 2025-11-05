@@ -1,0 +1,28 @@
+Subject,Relation,Object
+oak,,tree  subclass of  sal  tree  subclass of  walnut  tree  subclass of  maple  tree  subclass of  horse chestnut  tree  subclass of
+sheep,,herds  subclass of
+sheep,,goats  subclass of
+food,grains,storable goods  subclass of  wool  storable goods  subclass of
+sheep,,animals  subclass of  goats  animals  subclass of
+goat,,sheep  subclass of
+wheat,,cereal  subclass of  barley  cereal  subclass of  maize  cereal  subclass of  millet  cereal  subclass of
+millet,,cereal  subclass of
+wheat,,food items  subclass of  sugar  food items  subclass of
+homestead,,agricultural land  subclass of
+wool,,livestock  subclass of
+oil,,produce  subclass of  corn  produce  subclass of  honey  produce  subclass of  fruits  produce  subclass of
+wool,,cloth  subclass of
+salt,natural,products of value  subclass of  borax  natural products of value  subclass of  natron  natural products of value  subclass of
+wheat,,food crops  subclass of  oats  food crops  subclass of  barley  food crops  subclass of  rice  food crops  subclass of  mustard seed  food crops  subclass of
+food-grain,,food  subclass of
+wheat,,agricultural goods  subclass of  rice  agricultural goods  subclass of
+Rampurgrain,market,Bashahr State  located in the administrative territorial entity
+rice,,food crops  subclass of
+Mundi,Salt,Mundi  located in the administrative territorial entity
+Raja,of,Mundi  Mundi Salt  owner of  Mundi Salt  Raja of Mundi  owned by
+Mundi,Salt,Mundi  located in the administrative territorial entity
+Mandiˈsalt,,rock salt  subclass of
+millet,,food crops  subclass of  wheat  food crops  subclass of  rice  food crops  subclass of
+millet,,wheat  subclass of
+sheep,,meat  subclass of
+Himalayas,Scheduled,CasteAssociation  Delhi  located in the administrative territorial entity  Delhi  located in the administrative territorial entity

@@ -1,0 +1,37 @@
+Subject,Relation,Object
+sheep,,goats  subclass of
+wheat,,crops  subclass of
+Tibetan,plateau,Ladakh  located in the administrative territorial entity
+toosh,,wool  subclass of
+shawls,,wool  subclass of
+firewood,,grain  subclass of
+pashm,,shawl  subclass of
+pashm,,luxury item  subclass of
+sheep’s,wool,wool  subclass of
+horse,,animal  subclass of  animal  horse  different from
+rice,,foodgrain  subclass of
+wheat,,staple crop  subclass of  barley  staple crop  subclass of
+pashm,,fabrics  subclass of
+Pashm,,undercoat  subclass of
+Tibetan,Plateau,Ladakh  located in the administrative territorial entity
+dung,,produce  subclass of  milk  produce  subclass of  wool  produce  subclass of
+tsampa,,barley flour  subclass of
+lent,grain,for seed  Property  subclass of
+tea,,beverage  subclass of
+homespun,,woollen cloth  subclass of
+sheepskin,,wool  subclass of
+silk,,luxury goods  subclass of
+homespun,,woollen  subclass of
+cap,,woollen  subclass of
+��gur-gur,tea,butter-tea  subclass of
+homespun,,woollen  subclass of
+spinning,wool,weavers  subclass of  weavers  spinning wool  uses
+Tibetan,plateau,Ladakh  located in the administrative territorial entity
+pashm,,cash crop  subclass of
+shawl,,pashm  subclass of
+Mongolian,goat,pashm  subclass of
+Karakul,,sheep  subclass of
+Barley,,wheat  subclass of
+gelding,,sheep  subclass of
+Gur-gur,,butter  subclass of
+cashmere,,wool  subclass of
