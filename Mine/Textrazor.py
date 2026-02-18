@@ -95,7 +95,7 @@ from collections import defaultdict
 
 # === CONFIGURATION ===
 textrazor.api_key = "864276b8fd6c183c43d0244bf5926cb31275c7d30097228a089a0e25"
-input_file       = "/home/samagra/Desktop/Research/corpus/Simla_1910.txt"
+input_file       = "/home/samagra-bharti/Desktop/Research/corpus/Santiago_Lazcano.txt"
 output_file      = "textrazor_results.txt"
 chunk_size_bytes = 190 * 1024                      # ≈ 190 KB
 

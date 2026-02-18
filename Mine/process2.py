@@ -68,7 +68,7 @@ def main():
     corpus_file = input("Enter path to corpus TXT file: ").strip()
     ner_file = input("Enter path to NER file: ").strip()
 
-    selected_topics = load_topic_list("Selected_Topis.txt")
+    selected_topics = load_topic_list("Selected_Topics.txt")
     all_topics = load_topic_list("unique_topics.txt")
 
     print("\nParsing NER file...")

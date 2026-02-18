@@ -22,7 +22,9 @@
 /geography/mountain
 /geography/river
 /geography/glacier
+/geography/geographical_feature_category
 /geography/geographical_feature
+/geography/lake_type
 /geology/geological_formation
 /government/governmental_jurisdiction
 /government/political_district

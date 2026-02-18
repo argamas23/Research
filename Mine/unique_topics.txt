@@ -281,6 +281,7 @@
 /film/film
 /film/film_character
 /film/film_company
+/film/film_crewmember
 /film/film_distributor
 /film/film_festival_focus
 /film/film_festival_sponsor
@@ -314,6 +315,7 @@
 /food/food
 /food/ingredient
 /food/nutrient
+/food/tea
 /food/tea_type
 /food/type_of_dish
 /games/game
@@ -333,9 +335,11 @@
 /geography/mountain_pass
 /geography/mountain_range
 /geography/mountain_type
+/geography/mountaineer
 /geography/river
 /geology/geological_formation
 /geology/rock_type
+/government/election_campaign
 /government/electoral_college
 /government/form_of_government
 /government/government
@@ -344,6 +348,7 @@
 /government/government_office_or_title
 /government/government_permit_type
 /government/government_service
+/government/government_service_type
 /government/governmental_body
 /government/governmental_jurisdiction
 /government/legislative_committee
@@ -403,7 +408,11 @@
 /location/capital_of_administrative_division
 /location/census_designated_place
 /location/citytown
+/location/cn_autonomous_county
+/location/cn_autonomous_prefecture
 /location/cn_autonomous_region
+/location/cn_county
+/location/cn_county_level_city
 /location/cn_municipality
 /location/cn_prefecture
 /location/cn_prefecture_level_city
@@ -432,6 +441,7 @@
 /location/jp_prefecture
 /location/kp_city
 /location/location
+/location/metropolitan_area_anchor
 /location/my_state
 /location/neighborhood
 /location/nl_municipality
@@ -446,8 +456,10 @@
 /location/uk_council_area
 /location/uk_crown_dependency
 /location/uk_metropolitan_borough
+/location/uk_overseas_territory
 /location/uk_statistical_location
 /location/uk_unitary_authority
+/location/us_federal_district
 /location/us_state
 /location/vn_centrally_controlled_municipality
 /martial_arts/martial_art
@@ -503,7 +515,9 @@
 /medicine/medical_specialty
 /medicine/medical_treatment
 /medicine/medical_trial_design
+/medicine/medical_trial_sponsor
 /medicine/notable_person_with_medical_condition
+/medicine/physician
 /medicine/risk_factor
 /medicine/symptom
 /medicine/transmission_route
@@ -543,6 +557,7 @@
 /music/music_video_subject
 /music/musical_group
 /music/performance_role
+/music/performance_venue
 /music/producer
 /music/record_label
 /music/songwriter
@@ -599,6 +614,7 @@
 /protected_sites/iucn_category
 /protected_sites/listed_site
 /protected_sites/natural_or_cultural_preservation_agency
+/protected_sites/natural_or_cultural_site_designation
 /protected_sites/protected_site
 /protected_sites/site_listing_category
 /radio/radio_subject
@@ -672,6 +688,7 @@
 /symbols/name_source
 /symbols/namesake
 /theater/theater
+/theater/theater_actor
 /theater/theater_character
 /theater/theater_company
 /theater/theater_genre
