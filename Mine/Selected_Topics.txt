@@ -53,4 +53,5 @@
 /transportation/road
 /travel/transportation_mode
 /travel/transport_terminus
+/travel/travel_destination
 
