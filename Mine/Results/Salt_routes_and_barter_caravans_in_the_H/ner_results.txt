@@ -1,0 +1,3635 @@
+
+=== CHUNK 1 (41.51 KB) ===
+
+──────────
+11:41  (Relevance 0.000 | Confidence 0.500)
+23:51  (Relevance 0.000 | Confidence 0.500)
+
+/amusement_parks/ride_theme
+──────────
+Wood  (Relevance 0.153 | Confidence 1.035)
+
+/architecture/architectural_structure_owner
+──────────
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/architecture/architectural_style
+──────────
+Fortification  (Relevance 0.203 | Confidence 1.066)
+
+/architecture/architecture_firm
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+
+/architecture/building
+──────────
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+
+/architecture/building_function
+──────────
+Fortification  (Relevance 0.203 | Confidence 1.066)
+Monument  (Relevance 0.050 | Confidence 2.489)
+Shrine  (Relevance 0.428 | Confidence 6.236)
+Temple  (Relevance 0.391 | Confidence 4.752)
+Tomb  (Relevance 0.083 | Confidence 0.951)
+
+/architecture/building_occupant
+──────────
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/architecture/house
+──────────
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+
+/architecture/lighthouse_construction_material
+──────────
+Brick  (Relevance 0.126 | Confidence 1.011)
+Wood  (Relevance 0.153 | Confidence 1.035)
+
+/architecture/museum
+──────────
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+
+/architecture/structure
+──────────
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+
+/architecture/venue
+──────────
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+
+/astronomy/celestial_object_category
+──────────
+Planet  (Relevance 0.100 | Confidence 4.402)
+Universe  (Relevance 0.148 | Confidence 1.373)
+
+/astronomy/galactic_interaction_status
+──────────
+Future  (Relevance 0.140 | Confidence 1.267)
+
+/astronomy/type_of_planetographic_feature
+──────────
+Mountain  (Relevance 0.285 | Confidence 6.458)
+Mountain range  (Relevance 0.082 | Confidence 5.936)
+Valley  (Relevance 0.279 | Confidence 1.001)
+
+/automotive/automotive_class
+──────────
+Bus  (Relevance 0.097 | Confidence 1.191)
+Truck  (Relevance 0.077 | Confidence 1.005)
+
+/automotive/body_style
+──────────
+Truck  (Relevance 0.077 | Confidence 1.005)
+
+/aviation/airport_runway_surface
+──────────
+Asphalt concrete  (Relevance 0.078 | Confidence 2.046)
+Grass  (Relevance 0.032 | Confidence 5.689)
+
+/aviation/waypoint_type
+──────────
+Airport  (Relevance 0.136 | Confidence 0.983)
+
+/award/award_achievement_level
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+
+/award/award_discipline
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Anthropology  (Relevance 0.086 | Confidence 11.550)
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Food  (Relevance 0.411 | Confidence 1.795)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Religion  (Relevance 0.232 | Confidence 1.437)
+
+/award/award_nominee
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+Encuentro  (Relevance 0.022 | Confidence 1.347)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+
+/award/award_presenting_organization
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+UNESCO  (Relevance 0.167 | Confidence 27.970)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/award/award_winner
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Human Rights Watch  (Relevance 0.099 | Confidence 7.714)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+UNESCO  (Relevance 0.167 | Confidence 27.970)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+WGBH Educational Foundation  (Relevance 0.119 | Confidence 7.914)
+
+/award/competition_type
+──────────
+Cooking  (Relevance 0.151 | Confidence 6.294)
+
+/award/hall_of_fame_discipline
+──────────
+Rock music  (Relevance 0.148 | Confidence 0.971)
+
+/award/hall_of_fame_induction_category
+──────────
+Horse  (Relevance 0.210 | Confidence 11.410)
+
+/award/ranked_item
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Radio  (Relevance 0.044 | Confidence 1.334)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/award/ranked_list
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+
+/award/ranked_list_compiler
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+
+/biology/animal
+──────────
+Alpaca  (Relevance 0.189 | Confidence 5.407)
+Ant  (Relevance 0.196 | Confidence 3.087)
+Antelope  (Relevance 0.039 | Confidence 3.632)
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Donkey  (Relevance 0.286 | Confidence 3.602)
+Fish  (Relevance 0.141 | Confidence 1.997)
+Goat  (Relevance 0.312 | Confidence 2.323)
+Guanaco  (Relevance 0.320 | Confidence 4.455)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Llama  (Relevance 0.085 | Confidence 4.758)
+Mule  (Relevance 0.332 | Confidence 2.827)
+Reindeer  (Relevance 0.142 | Confidence 5.957)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Vicuña  (Relevance 0.217 | Confidence 3.434)
+Wild yak  (Relevance 0.352 | Confidence 6.648)
+Yak  (Relevance 0.531 | Confidence 7.133)
+
+/biology/breed_origin
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Central Asia  (Relevance 0.310 | Confidence 23.080)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Korea  (Relevance 0.194 | Confidence 12.360)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/biology/domesticated_animal
+──────────
+Alpaca  (Relevance 0.189 | Confidence 5.407)
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Donkey  (Relevance 0.286 | Confidence 3.602)
+Goat  (Relevance 0.312 | Confidence 2.323)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Llama  (Relevance 0.085 | Confidence 4.758)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Yak  (Relevance 0.531 | Confidence 7.133)
+
+/biology/hybrid
+──────────
+Mule  (Relevance 0.332 | Confidence 2.827)
+
+/biology/hybrid_parent_classification
+──────────
+Alpaca  (Relevance 0.189 | Confidence 5.407)
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Donkey  (Relevance 0.286 | Confidence 3.602)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Llama  (Relevance 0.085 | Confidence 4.758)
+
+/biology/informal_biological_grouping
+──────────
+Fish  (Relevance 0.141 | Confidence 1.997)
+
+/biology/organism_classification
+──────────
+Alpaca  (Relevance 0.189 | Confidence 5.407)
+Animal  (Relevance 0.171 | Confidence 2.273)
+Ant  (Relevance 0.196 | Confidence 3.087)
+Antelope  (Relevance 0.039 | Confidence 3.632)
+Bamboo  (Relevance 0.302 | Confidence 9.525)
+Barley  (Relevance 0.457 | Confidence 17.900)
+Beech  (Relevance 0.034 | Confidence 5.322)
+Buckwheat  (Relevance 0.434 | Confidence 10.820)
+Capra (genus)  (Relevance 0.313 | Confidence 2.085)
+Caterpillar  (Relevance 0.168 | Confidence 4.811)
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Cordyceps  (Relevance 0.088 | Confidence 6.814)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Donkey  (Relevance 0.286 | Confidence 3.602)
+Eleusine  (Relevance 0.071 | Confidence 2.499)
+Finger millet  (Relevance 0.309 | Confidence 9.530)
+Fish  (Relevance 0.141 | Confidence 1.997)
+Forestry  (Relevance 0.042 | Confidence 1.456)
+Fungus  (Relevance 0.181 | Confidence 17.480)
+Goat  (Relevance 0.312 | Confidence 2.323)
+Guanaco  (Relevance 0.320 | Confidence 4.455)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Juniper  (Relevance 0.258 | Confidence 3.339)
+Llama  (Relevance 0.085 | Confidence 4.758)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Mule  (Relevance 0.332 | Confidence 2.827)
+Oak  (Relevance 0.071 | Confidence 1.484)
+Ophiocordyceps  (Relevance 0.223 | Confidence 4.542)
+Ophiocordyceps sinensis  (Relevance 0.917 | Confidence 1.674)
+Pea  (Relevance 0.149 | Confidence 2.959)
+Phylogenetic nomenclature  (Relevance 0.034 | Confidence 3.036)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Potato  (Relevance 0.325 | Confidence 6.444)
+Reindeer  (Relevance 0.142 | Confidence 5.957)
+Rice  (Relevance 0.374 | Confidence 17.780)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Species  (Relevance 0.140 | Confidence 8.483)
+Turnip  (Relevance 0.132 | Confidence 3.963)
+Vicuña  (Relevance 0.217 | Confidence 3.434)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+Yak  (Relevance 0.531 | Confidence 7.133)
+
+/biology/organism_classification_rank
+──────────
+Species  (Relevance 0.140 | Confidence 8.483)
+
+/biology/plant_disease_host
+──────────
+Barley  (Relevance 0.457 | Confidence 17.900)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+
+/biology/source_organism
+──────────
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Rice  (Relevance 0.374 | Confidence 17.780)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+
+/boats/hull_material
+──────────
+Oak  (Relevance 0.071 | Confidence 1.484)
+Wood  (Relevance 0.153 | Confidence 1.035)
+
+/book/author
+──────────
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Human Rights Watch  (Relevance 0.099 | Confidence 7.714)
+Kim MacQuarrie  (Relevance 0.287 | Confidence 1.557)
+Michel Peissel  (Relevance 0.247 | Confidence 1.352)
+Peter Bellwood  (Relevance 0.059 | Confidence 1.174)
+Prentice Hall  (Relevance 0.072 | Confidence 1.074)
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+UNESCO  (Relevance 0.167 | Confidence 27.970)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+
+/book/book_binding
+──────────
+Leather  (Relevance 0.163 | Confidence 7.548)
+
+/book/book_subject
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Airport  (Relevance 0.136 | Confidence 0.983)
+Andes  (Relevance 0.287 | Confidence 11.260)
+Animal  (Relevance 0.171 | Confidence 2.273)
+Ant  (Relevance 0.196 | Confidence 3.087)
+Anthropology  (Relevance 0.086 | Confidence 11.550)
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Barley  (Relevance 0.457 | Confidence 17.900)
+Beer  (Relevance 0.215 | Confidence 2.067)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Breakfast  (Relevance 0.222 | Confidence 3.946)
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+Cake  (Relevance 0.132 | Confidence 1.014)
+California  (Relevance 0.122 | Confidence 21.160)
+Central Asia  (Relevance 0.310 | Confidence 23.080)
+Cheese  (Relevance 0.195 | Confidence 9.131)
+Child  (Relevance 0.086 | Confidence 1.827)
+China  (Relevance 0.295 | Confidence 7.816)
+Cigarette  (Relevance 0.112 | Confidence 0.956)
+Climate  (Relevance 0.135 | Confidence 1.814)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Commodity  (Relevance 0.210 | Confidence 3.023)
+Complex system  (Relevance 0.132 | Confidence 1.146)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Cotton  (Relevance 0.199 | Confidence 14.390)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Demon  (Relevance 0.267 | Confidence 0.951)
+Desert  (Relevance 0.308 | Confidence 1.401)
+Diaspora  (Relevance 0.094 | Confidence 1.096)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Economy  (Relevance 0.111 | Confidence 1.186)
+Ecosystem  (Relevance 0.172 | Confidence 14.270)
+England  (Relevance 0.173 | Confidence 3.267)
+Evolution  (Relevance 0.198 | Confidence 15.080)
+Faith  (Relevance 0.233 | Confidence 1.013)
+Farmer  (Relevance 0.265 | Confidence 1.099)
+Father  (Relevance 0.049 | Confidence 1.615)
+Feces  (Relevance 0.199 | Confidence 5.415)
+Fish  (Relevance 0.141 | Confidence 1.997)
+Food  (Relevance 0.411 | Confidence 1.795)
+Foot  (Relevance 0.116 | Confidence 1.716)
+Forbes  (Relevance 0.095 | Confidence 5.393)
+Forestry  (Relevance 0.042 | Confidence 1.456)
+France  (Relevance 0.161 | Confidence 1.881)
+Fresco  (Relevance 0.275 | Confidence 3.421)
+Fungus  (Relevance 0.181 | Confidence 17.480)
+Future  (Relevance 0.140 | Confidence 1.267)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+Heat  (Relevance 0.103 | Confidence 1.498)
+Himalayas  (Relevance 0.703 | Confidence 16.810)
+Hinduism  (Relevance 0.308 | Confidence 15.560)
+Honey  (Relevance 0.195 | Confidence 9.335)
+Horse  (Relevance 0.210 | Confidence 11.410)
+India  (Relevance 0.330 | Confidence 8.190)
+Irrigation  (Relevance 0.258 | Confidence 9.930)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Korea  (Relevance 0.194 | Confidence 12.360)
+Lake  (Relevance 0.226 | Confidence 1.500)
+Landscape  (Relevance 0.266 | Confidence 1.010)
+Language  (Relevance 0.096 | Confidence 1.629)
+Livestock  (Relevance 0.335 | Confidence 3.495)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Mandala  (Relevance 0.470 | Confidence 6.851)
+Meat  (Relevance 0.365 | Confidence 7.858)
+Medicinal plants  (Relevance 0.060 | Confidence 1.017)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Milk  (Relevance 0.293 | Confidence 9.873)
+Monk  (Relevance 0.268 | Confidence 5.496)
+Monopoly  (Relevance 0.192 | Confidence 5.335)
+Monsoon  (Relevance 0.254 | Confidence 9.689)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Mountain  (Relevance 0.285 | Confidence 6.458)
+National Geographic  (Relevance 0.049 | Confidence 4.635)
+Natural environment  (Relevance 0.281 | Confidence 0.987)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Nobility  (Relevance 0.280 | Confidence 1.012)
+Obsolescence  (Relevance 0.024 | Confidence 1.081)
+Organization  (Relevance 0.100 | Confidence 1.242)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Pastoralism  (Relevance 0.737 | Confidence 4.519)
+Pasture  (Relevance 0.213 | Confidence 5.897)
+Pea  (Relevance 0.149 | Confidence 2.959)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Pilgrimage  (Relevance 0.386 | Confidence 8.227)
+Planet  (Relevance 0.100 | Confidence 4.402)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Porcelain  (Relevance 0.143 | Confidence 6.405)
+Porter (carrier)  (Relevance 0.273 | Confidence 1.230)
+Potato  (Relevance 0.325 | Confidence 6.444)
+Prayer  (Relevance 0.400 | Confidence 6.113)
+Race and ethnicity in the United States census  (Relevance 0.097 | Confidence 1.201)
+Radio  (Relevance 0.044 | Confidence 1.334)
+Rain  (Relevance 0.177 | Confidence 1.598)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Rice  (Relevance 0.374 | Confidence 17.780)
+Road  (Relevance 0.168 | Confidence 1.232)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+Saint  (Relevance 0.152 | Confidence 8.081)
+Salt  (Relevance 0.386 | Confidence 9.023)
+Sewing  (Relevance 0.217 | Confidence 2.623)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Shepherd  (Relevance 0.347 | Confidence 2.393)
+Shrine  (Relevance 0.428 | Confidence 6.236)
+Silk Road  (Relevance 0.355 | Confidence 29.490)
+Skin  (Relevance 0.056 | Confidence 0.996)
+Society  (Relevance 0.120 | Confidence 1.677)
+Sodium  (Relevance 0.189 | Confidence 10.540)
+South Asia  (Relevance 0.223 | Confidence 3.056)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Space  (Relevance 0.097 | Confidence 1.003)
+Sugar  (Relevance 0.163 | Confidence 12.620)
+Tea  (Relevance 0.397 | Confidence 6.655)
+Textile  (Relevance 0.197 | Confidence 1.377)
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+Thesis  (Relevance 0.050 | Confidence 1.067)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+Tobacco  (Relevance 0.191 | Confidence 10.180)
+Tomb  (Relevance 0.083 | Confidence 0.951)
+Trade  (Relevance 0.321 | Confidence 0.992)
+Trade route  (Relevance 0.162 | Confidence 1.011)
+Transport  (Relevance 0.206 | Confidence 1.365)
+Tribute  (Relevance 0.134 | Confidence 1.018)
+Truck  (Relevance 0.077 | Confidence 1.005)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+United States  (Relevance 0.103 | Confidence 9.471)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+Upper Mustang  (Relevance 0.886 | Confidence 3.730)
+Voyageurs  (Relevance 0.156 | Confidence 2.114)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wealth  (Relevance 0.020 | Confidence 1.004)
+Weather  (Relevance 0.136 | Confidence 4.382)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+Wind  (Relevance 0.175 | Confidence 1.235)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+Wood  (Relevance 0.153 | Confidence 1.035)
+Wool  (Relevance 0.287 | Confidence 11.170)
+Worship  (Relevance 0.077 | Confidence 1.052)
+Yarlung Tsangpo  (Relevance 0.459 | Confidence 3.901)
+
+/book/journal
+──────────
+National Geographic  (Relevance 0.049 | Confidence 4.635)
+
+/book/magazine
+──────────
+National Geographic  (Relevance 0.049 | Confidence 4.635)
+
+/book/magazine_genre
+──────────
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Food  (Relevance 0.411 | Confidence 1.795)
+Religion  (Relevance 0.232 | Confidence 1.437)
+
+/book/newspaper
+──────────
+The Hindu  (Relevance 0.000 | Confidence 2.019)
+
+/book/periodical
+──────────
+National Geographic  (Relevance 0.049 | Confidence 4.635)
+The Hindu  (Relevance 0.000 | Confidence 2.019)
+
+/book/periodical_publisher
+──────────
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+John Murray (publishing house)  (Relevance 0.041 | Confidence 1.400)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+ProQuest  (Relevance 0.099 | Confidence 4.266)
+Routledge  (Relevance 0.058 | Confidence 4.041)
+The Hindu  (Relevance 0.000 | Confidence 2.019)
+University of California Press  (Relevance 0.046 | Confidence 4.003)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+
+/book/periodical_subject
+──────────
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+China  (Relevance 0.295 | Confidence 7.816)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Cotton  (Relevance 0.199 | Confidence 14.390)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Food  (Relevance 0.411 | Confidence 1.795)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+
+/book/publishing_company
+──────────
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Human Rights Watch  (Relevance 0.099 | Confidence 7.714)
+John Murray (publishing house)  (Relevance 0.041 | Confidence 1.400)
+National Geographic  (Relevance 0.049 | Confidence 4.635)
+Prentice Hall  (Relevance 0.072 | Confidence 1.074)
+ProQuest  (Relevance 0.099 | Confidence 4.266)
+Routledge  (Relevance 0.058 | Confidence 4.041)
+University of California Press  (Relevance 0.046 | Confidence 4.003)
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+Éditions du Seuil  (Relevance 0.054 | Confidence 2.301)
+
+/book/school_or_movement
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+
+/book/series_editor
+──────────
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+
+/broadcast/broadcast
+──────────
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+Encuentro  (Relevance 0.022 | Confidence 1.347)
+
+/broadcast/content
+──────────
+Religion  (Relevance 0.232 | Confidence 1.437)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+Weather  (Relevance 0.136 | Confidence 4.382)
+
+/broadcast/genre
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Animal  (Relevance 0.171 | Confidence 2.273)
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Food  (Relevance 0.411 | Confidence 1.795)
+Language  (Relevance 0.096 | Confidence 1.629)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+
+/broadcast/radio_format
+──────────
+Religion  (Relevance 0.232 | Confidence 1.437)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+
+/broadcast/radio_network
+──────────
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+
+/broadcast/radio_station
+──────────
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+
+/broadcast/radio_station_owner
+──────────
+WGBH Educational Foundation  (Relevance 0.119 | Confidence 7.914)
+
+/broadcast/tv_station
+──────────
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+Encuentro  (Relevance 0.022 | Confidence 1.347)
+
+/broadcast/tv_station_owner
+──────────
+WGBH Educational Foundation  (Relevance 0.119 | Confidence 7.914)
+
+/business/asset_owner
+──────────
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/business/brand
+──────────
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Organization  (Relevance 0.100 | Confidence 1.242)
+
+/business/business_location
+──────────
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Boston  (Relevance 0.116 | Confidence 14.640)
+India  (Relevance 0.330 | Confidence 8.190)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/business/business_operation
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Forbes  (Relevance 0.095 | Confidence 5.393)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Migration Policy Institute  (Relevance 0.000 | Confidence 1.304)
+Prentice Hall  (Relevance 0.072 | Confidence 1.074)
+ProQuest  (Relevance 0.099 | Confidence 4.266)
+Routledge  (Relevance 0.058 | Confidence 4.041)
+Uber  (Relevance 0.059 | Confidence 2.369)
+University of California Press  (Relevance 0.046 | Confidence 4.003)
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+Éditions du Seuil  (Relevance 0.054 | Confidence 2.301)
+
+/business/competitive_space
+──────────
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Transport  (Relevance 0.206 | Confidence 1.365)
+
+/business/consumer_company
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+
+/business/consumer_product
+──────────
+Bag  (Relevance 0.188 | Confidence 2.022)
+Boot  (Relevance 0.141 | Confidence 1.474)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Coat  (Relevance 0.197 | Confidence 1.688)
+Fumigation  (Relevance 0.065 | Confidence 2.287)
+Milk  (Relevance 0.293 | Confidence 9.873)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Trousers  (Relevance 0.187 | Confidence 3.566)
+Windshield  (Relevance 0.061 | Confidence 1.024)
+
+/business/employer
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Forbes  (Relevance 0.095 | Confidence 5.393)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Human Rights Watch  (Relevance 0.099 | Confidence 7.714)
+India  (Relevance 0.330 | Confidence 8.190)
+John Murray (publishing house)  (Relevance 0.041 | Confidence 1.400)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+La Martinière College, Lucknow  (Relevance 0.040 | Confidence 1.468)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Migration Policy Institute  (Relevance 0.000 | Confidence 1.304)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Prentice Hall  (Relevance 0.072 | Confidence 1.074)
+ProQuest  (Relevance 0.099 | Confidence 4.266)
+Routledge  (Relevance 0.058 | Confidence 4.041)
+UNESCO  (Relevance 0.167 | Confidence 27.970)
+Uber  (Relevance 0.059 | Confidence 2.369)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+United States  (Relevance 0.103 | Confidence 9.471)
+University of California Press  (Relevance 0.046 | Confidence 4.003)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+WGBH Educational Foundation  (Relevance 0.119 | Confidence 7.914)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+Éditions du Seuil  (Relevance 0.054 | Confidence 2.301)
+
+/business/endorsed_product
+──────────
+Milk  (Relevance 0.293 | Confidence 9.873)
+
+/business/industry
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Aluminium  (Relevance 0.216 | Confidence 11.270)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Asphalt concrete  (Relevance 0.078 | Confidence 2.046)
+Auction  (Relevance 0.241 | Confidence 1.609)
+Boot  (Relevance 0.141 | Confidence 1.474)
+Caravan (travellers)  (Relevance 0.037 | Confidence 1.584)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Food  (Relevance 0.411 | Confidence 1.795)
+Livestock  (Relevance 0.335 | Confidence 3.495)
+Medicinal plants  (Relevance 0.060 | Confidence 1.017)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Sewing  (Relevance 0.217 | Confidence 2.623)
+Silk  (Relevance 0.139 | Confidence 9.983)
+Skin  (Relevance 0.056 | Confidence 0.996)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Tea  (Relevance 0.397 | Confidence 6.655)
+Tent  (Relevance 0.233 | Confidence 0.957)
+Textile  (Relevance 0.197 | Confidence 1.377)
+Tobacco  (Relevance 0.191 | Confidence 10.180)
+Transport  (Relevance 0.206 | Confidence 1.365)
+Truck  (Relevance 0.077 | Confidence 1.005)
+
+/business/job_title
+──────────
+Fumigation  (Relevance 0.065 | Confidence 2.287)
+
+/business/product_category
+──────────
+Axe  (Relevance 0.069 | Confidence 2.351)
+Bag  (Relevance 0.188 | Confidence 2.022)
+Boot  (Relevance 0.141 | Confidence 1.474)
+Bowl  (Relevance 0.071 | Confidence 1.977)
+Bus  (Relevance 0.097 | Confidence 1.191)
+Cigarette  (Relevance 0.112 | Confidence 0.956)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Coat  (Relevance 0.197 | Confidence 1.688)
+Dagger  (Relevance 0.123 | Confidence 1.429)
+Fireplace  (Relevance 0.048 | Confidence 2.079)
+Foot  (Relevance 0.116 | Confidence 1.716)
+Glasses  (Relevance 0.123 | Confidence 1.737)
+Grass  (Relevance 0.032 | Confidence 5.689)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Milk  (Relevance 0.293 | Confidence 9.873)
+Pillow  (Relevance 0.143 | Confidence 1.440)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Radio  (Relevance 0.044 | Confidence 1.334)
+Rope  (Relevance 0.202 | Confidence 2.874)
+Sewing needle  (Relevance 0.062 | Confidence 3.462)
+Trousers  (Relevance 0.187 | Confidence 3.566)
+Truck  (Relevance 0.077 | Confidence 1.005)
+
+/business/product_ingredient
+──────────
+Leather  (Relevance 0.163 | Confidence 7.548)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Salt  (Relevance 0.386 | Confidence 9.023)
+Sugar  (Relevance 0.163 | Confidence 12.620)
+Wood  (Relevance 0.153 | Confidence 1.035)
+
+/business/product_line
+──────────
+Food  (Relevance 0.411 | Confidence 1.795)
+
+/business/product_theme
+──────────
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Skin  (Relevance 0.056 | Confidence 0.996)
+
+/celebrities/celebrity
+──────────
+Jung Bahadur Rana  (Relevance 0.273 | Confidence 9.847)
+
+/chemistry/chemical_classification
+──────────
+Carbonate  (Relevance 0.123 | Confidence 5.438)
+Sugar  (Relevance 0.163 | Confidence 12.620)
+
+/chemistry/chemical_compound
+──────────
+Borax  (Relevance 0.189 | Confidence 6.201)
+Carbonate  (Relevance 0.123 | Confidence 5.438)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Sodium  (Relevance 0.189 | Confidence 10.540)
+Sodium carbonate  (Relevance 0.134 | Confidence 7.163)
+
+/chemistry/chemical_element
+──────────
+Aluminium  (Relevance 0.216 | Confidence 11.270)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Sodium  (Relevance 0.189 | Confidence 10.540)
+
+/common/identity
+──────────
+South Korea  (Relevance 0.198 | Confidence 1.464)
+
+/computer/internet_protocol
+──────────
+HTTP  (Relevance 0.074 | Confidence 1.637)
+
+/computer/operating_system_developer
+──────────
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/computer/software
+──────────
+Organization  (Relevance 0.100 | Confidence 1.242)
+
+/computer/software_developer
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Uber  (Relevance 0.059 | Confidence 2.369)
+
+/computer/software_genre
+──────────
+Radio  (Relevance 0.044 | Confidence 1.334)
+
+/conferences/conference_subject
+──────────
+Evolution  (Relevance 0.198 | Confidence 15.080)
+Mycology  (Relevance 0.142 | Confidence 6.160)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Transport  (Relevance 0.206 | Confidence 1.365)
+
+/conferences/conference_venue
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Paris  (Relevance 0.136 | Confidence 19.340)
+
+/cvg/computer_game_region
+──────────
+Japan  (Relevance 0.042 | Confidence 33.150)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/cvg/cvg_genre
+──────────
+Future  (Relevance 0.140 | Confidence 1.267)
+
+/dataworld/information_source
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+
+/dining/cuisine
+──────────
+Breakfast  (Relevance 0.222 | Confidence 3.946)
+
+/distilled_spirits/blended_spirit
+──────────
+Tea  (Relevance 0.397 | Confidence 6.655)
+
+/distilled_spirits/distilled_spirit_type
+──────────
+Tea  (Relevance 0.397 | Confidence 6.655)
+
+/distilled_spirits/fermentation_base
+──────────
+Barley  (Relevance 0.457 | Confidence 17.900)
+Cereal  (Relevance 0.635 | Confidence 5.873)
+Fruit  (Relevance 0.239 | Confidence 12.650)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Potato  (Relevance 0.325 | Confidence 6.444)
+Rice  (Relevance 0.374 | Confidence 17.780)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+
+/distilled_spirits/spirit_producing_region
+──────────
+Japan  (Relevance 0.042 | Confidence 33.150)
+
+/education/academic_institution
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/education/educational_institution
+──────────
+La Martinière College, Lucknow  (Relevance 0.040 | Confidence 1.468)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/education/educational_institution_campus
+──────────
+La Martinière College, Lucknow  (Relevance 0.040 | Confidence 1.468)
+London  (Relevance 0.130 | Confidence 9.282)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/education/field_of_study
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Animal husbandry  (Relevance 0.362 | Confidence 4.484)
+Anthropology  (Relevance 0.086 | Confidence 11.550)
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+China  (Relevance 0.295 | Confidence 7.816)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Complex system  (Relevance 0.132 | Confidence 1.146)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Economy  (Relevance 0.111 | Confidence 1.186)
+Evolution  (Relevance 0.198 | Confidence 15.080)
+Flute  (Relevance 0.054 | Confidence 2.461)
+Forestry  (Relevance 0.042 | Confidence 1.456)
+Fresco  (Relevance 0.275 | Confidence 3.421)
+Hinduism  (Relevance 0.308 | Confidence 15.560)
+Irrigation  (Relevance 0.258 | Confidence 9.930)
+Language  (Relevance 0.096 | Confidence 1.629)
+Mycology  (Relevance 0.142 | Confidence 6.160)
+Phylogenetics  (Relevance 0.023 | Confidence 7.822)
+Radio  (Relevance 0.044 | Confidence 1.334)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Textile  (Relevance 0.197 | Confidence 1.377)
+Transport  (Relevance 0.206 | Confidence 1.365)
+
+/education/school
+──────────
+La Martinière College, Lucknow  (Relevance 0.040 | Confidence 1.468)
+
+/education/school_mascot
+──────────
+Antelope  (Relevance 0.039 | Confidence 3.632)
+Demon  (Relevance 0.267 | Confidence 0.951)
+
+/education/university
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/engineering/material
+──────────
+Aluminium  (Relevance 0.216 | Confidence 11.270)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Leather  (Relevance 0.163 | Confidence 7.548)
+Oak  (Relevance 0.071 | Confidence 1.484)
+Textile  (Relevance 0.197 | Confidence 1.377)
+Wood  (Relevance 0.153 | Confidence 1.035)
+
+/event/speech_topic
+──────────
+England  (Relevance 0.173 | Confidence 3.267)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/exhibitions/exhibition_sponsor
+──────────
+Mexico  (Relevance 0.099 | Confidence 23.690)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+
+/exhibitions/exhibition_subject
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Animal  (Relevance 0.171 | Confidence 2.273)
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+China  (Relevance 0.295 | Confidence 7.816)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Food  (Relevance 0.411 | Confidence 1.795)
+Heat  (Relevance 0.103 | Confidence 1.498)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Japan  (Relevance 0.042 | Confidence 33.150)
+London  (Relevance 0.130 | Confidence 9.282)
+Porcelain  (Relevance 0.143 | Confidence 6.405)
+Rice  (Relevance 0.374 | Confidence 17.780)
+United States  (Relevance 0.103 | Confidence 9.471)
+Weather  (Relevance 0.136 | Confidence 4.382)
+
+/fashion/fiber
+──────────
+Bamboo  (Relevance 0.302 | Confidence 9.525)
+Cotton  (Relevance 0.199 | Confidence 14.390)
+Pashmina (material)  (Relevance 0.321 | Confidence 5.805)
+Silk  (Relevance 0.139 | Confidence 9.983)
+Wool  (Relevance 0.287 | Confidence 11.170)
+
+/fashion/garment
+──────────
+Boot  (Relevance 0.141 | Confidence 1.474)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Coat  (Relevance 0.197 | Confidence 1.688)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Trousers  (Relevance 0.187 | Confidence 3.566)
+
+/fashion/textile
+──────────
+Felt  (Relevance 0.321 | Confidence 2.443)
+
+/fictional_universe/character_occupation
+──────────
+Farmer  (Relevance 0.265 | Confidence 1.099)
+Monk  (Relevance 0.268 | Confidence 5.496)
+Shepherd  (Relevance 0.347 | Confidence 2.393)
+
+/fictional_universe/character_species
+──────────
+Ant  (Relevance 0.196 | Confidence 3.087)
+Caterpillar  (Relevance 0.168 | Confidence 4.811)
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Deity  (Relevance 0.344 | Confidence 1.227)
+Demon  (Relevance 0.267 | Confidence 0.951)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Donkey  (Relevance 0.286 | Confidence 3.602)
+Fish  (Relevance 0.141 | Confidence 1.997)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Reindeer  (Relevance 0.142 | Confidence 5.957)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+
+/fictional_universe/fictional_character
+──────────
+Child  (Relevance 0.086 | Confidence 1.827)
+
+/fictional_universe/fictional_job_title
+──────────
+Monk  (Relevance 0.268 | Confidence 5.496)
+
+/fictional_universe/fictional_organization_type
+──────────
+Construction  (Relevance 0.131 | Confidence 1.507)
+Village  (Relevance 0.189 | Confidence 1.790)
+
+/fictional_universe/fictional_setting
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Bengal  (Relevance 0.234 | Confidence 8.207)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+Desert  (Relevance 0.308 | Confidence 1.401)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Korea  (Relevance 0.194 | Confidence 12.360)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/fictional_universe/fictional_substance
+──────────
+Oak  (Relevance 0.071 | Confidence 1.484)
+
+/fictional_universe/person_in_fiction
+──────────
+Indrajit  (Relevance 0.055 | Confidence 1.895)
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+
+/fictional_universe/school_in_fiction
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/fictional_universe/type_of_fictional_setting
+──────────
+Continent  (Relevance 0.216 | Confidence 4.185)
+Desert  (Relevance 0.308 | Confidence 1.401)
+Mountain  (Relevance 0.285 | Confidence 6.458)
+Mountain range  (Relevance 0.082 | Confidence 5.936)
+Planet  (Relevance 0.100 | Confidence 4.402)
+Ruins  (Relevance 0.179 | Confidence 1.727)
+
+/film/actor
+──────────
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+
+/film/director
+──────────
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+
+/film/film_character
+──────────
+Child  (Relevance 0.086 | Confidence 1.827)
+
+/film/film_company
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+France 2  (Relevance 0.130 | Confidence 3.299)
+
+/film/film_distributor
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Institut Français  (Relevance 0.008 | Confidence 2.529)
+
+/film/film_genre
+──────────
+Animal  (Relevance 0.171 | Confidence 2.273)
+Prayer  (Relevance 0.400 | Confidence 6.113)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Saint  (Relevance 0.152 | Confidence 8.081)
+
+/film/film_job
+──────────
+Transport  (Relevance 0.206 | Confidence 1.365)
+
+/film/film_location
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Andes  (Relevance 0.287 | Confidence 11.260)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+Dumbarton  (Relevance 0.049 | Confidence 0.971)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+Gansu  (Relevance 0.246 | Confidence 10.330)
+Himalayas  (Relevance 0.703 | Confidence 16.810)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Sichuan  (Relevance 0.262 | Confidence 11.480)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+United States  (Relevance 0.103 | Confidence 9.471)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/film/film_screening_venue
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/film/film_subject
+──────────
+Airport  (Relevance 0.136 | Confidence 0.983)
+Animal husbandry  (Relevance 0.362 | Confidence 4.484)
+Ant  (Relevance 0.196 | Confidence 3.087)
+Anthropology  (Relevance 0.086 | Confidence 11.550)
+Beer  (Relevance 0.215 | Confidence 2.067)
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+China  (Relevance 0.295 | Confidence 7.816)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Cotton  (Relevance 0.199 | Confidence 14.390)
+Demon  (Relevance 0.267 | Confidence 0.951)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Economy  (Relevance 0.111 | Confidence 1.186)
+England  (Relevance 0.173 | Confidence 3.267)
+Evolution  (Relevance 0.198 | Confidence 15.080)
+Farmer  (Relevance 0.265 | Confidence 1.099)
+Food  (Relevance 0.411 | Confidence 1.795)
+Future  (Relevance 0.140 | Confidence 1.267)
+Himalayas  (Relevance 0.703 | Confidence 16.810)
+Horse  (Relevance 0.210 | Confidence 11.410)
+India  (Relevance 0.330 | Confidence 8.190)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Monsoon  (Relevance 0.254 | Confidence 9.689)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Shepherd  (Relevance 0.347 | Confidence 2.393)
+Skin  (Relevance 0.056 | Confidence 0.996)
+Tibetan Buddhism  (Relevance 0.185 | Confidence 41.930)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/film/producer
+──────────
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+
+/film/production_company
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+
+/film/writer
+──────────
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+
+/food/beer_country_region
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/food/beverage
+──────────
+Tea  (Relevance 0.397 | Confidence 6.655)
+
+/food/beverage_type
+──────────
+Beer  (Relevance 0.215 | Confidence 2.067)
+Milk  (Relevance 0.293 | Confidence 9.873)
+Tea  (Relevance 0.397 | Confidence 6.655)
+
+/food/cheese_milk_source
+──────────
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Goat  (Relevance 0.312 | Confidence 2.323)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+
+/food/dish
+──────────
+Cake  (Relevance 0.132 | Confidence 1.014)
+Tsampa  (Relevance 0.441 | Confidence 10.950)
+
+/food/food
+──────────
+Bamboo  (Relevance 0.302 | Confidence 9.525)
+Barley  (Relevance 0.457 | Confidence 17.900)
+Beer  (Relevance 0.215 | Confidence 2.067)
+Broth  (Relevance 0.053 | Confidence 5.561)
+Buckwheat  (Relevance 0.434 | Confidence 10.820)
+Butter  (Relevance 0.225 | Confidence 2.930)
+Butter cake  (Relevance 0.000 | Confidence 2.654)
+Cereal  (Relevance 0.635 | Confidence 5.873)
+Cheese  (Relevance 0.195 | Confidence 9.131)
+Flour  (Relevance 0.144 | Confidence 6.462)
+Fruit  (Relevance 0.239 | Confidence 12.650)
+Grain  (Relevance 0.218 | Confidence 7.709)
+Honey  (Relevance 0.195 | Confidence 9.335)
+Lamb and mutton  (Relevance 0.477 | Confidence 8.746)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Meat  (Relevance 0.365 | Confidence 7.858)
+Milk  (Relevance 0.293 | Confidence 9.873)
+Pea  (Relevance 0.149 | Confidence 2.959)
+Potato  (Relevance 0.325 | Confidence 6.444)
+Rice  (Relevance 0.374 | Confidence 17.780)
+Salt  (Relevance 0.386 | Confidence 9.023)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Sugar  (Relevance 0.163 | Confidence 12.620)
+Tea  (Relevance 0.397 | Confidence 6.655)
+Turnip  (Relevance 0.132 | Confidence 3.963)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+Yak butter  (Relevance 0.499 | Confidence 4.412)
+
+/food/ingredient
+──────────
+Barley  (Relevance 0.457 | Confidence 17.900)
+Beer  (Relevance 0.215 | Confidence 2.067)
+Broth  (Relevance 0.053 | Confidence 5.561)
+Buckwheat  (Relevance 0.434 | Confidence 10.820)
+Butter  (Relevance 0.225 | Confidence 2.930)
+Cereal  (Relevance 0.635 | Confidence 5.873)
+Cheese  (Relevance 0.195 | Confidence 9.131)
+Flour  (Relevance 0.144 | Confidence 6.462)
+Fruit  (Relevance 0.239 | Confidence 12.650)
+Honey  (Relevance 0.195 | Confidence 9.335)
+Juniper  (Relevance 0.258 | Confidence 3.339)
+Lamb and mutton  (Relevance 0.477 | Confidence 8.746)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Meat  (Relevance 0.365 | Confidence 7.858)
+Milk  (Relevance 0.293 | Confidence 9.873)
+Pea  (Relevance 0.149 | Confidence 2.959)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Potato  (Relevance 0.325 | Confidence 6.444)
+Rice  (Relevance 0.374 | Confidence 17.780)
+Salt  (Relevance 0.386 | Confidence 9.023)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Sugar  (Relevance 0.163 | Confidence 12.620)
+Tea  (Relevance 0.397 | Confidence 6.655)
+Turnip  (Relevance 0.132 | Confidence 3.963)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+
+/food/nutrient
+──────────
+Copper  (Relevance 0.158 | Confidence 15.150)
+Sodium  (Relevance 0.189 | Confidence 10.540)
+Sugar  (Relevance 0.163 | Confidence 12.620)
+
+/food/type_of_dish
+──────────
+Breakfast  (Relevance 0.222 | Confidence 3.946)
+Cake  (Relevance 0.132 | Confidence 1.014)
+Smoked meat  (Relevance 0.151 | Confidence 2.159)
+
+/geography/body_of_water
+──────────
+Brahmaputra River  (Relevance 0.382 | Confidence 7.228)
+Gandaki River  (Relevance 0.573 | Confidence 8.977)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+Yarlung Tsangpo  (Relevance 0.459 | Confidence 3.901)
+
+/geography/geographical_feature
+──────────
+Andes  (Relevance 0.287 | Confidence 11.260)
+Annapurna  (Relevance 0.330 | Confidence 4.297)
+Annapurna (mountain range)  (Relevance 0.554 | Confidence 6.645)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Atacama Desert  (Relevance 0.188 | Confidence 2.331)
+Brahmaputra River  (Relevance 0.382 | Confidence 7.228)
+Dhaulagiri  (Relevance 0.141 | Confidence 7.589)
+Eastern Himalayas  (Relevance 0.228 | Confidence 2.645)
+Gandaki River  (Relevance 0.573 | Confidence 8.977)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+Himalayas  (Relevance 0.703 | Confidence 16.810)
+Karakoram  (Relevance 0.233 | Confidence 3.231)
+Lautaro (volcano)  (Relevance 0.099 | Confidence 0.991)
+Mount Kailash  (Relevance 0.309 | Confidence 18.300)
+Yarlung Tsangpo  (Relevance 0.459 | Confidence 3.901)
+Zagros Mountains  (Relevance 0.148 | Confidence 17.920)
+
+/geography/geographical_feature_category
+──────────
+Cave  (Relevance 0.134 | Confidence 3.331)
+Desert  (Relevance 0.308 | Confidence 1.401)
+Lake  (Relevance 0.226 | Confidence 1.500)
+Massif  (Relevance 0.000 | Confidence 2.128)
+Mountain  (Relevance 0.285 | Confidence 6.458)
+Mountain range  (Relevance 0.082 | Confidence 5.936)
+Pasture  (Relevance 0.213 | Confidence 5.897)
+Plateau  (Relevance 0.232 | Confidence 5.742)
+Ravine  (Relevance 0.147 | Confidence 3.306)
+Steppe  (Relevance 0.062 | Confidence 7.087)
+Stream  (Relevance 0.294 | Confidence 1.005)
+Tributary  (Relevance 0.058 | Confidence 1.037)
+Valley  (Relevance 0.279 | Confidence 1.001)
+
+/geography/lake_type
+──────────
+Lake  (Relevance 0.226 | Confidence 1.500)
+
+/geography/mountain
+──────────
+Annapurna (mountain range)  (Relevance 0.554 | Confidence 6.645)
+Lautaro (volcano)  (Relevance 0.099 | Confidence 0.991)
+Mount Kailash  (Relevance 0.309 | Confidence 18.300)
+
+/geography/mountain_range
+──────────
+Andes  (Relevance 0.287 | Confidence 11.260)
+Annapurna  (Relevance 0.330 | Confidence 4.297)
+Annapurna (mountain range)  (Relevance 0.554 | Confidence 6.645)
+Dhaulagiri  (Relevance 0.141 | Confidence 7.589)
+Eastern Himalayas  (Relevance 0.228 | Confidence 2.645)
+Himalayas  (Relevance 0.703 | Confidence 16.810)
+Karakoram  (Relevance 0.233 | Confidence 3.231)
+Zagros Mountains  (Relevance 0.148 | Confidence 17.920)
+
+/geography/mountain_type
+──────────
+Massif  (Relevance 0.000 | Confidence 2.128)
+Plateau  (Relevance 0.232 | Confidence 5.742)
+
+/geography/river
+──────────
+Brahmaputra River  (Relevance 0.382 | Confidence 7.228)
+Gandaki River  (Relevance 0.573 | Confidence 8.977)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+Yarlung Tsangpo  (Relevance 0.459 | Confidence 3.901)
+
+/government/form_of_government
+──────────
+Principality  (Relevance 0.029 | Confidence 1.689)
+
+/government/government
+──────────
+India  (Relevance 0.330 | Confidence 8.190)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/government/government_agency
+──────────
+California  (Relevance 0.122 | Confidence 21.160)
+
+/government/government_service
+──────────
+Construction  (Relevance 0.131 | Confidence 1.507)
+
+/government/governmental_body
+──────────
+United Nations  (Relevance 0.048 | Confidence 3.680)
+
+/government/governmental_jurisdiction
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Bengal  (Relevance 0.234 | Confidence 8.207)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/government/political_district
+──────────
+California  (Relevance 0.122 | Confidence 21.160)
+Montana  (Relevance 0.156 | Confidence 5.885)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/government/politician
+──────────
+Jung Bahadur Rana  (Relevance 0.273 | Confidence 9.847)
+
+/influence/influence_node
+──────────
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+
+/interests/collection_category
+──────────
+Bus  (Relevance 0.097 | Confidence 1.191)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Dagger  (Relevance 0.123 | Confidence 1.429)
+Grass  (Relevance 0.032 | Confidence 5.689)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Radio  (Relevance 0.044 | Confidence 1.334)
+
+/interests/hobby
+──────────
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Sewing  (Relevance 0.217 | Confidence 2.623)
+
+/interests/hobbyist
+──────────
+Cooking  (Relevance 0.151 | Confidence 6.294)
+
+/interests/interest
+──────────
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Sewing  (Relevance 0.217 | Confidence 2.623)
+
+/internet/api
+──────────
+HTTP  (Relevance 0.074 | Confidence 1.637)
+
+/internet/protocol
+──────────
+HTTP  (Relevance 0.074 | Confidence 1.637)
+
+/internet/social_network_user
+──────────
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+Éditions du Seuil  (Relevance 0.054 | Confidence 2.301)
+
+/internet/website_category
+──────────
+Beer  (Relevance 0.215 | Confidence 2.067)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Data  (Relevance 0.061 | Confidence 0.961)
+Food  (Relevance 0.411 | Confidence 1.795)
+Language  (Relevance 0.096 | Confidence 1.629)
+Society  (Relevance 0.120 | Confidence 1.677)
+Textile  (Relevance 0.197 | Confidence 1.377)
+Transport  (Relevance 0.206 | Confidence 1.365)
+
+/internet/website_owner
+──────────
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Forbes  (Relevance 0.095 | Confidence 5.393)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+Éditions du Seuil  (Relevance 0.054 | Confidence 2.301)
+
+/kp_lw/common/topic
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+France  (Relevance 0.161 | Confidence 1.881)
+
+/law/court_jurisdiction_area
+──────────
+California  (Relevance 0.122 | Confidence 21.160)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Peru  (Relevance 0.092 | Confidence 7.763)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/law/invention
+──────────
+Glasses  (Relevance 0.123 | Confidence 1.737)
+HTTP  (Relevance 0.074 | Confidence 1.637)
+Radio  (Relevance 0.044 | Confidence 1.334)
+Trousers  (Relevance 0.187 | Confidence 3.566)
+
+/law/legal_subject
+──────────
+Food  (Relevance 0.411 | Confidence 1.795)
+Natural environment  (Relevance 0.281 | Confidence 0.987)
+Religion  (Relevance 0.232 | Confidence 1.437)
+
+/location/administrative_division
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Bengal  (Relevance 0.234 | Confidence 8.207)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+England  (Relevance 0.173 | Confidence 3.267)
+Fuquan, Guizhou  (Relevance 0.013 | Confidence 1.025)
+Gansu  (Relevance 0.246 | Confidence 10.330)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+Humla District  (Relevance 0.462 | Confidence 5.854)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Jumla District  (Relevance 0.186 | Confidence 2.490)
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Marche  (Relevance 0.070 | Confidence 1.553)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Mustang District  (Relevance 0.882 | Confidence 2.508)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Nord (French department)  (Relevance 0.023 | Confidence 1.293)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Qinghai  (Relevance 0.333 | Confidence 9.913)
+Sichuan  (Relevance 0.262 | Confidence 11.480)
+South Asia  (Relevance 0.223 | Confidence 3.056)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Southwestern China  (Relevance 0.241 | Confidence 3.972)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+Yamagata Prefecture  (Relevance 0.011 | Confidence 1.044)
+Yunnan  (Relevance 0.459 | Confidence 10.860)
+
+/location/capital_of_administrative_division
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+Dumbarton  (Relevance 0.049 | Confidence 0.971)
+Los Andes, Chile  (Relevance 0.119 | Confidence 1.158)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Paris  (Relevance 0.136 | Confidence 19.340)
+
+/location/citytown
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Bellwood, Illinois  (Relevance 0.028 | Confidence 1.363)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+Charenton-le-Pont  (Relevance 0.045 | Confidence 1.209)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+Dumbarton  (Relevance 0.049 | Confidence 0.971)
+Englewood Cliffs, New Jersey  (Relevance 0.036 | Confidence 2.847)
+Fuquan, Guizhou  (Relevance 0.013 | Confidence 1.025)
+Kathmandu  (Relevance 0.429 | Confidence 11.670)
+La Paz  (Relevance 0.196 | Confidence 3.734)
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Andes, Chile  (Relevance 0.119 | Confidence 1.158)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Marpha  (Relevance 0.173 | Confidence 2.852)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Pasto, Colombia  (Relevance 0.124 | Confidence 1.970)
+Pokhara  (Relevance 0.620 | Confidence 9.694)
+Pokhara Valley  (Relevance 0.143 | Confidence 2.271)
+Potosí  (Relevance 0.101 | Confidence 2.426)
+Tain  (Relevance 0.042 | Confidence 1.346)
+Tukuche  (Relevance 0.122 | Confidence 3.534)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/location/cn_autonomous_region
+──────────
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+
+/location/cn_county
+──────────
+Fuquan, Guizhou  (Relevance 0.013 | Confidence 1.025)
+
+/location/cn_municipality
+──────────
+Beijing  (Relevance 0.283 | Confidence 12.870)
+
+/location/cn_prefecture_level_city
+──────────
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+
+/location/cn_province
+──────────
+Gansu  (Relevance 0.246 | Confidence 10.330)
+Qinghai  (Relevance 0.333 | Confidence 9.913)
+Sichuan  (Relevance 0.262 | Confidence 11.480)
+Yunnan  (Relevance 0.459 | Confidence 10.860)
+
+/location/continent
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Asia  (Relevance 0.333 | Confidence 20.140)
+
+/location/country
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Champa  (Relevance 0.256 | Confidence 5.620)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Korea  (Relevance 0.194 | Confidence 12.360)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/location/dated_location
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Bellwood, Illinois  (Relevance 0.028 | Confidence 1.363)
+Bengal  (Relevance 0.234 | Confidence 8.207)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+Champa  (Relevance 0.256 | Confidence 5.620)
+Charenton-le-Pont  (Relevance 0.045 | Confidence 1.209)
+China  (Relevance 0.295 | Confidence 7.816)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+Dumbarton  (Relevance 0.049 | Confidence 0.971)
+England  (Relevance 0.173 | Confidence 3.267)
+Englewood Cliffs, New Jersey  (Relevance 0.036 | Confidence 2.847)
+France  (Relevance 0.161 | Confidence 1.881)
+Fuquan, Guizhou  (Relevance 0.013 | Confidence 1.025)
+Gandaki River  (Relevance 0.573 | Confidence 8.977)
+Gansu  (Relevance 0.246 | Confidence 10.330)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+Humla District  (Relevance 0.462 | Confidence 5.854)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Jumla District  (Relevance 0.186 | Confidence 2.490)
+Kathmandu  (Relevance 0.429 | Confidence 11.670)
+Korea  (Relevance 0.194 | Confidence 12.360)
+La Paz  (Relevance 0.196 | Confidence 3.734)
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Andes, Chile  (Relevance 0.119 | Confidence 1.158)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Lumbini  (Relevance 0.590 | Confidence 6.204)
+Marche  (Relevance 0.070 | Confidence 1.553)
+Marpha  (Relevance 0.173 | Confidence 2.852)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Muktinath  (Relevance 0.363 | Confidence 12.010)
+Mustang District  (Relevance 0.882 | Confidence 2.508)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Nord (French department)  (Relevance 0.023 | Confidence 1.293)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Pasto, Colombia  (Relevance 0.124 | Confidence 1.970)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Pokhara  (Relevance 0.620 | Confidence 9.694)
+Pokhara Valley  (Relevance 0.143 | Confidence 2.271)
+Potosí  (Relevance 0.101 | Confidence 2.426)
+Qinghai  (Relevance 0.333 | Confidence 9.913)
+Sichuan  (Relevance 0.262 | Confidence 11.480)
+South Asia  (Relevance 0.223 | Confidence 3.056)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Southwestern China  (Relevance 0.241 | Confidence 3.972)
+Tain  (Relevance 0.042 | Confidence 1.346)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+Tukuche  (Relevance 0.122 | Confidence 3.534)
+United States  (Relevance 0.103 | Confidence 9.471)
+Upper Mustang  (Relevance 0.886 | Confidence 3.730)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+Yamagata Prefecture  (Relevance 0.011 | Confidence 1.044)
+Yunnan  (Relevance 0.459 | Confidence 10.860)
+
+/location/de_city
+──────────
+Berlin  (Relevance 0.086 | Confidence 12.870)
+
+/location/de_state
+──────────
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+
+/location/fr_department
+──────────
+Nord (French department)  (Relevance 0.023 | Confidence 1.293)
+Paris  (Relevance 0.136 | Confidence 19.340)
+
+/location/hud_county_place
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Bellwood, Illinois  (Relevance 0.028 | Confidence 1.363)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Englewood Cliffs, New Jersey  (Relevance 0.036 | Confidence 2.847)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/location/hud_foreclosure_area
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Bellwood, Illinois  (Relevance 0.028 | Confidence 1.363)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Englewood Cliffs, New Jersey  (Relevance 0.036 | Confidence 2.847)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/location/it_region
+──────────
+Marche  (Relevance 0.070 | Confidence 1.553)
+
+/location/jp_prefecture
+──────────
+Yamagata Prefecture  (Relevance 0.011 | Confidence 1.044)
+
+/location/location
+──────────
+' Himalaya  (Relevance 0.000 | Confidence 0.500)
+Africa  (Relevance 0.154 | Confidence 21.560)
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Altiplano  (Relevance 0.278 | Confidence 5.257)
+Ancient Kingdom  (Relevance 0.000 | Confidence 0.500)
+Andes  (Relevance 0.287 | Confidence 11.260)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Annapurna  (Relevance 0.330 | Confidence 4.297)
+Annapurna (mountain range)  (Relevance 0.554 | Confidence 6.645)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Arthaud  (Relevance 0.000 | Confidence 0.500)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Atacama Desert  (Relevance 0.188 | Confidence 2.331)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Barﬁeld  (Relevance 0.000 | Confidence 0.500)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Bellwood, Illinois  (Relevance 0.028 | Confidence 1.363)
+Bengal  (Relevance 0.234 | Confidence 8.207)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Blackwell  (Relevance 0.000 | Confidence 0.500)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Botechaur  (Relevance 0.000 | Confidence 0.500)
+Boulder  (Relevance 0.000 | Confidence 0.500)
+Brahmaputra River  (Relevance 0.382 | Confidence 7.228)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+Central Asia  (Relevance 0.310 | Confidence 23.080)
+Champa  (Relevance 0.256 | Confidence 5.620)
+Changtang  (Relevance 0.839 | Confidence 1.442)
+Chantang  (Relevance 0.000 | Confidence 0.500)
+Charenton-le-Pont  (Relevance 0.045 | Confidence 1.209)
+China  (Relevance 0.295 | Confidence 7.816)
+Chinese  (Relevance 0.000 | Confidence 0.500)
+Chinese authorities  (Relevance 0.000 | Confidence 0.500)
+Chène  (Relevance 0.000 | Confidence 0.500)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+Dana  (Relevance 0.000 | Confidence 0.500)
+Dhaulagiri  (Relevance 0.141 | Confidence 7.589)
+Dolpo  (Relevance 0.611 | Confidence 8.159)
+Drogpas  (Relevance 0.000 | Confidence 0.500)
+Drokpa  (Relevance 0.000 | Confidence 0.500)
+Du Yunnan  (Relevance 0.000 | Confidence 0.500)
+Dumbarton  (Relevance 0.049 | Confidence 0.971)
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+Dyson-Hudson  (Relevance 0.000 | Confidence 0.500)
+Eastern Himalayas  (Relevance 0.228 | Confidence 2.645)
+England  (Relevance 0.173 | Confidence 3.267)
+Englewood Cliffs, New Jersey  (Relevance 0.036 | Confidence 2.847)
+Eurasia  (Relevance 0.031 | Confidence 1.002)
+France  (Relevance 0.161 | Confidence 1.881)
+Fuquan, Guizhou  (Relevance 0.013 | Confidence 1.025)
+Gandaki River  (Relevance 0.573 | Confidence 8.977)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+Ganges Basin  (Relevance 0.148 | Confidence 1.868)
+Gansu  (Relevance 0.246 | Confidence 10.330)
+Great Himalayan range  (Relevance 0.000 | Confidence 0.500)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+Himalaya Countries  (Relevance 0.000 | Confidence 0.500)
+Himalayas  (Relevance 0.703 | Confidence 16.810)
+Humla District  (Relevance 0.462 | Confidence 5.854)
+India  (Relevance 0.330 | Confidence 8.190)
+Indian subcontinent  (Relevance 0.258 | Confidence 73.610)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Jarkot  (Relevance 0.000 | Confidence 0.500)
+Jomoson  (Relevance 0.000 | Confidence 0.500)
+Jumla District  (Relevance 0.186 | Confidence 2.490)
+Kali Gandaki Gorge  (Relevance 0.492 | Confidence 1.219)
+Karakoram  (Relevance 0.233 | Confidence 3.231)
+Kathmandu  (Relevance 0.429 | Confidence 11.670)
+Khumbu  (Relevance 0.083 | Confidence 7.531)
+Korea  (Relevance 0.194 | Confidence 12.360)
+Kyato Chongra  (Relevance 0.000 | Confidence 0.500)
+La Martinière College, Lucknow  (Relevance 0.040 | Confidence 1.468)
+La Paz  (Relevance 0.196 | Confidence 3.734)
+Lautaro (volcano)  (Relevance 0.099 | Confidence 0.991)
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Andes, Chile  (Relevance 0.119 | Confidence 1.158)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Lumbini  (Relevance 0.590 | Confidence 6.204)
+Lô Mantang  (Relevance 0.000 | Confidence 0.500)
+Madison  (Relevance 0.000 | Confidence 0.500)
+Marche  (Relevance 0.070 | Confidence 1.553)
+Marpha  (Relevance 0.173 | Confidence 2.852)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Mount Kailash  (Relevance 0.309 | Confidence 18.300)
+Muktinath  (Relevance 0.363 | Confidence 12.010)
+Mustang District  (Relevance 0.882 | Confidence 2.508)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+Nepalese border  (Relevance 0.000 | Confidence 0.500)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Nord (French department)  (Relevance 0.023 | Confidence 1.293)
+Northwest Nepal  (Relevance 0.000 | Confidence 0.500)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Paris-belleville  (Relevance 0.000 | Confidence 0.500)
+Pasto, Colombia  (Relevance 0.124 | Confidence 1.970)
+Paul  (Relevance 0.000 | Confidence 0.500)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Pokhara  (Relevance 0.620 | Confidence 9.694)
+Pokhara Valley  (Relevance 0.143 | Confidence 2.271)
+Potosí  (Relevance 0.101 | Confidence 2.426)
+Qinghai  (Relevance 0.333 | Confidence 9.913)
+Rock shelter  (Relevance 0.090 | Confidence 1.979)
+Salt road  (Relevance 0.516 | Confidence 1.022)
+Sichuan  (Relevance 0.262 | Confidence 11.480)
+Somadrog  (Relevance 0.000 | Confidence 0.500)
+South  (Relevance 0.000 | Confidence 0.500)
+South Andean  (Relevance 0.000 | Confidence 0.500)
+South Asia  (Relevance 0.223 | Confidence 3.056)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Southwestern China  (Relevance 0.241 | Confidence 3.972)
+Tain  (Relevance 0.042 | Confidence 1.346)
+Taksatsae  (Relevance 0.000 | Confidence 0.500)
+Tarap  (Relevance 0.000 | Confidence 0.500)
+Tea Horse Road  (Relevance 0.396 | Confidence 1.123)
+Terai  (Relevance 0.393 | Confidence 7.884)
+Terai Plain  (Relevance 0.000 | Confidence 0.500)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+Tibet Autonomous  (Relevance 0.000 | Confidence 0.500)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+Tibetan Drogpa  (Relevance 0.000 | Confidence 0.500)
+Tibetan Plateau  (Relevance 0.265 | Confidence 29.540)
+Tibetan highlands  (Relevance 0.000 | Confidence 0.500)
+Tibetan valleys  (Relevance 0.000 | Confidence 0.500)
+Tsangpo Valley  (Relevance 0.000 | Confidence 0.500)
+Tuckche  (Relevance 0.000 | Confidence 0.500)
+Tukuche  (Relevance 0.122 | Confidence 3.534)
+United States  (Relevance 0.103 | Confidence 9.471)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+Upper Mustang  (Relevance 0.886 | Confidence 3.730)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wikiwand Ancienne  (Relevance 0.000 | Confidence 0.500)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+Yamagata Prefecture  (Relevance 0.011 | Confidence 1.044)
+Yarlung Tsangpo  (Relevance 0.459 | Confidence 3.901)
+Yunnan  (Relevance 0.459 | Confidence 10.860)
+Zagros Mountains  (Relevance 0.148 | Confidence 17.920)
+Zusammenar Beit mit Arte  (Relevance 0.000 | Confidence 0.500)
+de los Andes  (Relevance 0.000 | Confidence 0.500)
+el Altiplano  (Relevance 0.000 | Confidence 0.500)
+high Himalayan range  (Relevance 0.000 | Confidence 0.500)
+ing Tukuche  (Relevance 0.000 | Confidence 0.500)
+kingdom of  (Relevance 0.000 | Confidence 0.500)
+l ' Himalaya  (Relevance 0.000 | Confidence 0.500)
+leys  (Relevance 0.000 | Confidence 0.500)
+sion  (Relevance 0.000 | Confidence 0.500)
+
+/location/metropolitan_area_anchor
+──────────
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/location/offical_symbol_variety
+──────────
+Horse  (Relevance 0.210 | Confidence 11.410)
+
+/location/place_with_neighborhoods
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/location/region
+──────────
+Altiplano  (Relevance 0.278 | Confidence 5.257)
+Andes  (Relevance 0.287 | Confidence 11.260)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Atacama Desert  (Relevance 0.188 | Confidence 2.331)
+Indian subcontinent  (Relevance 0.258 | Confidence 73.610)
+Marche  (Relevance 0.070 | Confidence 1.553)
+South Asia  (Relevance 0.223 | Confidence 3.056)
+Yunnan  (Relevance 0.459 | Confidence 10.860)
+
+/location/statistical_region
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Bellwood, Illinois  (Relevance 0.028 | Confidence 1.363)
+Bengal  (Relevance 0.234 | Confidence 8.207)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+Champa  (Relevance 0.256 | Confidence 5.620)
+Charenton-le-Pont  (Relevance 0.045 | Confidence 1.209)
+China  (Relevance 0.295 | Confidence 7.816)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+Dumbarton  (Relevance 0.049 | Confidence 0.971)
+England  (Relevance 0.173 | Confidence 3.267)
+Englewood Cliffs, New Jersey  (Relevance 0.036 | Confidence 2.847)
+Eurasia  (Relevance 0.031 | Confidence 1.002)
+France  (Relevance 0.161 | Confidence 1.881)
+Fuquan, Guizhou  (Relevance 0.013 | Confidence 1.025)
+Gansu  (Relevance 0.246 | Confidence 10.330)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+Humla District  (Relevance 0.462 | Confidence 5.854)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Jumla District  (Relevance 0.186 | Confidence 2.490)
+Kathmandu  (Relevance 0.429 | Confidence 11.670)
+Korea  (Relevance 0.194 | Confidence 12.360)
+La Paz  (Relevance 0.196 | Confidence 3.734)
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Andes, Chile  (Relevance 0.119 | Confidence 1.158)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Lumbini  (Relevance 0.590 | Confidence 6.204)
+Marche  (Relevance 0.070 | Confidence 1.553)
+Marpha  (Relevance 0.173 | Confidence 2.852)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Muktinath  (Relevance 0.363 | Confidence 12.010)
+Mustang District  (Relevance 0.882 | Confidence 2.508)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Nord (French department)  (Relevance 0.023 | Confidence 1.293)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Pasto, Colombia  (Relevance 0.124 | Confidence 1.970)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Pokhara  (Relevance 0.620 | Confidence 9.694)
+Pokhara Valley  (Relevance 0.143 | Confidence 2.271)
+Potosí  (Relevance 0.101 | Confidence 2.426)
+Qinghai  (Relevance 0.333 | Confidence 9.913)
+Sichuan  (Relevance 0.262 | Confidence 11.480)
+South Asia  (Relevance 0.223 | Confidence 3.056)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Southwestern China  (Relevance 0.241 | Confidence 3.972)
+Tain  (Relevance 0.042 | Confidence 1.346)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+Tukuche  (Relevance 0.122 | Confidence 3.534)
+United States  (Relevance 0.103 | Confidence 9.471)
+Upper Mustang  (Relevance 0.886 | Confidence 3.730)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+Yamagata Prefecture  (Relevance 0.011 | Confidence 1.044)
+Yunnan  (Relevance 0.459 | Confidence 10.860)
+
+/location/symbol_of_administrative_division
+──────────
+Milk  (Relevance 0.293 | Confidence 9.873)
+
+/location/uk_constituent_country
+──────────
+England  (Relevance 0.173 | Confidence 3.267)
+
+/location/uk_statistical_location
+──────────
+England  (Relevance 0.173 | Confidence 3.267)
+
+/location/us_federal_district
+──────────
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/location/us_state
+──────────
+California  (Relevance 0.122 | Confidence 21.160)
+Montana  (Relevance 0.156 | Confidence 5.885)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/measurement_unit/distance_unit
+──────────
+Metre  (Relevance 0.108 | Confidence 0.981)
+
+/media_common/literary_genre
+──────────
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Economy  (Relevance 0.111 | Confidence 1.186)
+Food  (Relevance 0.411 | Confidence 1.795)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Thesis  (Relevance 0.050 | Confidence 1.067)
+
+/media_common/media_genre
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Animal  (Relevance 0.171 | Confidence 2.273)
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Economy  (Relevance 0.111 | Confidence 1.186)
+Food  (Relevance 0.411 | Confidence 1.795)
+Future  (Relevance 0.140 | Confidence 1.267)
+Prayer  (Relevance 0.400 | Confidence 6.113)
+Race and ethnicity in the United States census  (Relevance 0.097 | Confidence 1.201)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+Saint  (Relevance 0.152 | Confidence 8.081)
+Thesis  (Relevance 0.050 | Confidence 1.067)
+Weather  (Relevance 0.136 | Confidence 4.382)
+
+/media_common/media_genre_equivalent_topic
+──────────
+South Asia  (Relevance 0.223 | Confidence 3.056)
+
+/media_common/netflix_genre
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+China  (Relevance 0.295 | Confidence 7.816)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+
+/media_common/quotation
+──────────
+India  (Relevance 0.330 | Confidence 8.190)
+
+/media_common/quotation_addressee
+──────────
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/media_common/quotation_source
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+
+/media_common/quotation_subject
+──────────
+Animal  (Relevance 0.171 | Confidence 2.273)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Cheese  (Relevance 0.195 | Confidence 9.131)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Desert  (Relevance 0.308 | Confidence 1.401)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Evolution  (Relevance 0.198 | Confidence 15.080)
+Faith  (Relevance 0.233 | Confidence 1.013)
+Father  (Relevance 0.049 | Confidence 1.615)
+Fish  (Relevance 0.141 | Confidence 1.997)
+Food  (Relevance 0.411 | Confidence 1.795)
+Gratitude  (Relevance 0.198 | Confidence 1.339)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Language  (Relevance 0.096 | Confidence 1.629)
+London  (Relevance 0.130 | Confidence 9.282)
+Mountain  (Relevance 0.285 | Confidence 6.458)
+Organization  (Relevance 0.100 | Confidence 1.242)
+Perception  (Relevance 0.058 | Confidence 1.228)
+Prayer  (Relevance 0.400 | Confidence 6.113)
+Race and ethnicity in the United States census  (Relevance 0.097 | Confidence 1.201)
+Rain  (Relevance 0.177 | Confidence 1.598)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Saint  (Relevance 0.152 | Confidence 8.081)
+Society  (Relevance 0.120 | Confidence 1.677)
+Son  (Relevance 0.000 | Confidence 1.402)
+Space  (Relevance 0.097 | Confidence 1.003)
+Symbol  (Relevance 0.132 | Confidence 1.499)
+Tea  (Relevance 0.397 | Confidence 6.655)
+Trade  (Relevance 0.321 | Confidence 0.992)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+United States  (Relevance 0.103 | Confidence 9.471)
+Universe  (Relevance 0.148 | Confidence 1.373)
+Wealth  (Relevance 0.020 | Confidence 1.004)
+Weather  (Relevance 0.136 | Confidence 4.382)
+Wind  (Relevance 0.175 | Confidence 1.235)
+Worship  (Relevance 0.077 | Confidence 1.052)
+
+/medicine/anatomical_structure
+──────────
+Artery  (Relevance 0.073 | Confidence 1.879)
+Ear  (Relevance 0.121 | Confidence 1.465)
+Foot  (Relevance 0.116 | Confidence 1.716)
+Neck  (Relevance 0.082 | Confidence 1.351)
+Skin  (Relevance 0.056 | Confidence 0.996)
+
+/medicine/cancer_center_constituent
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+
+/medicine/disease_cause
+──────────
+Dust  (Relevance 0.107 | Confidence 2.456)
+Food  (Relevance 0.411 | Confidence 1.795)
+Fungus  (Relevance 0.181 | Confidence 17.480)
+Heat  (Relevance 0.103 | Confidence 1.498)
+
+/medicine/drug
+──────────
+Aluminium  (Relevance 0.216 | Confidence 11.270)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Sodium  (Relevance 0.189 | Confidence 10.540)
+
+/medicine/drug_dosage_flavor
+──────────
+Cheese  (Relevance 0.195 | Confidence 9.131)
+Fruit  (Relevance 0.239 | Confidence 12.650)
+Honey  (Relevance 0.195 | Confidence 9.335)
+
+/medicine/drug_ingredient
+──────────
+Aluminium  (Relevance 0.216 | Confidence 11.270)
+Barley  (Relevance 0.457 | Confidence 17.900)
+Borax  (Relevance 0.189 | Confidence 6.201)
+Buckwheat  (Relevance 0.434 | Confidence 10.820)
+Carbonate  (Relevance 0.123 | Confidence 5.438)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Honey  (Relevance 0.195 | Confidence 9.335)
+Juniper  (Relevance 0.258 | Confidence 3.339)
+Kerosene  (Relevance 0.155 | Confidence 4.521)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Medicinal plants  (Relevance 0.060 | Confidence 1.017)
+Millet  (Relevance 0.319 | Confidence 13.240)
+Potato  (Relevance 0.325 | Confidence 6.444)
+Rice  (Relevance 0.374 | Confidence 17.780)
+Sodium  (Relevance 0.189 | Confidence 10.540)
+Sodium carbonate  (Relevance 0.134 | Confidence 7.163)
+Turnip  (Relevance 0.132 | Confidence 3.963)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+
+/medicine/medical_treatment
+──────────
+Glasses  (Relevance 0.123 | Confidence 1.737)
+
+/medicine/risk_factor
+──────────
+Child  (Relevance 0.086 | Confidence 1.827)
+Dust  (Relevance 0.107 | Confidence 2.456)
+
+/medicine/type_of_infectious_agent
+──────────
+Fungus  (Relevance 0.181 | Confidence 17.480)
+
+/meteorology/cyclone_affected_area
+──────────
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/metropolitan_transit/transit_service_type
+──────────
+Bus  (Relevance 0.097 | Confidence 1.191)
+
+/metropolitan_transit/transit_system
+──────────
+Bus  (Relevance 0.097 | Confidence 1.191)
+
+/metropolitan_transit/transit_vehicle
+──────────
+Bus  (Relevance 0.097 | Confidence 1.191)
+
+/military/military_combatant
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Axis powers  (Relevance 0.071 | Confidence 1.096)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/military/military_commander
+──────────
+Jung Bahadur Rana  (Relevance 0.273 | Confidence 9.847)
+
+/military/military_conflict
+──────────
+Annexation of Tibet by China  (Relevance 0.253 | Confidence 3.965)
+
+/military/military_post
+──────────
+England  (Relevance 0.173 | Confidence 3.267)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/military/military_unit_place_of_origin
+──────────
+California  (Relevance 0.122 | Confidence 21.160)
+France  (Relevance 0.161 | Confidence 1.881)
+Japan  (Relevance 0.042 | Confidence 33.150)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/music/album
+──────────
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+
+/music/genre
+──────────
+Prayer  (Relevance 0.400 | Confidence 6.113)
+Rock music  (Relevance 0.148 | Confidence 0.971)
+
+/music/instrument
+──────────
+Flute  (Relevance 0.054 | Confidence 2.461)
+Lute  (Relevance 0.225 | Confidence 4.400)
+
+/music/performance_role
+──────────
+Flute  (Relevance 0.054 | Confidence 2.461)
+Lute  (Relevance 0.225 | Confidence 4.400)
+
+/music/record_label
+──────────
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+
+/olympics/olympic_bidding_city
+──────────
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Paris  (Relevance 0.136 | Confidence 19.340)
+
+/olympics/olympic_host_city
+──────────
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Paris  (Relevance 0.136 | Confidence 19.340)
+
+/olympics/olympic_participating_country
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/olympics/olympic_venue
+──────────
+London  (Relevance 0.130 | Confidence 9.282)
+
+/organization/club_interest
+──────────
+Culture  (Relevance 0.180 | Confidence 2.307)
+
+/organization/contact_category
+──────────
+China  (Relevance 0.295 | Confidence 7.816)
+Construction  (Relevance 0.131 | Confidence 1.507)
+London  (Relevance 0.130 | Confidence 9.282)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/organization/endowed_organization
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+
+/organization/membership_organization
+──────────
+UNESCO  (Relevance 0.167 | Confidence 27.970)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+
+/organization/non_profit_organization
+──────────
+Human Rights Watch  (Relevance 0.099 | Confidence 7.714)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Migration Policy Institute  (Relevance 0.000 | Confidence 1.304)
+
+/organization/organization
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Catpics Copodruction AG  (Relevance 0.000 | Confidence 0.500)
+Chungara Revista de Antropogía Chilena  (Relevance 0.000 | Confidence 0.500)
+Chêne  (Relevance 0.000 | Confidence 0.500)
+D.U.R.A.N.  (Relevance 0.000 | Confidence 0.500)
+Drogpa  (Relevance 0.000 | Confidence 0.500)
+Encuentro  (Relevance 0.022 | Confidence 1.347)
+Fernand  (Relevance 0.000 | Confidence 0.500)
+Forbes  (Relevance 0.095 | Confidence 5.393)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Fürer-Haimendorf  (Relevance 0.000 | Confidence 0.500)
+Galatee Films  (Relevance 0.032 | Confidence 1.184)
+Grenard  (Relevance 0.000 | Confidence 0.500)
+Human Rights Watch  (Relevance 0.099 | Confidence 7.714)
+Ingold  (Relevance 0.000 | Confidence 0.500)
+Institut Français  (Relevance 0.008 | Confidence 2.529)
+Instituto Francés de Estudios Andinos  (Relevance 0.019 | Confidence 1.242)
+International Council on Monuments and Sites  (Relevance 0.427 | Confidence 1.248)
+International Mountains  (Relevance 0.000 | Confidence 0.500)
+John Murray (publishing house)  (Relevance 0.041 | Confidence 1.400)
+Journal of Archaeological Research  (Relevance 0.000 | Confidence 0.500)
+Kerckhoff  (Relevance 0.000 | Confidence 0.500)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+Kuen-Lun  (Relevance 0.000 | Confidence 0.500)
+La Martinière College, Lucknow  (Relevance 0.040 | Confidence 1.468)
+La Sociedad  (Relevance 0.042 | Confidence 1.564)
+Le Tibet  (Relevance 0.000 | Confidence 0.500)
+Les Productions J.M.H.  (Relevance 0.000 | Confidence 0.500)
+Lo Mantang  (Relevance 0.000 | Confidence 0.500)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Migration Policy Institute  (Relevance 0.000 | Confidence 1.304)
+Nielsen  (Relevance 0.000 | Confidence 0.500)
+Prentice Hall  (Relevance 0.072 | Confidence 1.074)
+ProQuest  (Relevance 0.099 | Confidence 4.266)
+Relaciones  (Relevance 0.000 | Confidence 0.500)
+Revista de Antropolgía Chilena  (Relevance 0.000 | Confidence 0.500)
+Revista de Antropología Chilena  (Relevance 0.000 | Confidence 0.500)
+Routledge  (Relevance 0.058 | Confidence 4.041)
+Sae-Hyug  (Relevance 0.000 | Confidence 0.500)
+Silkroad Foundation Newsletter  (Relevance 0.000 | Confidence 0.500)
+Sirawi  (Relevance 0.000 | Confidence 0.500)
+Studio Limited  (Relevance 0.000 | Confidence 0.500)
+UNESCO  (Relevance 0.167 | Confidence 27.970)
+Uber  (Relevance 0.059 | Confidence 2.369)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+University of  (Relevance 0.000 | Confidence 0.500)
+University of California Press  (Relevance 0.046 | Confidence 4.003)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+University of Montana  (Relevance 0.108 | Confidence 3.005)
+University of New Mexico Press  (Relevance 0.097 | Confidence 3.565)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+University of Yamagata  (Relevance 0.000 | Confidence 0.500)
+WGBH Educational Foundation  (Relevance 0.119 | Confidence 7.914)
+Wisconsin Press  (Relevance 0.000 | Confidence 0.500)
+Zeitgeist Film Ltd.  (Relevance 0.000 | Confidence 0.500)
+Zuric  (Relevance 0.000 | Confidence 0.500)
+al revés  (Relevance 0.000 | Confidence 1.114)
+de la Guéville  (Relevance 0.000 | Confidence 1.347)
+erka  (Relevance 0.000 | Confidence 1.032)
+jeeps  (Relevance 0.000 | Confidence 0.500)
+ogy  (Relevance 0.000 | Confidence 0.500)
+Éditions Recherches  (Relevance 0.000 | Confidence 0.500)
+Éditions du Seuil  (Relevance 0.054 | Confidence 2.301)
+éditions  (Relevance 0.000 | Confidence 0.500)
+
+/organization/organization_founder
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+China  (Relevance 0.295 | Confidence 7.816)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+United States  (Relevance 0.103 | Confidence 9.471)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/organization/organization_member
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+China  (Relevance 0.295 | Confidence 7.816)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/organization/organization_partnership
+──────────
+Faith  (Relevance 0.233 | Confidence 1.013)
+
+/organization/organization_scope
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+Central Asia  (Relevance 0.310 | Confidence 23.080)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+Eurasia  (Relevance 0.031 | Confidence 1.002)
+France  (Relevance 0.161 | Confidence 1.881)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+Himalayas  (Relevance 0.703 | Confidence 16.810)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Marche  (Relevance 0.070 | Confidence 1.553)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Asia  (Relevance 0.223 | Confidence 3.056)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/organization/organization_sector
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Anthropology  (Relevance 0.086 | Confidence 11.550)
+Archaeology  (Relevance 0.227 | Confidence 2.501)
+Auction  (Relevance 0.241 | Confidence 1.609)
+Bus  (Relevance 0.097 | Confidence 1.191)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Economic development  (Relevance 0.099 | Confidence 1.275)
+Farmer  (Relevance 0.265 | Confidence 1.099)
+Food  (Relevance 0.411 | Confidence 1.795)
+Forestry  (Relevance 0.042 | Confidence 1.456)
+Horse  (Relevance 0.210 | Confidence 11.410)
+India  (Relevance 0.330 | Confidence 8.190)
+Landscape  (Relevance 0.266 | Confidence 1.010)
+Natural environment  (Relevance 0.281 | Confidence 0.987)
+Organization  (Relevance 0.100 | Confidence 1.242)
+Plant  (Relevance 0.277 | Confidence 2.399)
+Porcelain  (Relevance 0.143 | Confidence 6.405)
+Sewing  (Relevance 0.217 | Confidence 2.623)
+Trade  (Relevance 0.321 | Confidence 0.992)
+Transport  (Relevance 0.206 | Confidence 1.365)
+Trousers  (Relevance 0.187 | Confidence 3.566)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/organization/organization_type
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Clothing  (Relevance 0.317 | Confidence 6.270)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Culture  (Relevance 0.180 | Confidence 2.307)
+Organization  (Relevance 0.100 | Confidence 1.242)
+Society  (Relevance 0.120 | Confidence 1.677)
+Transport  (Relevance 0.206 | Confidence 1.365)
+
+/people/cause_of_death
+──────────
+Dagger  (Relevance 0.123 | Confidence 1.429)
+
+/people/chinese_ethnic_group
+──────────
+Tibetans  (Relevance 0.472 | Confidence 5.048)
+
+/people/deceased_person
+──────────
+Jung Bahadur Rana  (Relevance 0.273 | Confidence 9.847)
+Michel Peissel  (Relevance 0.247 | Confidence 1.352)
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+Saltmen  (Relevance 0.042 | Confidence 1.787)
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+
+/people/ethnicity
+──────────
+Eurasian nomads  (Relevance 0.183 | Confidence 7.371)
+Ket people  (Relevance 0.187 | Confidence 1.277)
+Nomad  (Relevance 0.473 | Confidence 8.996)
+Tibetans  (Relevance 0.472 | Confidence 5.048)
+
+/people/family
+──────────
+Rana dynasty  (Relevance 0.142 | Confidence 12.600)
+
+/people/family_member
+──────────
+Jung Bahadur Rana  (Relevance 0.273 | Confidence 9.847)
+
+/people/person
+──────────
+Anatoly M.  (Relevance 0.000 | Confidence 0.500)
+Anatoly M. Khazanov  (Relevance 0.000 | Confidence 0.500)
+Andrew  (Relevance 0.000 | Confidence 0.500)
+André  (Relevance 0.000 | Confidence 0.500)
+Anschuetz  (Relevance 0.000 | Confidence 0.500)
+Axel  (Relevance 0.000 | Confidence 0.500)
+Axel Nielsen  (Relevance 0.000 | Confidence 0.500)
+Barbara  (Relevance 0.000 | Confidence 0.500)
+Barﬁeld , Thomas J.  (Relevance 0.000 | Confidence 0.500)
+Beall  (Relevance 0.000 | Confidence 0.500)
+Berenguer  (Relevance 0.000 | Confidence 0.500)
+Bhushan  (Relevance 0.000 | Confidence 0.500)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Calogero M. Santoro  (Relevance 0.000 | Confidence 0.500)
+Cambridge University Press  (Relevance 0.078 | Confidence 6.602)
+Capriles  (Relevance 0.000 | Confidence 0.500)
+Charles  (Relevance 0.000 | Confidence 0.500)
+Cherie L. Scheick  (Relevance 0.000 | Confidence 0.500)
+Childe  (Relevance 0.000 | Confidence 0.500)
+Childe , Gordon  (Relevance 0.000 | Confidence 0.500)
+Chungara  (Relevance 0.000 | Confidence 0.500)
+Chungará  (Relevance 0.000 | Confidence 0.500)
+Clark  (Relevance 0.000 | Confidence 0.500)
+Clarkson  (Relevance 0.000 | Confidence 0.500)
+Corneil  (Relevance 0.000 | Confidence 0.500)
+Corneil1974  (Relevance 0.000 | Confidence 0.500)
+Cynthia M. Beall  (Relevance 0.000 | Confidence 0.500)
+Daniela Valenzuela  (Relevance 0.000 | Confidence 0.500)
+David Henley  (Relevance 0.000 | Confidence 0.500)
+Diane Summers  (Relevance 0.000 | Confidence 0.500)
+Dolpa-Juphal  (Relevance 0.000 | Confidence 0.500)
+Enelidolfo O ' Ryanl  (Relevance 0.000 | Confidence 0.500)
+Eric  (Relevance 0.000 | Confidence 0.500)
+Ernest Leroux  (Relevance 0.000 | Confidence 0.500)
+Fidel  (Relevance 0.000 | Confidence 0.500)
+Finkel  (Relevance 0.000 | Confidence 0.500)
+Fisher  (Relevance 0.000 | Confidence 0.500)
+Fisher , James F.  (Relevance 0.000 | Confidence 0.500)
+Flores Ochoa  (Relevance 0.000 | Confidence 0.500)
+Frank Förster  (Relevance 0.000 | Confidence 0.500)
+Fürer-Haimendorf , Christoph ( von  (Relevance 0.000 | Confidence 0.500)
+Goldstein  (Relevance 0.000 | Confidence 0.500)
+Goldstein and Beall  (Relevance 0.000 | Confidence 0.500)
+Gonzalo Pimentel  (Relevance 0.000 | Confidence 0.500)
+Heiko Riemer  (Relevance 0.000 | Confidence 0.500)
+Helina Woldekiros  (Relevance 0.000 | Confidence 0.500)
+Hervé Lecoq  (Relevance 0.000 | Confidence 0.500)
+Hesse Brian  (Relevance 0.000 | Confidence 0.500)
+J. Jennifer Luangsa-ard  (Relevance 0.000 | Confidence 0.500)
+Jae-Mo Sung  (Relevance 0.000 | Confidence 0.500)
+Javier Porus  (Relevance 0.000 | Confidence 0.500)
+Jean Dunoyer  (Relevance 0.000 | Confidence 0.500)
+Jenkins  (Relevance 0.000 | Confidence 0.500)
+Jest  (Relevance 0.000 | Confidence 0.500)
+Jonathan Grupper  (Relevance 0.000 | Confidence 0.500)
+Jorge  (Relevance 0.000 | Confidence 0.500)
+Jorsi Blassi  (Relevance 0.000 | Confidence 0.500)
+Joseph W. Spatafora  (Relevance 0.000 | Confidence 0.500)
+José  (Relevance 0.000 | Confidence 0.500)
+José Capriles  (Relevance 0.000 | Confidence 0.500)
+José M.  (Relevance 0.000 | Confidence 0.500)
+José M. Capriles  (Relevance 0.000 | Confidence 0.500)
+Jung Bahadur Rana  (Relevance 0.273 | Confidence 9.847)
+Kenneth Hirthand Joanne Pillsbury  (Relevance 0.000 | Confidence 0.500)
+Kevin  (Relevance 0.000 | Confidence 0.500)
+Khazanov  (Relevance 0.000 | Confidence 0.500)
+Kim MacQuarrie  (Relevance 0.287 | Confidence 1.557)
+Kitamura  (Relevance 0.000 | Confidence 0.500)
+Kling  (Relevance 0.000 | Confidence 0.500)
+Koch  (Relevance 0.000 | Confidence 0.500)
+Koch , Ulrike  (Relevance 0.000 | Confidence 0.500)
+Kurt F.  (Relevance 0.000 | Confidence 0.500)
+Lautaro Núñez  (Relevance 0.000 | Confidence 0.500)
+Lecoq , Patrice  (Relevance 0.000 | Confidence 0.500)
+Liesl  (Relevance 0.000 | Confidence 0.500)
+Luis Briones  (Relevance 0.000 | Confidence 0.500)
+Mark  (Relevance 0.000 | Confidence 0.500)
+Maïe  (Relevance 0.000 | Confidence 0.500)
+Melinda  (Relevance 0.000 | Confidence 0.500)
+Melvyn C.  (Relevance 0.000 | Confidence 0.500)
+Michael Frachetti  (Relevance 0.000 | Confidence 0.500)
+Michael Yamashita  (Relevance 0.000 | Confidence 0.500)
+Michaud  (Relevance 0.000 | Confidence 0.500)
+Michel Peissel  (Relevance 0.247 | Confidence 1.352)
+Miller  (Relevance 0.000 | Confidence 0.500)
+Miller , Daniel  (Relevance 0.000 | Confidence 0.500)
+Neville Dyson-Hudson  (Relevance 0.000 | Confidence 0.500)
+Nicholas  (Relevance 0.000 | Confidence 0.500)
+Nicholas Tripcevich  (Relevance 0.000 | Confidence 0.500)
+Nielsel , Axel  (Relevance 0.000 | Confidence 0.500)
+Nigel L. Hywel-Jones  (Relevance 0.000 | Confidence 0.500)
+Núñez  (Relevance 0.000 | Confidence 0.500)
+Orlove  (Relevance 0.000 | Confidence 0.500)
+Orlove , Benjamin  (Relevance 0.000 | Confidence 0.500)
+Patrice Lecoq  (Relevance 0.000 | Confidence 0.500)
+Peissel  (Relevance 0.000 | Confidence 0.500)
+Persis B.  (Relevance 0.000 | Confidence 0.500)
+Peter Bellwood  (Relevance 0.059 | Confidence 1.174)
+Rada  (Relevance 0.000 | Confidence 0.500)
+Rajendra Kumar  (Relevance 0.063 | Confidence 2.372)
+Ramble  (Relevance 0.000 | Confidence 0.500)
+Ratna  (Relevance 0.000 | Confidence 0.500)
+Richard H. Wilshusen  (Relevance 0.000 | Confidence 0.500)
+Ritter  (Relevance 0.000 | Confidence 0.500)
+Ritter , Hans  (Relevance 0.000 | Confidence 0.500)
+Roland  (Relevance 0.000 | Confidence 0.500)
+Royaume Tibétain  (Relevance 0.000 | Confidence 0.500)
+Sabrina Michaud  (Relevance 0.000 | Confidence 0.500)
+Sae-Hyung  (Relevance 0.000 | Confidence 0.500)
+Saltmen  (Relevance 0.042 | Confidence 1.787)
+Samadrog  (Relevance 0.000 | Confidence 0.500)
+Sarkar  (Relevance 0.000 | Confidence 0.500)
+Sergio Fidel  (Relevance 0.000 | Confidence 0.500)
+Sonampa  (Relevance 0.000 | Confidence 0.500)
+Steven Rosen  (Relevance 0.000 | Confidence 0.500)
+Summers  (Relevance 0.000 | Confidence 0.500)
+Sung  (Relevance 0.000 | Confidence 0.500)
+Sung Gi-H  (Relevance 0.000 | Confidence 0.500)
+Takali  (Relevance 0.000 | Confidence 0.500)
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+Thomas E. Levy  (Relevance 0.000 | Confidence 0.500)
+Thomas F. Lynch  (Relevance 0.000 | Confidence 0.500)
+Tim  (Relevance 0.000 | Confidence 0.500)
+Tripcevich  (Relevance 0.000 | Confidence 0.500)
+Valli and Summers  (Relevance 0.000 | Confidence 0.500)
+Vivien G. Standen  (Relevance 0.000 | Confidence 0.500)
+Williams  (Relevance 0.000 | Confidence 0.500)
+Wink  (Relevance 0.000 | Confidence 0.500)
+Ximena Loayza  (Relevance 0.000 | Confidence 0.500)
+Ximena Medinacelli  (Relevance 0.000 | Confidence 0.500)
+Yamashita  (Relevance 0.000 | Confidence 0.500)
+Zeder  (Relevance 0.000 | Confidence 0.500)
+durchs Dolpo  (Relevance 0.000 | Confidence 0.500)
+erner Yak Karawane  (Relevance 0.000 | Confidence 0.500)
+
+/people/place_of_interment
+──────────
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+
+/people/profession
+──────────
+Construction  (Relevance 0.131 | Confidence 1.507)
+Farmer  (Relevance 0.265 | Confidence 1.099)
+Monk  (Relevance 0.268 | Confidence 5.496)
+Porter (carrier)  (Relevance 0.273 | Confidence 1.230)
+Shepherd  (Relevance 0.347 | Confidence 2.393)
+
+/people/professional_field
+──────────
+Agriculture  (Relevance 0.388 | Confidence 3.883)
+Construction  (Relevance 0.131 | Confidence 1.507)
+
+/periodicals/newspaper_circulation_area
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Bengal  (Relevance 0.234 | Confidence 8.207)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Indian subcontinent  (Relevance 0.258 | Confidence 73.610)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Kathmandu  (Relevance 0.429 | Confidence 11.670)
+La Paz  (Relevance 0.196 | Confidence 3.734)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Marche  (Relevance 0.070 | Confidence 1.553)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/projects/project_focus
+──────────
+Culture  (Relevance 0.180 | Confidence 2.307)
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+University of Oxford  (Relevance 0.094 | Confidence 11.240)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/projects/project_participant
+──────────
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/protected_sites/listed_site
+──────────
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+Potosí  (Relevance 0.101 | Confidence 2.426)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/protected_sites/protected_site
+──────────
+Gandaki River  (Relevance 0.573 | Confidence 8.977)
+
+/protected_sites/site_listing_category
+──────────
+Transport  (Relevance 0.206 | Confidence 1.365)
+
+/radio/radio_subject
+──────────
+Evolution  (Relevance 0.198 | Confidence 15.080)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Religion  (Relevance 0.232 | Confidence 1.437)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/rail/railway_terminus
+──────────
+London  (Relevance 0.130 | Confidence 9.282)
+
+/religion/deity
+──────────
+Kali  (Relevance 0.168 | Confidence 3.400)
+Tutelary deity  (Relevance 0.363 | Confidence 12.220)
+Valli  (Relevance 0.157 | Confidence 1.558)
+
+/religion/founding_figure
+──────────
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+
+/religion/place_of_worship
+──────────
+Lumbini  (Relevance 0.590 | Confidence 6.204)
+Muktinath  (Relevance 0.363 | Confidence 12.010)
+
+/religion/religion
+──────────
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Gratitude  (Relevance 0.198 | Confidence 1.339)
+Hinduism  (Relevance 0.308 | Confidence 15.560)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+The Hindu  (Relevance 0.000 | Confidence 2.019)
+Tibetan Buddhism  (Relevance 0.185 | Confidence 41.930)
+
+/religion/religious_leader
+──────────
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+
+/religion/religious_leadership_jurisdiction
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+England  (Relevance 0.173 | Confidence 3.267)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/religion/religious_order
+──────────
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Tibetan Buddhism  (Relevance 0.185 | Confidence 41.930)
+
+/religion/religious_organization
+──────────
+Buddhism  (Relevance 0.342 | Confidence 35.890)
+Tibetan Buddhism  (Relevance 0.185 | Confidence 41.930)
+
+/religion/religious_practice
+──────────
+Prayer  (Relevance 0.400 | Confidence 6.113)
+Ritual  (Relevance 0.264 | Confidence 7.761)
+
+/religion/type_of_place_of_worship
+──────────
+Pathi  (Relevance 0.126 | Confidence 2.014)
+Shrine  (Relevance 0.428 | Confidence 6.236)
+Stupa  (Relevance 0.429 | Confidence 30.250)
+Temple  (Relevance 0.391 | Confidence 4.752)
+
+/royalty/chivalric_order_member
+──────────
+Jung Bahadur Rana  (Relevance 0.273 | Confidence 9.847)
+
+/royalty/kingdom
+──────────
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+China  (Relevance 0.295 | Confidence 7.816)
+Japan  (Relevance 0.042 | Confidence 33.150)
+
+/royalty/system_of_nobility
+──────────
+China  (Relevance 0.295 | Confidence 7.816)
+
+/spaceflight/rocket_engine_fuel
+──────────
+Kerosene  (Relevance 0.155 | Confidence 4.521)
+
+/spaceflight/rocket_fuel
+──────────
+Kerosene  (Relevance 0.155 | Confidence 4.521)
+
+/spaceflight/satellite_manufacturer
+──────────
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+
+/spaceflight/space_program_sponsor
+──────────
+South Korea  (Relevance 0.198 | Confidence 1.464)
+
+/sports/sport_country
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Peru  (Relevance 0.092 | Confidence 7.763)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/sports/sports_equipment
+──────────
+Boot  (Relevance 0.141 | Confidence 1.474)
+Foot  (Relevance 0.116 | Confidence 1.716)
+Horse  (Relevance 0.210 | Confidence 11.410)
+Rope  (Relevance 0.202 | Confidence 2.874)
+
+/sports/sports_team_location
+──────────
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Kathmandu  (Relevance 0.429 | Confidence 11.670)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/symbols/coat_of_arms_bearer
+──────────
+Mexico  (Relevance 0.099 | Confidence 23.690)
+
+/symbols/flag_referent
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Korea  (Relevance 0.194 | Confidence 12.360)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+New Mexico  (Relevance 0.181 | Confidence 9.472)
+Peru  (Relevance 0.092 | Confidence 7.763)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+Upper Mustang  (Relevance 0.886 | Confidence 3.730)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/symbols/name_source
+──────────
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+California  (Relevance 0.122 | Confidence 21.160)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+Hesse  (Relevance 0.108 | Confidence 3.786)
+Japan  (Relevance 0.042 | Confidence 33.150)
+La Paz  (Relevance 0.196 | Confidence 3.734)
+London  (Relevance 0.130 | Confidence 9.282)
+Maize  (Relevance 0.372 | Confidence 19.510)
+Massachusetts Institute of Technology  (Relevance 0.115 | Confidence 8.063)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Potosí  (Relevance 0.101 | Confidence 2.426)
+Radio  (Relevance 0.044 | Confidence 1.334)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+United States  (Relevance 0.103 | Confidence 9.471)
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/symbols/namesake
+──────────
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Cereal  (Relevance 0.635 | Confidence 5.873)
+Korea  (Relevance 0.194 | Confidence 12.360)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+
+/theater/theater_genre
+──────────
+Race and ethnicity in the United States census  (Relevance 0.097 | Confidence 1.201)
+
+/time/event
+──────────
+Annexation of Tibet by China  (Relevance 0.253 | Confidence 3.965)
+
+/time/holiday_category
+──────────
+Religion  (Relevance 0.232 | Confidence 1.437)
+
+/time_series/unit
+──────────
+Metre  (Relevance 0.108 | Confidence 0.981)
+
+/travel/accommodation_feature
+──────────
+Dinner  (Relevance 0.076 | Confidence 2.206)
+Fireplace  (Relevance 0.048 | Confidence 2.079)
+
+/travel/hotel_grading_authority
+──────────
+Forbes  (Relevance 0.095 | Confidence 5.393)
+
+/travel/tourist_attraction
+──────────
+Dumbarton Oaks  (Relevance 0.109 | Confidence 3.533)
+Ganges  (Relevance 0.329 | Confidence 1.138)
+Muktinath  (Relevance 0.363 | Confidence 12.010)
+
+/travel/transport_terminus
+──────────
+Beijing  (Relevance 0.283 | Confidence 12.870)
+
+/travel/transportation_mode
+──────────
+Bus  (Relevance 0.097 | Confidence 1.191)
+
+/travel/travel_destination
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Ann Arbor, Michigan  (Relevance 0.096 | Confidence 3.785)
+Argentina  (Relevance 0.220 | Confidence 20.670)
+Asia  (Relevance 0.333 | Confidence 20.140)
+Atacama Desert  (Relevance 0.188 | Confidence 2.331)
+Barcelona  (Relevance 0.132 | Confidence 7.615)
+Beijing  (Relevance 0.283 | Confidence 12.870)
+Berlin  (Relevance 0.086 | Confidence 12.870)
+Bhutan  (Relevance 0.359 | Confidence 14.330)
+Bolivia  (Relevance 0.191 | Confidence 12.740)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Buenos Aires  (Relevance 0.175 | Confidence 8.199)
+California  (Relevance 0.122 | Confidence 21.160)
+China  (Relevance 0.295 | Confidence 7.816)
+Córdoba, Argentina  (Relevance 0.158 | Confidence 4.385)
+England  (Relevance 0.173 | Confidence 3.267)
+France  (Relevance 0.161 | Confidence 1.881)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+Kathmandu  (Relevance 0.429 | Confidence 11.670)
+La Paz  (Relevance 0.196 | Confidence 3.734)
+Lhasa  (Relevance 0.355 | Confidence 10.300)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Lumbini  (Relevance 0.590 | Confidence 6.204)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Missoula, Montana  (Relevance 0.166 | Confidence 1.673)
+Montana  (Relevance 0.156 | Confidence 5.885)
+Nepal  (Relevance 0.513 | Confidence 12.610)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Pasto, Colombia  (Relevance 0.124 | Confidence 1.970)
+Peru  (Relevance 0.092 | Confidence 7.763)
+Pokhara  (Relevance 0.620 | Confidence 9.694)
+Potosí  (Relevance 0.101 | Confidence 2.426)
+Sichuan  (Relevance 0.262 | Confidence 11.480)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+Tibet  (Relevance 0.484 | Confidence 21.900)
+Tibet Autonomous Region  (Relevance 0.504 | Confidence 3.348)
+United States  (Relevance 0.103 | Confidence 9.471)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wisconsin  (Relevance 0.088 | Confidence 6.459)
+
+/tv/tv_genre
+──────────
+Animal  (Relevance 0.171 | Confidence 2.273)
+Food  (Relevance 0.411 | Confidence 1.795)
+Religion  (Relevance 0.232 | Confidence 1.437)
+Weather  (Relevance 0.136 | Confidence 4.382)
+
+/tv/tv_location
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Albuquerque, New Mexico  (Relevance 0.171 | Confidence 3.493)
+Boston  (Relevance 0.116 | Confidence 14.640)
+China  (Relevance 0.295 | Confidence 7.816)
+England  (Relevance 0.173 | Confidence 3.267)
+India  (Relevance 0.330 | Confidence 8.190)
+Japan  (Relevance 0.042 | Confidence 33.150)
+London  (Relevance 0.130 | Confidence 9.282)
+Los Angeles  (Relevance 0.084 | Confidence 12.060)
+Mexico  (Relevance 0.099 | Confidence 23.690)
+Paris  (Relevance 0.136 | Confidence 19.340)
+South Korea  (Relevance 0.198 | Confidence 1.464)
+United States  (Relevance 0.103 | Confidence 9.471)
+
+/tv/tv_network
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+Bayerischer Rundfunk  (Relevance 0.129 | Confidence 4.752)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+
+/tv/tv_producer
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+France 2  (Relevance 0.130 | Confidence 3.299)
+
+/tv/tv_program_creator
+──────────
+Arte  (Relevance 0.138 | Confidence 2.116)
+France 2  (Relevance 0.130 | Confidence 3.299)
+Korean Broadcasting System  (Relevance 0.098 | Confidence 2.471)
+United Nations  (Relevance 0.048 | Confidence 3.680)
+
+/tv/tv_subject
+──────────
+Africa  (Relevance 0.154 | Confidence 21.560)
+Animal  (Relevance 0.171 | Confidence 2.273)
+Animal husbandry  (Relevance 0.362 | Confidence 4.484)
+Cave  (Relevance 0.134 | Confidence 3.331)
+Cooking  (Relevance 0.151 | Confidence 6.294)
+Prayer  (Relevance 0.400 | Confidence 6.113)
+Religion  (Relevance 0.232 | Confidence 1.437)
+
+/type/unit
+──────────
+Metre  (Relevance 0.108 | Confidence 0.981)
+
+/venture_capital/venture_funded_company
+──────────
+Uber  (Relevance 0.059 | Confidence 2.369)
+
+/venture_capital/venture_investor
+──────────
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/visual_art/art_owner
+──────────
+University of California, Berkeley  (Relevance 0.112 | Confidence 1.476)
+
+/visual_art/art_subject
+──────────
+Animal  (Relevance 0.171 | Confidence 2.273)
+Bamboo  (Relevance 0.302 | Confidence 9.525)
+Beer  (Relevance 0.215 | Confidence 2.067)
+Boston  (Relevance 0.116 | Confidence 14.640)
+Butter  (Relevance 0.225 | Confidence 2.930)
+Cattle  (Relevance 0.239 | Confidence 16.690)
+Child  (Relevance 0.086 | Confidence 1.827)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Dog  (Relevance 0.210 | Confidence 1.129)
+Farmer  (Relevance 0.265 | Confidence 1.099)
+Fish  (Relevance 0.141 | Confidence 1.997)
+Food  (Relevance 0.411 | Confidence 1.795)
+Foot  (Relevance 0.116 | Confidence 1.716)
+France  (Relevance 0.161 | Confidence 1.881)
+Fruit  (Relevance 0.239 | Confidence 12.650)
+Hay  (Relevance 0.053 | Confidence 1.198)
+Horse  (Relevance 0.210 | Confidence 11.410)
+London  (Relevance 0.130 | Confidence 9.282)
+Mandala  (Relevance 0.470 | Confidence 6.851)
+Mountain  (Relevance 0.285 | Confidence 6.458)
+Paris  (Relevance 0.136 | Confidence 19.340)
+Relic  (Relevance 0.169 | Confidence 4.697)
+Sheep  (Relevance 0.397 | Confidence 16.160)
+Society  (Relevance 0.120 | Confidence 1.677)
+The Buddha  (Relevance 0.302 | Confidence 11.350)
+Washington, D.C.  (Relevance 0.085 | Confidence 17.510)
+Wealth  (Relevance 0.020 | Confidence 1.004)
+Wheat  (Relevance 0.336 | Confidence 18.410)
+
+/visual_art/visual_art_form
+──────────
+Fresco  (Relevance 0.275 | Confidence 3.421)
+
+/visual_art/visual_art_genre
+──────────
+Monument  (Relevance 0.050 | Confidence 2.489)
+
+/visual_art/visual_art_medium
+──────────
+Aluminium  (Relevance 0.216 | Confidence 11.270)
+Brick  (Relevance 0.126 | Confidence 1.011)
+Construction  (Relevance 0.131 | Confidence 1.507)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Cotton  (Relevance 0.199 | Confidence 14.390)
+Felt  (Relevance 0.321 | Confidence 2.443)
+Grass  (Relevance 0.032 | Confidence 5.689)
+Leather  (Relevance 0.163 | Confidence 7.548)
+Oak  (Relevance 0.071 | Confidence 1.484)
+Porcelain  (Relevance 0.143 | Confidence 6.405)
+Rope  (Relevance 0.202 | Confidence 2.874)
+Silk  (Relevance 0.139 | Confidence 9.983)
+Textile  (Relevance 0.197 | Confidence 1.377)
+Wood  (Relevance 0.153 | Confidence 1.035)
+Wool  (Relevance 0.287 | Confidence 11.170)
+
+/visual_art/visual_art_support
+──────────
+Aluminium  (Relevance 0.216 | Confidence 11.270)
+Copper  (Relevance 0.158 | Confidence 15.150)
+Porcelain  (Relevance 0.143 | Confidence 6.405)
+Textile  (Relevance 0.197 | Confidence 1.377)
+Wood  (Relevance 0.153 | Confidence 1.035)
+
+/wine/wine_region
+──────────
+California  (Relevance 0.122 | Confidence 21.160)
+
+Topics
+──────
+Changtang  (Score 1.000)
+Dolpo  (Score 1.000)
+Mustang District  (Score 1.000)
+Ophiocordyceps sinensis  (Score 1.000)
+Pastoralism  (Score 1.000)
+Upper Mustang  (Score 1.000)
+Yak  (Score 1.000)
+Tibet  (Score 1.000)
+Himalayas  (Score 1.000)
+Nepal  (Score 0.948)
+Cereal  (Score 0.916)
+Tibet Autonomous Region  (Score 0.877)
+Pokhara  (Score 0.861)
+Gandaki River  (Score 0.825)
+Salt  (Score 0.802)
+Nomad  (Score 0.767)
+Barley  (Score 0.746)
+Sheep  (Score 0.735)
+Goat  (Score 0.722)
+Shepherd  (Score 0.701)
+Yarlung Tsangpo  (Score 0.662)
+Lumbini  (Score 0.646)
+Tibetan Plateau  (Score 0.639)
+Stupa  (Score 0.636)
+Prayer  (Score 0.629)
+Maize  (Score 0.624)
+Nomadic pastoralism  (Score 0.617)
+Deity  (Score 0.615)
+Kathmandu  (Score 0.613)
+Annapurna (mountain range)  (Score 0.607)
+Salt road  (Score 0.607)
+Camel train  (Score 0.605)
+Rice  (Score 0.603)
+Buddhism  (Score 0.594)
+Tibetans  (Score 0.584)
+Buckwheat  (Score 0.581)
+Tea  (Score 0.562)
+Meat  (Score 0.557)
+Trade  (Score 0.555)
+Agriculture  (Score 0.555)
+Yak butter  (Score 0.547)
+Farmer  (Score 0.545)
+Livestock  (Score 0.545)
+Terai  (Score 0.544)
+Wheat  (Score 0.544)
+Silk Road  (Score 0.540)
+Kali Gandaki Gorge  (Score 0.539)
+Compressed tea  (Score 0.533)
+Herding  (Score 0.531)
+Lamb and mutton  (Score 0.522)
+India  (Score 0.518)
+Lhasa  (Score 0.516)
+Mandala  (Score 0.515)
+Millet  (Score 0.506)
+Humla District  (Score 0.506)
+Muktinath  (Score 0.506)
+China  (Score 0.494)
+Shrine  (Score 0.488)
+Barter  (Score 0.485)
+Tsampa  (Score 0.477)
+Asia  (Score 0.477)
+Food industry  (Score 0.476)
+Tutelary deity  (Score 0.464)
+Food  (Score 0.458)
+Yunnan  (Score 0.447)
+Sichuan  (Score 0.445)
+Desert  (Score 0.444)
+Domestication of vertebrates  (Score 0.435)
+Tea Horse Road  (Score 0.434)
+Domestication  (Score 0.430)
+Temple  (Score 0.428)
+Wool  (Score 0.426)
+Bhutan  (Score 0.425)
+Pilgrimage  (Score 0.423)
+Brahmaputra River  (Score 0.419)
+Cheese  (Score 0.415)
+The Buddha  (Score 0.412)
+Milk  (Score 0.411)
+Potato  (Score 0.405)
+Torma  (Score 0.400)
+Mule  (Score 0.398)
+Andes  (Score 0.398)
+Irrigation  (Score 0.397)
+Animal husbandry  (Score 0.397)
+Wild yak  (Score 0.385)
+International Council on Monuments and Sites  (Score 0.383)
+Reliquary  (Score 0.380)
+Monsoon  (Score 0.378)
+Pasture  (Score 0.369)
+Qinghai  (Score 0.365)
+Annapurna  (Score 0.361)
+Ganges  (Score 0.360)
+Annexation of Tibet by China  (Score 0.356)
+Pashmina (material)  (Score 0.352)
+Felt  (Score 0.351)
+Guanaco  (Score 0.351)
+Religion  (Score 0.350)
+Jumla District  (Score 0.348)
+Ritual  (Score 0.348)
+Herd  (Score 0.348)
+Village  (Score 0.344)
+Domesticated animals  (Score 0.344)
+Capra (genus)  (Score 0.343)
+Central Asia  (Score 0.340)
+Finger millet  (Score 0.339)
+Mount Kailash  (Score 0.338)
+Stream  (Score 0.338)
+Juniper  (Score 0.334)
+Michel Peissel  (Score 0.331)
+Bamboo  (Score 0.330)
+Archaeology  (Score 0.328)
+Valley  (Score 0.325)
+Hinduism  (Score 0.323)
+Clothing  (Score 0.321)
+Plant  (Score 0.318)
+Trail  (Score 0.317)
+Honey  (Score 0.316)
+Kim MacQuarrie  (Score 0.314)
+Donkey  (Score 0.314)
+Mountain  (Score 0.313)
+Butter  (Score 0.311)
+Beijing  (Score 0.310)
+Natural environment  (Score 0.308)
+Nobility  (Score 0.307)
+Commodity  (Score 0.306)
+Altiplano  (Score 0.304)
+Plateau  (Score 0.303)
+Fresco  (Score 0.301)
+Porter (carrier)  (Score 0.299)
+Jung Bahadur Rana  (Score 0.299)
+Horse  (Score 0.298)
+Natural resources  (Score 0.295)
+Monk  (Score 0.294)
+Demon  (Score 0.293)
+Animal  (Score 0.292)
+Landscape  (Score 0.291)
+Lake  (Score 0.286)
+South Korea  (Score 0.285)
+Frost  (Score 0.284)
+Primary sector of the economy  (Score 0.284)
+Cotton  (Score 0.283)
+Indian subcontinent  (Score 0.283)
+Meal  (Score 0.282)
+Bolivia  (Score 0.281)
+Champa  (Score 0.280)
+Animal keeping  (Score 0.280)
+Threshing  (Score 0.276)
+Annexation  (Score 0.270)
+Gansu  (Score 0.270)
+Bridle path  (Score 0.267)
+Rope  (Score 0.267)
+Grain  (Score 0.266)
+Southwestern China  (Score 0.265)
+Foods  (Score 0.265)
+Auction  (Score 0.264)
+Fruit  (Score 0.262)
+Cattle  (Score 0.262)
+Paris  (Score 0.260)
+Initiation  (Score 0.259)
+Wind  (Score 0.258)
+Bengal  (Score 0.256)
+Karakoram  (Score 0.256)
+Faith  (Score 0.256)
+Tent  (Score 0.255)
+Human–animal interaction  (Score 0.251)
+Eastern Himalayas  (Score 0.250)
+Kali  (Score 0.250)
+Culture  (Score 0.249)
+Lute  (Score 0.246)
+Bag  (Score 0.245)
+South Asia  (Score 0.245)
+Ophiocordyceps  (Score 0.245)
+Fungus  (Score 0.244)
+Pillow  (Score 0.244)
+Food ingredients  (Score 0.243)
+Breakfast  (Score 0.243)
+Caterpillar  (Score 0.243)
+Argentina  (Score 0.240)
+Silk  (Score 0.240)
+Paddy field  (Score 0.238)
+Sewing  (Score 0.237)
+Vicuña  (Score 0.237)
+Continent  (Score 0.237)
+Beer  (Score 0.236)
+Leather  (Score 0.236)
+Sling (weapon)  (Score 0.234)
+Wood  (Score 0.233)
+Ethnobiology  (Score 0.233)
+Cave dweller  (Score 0.231)
+Dog  (Score 0.230)
+Grains  (Score 0.230)
+Cave  (Score 0.228)
+Staple foods  (Score 0.227)
+Animals  (Score 0.226)
+Transport  (Score 0.226)
+Crops  (Score 0.224)
+Fortification  (Score 0.223)
+Saddle  (Score 0.221)
+Gratitude  (Score 0.217)
+Evolution  (Score 0.217)
+Coat  (Score 0.216)
+Textile  (Score 0.215)
+Ant  (Score 0.215)
+La Paz  (Score 0.214)
+UNESCO  (Score 0.214)
+Korea  (Score 0.212)
+Monopoly  (Score 0.210)
+Tobacco  (Score 0.209)
+Sodium  (Score 0.207)
+Llama  (Score 0.207)
+London  (Score 0.207)
+Borax  (Score 0.207)
+Alpaca  (Score 0.207)
+Atacama Desert  (Score 0.206)
+Ket people  (Score 0.205)
+Trousers  (Score 0.204)
+Iodised salt  (Score 0.203)
+Tibetan Buddhism  (Score 0.202)
+Feces  (Score 0.202)
+Aluminium  (Score 0.201)
+Food watchlist articles  (Score 0.201)
+Eurasian nomads  (Score 0.201)
+New Mexico  (Score 0.199)
+Bivouac shelter  (Score 0.197)
+Artificial objects  (Score 0.196)
+Ruins  (Score 0.196)
+Rain  (Score 0.194)
+Geography of Tibet  (Score 0.194)
+Rosary  (Score 0.192)
+Buenos Aires  (Score 0.191)
+Monsoon of South Asia  (Score 0.191)
+Marpha  (Score 0.190)
+Humans and other species  (Score 0.190)
+England  (Score 0.189)
+Ecosystem  (Score 0.189)
+Agricultural production  (Score 0.188)
+Albuquerque, New Mexico  (Score 0.187)
+Agronomy  (Score 0.187)
+Buddhists  (Score 0.185)
+Relic  (Score 0.185)
+Road  (Score 0.184)
+Missoula, Montana  (Score 0.182)
+Organisms  (Score 0.179)
+Sugar  (Score 0.179)
+Trade route  (Score 0.177)
+Earth sciences  (Score 0.177)
+California  (Score 0.176)
+France  (Score 0.176)
+Exoticism  (Score 0.176)
+Steppe  (Score 0.174)
+Zoology  (Score 0.174)
+Córdoba, Argentina  (Score 0.174)
+Climate  (Score 0.172)
+Montana  (Score 0.171)
+Voyageurs  (Score 0.171)
+Copper  (Score 0.171)
+Cereals  (Score 0.170)
+Kerosene  (Score 0.170)
+Africa  (Score 0.169)
+Saint  (Score 0.167)
+Altitude  (Score 0.166)
+Smoked meat  (Score 0.166)
+Cooking  (Score 0.165)
+Construction  (Score 0.165)
+Pea  (Score 0.163)
+Rock music  (Score 0.162)
+Grain trade  (Score 0.162)
+Zagros Mountains  (Score 0.162)
+Universe  (Score 0.162)
+Ganges Basin  (Score 0.162)
+Ravine  (Score 0.161)
+Flour  (Score 0.158)
+Porcelain  (Score 0.157)
+Pokhara Valley  (Score 0.157)
+Reindeer  (Score 0.156)
+Rana dynasty  (Score 0.156)
+Mycology  (Score 0.156)
+Dhaulagiri  (Score 0.155)
+Boot  (Score 0.154)
+Fish  (Score 0.154)
+Future  (Score 0.153)
+Species  (Score 0.153)
+Height above mean sea level  (Score 0.152)
+Dumbarton Oaks  (Score 0.151)
+Arte  (Score 0.151)
+Tukuche  (Score 0.149)
+Exchange rate  (Score 0.149)
+Weather  (Score 0.149)
+Food science  (Score 0.149)
+Foot  (Score 0.149)
+Airport  (Score 0.149)
+Valli  (Score 0.148)
+Sodium carbonate  (Score 0.147)
+Tribute  (Score 0.147)
+Primary industries  (Score 0.145)
+Kingdoms (biology)  (Score 0.145)
+Barcelona  (Score 0.145)
+Cake  (Score 0.145)
+Turnip  (Score 0.145)
+Symbol  (Score 0.144)
+Complex system  (Score 0.144)
+France 2  (Score 0.142)
+Agricultural science  (Score 0.142)
+Bayerischer Rundfunk  (Score 0.142)
+Brick  (Score 0.138)
+University of Cambridge  (Score 0.138)
+Animal feed  (Score 0.138)
+Pasto, Colombia  (Score 0.136)
+Dagger  (Score 0.135)
+Glasses  (Score 0.135)
+Carbonate  (Score 0.135)
+Physical geography  (Score 0.135)
+Sanctuary  (Score 0.134)
+Perennial  (Score 0.134)
+Taste  (Score 0.133)
+Ear  (Score 0.132)
+Society  (Score 0.132)
+WGBH Educational Foundation  (Score 0.130)
+Los Andes, Chile  (Score 0.130)
+Hearth  (Score 0.130)
+Biology  (Score 0.130)
+Nomads  (Score 0.128)
+Boston  (Score 0.127)
+Shrestha  (Score 0.124)
+Cigarette  (Score 0.123)
+University of California, Berkeley  (Score 0.123)
+Types of cheese  (Score 0.122)
+Economy  (Score 0.122)
+Massachusetts Institute of Technology  (Score 0.119)
+Four corners of the world  (Score 0.119)
+Hesse  (Score 0.119)
+University of Montana  (Score 0.119)
+Metre  (Score 0.118)
+Dust  (Score 0.118)
+Itinerant living  (Score 0.118)
+Heat  (Score 0.113)
+United States  (Score 0.113)
+Plant agriculture  (Score 0.112)
+Wool animals  (Score 0.110)
+Potosí  (Score 0.110)
+Organization  (Score 0.110)
+Planet  (Score 0.109)
+Pathi  (Score 0.109)
+Lautaro (volcano)  (Score 0.108)
+ProQuest  (Score 0.108)
+Economic development  (Score 0.108)
+Mexico  (Score 0.108)
+Korean Broadcasting System  (Score 0.107)
+Bus  (Score 0.107)
+University of New Mexico Press  (Score 0.106)
+Spirituality  (Score 0.106)
+Race and ethnicity in the United States census  (Score 0.106)
+Ann Arbor, Michigan  (Score 0.106)
+Space  (Score 0.105)
+Forbes  (Score 0.105)
+Language  (Score 0.105)
+Diaspora  (Score 0.103)
+University of Oxford  (Score 0.103)
+Peru  (Score 0.101)
+Bowl  (Score 0.101)
+Blanket  (Score 0.100)
+Edible plants  (Score 0.097)
+Cuisine  (Score 0.095)
+Natural materials  (Score 0.092)
+People in agriculture  (Score 0.082)
+Nature  (Score 0.082)
+Animal products  (Score 0.080)
+Commercial farming  (Score 0.080)
+Pack animals  (Score 0.072)
+Plants  (Score 0.071)
+Industries (economics)  (Score 0.069)
+Animal migration  (Score 0.066)
+Geomorphology  (Score 0.064)
+Plant crops  (Score 0.059)
+Poaceae  (Score 0.055)
+Ovis  (Score 0.053)
+Bos  (Score 0.052)
+Materials  (Score 0.051)
+Yaks  (Score 0.050)
+Biogeography  (Score 0.050)

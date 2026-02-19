@@ -91,13 +91,19 @@
 
 import textrazor
 import os
+import argparse
+import sys
 from collections import defaultdict
 
 # === CONFIGURATION ===
 textrazor.api_key = "864276b8fd6c183c43d0244bf5926cb31275c7d30097228a089a0e25"
-input_file       = "/home/samagra-bharti/Desktop/Research/corpus/Santiago_Lazcano.txt"
-output_file      = "textrazor_results.txt"
 chunk_size_bytes = 190 * 1024                      # ≈ 190 KB
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Run TextRazor NER on a text file.")
+    parser.add_argument("--input", required=True, help="Path to input text file.")
+    parser.add_argument("--output", required=True, help="Path to output results file.")
+    return parser.parse_args()
 
 # === Initialise client ===
 client = textrazor.TextRazor(extractors=["entities", "topics"])
@@ -155,29 +161,38 @@ def process_chunk(text, num, size_kb):
         for topic in resp.topics():
             safe_write(out, f"{topic.label}  (Score {topic.score:.3f})", last)
 
-# === Paragraph-safe chunking loop ===
-with open(input_file, encoding="utf-8") as fh:
-    paragraphs = fh.read().split("\n\n")
+# === Main execution ===
+if __name__ == "__main__":
+    args = parse_args()
+    input_file = args.input
+    output_file = args.output
 
-if os.path.exists(output_file):
-    os.remove(output_file)
+    if os.path.exists(output_file):
+        os.remove(output_file)
+    
+    # Ensure output file exists even if no text is processed
+    open(output_file, 'a').close()
 
-chunk_text, chunk_size, chunk_num = "", 0, 1
-for p in paragraphs:
-    p = p.strip()
-    if not p:
-        continue
-    p_bytes = len(p.encode("utf-8"))
-    if chunk_size + p_bytes <= chunk_size_bytes:
-        chunk_text += p + "\n\n"
-        chunk_size += p_bytes
-    else:
+    # === Paragraph-safe chunking loop ===
+    with open(input_file, encoding="utf-8") as fh:
+        paragraphs = fh.read().split("\n\n")
+
+    chunk_text, chunk_size, chunk_num = "", 0, 1
+    for p in paragraphs:
+        p = p.strip()
+        if not p:
+            continue
+        p_bytes = len(p.encode("utf-8"))
+        if chunk_size + p_bytes <= chunk_size_bytes:
+            chunk_text += p + "\n\n"
+            chunk_size += p_bytes
+        else:
+            process_chunk(chunk_text, chunk_num, chunk_size / 1024)
+            chunk_num += 1
+            chunk_text, chunk_size = p + "\n\n", p_bytes
+
+    # final leftover
+    if chunk_text.strip():
         process_chunk(chunk_text, chunk_num, chunk_size / 1024)
-        chunk_num += 1
-        chunk_text, chunk_size = p + "\n\n", p_bytes
 
-# final leftover
-if chunk_text.strip():
-    process_chunk(chunk_text, chunk_num, chunk_size / 1024)
-
-print("=== All chunks processed – results saved to", output_file)
+    print("=== All chunks processed – results saved to", output_file)

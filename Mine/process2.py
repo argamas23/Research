@@ -64,12 +64,23 @@ def aggregate_cooccurrences(corpus_words, selected_entities, selected_topic_map,
 
     return anchor_data
 
-def main():
-    corpus_file = input("Enter path to corpus TXT file: ").strip()
-    ner_file = input("Enter path to NER file: ").strip()
+import argparse
 
-    selected_topics = load_topic_list("Selected_Topics.txt")
-    all_topics = load_topic_list("unique_topics.txt")
+def main():
+    parser = argparse.ArgumentParser(description="Aggregate entity co-occurrences.")
+    parser.add_argument("--corpus_file", required=True, help="Path to corpus text file.")
+    parser.add_argument("--ner_file", required=True, help="Path to NER results file.")
+    parser.add_argument("--selected_topics", required=True, help="Path to selected topics file.")
+    parser.add_argument("--all_topics", required=True, help="Path to all unique topics file.")
+    parser.add_argument("--output_file", required=True, help="Path to output entity co-occurrences file.")
+    args = parser.parse_args()
+
+    corpus_file = args.corpus_file
+    ner_file = args.ner_file
+    output_file = args.output_file
+
+    selected_topics = load_topic_list(args.selected_topics)
+    all_topics = load_topic_list(args.all_topics)
 
     print("\nParsing NER file...")
     topic_entities_map = parse_ner_file(ner_file)
@@ -99,9 +110,9 @@ def main():
         all_entity_topic_map
     )
 
-    print(f"\nWriting results to {OUTPUT_FILE}...")
+    print(f"\nWriting results to {output_file}...")
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as out:
+    with open(output_file, 'w', encoding='utf-8') as out:
         for anchor, data in anchor_data.items():
             out.write(f"Anchor Entity: {anchor} [{data['topic']}]\n")
             out.write("Example Context:\n")
@@ -113,7 +124,7 @@ def main():
                 out.write(f"  ↳ {entity} [{topic}] — {count} times\n")
             out.write("-" * 80 + "\n")
 
-    print("✔ Done. Results saved to 'entity_cooccurrences.txt'.")
+    print(f"✔ Done. Results saved to '{output_file}'.")
 
 if __name__ == "__main__":
     main()

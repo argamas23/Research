@@ -25,9 +25,16 @@ def save_topics_to_file(topics, output_path):
         for topic in sorted(topics):
             f.write(f"/{topic}\n")
 
+import argparse
+
 def main():
-    ner_path = input("Enter path to NER file: ").strip()
-    output_path = "unique_topics.txt"
+    parser = argparse.ArgumentParser(description="Extract and update unique topics from NER results.")
+    parser.add_argument("--ner_file", required=True, help="Path to NER results file.")
+    parser.add_argument("--output_file", required=True, help="Path to output unique topics file.")
+    args = parser.parse_args()
+
+    ner_path = args.ner_file
+    output_path = args.output_file
 
     print("\n[1] Extracting new topics from NER...")
     new_topics = extract_topics_from_ner_file(ner_path)

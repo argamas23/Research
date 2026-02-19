@@ -6,9 +6,7 @@ import time
 from collections import defaultdict
 
 # --- Configuration ---
-CORPUS_FILE = "/home/samagra-bharti/Desktop/Research/corpus/Santiago_Lazcano.txt"
-COOCC_FILE = "/home/samagra-bharti/Desktop/Research/Mine/entity_cooccurrences.txt"
-TOPICS_FILE = "Selected_Topics.txt"
+# Global defaults (can be overridden by args)
 MODEL_NAME = "llama3"
 
 # --- 1. Helper Functions ---
@@ -72,7 +70,21 @@ def extract_triples_ollama(chunk, topics):
 
 # --- 3. Main Pipeline ---
 
+import argparse
+
 def main():
+    parser = argparse.ArgumentParser(description="Extract triples using LLM.")
+    parser.add_argument("--corpus_file", required=True, help="Path to corpus text file.")
+    parser.add_argument("--coocc_file", required=True, help="Path to entity co-occurrences file.")
+    parser.add_argument("--topics_file", required=True, help="Path to selected topics file.")
+    parser.add_argument("--output_file", required=True, help="Path to output CSV file.")
+    args = parser.parse_args()
+
+    CORPUS_FILE = args.corpus_file
+    COOCC_FILE = args.coocc_file
+    TOPICS_FILE = args.topics_file
+    OUTPUT_FILE = args.output_file
+
     print("Step 1: Loading resources...")
     topics = load_topics(TOPICS_FILE)
     anchor_pairs = load_anchor_pairs(COOCC_FILE)
@@ -112,7 +124,7 @@ def main():
                 master_graph[(s, r, o)] += 1
 
     print("Step 3: Saving weighted graph...")
-    with open("weighted_knowledge_graph.csv", "w", newline="", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["Source", "Relation", "Target", "Weight"])
         for (s, r, o), weight in sorted(master_graph.items(), key=lambda x: x[1], reverse=True):
