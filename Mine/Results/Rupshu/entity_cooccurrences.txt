@@ -1,0 +1,1147 @@
+Anchor Entity: salt [/food/ingredient]
+Example Context:
+...The Salt Trade: Rupshu’s Annual Trek to Tso Kar Monisha Ahmed It was growing dark in Tharchen’s stone-walled store-house at Thugje, but preparations were still under way for the salt march the next day. While Angchuk was busy collecting saddle-bags and repairing holes in them, Tharchen searched for rope. Some bags were...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tso [/location/location] — 58 times
+  ↳ kar [/location/location] — 43 times
+  ↳ rupshupa [/organization/organization] — 40 times
+  ↳ lake [/geography/lake_type] — 37 times
+  ↳ trade [/organization/organization_sector] — 36 times
+  ↳ tibet [/travel/travel_destination] — 28 times
+  ↳ rupshu [/location/location] — 27 times
+  ↳ ladakh [/travel/travel_destination] — 19 times
+  ↳ sheep [/visual_art/art_subject] — 15 times
+  ↳ tent [/business/industry] — 12 times
+  ↳ beall [/people/person] — 11 times
+  ↳ paper [/visual_art/visual_art_support] — 9 times
+  ↳ baba [/location/location] — 9 times
+  ↳ goldstein [/people/person] — 9 times
+  ↳ livestock [/business/industry] — 8 times
+  ↳ angchuk [/people/person] — 7 times
+  ↳ kharnak [/location/statistical_region] — 7 times
+  ↳ ocean [/symbols/namesake] — 7 times
+  ↳ kashmir [/location/statistical_region] — 6 times
+  ↳ azem [/people/person] — 6 times
+  ↳ price [/media_common/quotation_subject] — 6 times
+  ↳ tibetans [/people/ethnicity] — 5 times
+  ↳ legend [/media_common/quotation_subject] — 5 times
+  ↳ wazir-e-wazarat [/location/location] — 5 times
+  ↳ tea [/media_common/quotation_subject] — 5 times
+  ↳ geologist [/projects/project_role] — 4 times
+  ↳ thugje [/location/location] — 4 times
+  ↳ wool [/visual_art/visual_art_medium] — 4 times
+  ↳ snow [/book/book_subject] — 4 times
+  ↳ leather [/visual_art/visual_art_medium] — 4 times
+  ↳ yak [/biology/organism_classification] — 4 times
+  ↳ reason [/media_common/quotation_subject] — 4 times
+  ↳ blood [/medicine/biofluid] — 4 times
+  ↳ tharchen [/location/location] — 3 times
+  ↳ francke [/people/person] — 3 times
+  ↳ kyeltse [/location/location] — 3 times
+  ↳ mindum [/location/location] — 3 times
+  ↳ grain [/food/food] — 3 times
+  ↳ barley [/medicine/drug_ingredient] — 3 times
+  ↳ skardu [/location/statistical_region] — 3 times
+  ↳ baltistan [/location/statistical_region] — 3 times
+  ↳ valley [/geography/geographical_feature_category] — 3 times
+  ↳ stomach [/medicine/anatomical_structure] — 3 times
+  ↳ milk [/location/symbol_of_administrative_division] — 3 times
+  ↳ monastery [/religion/type_of_place_of_worship] — 3 times
+  ↳ word [/tv/tv_subject] — 2 times
+  ↳ mtsho [/location/location] — 2 times
+  ↳ economy [/media_common/media_genre] — 2 times
+  ↳ food [/visual_art/art_subject] — 2 times
+  ↳ chemdi [/location/location] — 2 times
+  ↳ changpa [/people/ethnicity] — 2 times
+  ↳ qinghai [/location/statistical_region] — 2 times
+  ↳ east [/people/person] — 2 times
+  ↳ central [/location/location] — 2 times
+  ↳ zanskar [/location/location] — 2 times
+  ↳ leh [/travel/travel_destination] — 2 times
+  ↳ ladakhis [/people/ethnicity] — 2 times
+  ↳ india [/tv/tv_location] — 2 times
+  ↳ lama [/people/profession] — 2 times
+  ↳ lopchak [/location/location] — 2 times
+  ↳ animal [/visual_art/art_subject] — 2 times
+  ↳ rup-shupa [/people/person] — 1 times
+  ↳ spelling [/internet/website_category] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+  ↳ cease [/people/person] — 1 times
+  ↳ sea [/visual_art/art_subject] — 1 times
+  ↳ ladakh-tibet [/location/location] — 1 times
+  ↳ tsag [/location/location] — 1 times
+  ↳ axe [/business/product_category] — 1 times
+  ↳ ownership [/organization/role] — 1 times
+  ↳ hemis [/location/statistical_region] — 1 times
+  ↳ compromise [/media_common/quotation_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tso [/location/location]
+Example Context:
+...The Salt Trade: Rupshu’s Annual Trek to Tso Kar Monisha Ahmed It was growing dark in Tharchen’s stone-walled store-house at Thugje, but preparations were still under way for the salt march the next day. While Angchuk was busy collecting saddle-bags and repairing holes in them, Tharchen searched for rope. Some bags were beyond repair and these were discarded,...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 31 times
+  ↳ kar [/location/location] — 25 times
+  ↳ lake [/geography/lake_type] — 18 times
+  ↳ rupshu [/location/location] — 17 times
+  ↳ rupshupa [/organization/organization] — 12 times
+  ↳ tibet [/travel/travel_destination] — 8 times
+  ↳ sheep [/visual_art/art_subject] — 8 times
+  ↳ trade [/organization/organization_sector] — 6 times
+  ↳ ladakh [/travel/travel_destination] — 5 times
+  ↳ ownership [/organization/role] — 5 times
+  ↳ kharnak [/location/statistical_region] — 5 times
+  ↳ paper [/visual_art/visual_art_support] — 4 times
+  ↳ livestock [/business/industry] — 4 times
+  ↳ camping [/organization/club_interest] — 3 times
+  ↳ hemis [/location/statistical_region] — 3 times
+  ↳ angchuk [/people/person] — 2 times
+  ↳ word [/tv/tv_subject] — 2 times
+  ↳ mtsho [/location/location] — 2 times
+  ↳ tibetans [/people/ethnicity] — 2 times
+  ↳ tent [/business/industry] — 2 times
+  ↳ baba [/location/location] — 2 times
+  ↳ geologist [/projects/project_role] — 2 times
+  ↳ legend [/media_common/quotation_subject] — 2 times
+  ↳ nose [/medicine/anatomical_structure] — 2 times
+  ↳ tea [/media_common/quotation_subject] — 2 times
+  ↳ wazir-e-wazarat [/location/location] — 2 times
+  ↳ lopchak [/location/location] — 2 times
+  ↳ stomach [/medicine/anatomical_structure] — 2 times
+  ↳ animal [/visual_art/art_subject] — 2 times
+  ↳ tharchen [/location/location] — 1 times
+  ↳ rup-shupa [/people/person] — 1 times
+  ↳ francke [/people/person] — 1 times
+  ↳ spelling [/internet/website_category] — 1 times
+  ↳ economy [/media_common/media_genre] — 1 times
+  ↳ zanskar [/location/location] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ ladakhis [/people/ethnicity] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ lama [/people/profession] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ leh [/travel/travel_destination] — 1 times
+  ↳ blood [/medicine/biofluid] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: kar [/location/location]
+Example Context:
+...The Salt Trade: Rupshu’s Annual Trek to Tso Kar Monisha Ahmed It was growing dark in Tharchen’s stone-walled store-house at Thugje, but preparations were still under way for the salt march the next day. While Angchuk was busy collecting saddle-bags and repairing holes in them, Tharchen searched for rope. Some bags were beyond repair and these were discarded, yet...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tso [/location/location] — 19 times
+  ↳ salt [/food/ingredient] — 17 times
+  ↳ lake [/geography/lake_type] — 8 times
+  ↳ rupshu [/location/location] — 7 times
+  ↳ tibet [/travel/travel_destination] — 5 times
+  ↳ rupshupa [/organization/organization] — 5 times
+  ↳ trade [/organization/organization_sector] — 4 times
+  ↳ sheep [/visual_art/art_subject] — 4 times
+  ↳ paper [/visual_art/visual_art_support] — 3 times
+  ↳ kharnak [/location/statistical_region] — 3 times
+  ↳ angchuk [/people/person] — 2 times
+  ↳ ladakh [/travel/travel_destination] — 2 times
+  ↳ tea [/media_common/quotation_subject] — 2 times
+  ↳ lopchak [/location/location] — 2 times
+  ↳ stomach [/medicine/anatomical_structure] — 2 times
+  ↳ ownership [/organization/role] — 2 times
+  ↳ livestock [/business/industry] — 2 times
+  ↳ tharchen [/location/location] — 1 times
+  ↳ rup-shupa [/people/person] — 1 times
+  ↳ francke [/people/person] — 1 times
+  ↳ spelling [/internet/website_category] — 1 times
+  ↳ word [/tv/tv_subject] — 1 times
+  ↳ mtsho [/location/location] — 1 times
+  ↳ economy [/media_common/media_genre] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ geologist [/projects/project_role] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ nose [/medicine/anatomical_structure] — 1 times
+  ↳ legend [/media_common/quotation_subject] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ wazir-e-wazarat [/location/location] — 1 times
+  ↳ leh [/travel/travel_destination] — 1 times
+  ↳ hemis [/location/statistical_region] — 1 times
+  ↳ baba [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: angchuk [/people/person]
+Example Context:
+...The Salt Trade: Rupshu’s Annual Trek to Tso Kar Monisha Ahmed It was growing dark in Tharchen’s stone-walled store-house at Thugje, but preparations were still under way for the salt march the next day. While Angchuk was busy collecting saddle-bags and repairing holes in them, Tharchen searched for rope. Some bags were beyond repair and these were discarded, yet others were full with the previous year’s salt (tshwa). These were quickly emptied, and added to the heap of bags. By nightfall, the brothers had amassed a...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 2 times
+  ↳ tso [/location/location] — 2 times
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ tharchen [/location/location] — 1 times
+  ↳ reason [/media_common/quotation_subject] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ goldstein [/people/person] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tharchen [/location/location]
+Example Context:
+...The Salt Trade: Rupshu’s Annual Trek to Tso Kar Monisha Ahmed It was growing dark in Tharchen’s stone-walled store-house at Thugje, but preparations were still under way for the salt march the next day. While Angchuk was busy collecting saddle-bags and repairing holes in them, Tharchen searched for rope. Some bags were beyond repair and these were discarded, yet others were full with the previous year’s salt (tshwa). These were quickly emptied, and added to the heap of bags. By nightfall, the brothers had amassed a pile of twenty-five saddle-bags and were now ready to make...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 1 times
+  ↳ angchuk [/people/person] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: ladakh [/travel/travel_destination]
+Example Context:
+...yet others were full with the previous year’s salt (tshwa). These were quickly emptied, and added to the heap of bags. By nightfall, the brothers had amassed a pile of twenty-five saddle-bags and were now ready to make the journey to Tso Kar. One of the main salt lakes in Ladakh is Tso Kar, and this lies within Rupshu.' While the lake is renowned throughout Ladakh for its salt today, this has not always been the case. It was only after Ladakh’s border with Tibet closed in the early 1960s that Tso Kar became the focus as a source for salt....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 9 times
+  ↳ tibet [/travel/travel_destination] — 7 times
+  ↳ rupshupa [/organization/organization] — 5 times
+  ↳ trade [/organization/organization_sector] — 4 times
+  ↳ kar [/location/location] — 3 times
+  ↳ tso [/location/location] — 3 times
+  ↳ rupshu [/location/location] — 3 times
+  ↳ kashmir [/location/statistical_region] — 3 times
+  ↳ lake [/geography/lake_type] — 2 times
+  ↳ food [/visual_art/art_subject] — 2 times
+  ↳ chemdi [/location/location] — 2 times
+  ↳ changpa [/people/ethnicity] — 2 times
+  ↳ qinghai [/location/statistical_region] — 2 times
+  ↳ east [/people/person] — 2 times
+  ↳ livestock [/business/industry] — 2 times
+  ↳ central [/location/location] — 2 times
+  ↳ beall [/people/person] — 2 times
+  ↳ lower [/location/location] — 2 times
+  ↳ snow [/book/book_subject] — 2 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ kyeltse [/location/location] — 1 times
+  ↳ mindum [/location/location] — 1 times
+  ↳ barley [/medicine/drug_ingredient] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+  ↳ ladakh-tibet [/location/location] — 1 times
+  ↳ cease [/people/person] — 1 times
+  ↳ zanskar [/location/location] — 1 times
+  ↳ wazir-e-wazarat [/location/location] — 1 times
+  ↳ francke [/people/person] — 1 times
+  ↳ compromise [/media_common/quotation_subject] — 1 times
+  ↳ kharnak [/location/statistical_region] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: lake [/geography/lake_type]
+Example Context:
+...were quickly emptied, and added to the heap of bags. By nightfall, the brothers had amassed a pile of twenty-five saddle-bags and were now ready to make the journey to Tso Kar. One of the main salt lakes in Ladakh is Tso Kar, and this lies within Rupshu.' While the lake is renowned throughout Ladakh for its salt today, this has not always been the case. It was only after Ladakh’s border with Tibet closed in the early 1960s that Tso Kar became the focus as a source for salt. Prior to this the Rupshupa had rarely, if ever, attempted to...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 27 times
+  ↳ tso [/location/location] — 22 times
+  ↳ kar [/location/location] — 15 times
+  ↳ rupshupa [/organization/organization] — 7 times
+  ↳ rupshu [/location/location] — 7 times
+  ↳ tibet [/travel/travel_destination] — 4 times
+  ↳ word [/tv/tv_subject] — 4 times
+  ↳ mtsho [/location/location] — 4 times
+  ↳ paper [/visual_art/visual_art_support] — 4 times
+  ↳ india [/tv/tv_location] — 4 times
+  ↳ rup-shupa [/people/person] — 3 times
+  ↳ francke [/people/person] — 3 times
+  ↳ spelling [/internet/website_category] — 3 times
+  ↳ trade [/organization/organization_sector] — 3 times
+  ↳ leh [/travel/travel_destination] — 3 times
+  ↳ ladakhis [/people/ethnicity] — 3 times
+  ↳ geologist [/projects/project_role] — 3 times
+  ↳ axe [/business/product_category] — 3 times
+  ↳ sheep [/visual_art/art_subject] — 2 times
+  ↳ baba [/location/location] — 2 times
+  ↳ tsag [/location/location] — 2 times
+  ↳ legend [/media_common/quotation_subject] — 2 times
+  ↳ livestock [/business/industry] — 2 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ leather [/visual_art/visual_art_medium] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ yak [/biology/organism_classification] — 1 times
+  ↳ camping [/organization/club_interest] — 1 times
+  ↳ ownership [/organization/role] — 1 times
+  ↳ kharnak [/location/statistical_region] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tibet [/travel/travel_destination]
+Example Context:
+...now ready to make the journey to Tso Kar. One of the main salt lakes in Ladakh is Tso Kar, and this lies within Rupshu.' While the lake is renowned throughout Ladakh for its salt today, this has not always been the case. It was only after Ladakh’s border with Tibet closed in the early 1960s that Tso Kar became the focus as a source for salt. Prior to this the Rupshupa had rarely, if ever, attempted to remove salt from the lake. In fact, many of them go so far as to claim that there was no salt there. Others...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 9 times
+  ↳ ladakh [/travel/travel_destination] — 6 times
+  ↳ rupshupa [/organization/organization] — 5 times
+  ↳ trade [/organization/organization_sector] — 5 times
+  ↳ kar [/location/location] — 4 times
+  ↳ lake [/geography/lake_type] — 4 times
+  ↳ tso [/location/location] — 4 times
+  ↳ rupshu [/location/location] — 4 times
+  ↳ paper [/visual_art/visual_art_support] — 2 times
+  ↳ beall [/people/person] — 2 times
+  ↳ lower [/location/location] — 2 times
+  ↳ rup-shupa [/people/person] — 1 times
+  ↳ francke [/people/person] — 1 times
+  ↳ spelling [/internet/website_category] — 1 times
+  ↳ kyeltse [/location/location] — 1 times
+  ↳ mindum [/location/location] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ central [/location/location] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+  ↳ ladakh-tibet [/location/location] — 1 times
+  ↳ cease [/people/person] — 1 times
+  ↳ sea [/visual_art/art_subject] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ reason [/media_common/quotation_subject] — 1 times
+  ↳ ocean [/symbols/namesake] — 1 times
+  ↳ goldstein [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: rupshupa [/organization/organization]
+Example Context:
+...this lies within Rupshu.' While the lake is renowned throughout Ladakh for its salt today, this has not always been the case. It was only after Ladakh’s border with Tibet closed in the early 1960s that Tso Kar became the focus as a source for salt. Prior to this the Rupshupa had rarely, if ever, attempted to remove salt from the lake. In fact, many of them go so far as to claim that there was no salt there. Others said that there was salt there, but that it was not good for human consumption and so they fed it only...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 14 times
+  ↳ tso [/location/location] — 8 times
+  ↳ trade [/organization/organization_sector] — 8 times
+  ↳ rupshu [/location/location] — 6 times
+  ↳ kar [/location/location] — 5 times
+  ↳ lake [/geography/lake_type] — 5 times
+  ↳ tibet [/travel/travel_destination] — 4 times
+  ↳ ladakh [/travel/travel_destination] — 4 times
+  ↳ mountain [/visual_art/art_subject] — 3 times
+  ↳ sheep [/visual_art/art_subject] — 2 times
+  ↳ lower [/location/location] — 2 times
+  ↳ legend [/media_common/quotation_subject] — 2 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ economy [/media_common/media_genre] — 1 times
+  ↳ kyeltse [/location/location] — 1 times
+  ↳ mindum [/location/location] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ zanskar [/location/location] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ leh [/travel/travel_destination] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ lama [/people/profession] — 1 times
+  ↳ geologist [/projects/project_role] — 1 times
+  ↳ thugje [/location/location] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ animal [/visual_art/art_subject] — 1 times
+  ↳ price [/media_common/quotation_subject] — 1 times
+  ↳ ocean [/symbols/namesake] — 1 times
+  ↳ goldstein [/people/person] — 1 times
+  ↳ beall [/people/person] — 1 times
+  ↳ blood [/medicine/biofluid] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: francke [/people/person]
+Example Context:
+...it because they got all the salt they wanted from Tibet 1. All government records and most previous literature on the area have given the spelling of the lake as Tso Kar (ntsho dkar). This has led many people to refer to the lake as ‘White Lake’ (Cunningham 1854: 140, Francke 1910: 61). However, the Rup-shupa said that they never referred to the lake by that name and it was only because everyone else called it this that they also began to do so. There are two lakes in the area, and according to them they distinguished between the two lakes...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ kar [/location/location] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ rup-shupa [/people/person] — 1 times
+  ↳ spelling [/internet/website_category] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: rup-shupa [/people/person]
+Example Context:
+...the salt they wanted from Tibet 1. All government records and most previous literature on the area have given the spelling of the lake as Tso Kar (ntsho dkar). This has led many people to refer to the lake as ‘White Lake’ (Cunningham 1854: 140, Francke 1910: 61). However, the Rup-shupa said that they never referred to the lake by that name and it was only because everyone else called it this that they also began to do so. There are two lakes in the area, and according to them they distinguished between the two lakes by calling them fresh water...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ francke [/people/person] — 1 times
+  ↳ spelling [/internet/website_category] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: mtsho [/location/location]
+Example Context:
+...water lake (slant mtsho), and salt water lake (though salt water is known as tshwa chu, the lake is called dug mtsho). They said that the name Tso Kar came about as the result of the word they used to refer to the path between the two lakes, which is mtsho gar. However, this paper follows the convention and refers to the lake as Tso Kar. Rupshu lies in the eastern part of Ladakh, on the edge of the Changthang (byang gang) or ‘Northern Plateau’.’ It is one of the highest inhabited regions in the area with altitudes ranging from 12,000...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 1 times
+  ↳ word [/tv/tv_subject] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ tso [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: paper [/business/consumer_product]
+Example Context:
+...and salt water lake (though salt water is known as tshwa chu, the lake is called dug mtsho). They said that the name Tso Kar came about as the result of the word they used to refer to the path between the two lakes, which is mtsho gar. However, this paper follows the convention and refers to the lake as Tso Kar. Rupshu lies in the eastern part of Ladakh, on the edge of the Changthang (byang gang) or ‘Northern Plateau’.’ It is one of the highest inhabited regions in the area with altitudes ranging from 12,000 to 17,000 feet. The...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 3 times
+  ↳ salt [/food/ingredient] — 3 times
+  ↳ tso [/location/location] — 3 times
+  ↳ rupshu [/location/location] — 2 times
+  ↳ lake [/geography/lake_type] — 2 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ tibet [/travel/travel_destination] — 2 times
+  ↳ word [/tv/tv_subject] — 1 times
+  ↳ mtsho [/location/location] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ economy [/media_common/media_genre] — 1 times
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: rupshu [/location/location]
+Example Context:
+...the lake is called dug mtsho). They said that the name Tso Kar came about as the result of the word they used to refer to the path between the two lakes, which is mtsho gar. However, this paper follows the convention and refers to the lake as Tso Kar. Rupshu lies in the eastern part of Ladakh, on the edge of the Changthang (byang gang) or ‘Northern Plateau’.’ It is one of the highest inhabited regions in the area with altitudes ranging from 12,000 to 17,000 feet. The Rupshupa are pastoral nomads, and they herd sheep (lug), goats (ra ma),...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 19 times
+  ↳ tso [/location/location] — 15 times
+  ↳ kharnak [/location/statistical_region] — 13 times
+  ↳ kar [/location/location] — 10 times
+  ↳ lake [/geography/lake_type] — 6 times
+  ↳ rupshupa [/organization/organization] — 5 times
+  ↳ tent [/business/industry] — 5 times
+  ↳ ladakh [/travel/travel_destination] — 4 times
+  ↳ ownership [/organization/role] — 4 times
+  ↳ hemis [/location/statistical_region] — 4 times
+  ↳ sheep [/visual_art/art_subject] — 3 times
+  ↳ trade [/organization/organization_sector] — 3 times
+  ↳ tibet [/travel/travel_destination] — 3 times
+  ↳ compromise [/media_common/quotation_subject] — 3 times
+  ↳ paper [/visual_art/visual_art_support] — 2 times
+  ↳ livestock [/business/industry] — 2 times
+  ↳ camping [/organization/club_interest] — 2 times
+  ↳ word [/tv/tv_subject] — 1 times
+  ↳ mtsho [/location/location] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ kyeltse [/location/location] — 1 times
+  ↳ mindum [/location/location] — 1 times
+  ↳ barley [/medicine/drug_ingredient] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+  ↳ ladakh-tibet [/location/location] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+  ↳ blood [/medicine/biofluid] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: sheep [/food/ingredient]
+Example Context:
+...lake as Tso Kar. Rupshu lies in the eastern part of Ladakh, on the edge of the Changthang (byang gang) or ‘Northern Plateau’.’ It is one of the highest inhabited regions in the area with altitudes ranging from 12,000 to 17,000 feet. The Rupshupa are pastoral nomads, and they herd sheep (lug), goats (ra ma), and yaks (g.yag). Their economy is based on the trade in livestock, salt, pashmina, and wool. This paper presents Rupshu’s yearly trek to Tso Kar and describes the method by which the removal of salt is organised. The first section examines the former status of the...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 8 times
+  ↳ tso [/location/location] — 5 times
+  ↳ rupshu [/location/location] — 4 times
+  ↳ kar [/location/location] — 3 times
+  ↳ rupshupa [/organization/organization] — 3 times
+  ↳ animal [/visual_art/art_subject] — 3 times
+  ↳ lake [/geography/lake_type] — 2 times
+  ↳ livestock [/business/industry] — 2 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ economy [/media_common/media_genre] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ milk [/location/symbol_of_administrative_division] — 1 times
+  ↳ yak [/biology/organism_classification] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: mindum [/location/location]
+Example Context:
+...with salt. The trade in salt in Ladakh was such that Tibetan Changpas would bring it to Ladakh,’ or the Changpas within Ladakh, from places such as Rupshu, would go to Tibet to collect salt. Each year, after New Year (lo gsar) the Rupshupa would make the journey to the Mindum and Kyeltse salt lakes in Western Tibet. Men with large herds would take about 200 to 300 sheep, while those with smaller herds would generally accompany them working in exchange for this favour. Once back in Rupshu they would first take the salt to trade in exchange for barley grain...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ kyeltse [/location/location] — 1 times
+  ↳ barley [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: kyeltse [/location/location]
+Example Context:
+...The trade in salt in Ladakh was such that Tibetan Changpas would bring it to Ladakh,’ or the Changpas within Ladakh, from places such as Rupshu, would go to Tibet to collect salt. Each year, after New Year (lo gsar) the Rupshupa would make the journey to the Mindum and Kyeltse salt lakes in Western Tibet. Men with large herds would take about 200 to 300 sheep, while those with smaller herds would generally accompany them working in exchange for this favour. Once back in Rupshu they would first take the salt to trade in exchange for barley grain (nas) in...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ mindum [/location/location] — 1 times
+  ↳ barley [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: barley [/food/ingredient]
+Example Context:
+...the Mindum and Kyeltse salt lakes in Western Tibet. Men with large herds would take about 200 to 300 sheep, while those with smaller herds would generally accompany them working in exchange for this favour. Once back in Rupshu they would first take the salt to trade in exchange for barley grain (nas) in Zanskar. According to Rizvi, the salt was coveted by the Zanskaris as: Even the poorest cultivator, whose fields and livestock barely yielded subsistence for himself and his family had no choice but to keep a little barley aside for the Rupshupa, as the only alternative to eating...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ grain [/food/food] — 2 times
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ livestock [/business/industry] — 2 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ kyeltse [/location/location] — 1 times
+  ↳ mindum [/location/location] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ central [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: grain [/food/food]
+Example Context:
+...Mindum and Kyeltse salt lakes in Western Tibet. Men with large herds would take about 200 to 300 sheep, while those with smaller herds would generally accompany them working in exchange for this favour. Once back in Rupshu they would first take the salt to trade in exchange for barley grain (nas) in Zanskar. According to Rizvi, the salt was coveted by the Zanskaris as: Even the poorest cultivator, whose fields and livestock barely yielded subsistence for himself and his family had no choice but to keep a little barley aside for the Rupshupa, as the only alternative to eating saltless...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ kyeltse [/location/location] — 1 times
+  ↳ mindum [/location/location] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ barley [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: food [/business/product_line]
+Example Context:
+...(nas) in Zanskar. According to Rizvi, the salt was coveted by the Zanskaris as: Even the poorest cultivator, whose fields and livestock barely yielded subsistence for himself and his family had no choice but to keep a little barley aside for the Rupshupa, as the only alternative to eating saltless food — an unthinkable prospect. It was not only the people — their livestock too required salt. (Rizvi, in press) 2. Changthang spans a thousand miles from Ladakh in the west, across Central and North Tibet, to the Chinese province of Qinghai in the east (Goldstein and Beall 1990: 41). 3....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ ladakh [/travel/travel_destination] — 2 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ central [/location/location] — 1 times
+  ↳ beall [/people/person] — 1 times
+  ↳ barley [/medicine/drug_ingredient] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+  ↳ tso [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: central [/location/location]
+Example Context:
+...choice but to keep a little barley aside for the Rupshupa, as the only alternative to eating saltless food — an unthinkable prospect. It was not only the people — their livestock too required salt. (Rizvi, in press) 2. Changthang spans a thousand miles from Ladakh in the west, across Central and North Tibet, to the Chinese province of Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ beall [/people/person] — 1 times
+  ↳ barley [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: qinghai [/location/location]
+Example Context:
+...the Rupshupa, as the only alternative to eating saltless food — an unthinkable prospect. It was not only the people — their livestock too required salt. (Rizvi, in press) 2. Changthang spans a thousand miles from Ladakh in the west, across Central and North Tibet, to the Chinese province of Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ central [/location/location] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: east [/people/person]
+Example Context:
+...the only alternative to eating saltless food — an unthinkable prospect. It was not only the people — their livestock too required salt. (Rizvi, in press) 2. Changthang spans a thousand miles from Ladakh in the west, across Central and North Tibet, to the Chinese province of Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ central [/location/location] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: beall [/people/person]
+Example Context:
+...to eating saltless food — an unthinkable prospect. It was not only the people — their livestock too required salt. (Rizvi, in press) 2. Changthang spans a thousand miles from Ladakh in the west, across Central and North Tibet, to the Chinese province of Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tibet [/travel/travel_destination] — 3 times
+  ↳ salt [/food/ingredient] — 3 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ goldstein [/people/person] — 2 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ central [/location/location] — 1 times
+  ↳ ocean [/symbols/namesake] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ reason [/media_common/quotation_subject] — 1 times
+  ↳ angchuk [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: chemdi [/location/location]
+Example Context:
+...prospect. It was not only the people — their livestock too required salt. (Rizvi, in press) 2. Changthang spans a thousand miles from Ladakh in the west, across Central and North Tibet, to the Chinese province of Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later in the year, usually in August, the...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ central [/location/location] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: changpa [/people/ethnicity]
+Example Context:
+...too required salt. (Rizvi, in press) 2. Changthang spans a thousand miles from Ladakh in the west, across Central and North Tibet, to the Chinese province of Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later in the year, usually in August, the Rupshupa would travel to the annual fair held at Dozum,...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ central [/location/location] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: kashmir [/location/location]
+Example Context:
+...of Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later in the year, usually in August, the Rupshupa would travel to the annual fair held at Dozum, near Himachal, and trade their salt for tea, sugar, spices, rice, and other food products. Dozum was a fair ground to which traders came from Rupshu,...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ ladakh [/travel/travel_destination] — 2 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ beall [/people/person] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ wazir-e-wazarat [/location/location] — 1 times
+  ↳ francke [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: valley [/geography/geographical_feature_category]
+Example Context:
+...Qinghai in the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later in the year, usually in August, the Rupshupa would travel to the annual fair held at Dozum, near Himachal, and trade their salt for tea, sugar, spices, rice, and other food products. Dozum was a fair ground to which traders came from Rupshu, Tibet,...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ qinghai [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ beall [/people/person] — 1 times
+  ↳ nose [/medicine/anatomical_structure] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ tso [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: skardu [/location/location]
+Example Context:
+...the east (Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later in the year, usually in August, the Rupshupa would travel to the annual fair held at Dozum, near Himachal, and trade their salt for tea, sugar, spices, rice, and other food products. Dozum was a fair ground to which traders came from Rupshu, Tibet, Zanskar, Ladakh,...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ east [/people/person] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: baltistan [/location/location]
+Example Context:
+...(Goldstein and Beall 1990: 41). 3. The fair at Chemdi in Ladakh is widely remembered for the presence of Changpa from Tibet who mainly brought salt to trade. Further, Rupshu’s salt did not stop in Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later in the year, usually in August, the Rupshupa would travel to the annual fair held at Dozum, near Himachal, and trade their salt for tea, sugar, spices, rice, and other food products. Dozum was a fair ground to which traders came from Rupshu, Tibet, Zanskar, Ladakh, Kulu, Chamba,...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ chemdi [/location/location] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ changpa [/people/ethnicity] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: dozum [/location/location]
+Example Context:
+...Zanskar, but eventually found its way as far as the Kashmir Valley and Skardu in Baltistan (ibid). Later in the year, usually in August, the Rupshupa would travel to the annual fair held at Dozum, near Himachal, and trade their salt for tea, sugar, spices, rice, and other food products. Dozum was a fair ground to which traders came from Rupshu, Tibet, Zanskar, Ladakh, Kulu, Chamba, Lahaul, and Rampur. In addition, farmers from Lower Ladakh (or Sham) would come to Rupshu with apricots, grain, walnuts, and white radish to trade for salt. This system of trade continued until the extension of...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ skardu [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ baltistan [/location/statistical_region] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+  ↳ valley [/geography/geographical_feature_category] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: lower [/location/location]
+Example Context:
+...August, the Rupshupa would travel to the annual fair held at Dozum, near Himachal, and trade their salt for tea, sugar, spices, rice, and other food products. Dozum was a fair ground to which traders came from Rupshu, Tibet, Zanskar, Ladakh, Kulu, Chamba, Lahaul, and Rampur. In addition, farmers from Lower Ladakh (or Sham) would come to Rupshu with apricots, grain, walnuts, and white radish to trade for salt. This system of trade continued until the extension of Communist China’s rule over Tibet in the 1950s. The subsequent closure of the Ladakh-Tibet border not only affected trade in the region, but...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ rupshupa [/organization/organization] — 2 times
+  ↳ tibet [/travel/travel_destination] — 2 times
+  ↳ ladakh [/travel/travel_destination] — 2 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+  ↳ ladakh-tibet [/location/location] — 1 times
+  ↳ cease [/people/person] — 1 times
+  ↳ zanskar [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: radish [/food/ingredient]
+Example Context:
+...and trade their salt for tea, sugar, spices, rice, and other food products. Dozum was a fair ground to which traders came from Rupshu, Tibet, Zanskar, Ladakh, Kulu, Chamba, Lahaul, and Rampur. In addition, farmers from Lower Ladakh (or Sham) would come to Rupshu with apricots, grain, walnuts, and white radish to trade for salt. This system of trade continued until the extension of Communist China’s rule over Tibet in the 1950s. The subsequent closure of the Ladakh-Tibet border not only affected trade in the region, but also led to the building of roads. This resulted in the introduction of vehicular...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ food [/visual_art/art_subject] — 1 times
+  ↳ dozum [/location/location] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ ladakh-tibet [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: ladakh-tibet [/location/location]
+Example Context:
+...Kulu, Chamba, Lahaul, and Rampur. In addition, farmers from Lower Ladakh (or Sham) would come to Rupshu with apricots, grain, walnuts, and white radish to trade for salt. This system of trade continued until the extension of Communist China’s rule over Tibet in the 1950s. The subsequent closure of the Ladakh-Tibet border not only affected trade in the region, but also led to the building of roads. This resulted in the introduction of vehicular traffic which led in turn to the abandonment of the old trading routes. At the same time, ration depots were opened, stocked with foodgrains and sea salt...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ sea [/visual_art/art_subject] — 1 times
+  ↳ radish [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: sea [/geography/geographical_feature_category]
+Example Context:
+...the Ladakh-Tibet border not only affected trade in the region, but also led to the building of roads. This resulted in the introduction of vehicular traffic which led in turn to the abandonment of the old trading routes. At the same time, ration depots were opened, stocked with foodgrains and sea salt brought up from the plains and sold at highly subsidised rates. The first of Rupshu’s trading journeys to cease was the one to Tibet for salt. However, though they turned to salt-producing lakes within Rupshu, they no longer felt the need to make the journey to the fair at...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ cease [/people/person] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh-tibet [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: cease [/people/person]
+Example Context:
+...in the introduction of vehicular traffic which led in turn to the abandonment of the old trading routes. At the same time, ration depots were opened, stocked with foodgrains and sea salt brought up from the plains and sold at highly subsidised rates. The first of Rupshu’s trading journeys to cease was the one to Tibet for salt. However, though they turned to salt-producing lakes within Rupshu, they no longer felt the need to make the journey to the fair at Dozum, as foodgrains and other commodities now came to them via the ration trucks. The farmers from Lower Ladakh also...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ sea [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: zanskar [/location/location]
+Example Context:
+...the need to make the journey to the fair at Dozum, as foodgrains and other commodities now came to them via the ration trucks. The farmers from Lower Ladakh also gradually stopped coming to Rupshu, and the few that still do, now make the journey by jeep. The trade with Zanskar was the last to stop and continued for another ten to fifteen years, ending as recently as the late eighties. Since the last thirty-five years the Rupshupa have been collecting salt from Tso Kar. Before then many of them claim that there was no salt in the lake. The next...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ lower [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ tso [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tibetans [/people/ethnicity]
+Example Context:
+...thirty-five years the Rupshupa have been collecting salt from Tso Kar. Before then many of them claim that there was no salt in the lake. The next section explores the issue of how salt was ‘found’ there. The ‘discovery’ of salt When people could no longer travel to Tibet and Tibetans began settling locally, there was among them an old man named Azem. One winter, it is said, Azem went to Tso Kar and took out salt from the lake. He loaded this onto his sheep and was taking them to his tent when some people from Rupshu saw him. They...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 1 times
+  ↳ azem [/people/person] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ sheep [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: azem [/people/person]
+Example Context:
+...there was no salt in the lake. The next section explores the issue of how salt was ‘found’ there. The ‘discovery’ of salt When people could no longer travel to Tibet and Tibetans began settling locally, there was among them an old man named Azem. One winter, it is said, Azem went to Tso Kar and took out salt from the lake. He loaded this onto his sheep and was taking them to his tent when some people from Rupshu saw him. They ran after him, and when they saw the salt they were curious to know where he had got...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ rupshu [/location/location] — 3 times
+  ↳ salt [/food/ingredient] — 3 times
+  ↳ tent [/business/industry] — 3 times
+  ↳ kar [/location/location] — 2 times
+  ↳ tso [/location/location] — 2 times
+  ↳ sheep [/visual_art/art_subject] — 2 times
+  ↳ rupshupa [/organization/organization] — 2 times
+  ↳ leh [/travel/travel_destination] — 2 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: leh [/travel/travel_destination]
+Example Context:
+...they were curious to know where he had got it from. Azem showed us, and then we had our own salt here. While some of the Rupshupa credit Azem with ‘discovering’ salt, another version ascribes it to the intervention of the Geological Survey of India. Once the Survey people from Leh came here. They did some tests on the water in the lake. We think they put something in the lake because after that we started getting salt. But whatever it was they put in the lake we don’t know. The other thing was that after that the lake never again...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ azem [/people/person] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ lopchak [/location/location] — 1 times
+  ↳ kar [/location/location] — 1 times
+  ↳ stomach [/medicine/anatomical_structure] — 1 times
+  ↳ tso [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: ladakhis [/people/ethnicity]
+Example Context:
+...the lake. We think they put something in the lake because after that we started getting salt. But whatever it was they put in the lake we don’t know. The other thing was that after that the lake never again froze in winter! This account is also reiterated by other Ladakhis and Tsering Dorjey, Leh’s Assistant Commissioner, stated: Though at first there was no salt at Tso Kar, it only came about when the Geological Survey came and put some medicine in the lake, then salt began forming in the lake. Yet another version, maintained by the former palace trader (nkhar...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: baba [/location/location]
+Example Context:
+...Dorjey, Leh’s Assistant Commissioner, stated: Though at first there was no salt at Tso Kar, it only came about when the Geological Survey came and put some medicine in the lake, then salt began forming in the lake. Yet another version, maintained by the former palace trader (nkhar tsong pa) Baba Siddique, is that there was always a little salt in the lake but the people did not eat it because it was not considered to be as good as what came from Tibet? He added that it was some tourists who put ‘medicine’ in the lake and then the salt...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tso [/location/location] — 2 times
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ kar [/location/location] — 1 times
+  ↳ tea [/media_common/quotation_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: india [/travel/travel_destination]
+Example Context:
+...lake but the people did not eat it because it was not considered to be as good as what came from Tibet? He added that it was some tourists who put ‘medicine’ in the lake and then the salt became good. I have my doubts whether the Geological Survey of India or the tourists actually put something in the lake. Perhaps the Survey ran some tests at the lake that showed that the salt there was suitable for human consumption. According to the geologist J. T. Gergan, Tso Kar is a lake that is drying up, with the result that its...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ geologist [/projects/project_role] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: geologist [/people/profession]
+Example Context:
+...the lake and then the salt became good. I have my doubts whether the Geological Survey of India or the tourists actually put something in the lake. Perhaps the Survey ran some tests at the lake that showed that the salt there was suitable for human consumption. According to the geologist J. T. Gergan, Tso Kar is a lake that is drying up, with the result that its salinity is increasing and more salt is being formed. While the Rupshupa may claim that it was only in the late fifties that they learnt about the presence of salt at Tso Kar,...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: lama [/people/profession]
+Example Context:
+...formed. While the Rupshupa may claim that it was only in the late fifties that they learnt about the presence of salt at Tso Kar, other accounts disagree with this. There is a local legend that talks of the origin of the salt lake, and attributes its creation to a lama called Yulsa Gespo. Yulsa Gespo took the form of a poor, old man and decided to go to Korzok because there was a zhabs bro (song and dance) going on there. He very much wanted to join in the dancing, but none of the girls would give him their hand...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ legend [/media_common/quotation_subject] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tea [/food/ingredient]
+Example Context:
+...small lakes that are at Tso Kar today. One is fresh water, the other salt. As Yulsa Gespo walked on his way he got tired and thirsty, and decided to stop for a rest. He made some tea, and as he was pouring it into his cup some of the tea spilt on to the ground. This formed the lake, Khajang Kuru. Finally he reached Korzok. He searched for the only girl there who had been good to him and told her that her uncle, who lived at the top of the mountain, was calling her, and that she should hurry...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 2 times
+  ↳ tso [/location/location] — 2 times
+  ↳ baba [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tsag [/location/location]
+Example Context:
+...he reached Korzok. He searched for the only girl there who had been good to him and told her that her uncle, who lived at the top of the mountain, was calling her, and that she should hurry up and go to him. Then he walked up another mountain, called Tsag Shang, and from the top of it he let out all the water from his mouth. Everybody at Korzok drowned, except for the girl who had been kind to him. And that was how the lake Tsomoriri was formed. While this narrative confirms the presence of the salt lake at...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: thugje [/location/location]
+Example Context:
+...salt was removed from there. However, another legend recounts a form of silent trade that went on between the Rupshupa and sbas hung mi (people of the hidden valley). It is said that at one time there used to be a sbas lung yul (village in a hidden valley) near Thugje Gompa. There is a mountain over there called ri dmar po (red mountain), and we used to be told that the sbas lung mi lived over there. The old people said that sometimes when they were herding their livestock on that mountain they could see these people. Just for a...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ mountain [/visual_art/art_subject] — 1 times
+  ↳ legend [/media_common/quotation_subject] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ kharnak [/location/statistical_region] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ monastery [/religion/type_of_place_of_worship] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: mountain [/geography/geographical_feature_category]
+Example Context:
+...However, another legend recounts a form of silent trade that went on between the Rupshupa and sbas hung mi (people of the hidden valley). It is said that at one time there used to be a sbas lung yul (village in a hidden valley) near Thugje Gompa. There is a mountain over there called ri dmar po (red mountain), and we used to be told that the sbas lung mi lived over there. The old people said that sometimes when they were herding their livestock on that mountain they could see these people. Just for a moment they would see a...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ rupshupa [/organization/organization] — 2 times
+  ↳ thugje [/location/location] — 2 times
+  ↳ livestock [/business/industry] — 2 times
+  ↳ legend [/media_common/quotation_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: wool [/fashion/fiber]
+Example Context:
+...the ground, near the red mountain. When they returned the next day the salt would be gone and in its place their saddle-bags would be filled with grain. Abi Yangzom recollected that she had heard it said that when these sbas lung mi did not have enough salt they grew wool on their face and hands.’ This idea continues to be common in Rupshu, and many there believe that if they do not eat enough salt they will grow ‘wool’ on their face and body. This silent trade with the sbas lung mi does not necessarily imply that the salt was...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: wazir-e-wazarat [/location/location]
+Example Context:
+...do not eat enough salt they will grow ‘wool’ on their face and body. This silent trade with the sbas lung mi does not necessarily imply that the salt was from Tso Kar. One of the first mentions of the procurement of salt from Tso Kar is made by Drew, Wazir-e-Wazarat (Urdu: governor) of Ladakh in 1871: The salt is removed from this place by the Champas, and fresh salt forms; the deposit is best and most plentiful when a good dry season succeeds the snow melting. It is consumed all over Ladakh, and is carried as far as Kashmir (1875:...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ kar [/location/location] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ladakh [/travel/travel_destination] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ kashmir [/location/statistical_region] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: lopchak [/location/location]
+Example Context:
+...that the water there is strongly saline and that the local people collect salt, he says that it is fit only for cattle. His is the only version that coincides with those of the elders in both Leh and Rupshu. The late Tonyot Shah, a trader and envoy on Ladakh’s Lopchak mission to Tibet, stated that they never ate the salt from Tso Kar because it used to make one’s stomach swell up (personal communication, Leh, April 1992). Based on these conflicting accounts it is difficult to deduce the events concerning the removal of salt from Tso Kar before the 1960s....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kar [/location/location] — 1 times
+  ↳ leh [/travel/travel_destination] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ stomach [/medicine/anatomical_structure] — 1 times
+  ↳ tso [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: milk [/food/ingredient]
+Example Context:
+...relatively few and so prefer to use their more numerous sheep and goats. However, it is customary to take only the male livestock because the female are usually not strong enough to carry the weight of the salt. Further, women rarely accompany the men and so there is nobody to milk them. Only men attend the salt march, and it is mandatory for each tent to send at least one man to collect his share of the salt. Men who do not appear at the salt march are still responsible for ensuring that their share of the salt is collected, and...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ tent [/business/industry] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: leather [/business/product_ingredient]
+Example Context:
+...that their share of the salt is collected, and in their absence this duty generally falls on a relative. Once the salt lake is reached the men first pitch their tents, fortify themselves with tea, and prepare themselves for the work ahead. Some put on rubber boots, others remove their leather ones and roll up their trousers. A few wear sun-glasses to cut the glare of the sun reflecting from the white surface of the salt flat. They gather their tools, which consist of pick axes, shovels, and large tins. For the purposes of salt collection the men are divided into...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: axe [/business/product_category]
+Example Context:
+...safeguard the lake and its precincts; while the second is to ensure the peaceful removal of salt from the lake, as described here. In the centre of the lake the kotwal presides over a meeting of the heads of the four chu lag. With the pointed edge of a pick axe he draws a line across the surface of the lake, dividing it into roughly four equal parts. Then he takes out a pair of dice and rolls them between the four chu dpon. The chu dpon with the highest number decides which quarter of the lake his men will remove...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: yak [/biology/animal]
+Example Context:
+...the tins and unload them on to the bank, and bring them back again to the lake (Fig. 1). While the men may work together, they will each pile their salt in separate heaps. Towards evening, when the work is over, each man marks his pile of salt with a yak or sheep horn, an old boot, a twig, or a saddle-bag,so that they can tell them apart. The salt is then left overnight on the sides of the lake. The next day, the salt is allowed to dry in the sun before it is packed into the saddle-bags. Each man...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: hemis [/location/location]
+Example Context:
+...claim to Tso Kar. As evidence, Rupshu points out that their traditional camping grounds are located nearby, as is their monastery, Thugje, and that old land records preserved in the archival and revenue offices in Leh, dating back to 1908, demonstrate their ownership of Tso Kar. Kharnak, however, backed by Hemis Gompa—the largest and one of the wealthiest monasteries in Ladakh—had long been encroaching upon Rupshu’s land from the west. In 1982, an agreement was concluded between Kharnak and Rupshu under the supervision of the Assistant Commissioner of Nyoma, stipulating that Rupshu must supply Kharnak, with 8,000 kilograms of salt annually....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ kharnak [/location/statistical_region] — 2 times
+  ↳ rupshu [/location/location] — 2 times
+  ↳ tso [/location/location] — 2 times
+  ↳ camping [/organization/club_interest] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ ownership [/organization/role] — 1 times
+  ↳ kar [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: kharnak [/location/location]
+Example Context:
+...preserved in the archival and revenue offices in Leh, dating back to 1908, demonstrate their ownership of Tso Kar. Kharnak, however, backed by Hemis Gompa—the largest and one of the wealthiest monasteries in Ladakh—had long been encroaching upon Rupshu’s land from the west. In 1982, an agreement was concluded between Kharnak and Rupshu under the supervision of the Assistant Commissioner of Nyoma, stipulating that Rupshu must supply Kharnak, with 8,000 kilograms of salt annually. In exchange for this Kharnak must pay Rupshu Rs.400. This agreement was drawn up for a period of five years, but after it expired Kharnak once again...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ rupshu [/location/location] — 10 times
+  ↳ salt [/food/ingredient] — 9 times
+  ↳ tso [/location/location] — 9 times
+  ↳ kar [/location/location] — 6 times
+  ↳ tent [/business/industry] — 5 times
+  ↳ hemis [/location/statistical_region] — 4 times
+  ↳ compromise [/media_common/quotation_subject] — 3 times
+  ↳ ladakh [/travel/travel_destination] — 2 times
+  ↳ ownership [/organization/role] — 1 times
+  ↳ lake [/geography/lake_type] — 1 times
+  ↳ livestock [/business/industry] — 1 times
+  ↳ monastery [/religion/type_of_place_of_worship] — 1 times
+  ↳ thugje [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: goldstein [/people/person]
+Example Context:
+...was Rs.2 for a kilogram. The salt trade does not hold the same prominence as it once did, and the Rupshupa say that their salt is now practically given away for free. ‘This is because everyone now buys government salt and no one wants our salt any more. In Tibet, Goldstein and Beall report that the Changpas trek for salt has now become an option because cheaper ocean salt competes with their rock salt, and the Chinese government has made dirt roads leading to many of the main salt flats in Western Tibet and has started hauling salt from the lakes...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ tibet [/travel/travel_destination] — 2 times
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ beall [/people/person] — 2 times
+  ↳ ocean [/symbols/namesake] — 1 times
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ reason [/media_common/quotation_subject] — 1 times
+  ↳ angchuk [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: ocean [/organization/organization_scope]
+Example Context:
+...did, and the Rupshupa say that their salt is now practically given away for free. ‘This is because everyone now buys government salt and no one wants our salt any more. In Tibet, Goldstein and Beall report that the Changpas trek for salt has now become an option because cheaper ocean salt competes with their rock salt, and the Chinese government has made dirt roads leading to many of the main salt flats in Western Tibet and has started hauling salt from the lakes in trucks. This has meant that the trek is no longer profitable for the Changpas. However, these...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ goldstein [/people/person] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ beall [/people/person] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: blood [/food/ingredient]
+Example Context:
+...taste, and so it cannot be replaced by the government salt. Tonyot Shah remarked that the difference between Changthang salt and the salt supplied by the government was that he never fell ill when he consumed the former. ‘And now I eat this government salt and they say I have blood pressure! Apart from this matter of personal taste and preference, the annual salt collection remains an expression of male identity in Rupshu and demon-strates their ties to Tso Kar. Thus, the event is an important occasion and one which the Rupshupa hope will endure for many years....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ rupshupa [/organization/organization] — 1 times
+  ↳ tso [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ rupshu [/location/location] — 1 times
+--------------------------------------------------------------------------------

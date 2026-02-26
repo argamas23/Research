@@ -1,0 +1,1316 @@
+
+=== CHUNK 1 (25.68 KB) ===
+
+/architecture/building_function
+──────────
+Monastery  (Relevance 0.169 | Confidence 3.938)
+
+/astronomy/telescope_platform
+──────────
+Sea  (Relevance 0.179 | Confidence 3.108)
+
+/astronomy/type_of_planetographic_feature
+──────────
+Mountain  (Relevance 0.120 | Confidence 1.248)
+Valley  (Relevance 0.083 | Confidence 0.967)
+
+/aviation/airport_runway_surface
+──────────
+Grass  (Relevance 0.016 | Confidence 4.084)
+
+/award/award_discipline
+──────────
+Food  (Relevance 0.155 | Confidence 1.319)
+Geology  (Relevance 0.105 | Confidence 1.498)
+
+/award/award_nominee
+──────────
+Kashmir  (Relevance 0.472 | Confidence 3.257)
+Nas  (Relevance 0.040 | Confidence 1.291)
+Siddique (actor)  (Relevance 0.033 | Confidence 1.561)
+
+/award/award_winner
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+Siddique (actor)  (Relevance 0.033 | Confidence 1.561)
+
+/award/hall_of_fame_induction_category
+──────────
+Horse  (Relevance 0.207 | Confidence 3.974)
+
+/biology/animal
+──────────
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Goat  (Relevance 0.373 | Confidence 2.268)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+Yak  (Relevance 0.353 | Confidence 6.522)
+
+/biology/breed_origin
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+
+/biology/domesticated_animal
+──────────
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Goat  (Relevance 0.373 | Confidence 2.268)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+Yak  (Relevance 0.353 | Confidence 6.522)
+
+/biology/hybrid_parent_classification
+──────────
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Horse  (Relevance 0.207 | Confidence 3.974)
+
+/biology/organism_classification
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Apricot  (Relevance 0.061 | Confidence 2.727)
+Barley  (Relevance 0.232 | Confidence 11.420)
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Daikon  (Relevance 0.107 | Confidence 2.237)
+Gar  (Relevance 0.181 | Confidence 2.025)
+Goat  (Relevance 0.373 | Confidence 2.268)
+Hordeum pusillum  (Relevance 0.179 | Confidence 1.596)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Radish  (Relevance 0.041 | Confidence 3.142)
+Rice  (Relevance 0.172 | Confidence 11.090)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+Walnut  (Relevance 0.022 | Confidence 1.993)
+Yak  (Relevance 0.353 | Confidence 6.522)
+
+/biology/plant_disease_host
+──────────
+Barley  (Relevance 0.232 | Confidence 11.420)
+
+/biology/source_organism
+──────────
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Rice  (Relevance 0.172 | Confidence 11.090)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+
+/book/book_binding
+──────────
+Leather  (Relevance 0.220 | Confidence 5.459)
+
+/book/book_subject
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Barley  (Relevance 0.232 | Confidence 11.420)
+Blood  (Relevance 0.171 | Confidence 5.064)
+Blood pressure  (Relevance 0.137 | Confidence 3.113)
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+Camping  (Relevance 0.098 | Confidence 2.330)
+China  (Relevance 0.228 | Confidence 37.310)
+Commodity  (Relevance 0.119 | Confidence 3.132)
+Communism  (Relevance 0.088 | Confidence 1.366)
+Economy  (Relevance 0.109 | Confidence 1.032)
+Food  (Relevance 0.155 | Confidence 1.319)
+Geological Survey of India  (Relevance 0.000 | Confidence 6.112)
+Geologist  (Relevance 0.048 | Confidence 1.993)
+Geology  (Relevance 0.105 | Confidence 1.498)
+Himalayas  (Relevance 0.466 | Confidence 11.990)
+Horse  (Relevance 0.207 | Confidence 3.974)
+India  (Relevance 0.100 | Confidence 13.850)
+Kashmir  (Relevance 0.472 | Confidence 3.257)
+Lake  (Relevance 0.218 | Confidence 5.392)
+Livestock  (Relevance 0.331 | Confidence 2.347)
+Milk  (Relevance 0.195 | Confidence 5.863)
+Mountain  (Relevance 0.120 | Confidence 1.248)
+Natural rubber  (Relevance 0.154 | Confidence 4.947)
+Ocean  (Relevance 0.170 | Confidence 1.481)
+Paper  (Relevance 0.108 | Confidence 1.075)
+Poverty  (Relevance 0.125 | Confidence 3.739)
+Preference  (Relevance 0.168 | Confidence 1.320)
+Price  (Relevance 0.226 | Confidence 1.997)
+Reason  (Relevance 0.207 | Confidence 0.957)
+Rice  (Relevance 0.172 | Confidence 11.090)
+Salt  (Relevance 0.267 | Confidence 7.832)
+Sea salt  (Relevance 0.080 | Confidence 1.689)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+Snow  (Relevance 0.324 | Confidence 4.617)
+Spelling  (Relevance 0.062 | Confidence 1.349)
+Spice  (Relevance 0.216 | Confidence 2.853)
+Sugar  (Relevance 0.097 | Confidence 8.269)
+Tea  (Relevance 0.247 | Confidence 5.364)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+Tin  (Relevance 0.164 | Confidence 1.295)
+Trade  (Relevance 0.301 | Confidence 1.227)
+Trade route  (Relevance 0.276 | Confidence 1.121)
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+Walnut  (Relevance 0.022 | Confidence 1.993)
+Wool  (Relevance 0.179 | Confidence 7.200)
+Word  (Relevance 0.050 | Confidence 0.975)
+
+/book/magazine_genre
+──────────
+Food  (Relevance 0.155 | Confidence 1.319)
+
+/book/periodical_publisher
+──────────
+Geological Survey of India  (Relevance 0.000 | Confidence 6.112)
+
+/book/periodical_subject
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+China  (Relevance 0.228 | Confidence 37.310)
+Food  (Relevance 0.155 | Confidence 1.319)
+Geology  (Relevance 0.105 | Confidence 1.498)
+Ocean  (Relevance 0.170 | Confidence 1.481)
+
+/broadcast/artist
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/broadcast/genre
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+Food  (Relevance 0.155 | Confidence 1.319)
+
+/business/business_location
+──────────
+India  (Relevance 0.100 | Confidence 13.850)
+
+/business/consumer_product
+──────────
+Boot  (Relevance 0.066 | Confidence 1.333)
+Milk  (Relevance 0.195 | Confidence 5.863)
+Paper  (Relevance 0.108 | Confidence 1.075)
+Trousers  (Relevance 0.178 | Confidence 1.591)
+Wellington boot  (Relevance 0.160 | Confidence 1.232)
+
+/business/employer
+──────────
+Geological Survey of India  (Relevance 0.000 | Confidence 6.112)
+India  (Relevance 0.100 | Confidence 13.850)
+Indian National Congress  (Relevance 0.141 | Confidence 1.245)
+
+/business/endorsed_product
+──────────
+Milk  (Relevance 0.195 | Confidence 5.863)
+
+/business/industry
+──────────
+Boot  (Relevance 0.066 | Confidence 1.333)
+Food  (Relevance 0.155 | Confidence 1.319)
+Livestock  (Relevance 0.331 | Confidence 2.347)
+Paper  (Relevance 0.108 | Confidence 1.075)
+Tea  (Relevance 0.247 | Confidence 5.364)
+Tent  (Relevance 0.304 | Confidence 1.078)
+
+/business/job_title
+──────────
+Ownership  (Relevance 0.028 | Confidence 1.665)
+
+/business/product_category
+──────────
+Axe  (Relevance 0.124 | Confidence 2.893)
+Boot  (Relevance 0.066 | Confidence 1.333)
+Cultivator  (Relevance 0.054 | Confidence 1.335)
+Grass  (Relevance 0.016 | Confidence 4.084)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Milk  (Relevance 0.195 | Confidence 5.863)
+Pickaxe  (Relevance 0.119 | Confidence 1.318)
+Rope  (Relevance 0.102 | Confidence 2.195)
+Shovel  (Relevance 0.122 | Confidence 2.088)
+Trousers  (Relevance 0.178 | Confidence 1.591)
+Wellington boot  (Relevance 0.160 | Confidence 1.232)
+
+/business/product_ingredient
+──────────
+Leather  (Relevance 0.220 | Confidence 5.459)
+Salt  (Relevance 0.267 | Confidence 7.832)
+Sugar  (Relevance 0.097 | Confidence 8.269)
+
+/business/product_line
+──────────
+Food  (Relevance 0.155 | Confidence 1.319)
+
+/business/product_theme
+──────────
+Paper  (Relevance 0.108 | Confidence 1.075)
+
+/celebrities/celebrity
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/chemistry/chemical_classification
+──────────
+Sugar  (Relevance 0.097 | Confidence 8.269)
+
+/chemistry/chemical_element
+──────────
+Tin  (Relevance 0.164 | Confidence 1.295)
+
+/cvg/computer_game_subject
+──────────
+Poverty  (Relevance 0.125 | Confidence 3.739)
+
+/distilled_spirits/blended_spirit
+──────────
+Tea  (Relevance 0.247 | Confidence 5.364)
+
+/distilled_spirits/distilled_spirit_type
+──────────
+Tea  (Relevance 0.247 | Confidence 5.364)
+
+/distilled_spirits/fermentation_base
+──────────
+Barley  (Relevance 0.232 | Confidence 11.420)
+Rice  (Relevance 0.172 | Confidence 11.090)
+
+/education/field_of_study
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+China  (Relevance 0.228 | Confidence 37.310)
+Economy  (Relevance 0.109 | Confidence 1.032)
+Geology  (Relevance 0.105 | Confidence 1.498)
+Poverty  (Relevance 0.125 | Confidence 3.739)
+
+/engineering/material
+──────────
+Leather  (Relevance 0.220 | Confidence 5.459)
+Paper  (Relevance 0.108 | Confidence 1.075)
+Tin  (Relevance 0.164 | Confidence 1.295)
+Walnut  (Relevance 0.022 | Confidence 1.993)
+
+/exhibitions/exhibition_subject
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+China  (Relevance 0.228 | Confidence 37.310)
+Food  (Relevance 0.155 | Confidence 1.319)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Ocean  (Relevance 0.170 | Confidence 1.481)
+Rice  (Relevance 0.172 | Confidence 11.090)
+
+/fashion/fiber
+──────────
+Pashmina (material)  (Relevance 0.525 | Confidence 7.789)
+Wool  (Relevance 0.179 | Confidence 7.200)
+
+/fashion/garment
+──────────
+Boot  (Relevance 0.066 | Confidence 1.333)
+Trousers  (Relevance 0.178 | Confidence 1.591)
+Wellington boot  (Relevance 0.160 | Confidence 1.232)
+
+/fictional_universe/character_occupation
+──────────
+Geologist  (Relevance 0.048 | Confidence 1.993)
+
+/fictional_universe/character_species
+──────────
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+
+/fictional_universe/fictional_organization_type
+──────────
+Village  (Relevance 0.150 | Confidence 1.407)
+
+/fictional_universe/fictional_setting
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+Mount Meru  (Relevance 0.075 | Confidence 1.452)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/fictional_universe/medical_condition_in_fiction
+──────────
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+
+/fictional_universe/type_of_fictional_setting
+──────────
+Mountain  (Relevance 0.120 | Confidence 1.248)
+
+/film/actor
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+Siddique (actor)  (Relevance 0.033 | Confidence 1.561)
+
+/film/film_genre
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+
+/film/film_location
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+Himalayas  (Relevance 0.466 | Confidence 11.990)
+India  (Relevance 0.100 | Confidence 13.850)
+Kashmir  (Relevance 0.472 | Confidence 3.257)
+Ladakh  (Relevance 0.750 | Confidence 16.790)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/film/film_story_contributor
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/film/film_subject
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+China  (Relevance 0.228 | Confidence 37.310)
+Economy  (Relevance 0.109 | Confidence 1.032)
+Food  (Relevance 0.155 | Confidence 1.319)
+Himalayas  (Relevance 0.466 | Confidence 11.990)
+Horse  (Relevance 0.207 | Confidence 3.974)
+India  (Relevance 0.100 | Confidence 13.850)
+Poverty  (Relevance 0.125 | Confidence 3.739)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+
+/film/person_or_entity_appearing_in_film
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/film/producer
+──────────
+Siddique (actor)  (Relevance 0.033 | Confidence 1.561)
+
+/film/writer
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/finance/currency
+──────────
+Paisa  (Relevance 0.000 | Confidence 1.822)
+
+/food/beer_country_region
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/food/beverage
+──────────
+Tea  (Relevance 0.247 | Confidence 5.364)
+
+/food/beverage_type
+──────────
+Milk  (Relevance 0.195 | Confidence 5.863)
+Tea  (Relevance 0.247 | Confidence 5.364)
+
+/food/cheese_milk_source
+──────────
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Goat  (Relevance 0.373 | Confidence 2.268)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+
+/food/culinary_measure
+──────────
+Kilogram  (Relevance 0.133 | Confidence 0.963)
+
+/food/food
+──────────
+Apricot  (Relevance 0.061 | Confidence 2.727)
+Barley  (Relevance 0.232 | Confidence 11.420)
+Butter tea  (Relevance 0.598 | Confidence 2.376)
+Daikon  (Relevance 0.107 | Confidence 2.237)
+Grain  (Relevance 0.045 | Confidence 4.496)
+Milk  (Relevance 0.195 | Confidence 5.863)
+Radish  (Relevance 0.041 | Confidence 3.142)
+Rice  (Relevance 0.172 | Confidence 11.090)
+Salt  (Relevance 0.267 | Confidence 7.832)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+Spice  (Relevance 0.216 | Confidence 2.853)
+Sugar  (Relevance 0.097 | Confidence 8.269)
+Tea  (Relevance 0.247 | Confidence 5.364)
+Walnut  (Relevance 0.022 | Confidence 1.993)
+
+/food/ingredient
+──────────
+Apricot  (Relevance 0.061 | Confidence 2.727)
+Barley  (Relevance 0.232 | Confidence 11.420)
+Blood  (Relevance 0.171 | Confidence 5.064)
+Daikon  (Relevance 0.107 | Confidence 2.237)
+Milk  (Relevance 0.195 | Confidence 5.863)
+Radish  (Relevance 0.041 | Confidence 3.142)
+Rice  (Relevance 0.172 | Confidence 11.090)
+Salt  (Relevance 0.267 | Confidence 7.832)
+Sea salt  (Relevance 0.080 | Confidence 1.689)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+Spice  (Relevance 0.216 | Confidence 2.853)
+Sugar  (Relevance 0.097 | Confidence 8.269)
+Tea  (Relevance 0.247 | Confidence 5.364)
+Walnut  (Relevance 0.022 | Confidence 1.993)
+
+/food/nutrient
+──────────
+Sugar  (Relevance 0.097 | Confidence 8.269)
+
+/geography/body_of_water
+──────────
+Indus River  (Relevance 0.237 | Confidence 7.177)
+Tso Kar  (Relevance 1.000 | Confidence 1.222)
+Tso Moriri  (Relevance 0.475 | Confidence 1.584)
+
+/geography/geographical_feature
+──────────
+Crust (geology)  (Relevance 0.057 | Confidence 1.033)
+Himalayas  (Relevance 0.466 | Confidence 11.990)
+Indus River  (Relevance 0.237 | Confidence 7.177)
+Red Mountain (Birmingham)  (Relevance 0.033 | Confidence 0.961)
+Taglang La  (Relevance 0.151 | Confidence 3.185)
+Tso Kar  (Relevance 1.000 | Confidence 1.222)
+Tso Moriri  (Relevance 0.475 | Confidence 1.584)
+Zanskar  (Relevance 1.000 | Confidence 3.481)
+
+/geography/geographical_feature_category
+──────────
+Lake  (Relevance 0.218 | Confidence 5.392)
+Mountain  (Relevance 0.120 | Confidence 1.248)
+Ocean  (Relevance 0.170 | Confidence 1.481)
+Plateau  (Relevance 0.205 | Confidence 1.170)
+Salt lake  (Relevance 0.319 | Confidence 2.463)
+Salt pan (geology)  (Relevance 0.119 | Confidence 3.261)
+Sea  (Relevance 0.179 | Confidence 3.108)
+Valley  (Relevance 0.083 | Confidence 0.967)
+
+/geography/glacier_terminus
+──────────
+Ocean  (Relevance 0.170 | Confidence 1.481)
+
+/geography/lake
+──────────
+Tso Kar  (Relevance 1.000 | Confidence 1.222)
+Tso Moriri  (Relevance 0.475 | Confidence 1.584)
+
+/geography/lake_type
+──────────
+Fresh water  (Relevance 0.059 | Confidence 1.546)
+Lake  (Relevance 0.218 | Confidence 5.392)
+Salt lake  (Relevance 0.319 | Confidence 2.463)
+
+/geography/mountain_pass
+──────────
+Taglang La  (Relevance 0.151 | Confidence 3.185)
+
+/geography/mountain_range
+──────────
+Himalayas  (Relevance 0.466 | Confidence 11.990)
+
+/geography/mountain_type
+──────────
+Plateau  (Relevance 0.205 | Confidence 1.170)
+
+/geography/river
+──────────
+Indus River  (Relevance 0.237 | Confidence 7.177)
+
+/geology/geological_formation
+──────────
+Crust (geology)  (Relevance 0.057 | Confidence 1.033)
+
+/government/government
+──────────
+India  (Relevance 0.100 | Confidence 13.850)
+
+/government/governmental_jurisdiction
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+Himachal Pradesh  (Relevance 0.290 | Confidence 5.323)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/government/legislative_committee_title
+──────────
+Geologist  (Relevance 0.048 | Confidence 1.993)
+
+/government/political_ideology
+──────────
+Communism  (Relevance 0.088 | Confidence 1.366)
+
+/government/political_party
+──────────
+Indian National Congress  (Relevance 0.141 | Confidence 1.245)
+
+/influence/influence_node
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+Nas  (Relevance 0.040 | Confidence 1.291)
+Poverty  (Relevance 0.125 | Confidence 3.739)
+Siddique (actor)  (Relevance 0.033 | Confidence 1.561)
+
+/interests/collection_category
+──────────
+Grass  (Relevance 0.016 | Confidence 4.084)
+
+/interests/hobby
+──────────
+Camping  (Relevance 0.098 | Confidence 2.330)
+
+/interests/interest
+──────────
+Camping  (Relevance 0.098 | Confidence 2.330)
+
+/internet/social_network_user
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/internet/website_category
+──────────
+Food  (Relevance 0.155 | Confidence 1.319)
+Spelling  (Relevance 0.062 | Confidence 1.349)
+
+/language/human_language
+──────────
+Ladakhi language  (Relevance 0.436 | Confidence 3.982)
+Tshwa language  (Relevance 0.034 | Confidence 1.865)
+Urdu  (Relevance 0.060 | Confidence 7.596)
+
+/language/languoid
+──────────
+Urdu  (Relevance 0.060 | Confidence 7.596)
+
+/law/court_jurisdiction_area
+──────────
+India  (Relevance 0.100 | Confidence 13.850)
+
+/law/invention
+──────────
+Paper  (Relevance 0.108 | Confidence 1.075)
+Trousers  (Relevance 0.178 | Confidence 1.591)
+
+/law/legal_subject
+──────────
+Food  (Relevance 0.155 | Confidence 1.319)
+
+/location/administrative_division
+──────────
+Chamba district  (Relevance 0.054 | Confidence 1.844)
+Himachal Pradesh  (Relevance 0.290 | Confidence 5.323)
+Kashmir  (Relevance 0.472 | Confidence 3.257)
+Kullu district  (Relevance 0.283 | Confidence 1.308)
+Lahaul and Spiti district  (Relevance 0.437 | Confidence 7.421)
+Qinghai  (Relevance 0.286 | Confidence 7.568)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/location/citytown
+──────────
+Leh  (Relevance 0.381 | Confidence 7.409)
+Nyoma  (Relevance 0.342 | Confidence 5.263)
+Rampur, Himachal Pradesh  (Relevance 0.273 | Confidence 1.438)
+Skardu  (Relevance 0.535 | Confidence 9.493)
+
+/location/cn_autonomous_region
+──────────
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/location/cn_province
+──────────
+Qinghai  (Relevance 0.286 | Confidence 7.568)
+
+/location/country
+──────────
+Champa  (Relevance 0.119 | Confidence 4.585)
+China  (Relevance 0.228 | Confidence 37.310)
+Chu (state)  (Relevance 0.076 | Confidence 2.245)
+India  (Relevance 0.100 | Confidence 13.850)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/location/dated_location
+──────────
+Chamba district  (Relevance 0.054 | Confidence 1.844)
+Champa  (Relevance 0.119 | Confidence 4.585)
+China  (Relevance 0.228 | Confidence 37.310)
+Chu (state)  (Relevance 0.076 | Confidence 2.245)
+Himachal Pradesh  (Relevance 0.290 | Confidence 5.323)
+India  (Relevance 0.100 | Confidence 13.850)
+Kashmir  (Relevance 0.472 | Confidence 3.257)
+Kullu district  (Relevance 0.283 | Confidence 1.308)
+Lahaul and Spiti district  (Relevance 0.437 | Confidence 7.421)
+Leh  (Relevance 0.381 | Confidence 7.409)
+Nyoma  (Relevance 0.342 | Confidence 5.263)
+Qinghai  (Relevance 0.286 | Confidence 7.568)
+Rampur, Himachal Pradesh  (Relevance 0.273 | Confidence 1.438)
+Skardu  (Relevance 0.535 | Confidence 9.493)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/location/in_district
+──────────
+Chamba district  (Relevance 0.054 | Confidence 1.844)
+Kullu district  (Relevance 0.283 | Confidence 1.308)
+Lahaul and Spiti district  (Relevance 0.437 | Confidence 7.421)
+
+/location/in_state
+──────────
+Himachal Pradesh  (Relevance 0.290 | Confidence 5.323)
+
+/location/location
+──────────
+Baba  (Relevance 0.000 | Confidence 0.500)
+Baltistan  (Relevance 0.679 | Confidence 9.226)
+Central  (Relevance 0.000 | Confidence 0.500)
+Chamba district  (Relevance 0.054 | Confidence 1.844)
+Champa  (Relevance 0.119 | Confidence 4.585)
+Changtang  (Relevance 1.000 | Confidence 12.370)
+Chemdi  (Relevance 0.000 | Confidence 0.500)
+China  (Relevance 0.228 | Confidence 37.310)
+Chinese government  (Relevance 0.000 | Confidence 0.500)
+Chinese province of Qinghai  (Relevance 0.000 | Confidence 0.500)
+Chu (state)  (Relevance 0.076 | Confidence 2.245)
+Crust (geology)  (Relevance 0.057 | Confidence 1.033)
+Dozum  (Relevance 0.000 | Confidence 0.500)
+Gompa  (Relevance 0.133 | Confidence 7.816)
+Hemis  (Relevance 0.306 | Confidence 1.540)
+Himachal Pradesh  (Relevance 0.290 | Confidence 5.323)
+Himalayas  (Relevance 0.466 | Confidence 11.990)
+India  (Relevance 0.100 | Confidence 13.850)
+Indus River  (Relevance 0.237 | Confidence 7.177)
+Kar  (Relevance 0.000 | Confidence 0.500)
+Kashmir  (Relevance 0.472 | Confidence 3.257)
+Kashmir Valley  (Relevance 0.259 | Confidence 5.258)
+Khajang Kuru  (Relevance 0.000 | Confidence 0.500)
+Kharnak  (Relevance 0.201 | Confidence 1.247)
+Korzok Monastery  (Relevance 0.672 | Confidence 3.990)
+Kullu district  (Relevance 0.283 | Confidence 1.308)
+Kyeltse  (Relevance 0.000 | Confidence 0.500)
+Ladakh  (Relevance 0.750 | Confidence 16.790)
+Ladakh-Tibet  (Relevance 0.000 | Confidence 0.500)
+Lahaul and Spiti district  (Relevance 0.437 | Confidence 7.421)
+Leh  (Relevance 0.381 | Confidence 7.409)
+Lopchak  (Relevance 0.000 | Confidence 0.500)
+Lower  (Relevance 0.000 | Confidence 0.500)
+Lower Ladakh  (Relevance 0.000 | Confidence 0.500)
+Mindum  (Relevance 0.000 | Confidence 0.500)
+North Tibet  (Relevance 0.000 | Confidence 0.500)
+Nyoma  (Relevance 0.342 | Confidence 5.263)
+Qinghai  (Relevance 0.286 | Confidence 7.568)
+Rampur, Himachal Pradesh  (Relevance 0.273 | Confidence 1.438)
+Red Mountain (Birmingham)  (Relevance 0.033 | Confidence 0.961)
+Rupshu  (Relevance 0.588 | Confidence 7.459)
+Salt road  (Relevance 0.263 | Confidence 0.951)
+Sham  (Relevance 0.000 | Confidence 0.500)
+Skardu  (Relevance 0.535 | Confidence 9.493)
+Taglang La  (Relevance 0.151 | Confidence 3.185)
+Tharchen  (Relevance 0.000 | Confidence 0.500)
+Thugje  (Relevance 0.000 | Confidence 0.500)
+Thugje Gompa  (Relevance 0.000 | Confidence 0.500)
+Thugje Monastery  (Relevance 0.000 | Confidence 0.500)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+Tsag  (Relevance 0.000 | Confidence 0.500)
+Tso  (Relevance 0.000 | Confidence 0.500)
+Tso Kar  (Relevance 1.000 | Confidence 1.222)
+Tso Moriri  (Relevance 0.475 | Confidence 1.584)
+Tsokar Salt Lakes  (Relevance 0.000 | Confidence 0.500)
+Wazir-e-Wazarat  (Relevance 0.000 | Confidence 0.500)
+White Lake  (Relevance 0.000 | Confidence 0.500)
+Zanskar  (Relevance 1.000 | Confidence 3.481)
+lake Tsomoriri  (Relevance 0.000 | Confidence 0.500)
+mtsho  (Relevance 0.000 | Confidence 0.500)
+
+/location/offical_symbol_variety
+──────────
+Horse  (Relevance 0.207 | Confidence 3.974)
+
+/location/statistical_region
+──────────
+Baltistan  (Relevance 0.679 | Confidence 9.226)
+Chamba district  (Relevance 0.054 | Confidence 1.844)
+Champa  (Relevance 0.119 | Confidence 4.585)
+China  (Relevance 0.228 | Confidence 37.310)
+Chu (state)  (Relevance 0.076 | Confidence 2.245)
+Hemis  (Relevance 0.306 | Confidence 1.540)
+Himachal Pradesh  (Relevance 0.290 | Confidence 5.323)
+India  (Relevance 0.100 | Confidence 13.850)
+Kashmir  (Relevance 0.472 | Confidence 3.257)
+Kashmir Valley  (Relevance 0.259 | Confidence 5.258)
+Kharnak  (Relevance 0.201 | Confidence 1.247)
+Kullu district  (Relevance 0.283 | Confidence 1.308)
+Ladakh  (Relevance 0.750 | Confidence 16.790)
+Lahaul and Spiti district  (Relevance 0.437 | Confidence 7.421)
+Leh  (Relevance 0.381 | Confidence 7.409)
+Nyoma  (Relevance 0.342 | Confidence 5.263)
+Qinghai  (Relevance 0.286 | Confidence 7.568)
+Rampur, Himachal Pradesh  (Relevance 0.273 | Confidence 1.438)
+Skardu  (Relevance 0.535 | Confidence 9.493)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/location/symbol_of_administrative_division
+──────────
+Milk  (Relevance 0.195 | Confidence 5.863)
+
+/measurement_unit/common_dimension
+──────────
+Pressure  (Relevance 0.207 | Confidence 1.283)
+
+/measurement_unit/dimension
+──────────
+Blood pressure  (Relevance 0.137 | Confidence 3.113)
+Pressure  (Relevance 0.207 | Confidence 1.283)
+
+/measurement_unit/mass_unit
+──────────
+Kilogram  (Relevance 0.133 | Confidence 0.963)
+
+/media_common/literary_genre
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+Economy  (Relevance 0.109 | Confidence 1.032)
+Food  (Relevance 0.155 | Confidence 1.319)
+
+/media_common/media_genre
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+Economy  (Relevance 0.109 | Confidence 1.032)
+Food  (Relevance 0.155 | Confidence 1.319)
+
+/media_common/netflix_genre
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/media_common/quotation
+──────────
+India  (Relevance 0.100 | Confidence 13.850)
+
+/media_common/quotation_subject
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Blood  (Relevance 0.171 | Confidence 5.064)
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+Cash  (Relevance 0.220 | Confidence 1.533)
+Compromise  (Relevance 0.067 | Confidence 1.671)
+Food  (Relevance 0.155 | Confidence 1.319)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Legend  (Relevance 0.154 | Confidence 2.406)
+Mountain  (Relevance 0.120 | Confidence 1.248)
+Ocean  (Relevance 0.170 | Confidence 1.481)
+Ownership  (Relevance 0.028 | Confidence 1.665)
+Price  (Relevance 0.226 | Confidence 1.997)
+Reason  (Relevance 0.207 | Confidence 0.957)
+Sea  (Relevance 0.179 | Confidence 3.108)
+Tea  (Relevance 0.247 | Confidence 5.364)
+Trade  (Relevance 0.301 | Confidence 1.227)
+
+/medicine/anatomical_structure
+──────────
+Nose  (Relevance 0.266 | Confidence 1.529)
+Nostril  (Relevance 0.096 | Confidence 1.870)
+Stomach  (Relevance 0.083 | Confidence 1.051)
+
+/medicine/biofluid
+──────────
+Blood  (Relevance 0.171 | Confidence 5.064)
+
+/medicine/disease
+──────────
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+
+/medicine/disease_cause
+──────────
+Food  (Relevance 0.155 | Confidence 1.319)
+Pressure  (Relevance 0.207 | Confidence 1.283)
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+
+/medicine/drug_dosage_flavor
+──────────
+Apricot  (Relevance 0.061 | Confidence 2.727)
+
+/medicine/drug_ingredient
+──────────
+Apricot  (Relevance 0.061 | Confidence 2.727)
+Barley  (Relevance 0.232 | Confidence 11.420)
+Daikon  (Relevance 0.107 | Confidence 2.237)
+Radish  (Relevance 0.041 | Confidence 3.142)
+Rice  (Relevance 0.172 | Confidence 11.090)
+Sea salt  (Relevance 0.080 | Confidence 1.689)
+Tin  (Relevance 0.164 | Confidence 1.295)
+
+/medicine/infectious_disease
+──────────
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+
+/medicine/risk_factor
+──────────
+Poverty  (Relevance 0.125 | Confidence 3.739)
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+
+/meteorology/cyclone_affected_area
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/military/military_combatant
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+
+/music/artist
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/music/composer
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/music/featured_artist
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/music/group_member
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/music/lyricist
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/music/performance_role
+──────────
+Ownership  (Relevance 0.028 | Confidence 1.665)
+
+/music/producer
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/music/writer
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/olympics/olympic_participating_country
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/organization/club_interest
+──────────
+Camping  (Relevance 0.098 | Confidence 2.330)
+
+/organization/contact_category
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+Ownership  (Relevance 0.028 | Confidence 1.665)
+
+/organization/organization
+──────────
+Geological Survey  (Relevance 0.000 | Confidence 0.500)
+Geological Survey of India  (Relevance 0.000 | Confidence 6.112)
+Gya  (Relevance 0.000 | Confidence 0.500)
+Indian National Congress  (Relevance 0.141 | Confidence 1.245)
+Northern Plateau  (Relevance 0.000 | Confidence 0.500)
+Polo Konka  (Relevance 0.000 | Confidence 0.500)
+Rumtse  (Relevance 0.000 | Confidence 0.500)
+Rupshupa  (Relevance 0.000 | Confidence 0.500)
+jeep  (Relevance 0.000 | Confidence 0.500)
+the Indus valley  (Relevance 0.017 | Confidence 1.227)
+
+/organization/organization_founder
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/organization/organization_member
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/organization/organization_scope
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+Himalayas  (Relevance 0.466 | Confidence 11.990)
+India  (Relevance 0.100 | Confidence 13.850)
+Ocean  (Relevance 0.170 | Confidence 1.481)
+
+/organization/organization_sector
+──────────
+Food  (Relevance 0.155 | Confidence 1.319)
+Geology  (Relevance 0.105 | Confidence 1.498)
+Horse  (Relevance 0.207 | Confidence 3.974)
+India  (Relevance 0.100 | Confidence 13.850)
+Paper  (Relevance 0.108 | Confidence 1.075)
+Trade  (Relevance 0.301 | Confidence 1.227)
+Trousers  (Relevance 0.178 | Confidence 1.591)
+
+/organization/role
+──────────
+Geologist  (Relevance 0.048 | Confidence 1.993)
+Ownership  (Relevance 0.028 | Confidence 1.665)
+
+/people/cause_of_death
+──────────
+Tuberculosis  (Relevance 0.137 | Confidence 1.122)
+
+/people/chinese_ethnic_group
+──────────
+Tibetans  (Relevance 0.252 | Confidence 3.691)
+
+/people/ethnicity
+──────────
+Changpa  (Relevance 0.543 | Confidence 5.984)
+Ladakhis  (Relevance 0.173 | Confidence 2.524)
+Nomad  (Relevance 0.330 | Confidence 3.776)
+Tibetans  (Relevance 0.252 | Confidence 3.691)
+
+/people/measured_person
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/people/person
+──────────
+Abi Yangzom  (Relevance 0.000 | Confidence 0.500)
+Angchuk  (Relevance 0.000 | Confidence 0.500)
+Azem  (Relevance 0.000 | Confidence 0.500)
+Baba Siddique  (Relevance 0.000 | Confidence 0.500)
+Beall  (Relevance 0.000 | Confidence 0.500)
+Cunningham  (Relevance 0.000 | Confidence 0.500)
+Dorjey  (Relevance 0.000 | Confidence 0.500)
+Drew  (Relevance 0.000 | Confidence 0.500)
+Francke  (Relevance 0.000 | Confidence 0.500)
+Goldstein  (Relevance 0.000 | Confidence 0.500)
+Goldstein and Beall  (Relevance 0.000 | Confidence 0.500)
+J. T. Gergan  (Relevance 0.000 | Confidence 0.500)
+Koelz  (Relevance 0.000 | Confidence 0.500)
+Monisha Ahmed  (Relevance 0.000 | Confidence 0.500)
+Nas  (Relevance 0.040 | Confidence 1.291)
+Rizvi  (Relevance 0.000 | Confidence 0.500)
+Rup-shupa  (Relevance 0.000 | Confidence 0.500)
+Shang  (Relevance 0.000 | Confidence 0.500)
+Siddique (actor)  (Relevance 0.033 | Confidence 1.561)
+Sonam Angchuk  (Relevance 0.000 | Confidence 0.500)
+Tonyot Shah  (Relevance 0.000 | Confidence 0.500)
+Tsering Samphel  (Relevance 0.449 | Confidence 1.779)
+W.H. Johnson  (Relevance 0.000 | Confidence 0.500)
+Yulsa Gespo  (Relevance 0.000 | Confidence 0.500)
+cease  (Relevance 0.000 | Confidence 0.500)
+east  (Relevance 0.000 | Confidence 0.500)
+
+/people/profession
+──────────
+Geologist  (Relevance 0.048 | Confidence 1.993)
+Lama  (Relevance 0.000 | Confidence 0.981)
+
+/periodicals/newspaper_circulation_area
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+Himachal Pradesh  (Relevance 0.290 | Confidence 5.323)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/projects/project_role
+──────────
+Geologist  (Relevance 0.048 | Confidence 1.993)
+
+/radio/radio_subject
+──────────
+Communism  (Relevance 0.088 | Confidence 1.366)
+
+/religion/religion
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+
+/religion/religious_order
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+
+/religion/religious_organization
+──────────
+Buddhism  (Relevance 0.149 | Confidence 15.080)
+
+/religion/type_of_place_of_worship
+──────────
+Monastery  (Relevance 0.169 | Confidence 3.938)
+
+/royalty/kingdom
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+Kuru kingdom  (Relevance 0.035 | Confidence 1.984)
+
+/royalty/system_of_nobility
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+
+/sports/sport_country
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/sports/sports_equipment
+──────────
+Boot  (Relevance 0.066 | Confidence 1.333)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Rope  (Relevance 0.102 | Confidence 2.195)
+
+/sports/sports_team_location
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/symbols/flag_referent
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/symbols/namesake
+──────────
+Ocean  (Relevance 0.170 | Confidence 1.481)
+
+/time_series/unit
+──────────
+Kilogram  (Relevance 0.133 | Confidence 0.963)
+
+/travel/tourist_attraction
+──────────
+Ladakh  (Relevance 0.750 | Confidence 16.790)
+
+/travel/travel_destination
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+Ladakh  (Relevance 0.750 | Confidence 16.790)
+Leh  (Relevance 0.381 | Confidence 7.409)
+Tibet  (Relevance 0.592 | Confidence 17.330)
+Tibet Autonomous Region  (Relevance 0.460 | Confidence 1.197)
+
+/tv/tv_actor
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/tv/tv_genre
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Food  (Relevance 0.155 | Confidence 1.319)
+
+/tv/tv_location
+──────────
+China  (Relevance 0.228 | Confidence 37.310)
+India  (Relevance 0.100 | Confidence 13.850)
+
+/tv/tv_program_guest
+──────────
+Nas  (Relevance 0.040 | Confidence 1.291)
+
+/tv/tv_subject
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Communism  (Relevance 0.088 | Confidence 1.366)
+Word  (Relevance 0.050 | Confidence 0.975)
+
+/type/unit
+──────────
+Kilogram  (Relevance 0.133 | Confidence 0.963)
+
+/visual_art/art_subject
+──────────
+Animal  (Relevance 0.121 | Confidence 1.617)
+Cattle  (Relevance 0.322 | Confidence 11.030)
+Food  (Relevance 0.155 | Confidence 1.319)
+Horse  (Relevance 0.207 | Confidence 3.974)
+Mountain  (Relevance 0.120 | Confidence 1.248)
+Sea  (Relevance 0.179 | Confidence 3.108)
+Sheep  (Relevance 0.320 | Confidence 11.590)
+
+/visual_art/visual_art_medium
+──────────
+Grass  (Relevance 0.016 | Confidence 4.084)
+Leather  (Relevance 0.220 | Confidence 5.459)
+Natural rubber  (Relevance 0.154 | Confidence 4.947)
+Paper  (Relevance 0.108 | Confidence 1.075)
+Rope  (Relevance 0.102 | Confidence 2.195)
+Walnut  (Relevance 0.022 | Confidence 1.993)
+Wool  (Relevance 0.179 | Confidence 7.200)
+
+/visual_art/visual_art_support
+──────────
+Paper  (Relevance 0.108 | Confidence 1.075)
+
+Topics
+──────
+Rupshu  (Score 1.000)
+Changtang  (Score 1.000)
+Ladakh  (Score 1.000)
+Zanskar  (Score 0.942)
+Tso Kar  (Score 0.919)
+Tibet  (Score 0.825)
+Korzok Monastery  (Score 0.717)
+Leh  (Score 0.606)
+Baltistan  (Score 0.578)
+Changpa  (Score 0.550)
+Butter tea  (Score 0.509)
+Salt  (Score 0.499)
+Goat  (Score 0.493)
+Himalayas  (Score 0.491)
+Ladakhi language  (Score 0.489)
+Kashmir  (Score 0.479)
+Skardu  (Score 0.456)
+Geography of Tibet  (Score 0.449)
+Pashmina (material)  (Score 0.447)
+Sheep  (Score 0.424)
+Livestock  (Score 0.416)
+Tso Moriri  (Score 0.404)
+Natural resources  (Score 0.384)
+Tsering Samphel  (Score 0.382)
+Nomadic pastoralism  (Score 0.381)
+Barter  (Score 0.375)
+Lahaul and Spiti district  (Score 0.372)
+Dice  (Score 0.349)
+Hemis  (Score 0.343)
+Trade  (Score 0.337)
+Kharnak  (Score 0.337)
+Earth sciences  (Score 0.329)
+Yak  (Score 0.327)
+Tibet Autonomous Region  (Score 0.326)
+Food industry  (Score 0.323)
+Lake  (Score 0.316)
+Nomad  (Score 0.313)
+Herd  (Score 0.298)
+Tea  (Score 0.296)
+Salt road  (Score 0.295)
+Nyoma  (Score 0.291)
+Economy  (Score 0.286)
+Tent  (Score 0.281)
+Snow  (Score 0.276)
+Cattle  (Score 0.274)
+Domesticated animals  (Score 0.268)
+Agriculture  (Score 0.267)
+Salts  (Score 0.266)
+Grazing  (Score 0.264)
+Food watchlist articles  (Score 0.259)
+Inner Asia  (Score 0.259)
+Physical geography  (Score 0.257)
+Barley  (Score 0.252)
+Indus River  (Score 0.249)
+Himachal Pradesh  (Score 0.247)
+Cash  (Score 0.247)
+China  (Score 0.246)
+Qinghai  (Score 0.243)
+Kullu district  (Score 0.241)
+Animal keeping  (Score 0.238)
+Exchange rate  (Score 0.236)
+Lands inhabited  (Score 0.235)
+Foods  (Score 0.233)
+Milk  (Score 0.233)
+Rampur, Himachal Pradesh  (Score 0.232)
+Trade route  (Score 0.230)
+Nose  (Score 0.227)
+Taste  (Score 0.223)
+Kashmir Valley  (Score 0.221)
+Indigenous land rights  (Score 0.220)
+Tibetans  (Score 0.215)
+Tin  (Score 0.212)
+Wool  (Score 0.207)
+Salt lake  (Score 0.203)
+Subregions of Kashmir  (Score 0.203)
+Solid-state chemistry  (Score 0.202)
+Edible salt  (Score 0.197)
+Administrative divisions of China  (Score 0.193)
+Price  (Score 0.192)
+Monastery  (Score 0.192)
+Settlement (litigation)  (Score 0.189)
+Leather  (Score 0.187)
+Spice  (Score 0.184)
+Tuberculosis  (Score 0.183)
+Zoology  (Score 0.180)
+Preservatives  (Score 0.179)
+Village  (Score 0.177)
+Pressure  (Score 0.176)
+Reason  (Score 0.176)
+Horse  (Score 0.176)
+Animals  (Score 0.176)
+Plateau  (Score 0.175)
+Union territories of India  (Score 0.173)
+Itinerant living  (Score 0.172)
+Halite  (Score 0.172)
+Weight  (Score 0.171)
+Business  (Score 0.170)
+Nomads  (Score 0.168)
+Hydrography  (Score 0.165)
+Chu (state)  (Score 0.163)
+Aquatic biomes  (Score 0.162)
+Food  (Score 0.162)
+East Asia  (Score 0.156)
+Food science  (Score 0.156)
+Gar  (Score 0.154)
+Bodies of water  (Score 0.153)
+Ethnobiology  (Score 0.153)
+Hordeum pusillum  (Score 0.153)
+Forms of water  (Score 0.152)
+Domestication  (Score 0.152)
+Sea  (Score 0.152)
+Trousers  (Score 0.152)
+Natural materials  (Score 0.150)
+Water  (Score 0.150)
+Ladakhis  (Score 0.147)
+Rice  (Score 0.147)
+Blood  (Score 0.145)
+Ocean  (Score 0.145)
+Preference  (Score 0.143)
+Sodium compounds  (Score 0.139)
+Smoke  (Score 0.139)
+Paper  (Score 0.138)
+Wellington boot  (Score 0.136)
+Lacustrine landforms  (Score 0.136)
+Hydrology  (Score 0.135)
+Chemical compounds  (Score 0.135)
+Condiments  (Score 0.135)
+Food additives  (Score 0.134)
+Landscape  (Score 0.134)
+Materials  (Score 0.133)
+Maund (unit)  (Score 0.133)
+Legend  (Score 0.132)
+Lakes  (Score 0.132)
+Natural rubber  (Score 0.131)
+Taglang La  (Score 0.128)
+Culture  (Score 0.127)
+Buddhism  (Score 0.127)
+Biology  (Score 0.127)
+Business processes  (Score 0.126)
+Aquatic ecology  (Score 0.124)
+Liquid water  (Score 0.123)
+Human–animal interaction  (Score 0.122)
+Limnology  (Score 0.122)
+Axe  (Score 0.120)
+Indian National Congress  (Score 0.120)
+Blood pressure  (Score 0.117)
+Geomorphology  (Score 0.116)
+Mountain  (Score 0.115)
+India  (Score 0.112)
+Cultural regions  (Score 0.108)
+Food preservation  (Score 0.108)
+Sodium  (Score 0.108)
+Poverty  (Score 0.106)
+Shovel  (Score 0.104)
+Physiographic divisions  (Score 0.103)
+Animal  (Score 0.103)
+Kilogram  (Score 0.103)
+Food and drink preparation  (Score 0.102)
+Commodity  (Score 0.102)
+Champa  (Score 0.101)
+Artificial objects  (Score 0.099)
+Preservation methods  (Score 0.094)
+Food ingredients  (Score 0.092)
+Dried foods  (Score 0.087)
+Nature  (Score 0.085)
+Cultural geography  (Score 0.084)
+Chemical substances  (Score 0.079)
+Primary sector of the economy  (Score 0.079)
+Asian nomads  (Score 0.078)
+Concepts in chemistry  (Score 0.076)
+Tibetan people  (Score 0.076)
+Demographics of Tibet  (Score 0.075)
+Asia  (Score 0.074)
+Chemistry  (Score 0.073)
+Topography  (Score 0.072)
+Mammals  (Score 0.071)
+Jammu and Kashmir  (Score 0.071)
+Chemical elements  (Score 0.071)
+Food politics  (Score 0.068)
+Organisms  (Score 0.068)
+Alkali metals  (Score 0.067)
+Natural sciences  (Score 0.061)
+Food processing  (Score 0.060)
+Bos  (Score 0.058)
+Minerals  (Score 0.057)
+North India  (Score 0.057)
+Sodium minerals  (Score 0.053)
+Scheduled Tribes of Jammu and Kashmir  (Score 0.053)
+Pharmaceutical microbiology  (Score 0.053)
+Geographical areas  (Score 0.051)
+Private sector  (Score 0.051)
