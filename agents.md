@@ -1,0 +1,152 @@
+# Project Overview
+
+This repository supports research on:
+
+1. Were salt routes in the Western Himalayas the structural backbone of multi-commodity trade networks?
+2. What was the political economy of salt in Colonial North India, especially in the Himalayas?
+
+The research focuses on:
+- Salt
+- Trade routes
+- Commodity circulation
+- Frontier governance
+- Colonial administration
+- Taxation
+- Sovereignty
+- Pastoral communities
+- Ladakh
+- Tibet
+- Rupshu
+- Changthang
+- Mandi Salt
+- Salt Range Punjab
+
+# Corpus
+
+Primary sources include:
+- Colonial Gazetteers
+- Administrative Reports
+- Political Branch Records
+- Treaties
+- Travel Accounts
+- Historical Monographs
+
+# Entity Categories
+
+Always classify entities into:
+
+- PERSON
+- COMMUNITY
+- COMMODITY
+- LOCATION
+- TRADE_ROUTE
+- ADMINISTRATIVE_UNIT
+- INSTITUTION
+- TREATY
+- TAXATION_MECHANISM
+- GOVERNANCE_PRACTICE
+- ECONOMIC_ACTIVITY
+- INFRASTRUCTURE
+
+# Relation Categories
+
+Only extract relations belonging to:
+
+- trades_with
+- exchanges_for
+- extracts_from
+- transports_via
+- taxes
+- regulates
+- governs
+- controls
+- disputes
+- licenses
+- monopolizes
+- supplies
+- depends_on
+- connects_to
+- migrates_through
+- administers
+- negotiates_with
+
+# Research Principles
+
+- Never treat co-occurrence as a relation.
+- Relations require textual evidence.
+- Preserve historical uncertainty.
+- Do not invent entities.
+- Do not merge entities without evidence.
+- Retain source citations whenever possible.
+
+# Graph Construction
+
+Nodes:
+- Communities
+- Commodities
+- Places
+- Trade Routes
+- Institutions
+- Administrative Units
+
+Edges:
+- Relations extracted from text
+
+Edge Attributes:
+- confidence_score
+- relevance_score
+- source_document
+- source_sentence
+- year
+
+# Validation Rules
+
+Before accepting a relation:
+
+1. Subject must be an entity.
+2. Object must be an entity.
+3. Relation must be explicit or strongly implied.
+4. Confidence score >= 0.70.
+5. Relation must be historically meaningful.
+
+# Output Formats
+
+NER:
+JSON
+
+Relation Extraction:
+JSONL
+
+Network:
+GraphML
+
+Tables:
+CSV
+
+# Preferred Libraries
+
+NER:
+- TextRazor
+- spaCy
+- GLiNER
+
+Relation Extraction:
+- REBEL
+- spaCy Relation Extraction
+- LLM-assisted extraction
+
+Network Analysis:
+- NetworkX
+- Gephi
+- igraph
+
+# Research Goal
+
+The final objective is to demonstrate whether salt functioned as:
+
+- A commodity
+- An infrastructural system
+- A governance mechanism
+- The backbone of multi-commodity circulation
+
+within the Himalayan frontier.

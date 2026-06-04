@@ -658,6 +658,7 @@
 /music/album
 /music/artist
 /music/composer
+/music/composition
 /music/compositional_form
 /music/engineer
 /music/featured_artist
