@@ -1,0 +1,562 @@
+[
+  {
+    "entity": "aurangzeb",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "barley",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "barley for salt",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "basgo palace",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "butter",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "caterpillar fungus",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "chang-luk sheep",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "chang-pa",
+    "type": "PERSON",
+    "confidence": 1.0,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "chang-thang sheep's wool",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "china",
+    "type": "LOCATION",
+    "confidence": 1.0,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "china and tibet",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "chinese authorities",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "coarse wool",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "complex pattern",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "deldan",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "dolpo",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "dras",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "drogpa",
+    "type": "PERSON",
+    "confidence": 1.0,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "foodgrains",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "for barley",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "fragile mountain ecologies",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "frederic drew",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "grain",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "grim (naked barley)",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "hair",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "harvest time",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "in srinagar or leh",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "karakoram",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "khaltse",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "kharnak",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "king of ladakh",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "kitamura",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "ladakh",
+    "type": "PERSON",
+    "confidence": 1.0,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "ladakhi traders",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "leh area merchants",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "livestock",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "loads",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "long dagger",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "material base",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "meat",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "medical aid to remote villages",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "men",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "milk",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "missionaries",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "on some of the popular trekking trails",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "one crop",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "outer hills",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "ownership of tso kar",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "pack-horses",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "pashm",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "pashm (cashmere)",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "pashm in leh",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "porcelain cups",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "rupshu",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "rupshupa",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "sale",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "salt",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "salt from tso kar",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "salt trade",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "shamma",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tea",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tea bricks",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "there and in villages along the route",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibet",
+    "type": "LOCATION",
+    "confidence": 1.0,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibet baqals",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibet's salt lakes",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibetan authorities",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibetan changpas",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibetan herdspeople",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibetan horses",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibetan partners",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tibetans",
+    "type": "COMMODITY",
+    "confidence": 1.0,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "true",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "tukuche",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "valuable corrective",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "village",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "villagers",
+    "type": "LOCATION",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "yak",
+    "type": "PERSON",
+    "confidence": 1.0,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "yaks",
+    "type": "COMMODITY",
+    "confidence": 0.8,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  },
+  {
+    "entity": "yarkand breed",
+    "type": "PERSON",
+    "confidence": 0.5,
+    "relevance": 1.0,
+    "source": "aggregated_graph"
+  }
+]

@@ -1,0 +1,565 @@
+<?xml version="1.0" ?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="d1" for="edge" attr.name="relations" attr.type="string"/>
+  <key id="d2" for="node" attr.name="label" attr.type="string"/>
+  <key id="d3" for="node" attr.name="type" attr.type="string"/>
+  <graph edgedefault="directed">
+    <node id="livestock">
+      <data key="d2">livestock</data>
+      <data key="d3"/>
+    </node>
+    <node id="butter">
+      <data key="d2">butter</data>
+      <data key="d3"/>
+    </node>
+    <node id="khaltse">
+      <data key="d2">khaltse</data>
+      <data key="d3"/>
+    </node>
+    <node id="grim_naked_barley_">
+      <data key="d2">grim (naked barley)</data>
+      <data key="d3"/>
+    </node>
+    <node id="ladakh">
+      <data key="d2">ladakh</data>
+      <data key="d3"/>
+    </node>
+    <node id="valuable_corrective">
+      <data key="d2">valuable corrective</data>
+      <data key="d3"/>
+    </node>
+    <node id="deldan">
+      <data key="d2">deldan</data>
+      <data key="d3"/>
+    </node>
+    <node id="aurangzeb">
+      <data key="d2">aurangzeb</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibetan_authorities">
+      <data key="d2">tibetan authorities</data>
+      <data key="d3"/>
+    </node>
+    <node id="king_of_ladakh">
+      <data key="d2">king of ladakh</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibet">
+      <data key="d2">tibet</data>
+      <data key="d3"/>
+    </node>
+    <node id="frederic_drew">
+      <data key="d2">frederic drew</data>
+      <data key="d3"/>
+    </node>
+    <node id="missionaries">
+      <data key="d2">missionaries</data>
+      <data key="d3"/>
+    </node>
+    <node id="medical_aid_to_remote_villages">
+      <data key="d2">medical aid to remote villages</data>
+      <data key="d3"/>
+    </node>
+    <node id="china">
+      <data key="d2">china</data>
+      <data key="d3"/>
+    </node>
+    <node id="tea">
+      <data key="d2">tea</data>
+      <data key="d3"/>
+    </node>
+    <node id="pashm_cashmere_">
+      <data key="d2">pashm (cashmere)</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibet_s_salt_lakes">
+      <data key="d2">tibet's salt lakes</data>
+      <data key="d3"/>
+    </node>
+    <node id="salt">
+      <data key="d2">salt</data>
+      <data key="d3"/>
+    </node>
+    <node id="outer_hills">
+      <data key="d2">outer hills</data>
+      <data key="d3"/>
+    </node>
+    <node id="foodgrains">
+      <data key="d2">foodgrains</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibetan_herdspeople">
+      <data key="d2">tibetan herdspeople</data>
+      <data key="d3"/>
+    </node>
+    <node id="shamma">
+      <data key="d2">shamma</data>
+      <data key="d3"/>
+    </node>
+    <node id="leh_area_merchants">
+      <data key="d2">leh area merchants</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibet_baqals">
+      <data key="d2">tibet baqals</data>
+      <data key="d3"/>
+    </node>
+    <node id="pashm">
+      <data key="d2">pashm</data>
+      <data key="d3"/>
+    </node>
+    <node id="chang-pa">
+      <data key="d2">chang-pa</data>
+      <data key="d3"/>
+    </node>
+    <node id="chang-thang_sheep_s_wool">
+      <data key="d2">chang-thang sheep's wool</data>
+      <data key="d3"/>
+    </node>
+    <node id="barley_for_salt">
+      <data key="d2">barley for salt</data>
+      <data key="d3"/>
+    </node>
+    <node id="in_srinagar_or_leh">
+      <data key="d2">in srinagar or leh</data>
+      <data key="d3"/>
+    </node>
+    <node id="complex_pattern">
+      <data key="d2">complex pattern</data>
+      <data key="d3"/>
+    </node>
+    <node id="pack-horses">
+      <data key="d2">pack-horses</data>
+      <data key="d3"/>
+    </node>
+    <node id="karakoram">
+      <data key="d2">karakoram</data>
+      <data key="d3"/>
+    </node>
+    <node id="yarkand_breed">
+      <data key="d2">yarkand breed</data>
+      <data key="d3"/>
+    </node>
+    <node id="loads">
+      <data key="d2">loads</data>
+      <data key="d3"/>
+    </node>
+    <node id="dras">
+      <data key="d2">dras</data>
+      <data key="d3"/>
+    </node>
+    <node id="one_crop">
+      <data key="d2">one crop</data>
+      <data key="d3"/>
+    </node>
+    <node id="yak">
+      <data key="d2">yak</data>
+      <data key="d3"/>
+    </node>
+    <node id="hair">
+      <data key="d2">hair</data>
+      <data key="d3"/>
+    </node>
+    <node id="milk">
+      <data key="d2">milk</data>
+      <data key="d3"/>
+    </node>
+    <node id="meat">
+      <data key="d2">meat</data>
+      <data key="d3"/>
+    </node>
+    <node id="chang-luk_sheep">
+      <data key="d2">chang-luk sheep</data>
+      <data key="d3"/>
+    </node>
+    <node id="coarse_wool">
+      <data key="d2">coarse wool</data>
+      <data key="d3"/>
+    </node>
+    <node id="villagers">
+      <data key="d2">villagers</data>
+      <data key="d3"/>
+    </node>
+    <node id="harvest_time">
+      <data key="d2">harvest time</data>
+      <data key="d3"/>
+    </node>
+    <node id="ladakhi_traders">
+      <data key="d2">ladakhi traders</data>
+      <data key="d3"/>
+    </node>
+    <node id="pashm_in_leh">
+      <data key="d2">pashm in leh</data>
+      <data key="d3"/>
+    </node>
+    <node id="fragile_mountain_ecologies">
+      <data key="d2">fragile mountain ecologies</data>
+      <data key="d3"/>
+    </node>
+    <node id="on_some_of_the_popular_trekking_trails">
+      <data key="d2">on some of the popular trekking trails</data>
+      <data key="d3"/>
+    </node>
+    <node id="material_base">
+      <data key="d2">material base</data>
+      <data key="d3"/>
+    </node>
+    <node id="basgo_palace">
+      <data key="d2">basgo palace</data>
+      <data key="d3"/>
+    </node>
+    <node id="true">
+      <data key="d2">true</data>
+      <data key="d3"/>
+    </node>
+    <node id="rupshu">
+      <data key="d2">rupshu</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibetan_changpas">
+      <data key="d2">tibetan changpas</data>
+      <data key="d3"/>
+    </node>
+    <node id="rupshupa">
+      <data key="d2">rupshupa</data>
+      <data key="d3"/>
+    </node>
+    <node id="salt_from_tso_kar">
+      <data key="d2">salt from tso kar</data>
+      <data key="d3"/>
+    </node>
+    <node id="men">
+      <data key="d2">men</data>
+      <data key="d3"/>
+    </node>
+    <node id="kharnak">
+      <data key="d2">kharnak</data>
+      <data key="d3"/>
+    </node>
+    <node id="ownership_of_tso_kar">
+      <data key="d2">ownership of tso kar</data>
+      <data key="d3"/>
+    </node>
+    <node id="there_and_in_villages_along_the_route">
+      <data key="d2">there and in villages along the route</data>
+      <data key="d3"/>
+    </node>
+    <node id="for_barley">
+      <data key="d2">for barley</data>
+      <data key="d3"/>
+    </node>
+    <node id="yaks">
+      <data key="d2">yaks</data>
+      <data key="d3"/>
+    </node>
+    <node id="barley">
+      <data key="d2">barley</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibetan_partners">
+      <data key="d2">tibetan partners</data>
+      <data key="d3"/>
+    </node>
+    <node id="dolpo">
+      <data key="d2">dolpo</data>
+      <data key="d3"/>
+    </node>
+    <node id="china_and_tibet">
+      <data key="d2">china and tibet</data>
+      <data key="d3"/>
+    </node>
+    <node id="chinese_authorities">
+      <data key="d2">chinese authorities</data>
+      <data key="d3"/>
+    </node>
+    <node id="salt_trade">
+      <data key="d2">salt trade</data>
+      <data key="d3"/>
+    </node>
+    <node id="drogpa">
+      <data key="d2">drogpa</data>
+      <data key="d3"/>
+    </node>
+    <node id="tea_bricks">
+      <data key="d2">tea bricks</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibetan_horses">
+      <data key="d2">tibetan horses</data>
+      <data key="d3"/>
+    </node>
+    <node id="kitamura">
+      <data key="d2">kitamura</data>
+      <data key="d3"/>
+    </node>
+    <node id="porcelain_cups">
+      <data key="d2">porcelain cups</data>
+      <data key="d3"/>
+    </node>
+    <node id="tibetans">
+      <data key="d2">tibetans</data>
+      <data key="d3"/>
+    </node>
+    <node id="caterpillar_fungus">
+      <data key="d2">caterpillar fungus</data>
+      <data key="d3"/>
+    </node>
+    <node id="grain">
+      <data key="d2">grain</data>
+      <data key="d3"/>
+    </node>
+    <node id="tukuche">
+      <data key="d2">tukuche</data>
+      <data key="d3"/>
+    </node>
+    <node id="village">
+      <data key="d2">village</data>
+      <data key="d3"/>
+    </node>
+    <node id="long_dagger">
+      <data key="d2">long dagger</data>
+      <data key="d3"/>
+    </node>
+    <node id="sale">
+      <data key="d2">sale</data>
+      <data key="d3"/>
+    </node>
+    <edge source="livestock" target="butter">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="khaltse" target="grim_naked_barley_">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="ladakh" target="valuable_corrective">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="ladakh" target="complex_pattern">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="ladakh" target="tea">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="deldan" target="aurangzeb">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="deldan" target="tibetan_authorities">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="king_of_ladakh" target="tibet">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibet" target="pashm_cashmere_">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="frederic_drew" target="ladakh">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="missionaries" target="medical_aid_to_remote_villages">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="china" target="tea">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibet_s_salt_lakes" target="salt">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="salt" target="for_barley">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="outer_hills" target="foodgrains">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibetan_herdspeople" target="foodgrains">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="shamma" target="leh_area_merchants">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="shamma" target="tibet_baqals">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="shamma" target="pashm">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="shamma" target="chang-thang_sheep_s_wool">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="shamma" target="barley_for_salt">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="shamma" target="in_srinagar_or_leh">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibet_baqals" target="pashm">
+      <data key="d0">2.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="chang-pa" target="salt">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="pack-horses" target="karakoram">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="yarkand_breed" target="loads">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="dras" target="one_crop">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="yak" target="hair">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="yak" target="milk">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="yak" target="butter">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="yak" target="meat">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="chang-luk_sheep" target="coarse_wool">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="chang-luk_sheep" target="meat">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="villagers" target="harvest_time">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="villagers" target="material_base">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="ladakhi_traders" target="pashm_in_leh">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="fragile_mountain_ecologies" target="on_some_of_the_popular_trekking_trails">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="basgo_palace" target="true">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="rupshu" target="tibet">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="rupshu" target="salt_from_tso_kar">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="rupshu" target="kharnak">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibetan_changpas" target="salt">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="rupshupa" target="salt_from_tso_kar">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="men" target="salt_from_tso_kar">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="men" target="there_and_in_villages_along_the_route">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="men" target="long_dagger">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="kharnak" target="ownership_of_tso_kar">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="kharnak" target="rupshu">
+      <data key="d0">3.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="yaks" target="barley">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibetan_partners" target="salt">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="dolpo" target="china_and_tibet">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="dolpo" target="grain">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="chinese_authorities" target="salt_trade">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="drogpa" target="tea_bricks">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibetan_horses" target="tea_bricks">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="kitamura" target="porcelain_cups">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tibetans" target="caterpillar_fungus">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="caterpillar_fungus" target="sale">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+    <edge source="tukuche" target="village">
+      <data key="d0">1.0</data>
+      <data key="d1"/>
+    </edge>
+  </graph>
+</graphml>

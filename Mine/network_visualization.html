@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "livestock", "label": "livestock", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "butter", "label": "butter", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "khaltse", "label": "khaltse", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "grim_naked_barley_", "label": "grim (naked barley)", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "ladakh", "label": "ladakh", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "valuable_corrective", "label": "valuable corrective", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "complex_pattern", "label": "complex pattern", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tea", "label": "tea", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "deldan", "label": "deldan", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "aurangzeb", "label": "aurangzeb", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibetan_authorities", "label": "tibetan authorities", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "king_of_ladakh", "label": "king of ladakh", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibet", "label": "tibet", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "pashm_cashmere_", "label": "pashm (cashmere)", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "frederic_drew", "label": "frederic drew", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "missionaries", "label": "missionaries", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "medical_aid_to_remote_villages", "label": "medical aid to remote villages", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "china", "label": "china", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibet_s_salt_lakes", "label": "tibet\u0027s salt lakes", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "salt", "label": "salt", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "for_barley", "label": "for barley", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "outer_hills", "label": "outer hills", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "foodgrains", "label": "foodgrains", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibetan_herdspeople", "label": "tibetan herdspeople", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "shamma", "label": "shamma", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "leh_area_merchants", "label": "leh area merchants", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibet_baqals", "label": "tibet baqals", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "pashm", "label": "pashm", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "chang-thang_sheep_s_wool", "label": "chang-thang sheep\u0027s wool", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "barley_for_salt", "label": "barley for salt", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "in_srinagar_or_leh", "label": "in srinagar or leh", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "chang-pa", "label": "chang-pa", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "pack-horses", "label": "pack-horses", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "karakoram", "label": "karakoram", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "yarkand_breed", "label": "yarkand breed", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "loads", "label": "loads", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "dras", "label": "dras", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "one_crop", "label": "one crop", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "yak", "label": "yak", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "hair", "label": "hair", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "milk", "label": "milk", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "meat", "label": "meat", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "chang-luk_sheep", "label": "chang-luk sheep", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "coarse_wool", "label": "coarse wool", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "villagers", "label": "villagers", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "harvest_time", "label": "harvest time", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "material_base", "label": "material base", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "ladakhi_traders", "label": "ladakhi traders", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "pashm_in_leh", "label": "pashm in leh", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "fragile_mountain_ecologies", "label": "fragile mountain ecologies", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "on_some_of_the_popular_trekking_trails", "label": "on some of the popular trekking trails", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "basgo_palace", "label": "basgo palace", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "true", "label": "true", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "rupshu", "label": "rupshu", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "salt_from_tso_kar", "label": "salt from tso kar", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "kharnak", "label": "kharnak", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibetan_changpas", "label": "tibetan changpas", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "rupshupa", "label": "rupshupa", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "men", "label": "men", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "there_and_in_villages_along_the_route", "label": "there and in villages along the route", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "long_dagger", "label": "long dagger", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "ownership_of_tso_kar", "label": "ownership of tso kar", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "yaks", "label": "yaks", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "barley", "label": "barley", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibetan_partners", "label": "tibetan partners", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "dolpo", "label": "dolpo", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "china_and_tibet", "label": "china and tibet", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "grain", "label": "grain", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "chinese_authorities", "label": "chinese authorities", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "salt_trade", "label": "salt trade", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "drogpa", "label": "drogpa", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tea_bricks", "label": "tea bricks", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibetan_horses", "label": "tibetan horses", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "kitamura", "label": "kitamura", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "porcelain_cups", "label": "porcelain cups", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tibetans", "label": "tibetans", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "caterpillar_fungus", "label": "caterpillar fungus", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "sale", "label": "sale", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "tukuche", "label": "tukuche", "shape": "dot", "size": 10, "type": ""}, {"color": "#97c2fc", "id": "village", "label": "village", "shape": "dot", "size": 10, "type": ""}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "livestock", "relations": "", "to": "butter", "width": 1.0}, {"arrows": "to", "from": "khaltse", "relations": "", "to": "grim_naked_barley_", "width": 1.0}, {"arrows": "to", "from": "ladakh", "relations": "", "to": "valuable_corrective", "width": 1.0}, {"arrows": "to", "from": "ladakh", "relations": "", "to": "complex_pattern", "width": 1.0}, {"arrows": "to", "from": "ladakh", "relations": "", "to": "tea", "width": 1.0}, {"arrows": "to", "from": "deldan", "relations": "", "to": "aurangzeb", "width": 1.0}, {"arrows": "to", "from": "deldan", "relations": "", "to": "tibetan_authorities", "width": 1.0}, {"arrows": "to", "from": "king_of_ladakh", "relations": "", "to": "tibet", "width": 1.0}, {"arrows": "to", "from": "tibet", "relations": "", "to": "pashm_cashmere_", "width": 1.0}, {"arrows": "to", "from": "frederic_drew", "relations": "", "to": "ladakh", "width": 1.0}, {"arrows": "to", "from": "missionaries", "relations": "", "to": "medical_aid_to_remote_villages", "width": 1.0}, {"arrows": "to", "from": "china", "relations": "", "to": "tea", "width": 1.0}, {"arrows": "to", "from": "tibet_s_salt_lakes", "relations": "", "to": "salt", "width": 1.0}, {"arrows": "to", "from": "salt", "relations": "", "to": "for_barley", "width": 1.0}, {"arrows": "to", "from": "outer_hills", "relations": "", "to": "foodgrains", "width": 1.0}, {"arrows": "to", "from": "tibetan_herdspeople", "relations": "", "to": "foodgrains", "width": 1.0}, {"arrows": "to", "from": "shamma", "relations": "", "to": "leh_area_merchants", "width": 1.0}, {"arrows": "to", "from": "shamma", "relations": "", "to": "tibet_baqals", "width": 1.0}, {"arrows": "to", "from": "shamma", "relations": "", "to": "pashm", "width": 1.0}, {"arrows": "to", "from": "shamma", "relations": "", "to": "chang-thang_sheep_s_wool", "width": 1.0}, {"arrows": "to", "from": "shamma", "relations": "", "to": "barley_for_salt", "width": 1.0}, {"arrows": "to", "from": "shamma", "relations": "", "to": "in_srinagar_or_leh", "width": 1.0}, {"arrows": "to", "from": "tibet_baqals", "relations": "", "to": "pashm", "width": 2.0}, {"arrows": "to", "from": "chang-pa", "relations": "", "to": "salt", "width": 1.0}, {"arrows": "to", "from": "pack-horses", "relations": "", "to": "karakoram", "width": 1.0}, {"arrows": "to", "from": "yarkand_breed", "relations": "", "to": "loads", "width": 1.0}, {"arrows": "to", "from": "dras", "relations": "", "to": "one_crop", "width": 1.0}, {"arrows": "to", "from": "yak", "relations": "", "to": "hair", "width": 1.0}, {"arrows": "to", "from": "yak", "relations": "", "to": "milk", "width": 1.0}, {"arrows": "to", "from": "yak", "relations": "", "to": "butter", "width": 1.0}, {"arrows": "to", "from": "yak", "relations": "", "to": "meat", "width": 1.0}, {"arrows": "to", "from": "chang-luk_sheep", "relations": "", "to": "coarse_wool", "width": 1.0}, {"arrows": "to", "from": "chang-luk_sheep", "relations": "", "to": "meat", "width": 1.0}, {"arrows": "to", "from": "villagers", "relations": "", "to": "harvest_time", "width": 1.0}, {"arrows": "to", "from": "villagers", "relations": "", "to": "material_base", "width": 1.0}, {"arrows": "to", "from": "ladakhi_traders", "relations": "", "to": "pashm_in_leh", "width": 1.0}, {"arrows": "to", "from": "fragile_mountain_ecologies", "relations": "", "to": "on_some_of_the_popular_trekking_trails", "width": 1.0}, {"arrows": "to", "from": "basgo_palace", "relations": "", "to": "true", "width": 1.0}, {"arrows": "to", "from": "rupshu", "relations": "", "to": "tibet", "width": 1.0}, {"arrows": "to", "from": "rupshu", "relations": "", "to": "salt_from_tso_kar", "width": 1.0}, {"arrows": "to", "from": "rupshu", "relations": "", "to": "kharnak", "width": 1.0}, {"arrows": "to", "from": "tibetan_changpas", "relations": "", "to": "salt", "width": 1.0}, {"arrows": "to", "from": "rupshupa", "relations": "", "to": "salt_from_tso_kar", "width": 1.0}, {"arrows": "to", "from": "men", "relations": "", "to": "salt_from_tso_kar", "width": 1.0}, {"arrows": "to", "from": "men", "relations": "", "to": "there_and_in_villages_along_the_route", "width": 1.0}, {"arrows": "to", "from": "men", "relations": "", "to": "long_dagger", "width": 1.0}, {"arrows": "to", "from": "kharnak", "relations": "", "to": "ownership_of_tso_kar", "width": 1.0}, {"arrows": "to", "from": "kharnak", "relations": "", "to": "rupshu", "width": 3.0}, {"arrows": "to", "from": "yaks", "relations": "", "to": "barley", "width": 1.0}, {"arrows": "to", "from": "tibetan_partners", "relations": "", "to": "salt", "width": 1.0}, {"arrows": "to", "from": "dolpo", "relations": "", "to": "china_and_tibet", "width": 1.0}, {"arrows": "to", "from": "dolpo", "relations": "", "to": "grain", "width": 1.0}, {"arrows": "to", "from": "chinese_authorities", "relations": "", "to": "salt_trade", "width": 1.0}, {"arrows": "to", "from": "drogpa", "relations": "", "to": "tea_bricks", "width": 1.0}, {"arrows": "to", "from": "tibetan_horses", "relations": "", "to": "tea_bricks", "width": 1.0}, {"arrows": "to", "from": "kitamura", "relations": "", "to": "porcelain_cups", "width": 1.0}, {"arrows": "to", "from": "tibetans", "relations": "", "to": "caterpillar_fungus", "width": 1.0}, {"arrows": "to", "from": "caterpillar_fungus", "relations": "", "to": "sale", "width": 1.0}, {"arrows": "to", "from": "tukuche", "relations": "", "to": "village", "width": 1.0}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

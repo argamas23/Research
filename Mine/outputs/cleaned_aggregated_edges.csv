@@ -1,0 +1,60 @@
+Source,Target,MappedRelation,Weight,RawRelations,SourceType,TargetType
+kharnak,rupshu,taxes,3.0,get salt for free|pay fine to|receive share of salt,PERSON,LOCATION
+tibet baqals,pashm,trades_with,2.0,buy|control_trade_of,LOCATION,COMMODITY
+livestock,butter,supplies,1.0,provide,COMMODITY,COMMODITY
+khaltse,grim (naked barley),extracts_from,1.0,harvest,PERSON,COMMODITY
+ladakh,valuable corrective,supplies,1.0,provide,PERSON,PERSON
+deldan,aurangzeb,negotiates_with,1.0,negotiate with,PERSON,PERSON
+deldan,tibetan authorities,negotiates_with,1.0,agree with,PERSON,LOCATION
+king of ladakh,tibet,licenses,1.0,must not allow an army from india to proceed to an attack on,LOCATION,LOCATION
+frederic drew,ladakh,governs,1.0,govern,PERSON,PERSON
+missionaries,medical aid to remote villages,transports_via,1.0,bring,PERSON,LOCATION
+china,tea,trades_with,1.0,trade,LOCATION,COMMODITY
+tibet,pashm (cashmere),trades_with,1.0,trade,LOCATION,COMMODITY
+tibet's salt lakes,salt,trades_with,1.0,trade,COMMODITY,COMMODITY
+outer hills,foodgrains,trades_with,1.0,trade,PERSON,COMMODITY
+tibetan herdspeople,foodgrains,supplies,1.0,supply,LOCATION,COMMODITY
+shamma,leh area merchants,trades_with,1.0,trade,PERSON,LOCATION
+shamma,tibet baqals,trades_with,1.0,trade,PERSON,LOCATION
+shamma,pashm,trades_with,1.0,sell,PERSON,COMMODITY
+chang-pa,salt,extracts_from,1.0,collect,PERSON,COMMODITY
+shamma,chang-thang sheep's wool,trades_with,1.0,buy,PERSON,COMMODITY
+shamma,barley for salt,trades_with,1.0,barter,PERSON,COMMODITY
+shamma,in srinagar or leh,trades_with,1.0,sell,PERSON,LOCATION
+ladakh,complex pattern,transports_via,1.0,carry on trades according to,PERSON,PERSON
+ladakh,tea,trades_with,1.0,trade,PERSON,COMMODITY
+pack-horses,karakoram,transports_via,1.0,were used for transport across the karakoram,COMMODITY,PERSON
+yarkand breed,loads,transports_via,1.0,could carry loads of about 100 kilograms,PERSON,PERSON
+dras,one crop,extracts_from,1.0,harvest,PERSON,PERSON
+yak,hair,supplies,1.0,provide,PERSON,PERSON
+yak,milk,supplies,1.0,provide,PERSON,PERSON
+yak,butter,supplies,1.0,provide,PERSON,COMMODITY
+yak,meat,supplies,1.0,provide,PERSON,PERSON
+chang-luk sheep,coarse wool,supplies,1.0,provide,COMMODITY,COMMODITY
+chang-luk sheep,meat,supplies,1.0,provide,COMMODITY,PERSON
+villagers,harvest time,extracts_from,1.0,combine to gather crops,LOCATION,PERSON
+ladakhi traders,pashm in leh,trades_with,1.0,sell,LOCATION,COMMODITY
+fragile mountain ecologies,on some of the popular trekking trails,transports_via,1.0,are at risk equally from the boots of the walkers and the hooves of the ponies that carry their baggage,LOCATION,LOCATION
+villagers,material base,supplies,1.0,provide,LOCATION,PERSON
+basgo palace,true,supplies,1.0,has perennial water-supply,PERSON,PERSON
+rupshu,tibet,trades_with,1.0,trade,LOCATION,LOCATION
+tibetan changpas,salt,transports_via,1.0,bring,LOCATION,COMMODITY
+rupshupa,salt from tso kar,extracts_from,1.0,collect,LOCATION,COMMODITY
+rupshu,salt from tso kar,extracts_from,1.0,remove,LOCATION,COMMODITY
+men,salt from tso kar,extracts_from,1.0,remove,PERSON,COMMODITY
+kharnak,ownership of tso kar,disputes,1.0,claim,PERSON,LOCATION
+rupshu,kharnak,supplies,1.0,give salt to,LOCATION,PERSON
+men,there and in villages along the route,trades_with,1.0,trade,PERSON,LOCATION
+salt,for barley,trades_with,1.0,barter,COMMODITY,COMMODITY
+yaks,barley,transports_via,1.0,carry,COMMODITY,COMMODITY
+tibetan partners,salt,trades_with,1.0,barter,LOCATION,COMMODITY
+dolpo,china and tibet,trades_with,1.0,trade,LOCATION,LOCATION
+chinese authorities,salt trade,licenses,1.0,allow,PERSON,COMMODITY
+drogpa,tea bricks,transports_via,1.0,bring,PERSON,COMMODITY
+tibetan horses,tea bricks,trades_with,1.0,trade,COMMODITY,COMMODITY
+kitamura,porcelain cups,trades_with,1.0,trade,PERSON,COMMODITY
+tibetans,caterpillar fungus,trades_with,1.0,sell,COMMODITY,PERSON
+dolpo,grain,trades_with,1.0,barter,LOCATION,COMMODITY
+tukuche,village,trades_with,1.0,market center,PERSON,LOCATION
+men,long dagger,transports_via,1.0,carry,PERSON,PERSON
+caterpillar fungus,sale,trades_with,1.0,paying more than grain barter,PERSON,PERSON
