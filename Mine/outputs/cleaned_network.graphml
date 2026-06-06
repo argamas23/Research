@@ -4,562 +4,1891 @@
   <key id="d1" for="edge" attr.name="relations" attr.type="string"/>
   <key id="d2" for="node" attr.name="label" attr.type="string"/>
   <key id="d3" for="node" attr.name="type" attr.type="string"/>
+  <key id="d4" for="node" attr.name="confidence" attr.type="double"/>
+  <key id="d5" for="node" attr.name="weighted_degree" attr.type="double"/>
+  <key id="d6" for="node" attr.name="pagerank" attr.type="double"/>
+  <key id="d7" for="node" attr.name="betweenness" attr.type="double"/>
+  <key id="d8" for="node" attr.name="prominence" attr.type="double"/>
+  <key id="d9" for="node" attr.name="size" attr.type="double"/>
+  <key id="d10" for="node" attr.name="title" attr.type="string"/>
+  <key id="d11" for="node" attr.name="group" attr.type="string"/>
+  <key id="d12" for="node" attr.name="color" attr.type="string"/>
+  <key id="d13" for="edge" attr.name="relation" attr.type="string"/>
+  <key id="d14" for="edge" attr.name="raw_relations" attr.type="string"/>
+  <key id="d15" for="edge" attr.name="semantic_strength" attr.type="double"/>
+  <key id="d16" for="edge" attr.name="embedded_similarity" attr.type="double"/>
+  <key id="d17" for="edge" attr.name="endpoint_prominence" attr.type="double"/>
+  <key id="d18" for="edge" attr.name="relation_rarity" attr.type="double"/>
+  <key id="d19" for="edge" attr.name="width" attr.type="double"/>
+  <key id="d20" for="edge" attr.name="value" attr.type="double"/>
+  <key id="d21" for="edge" attr.name="title" attr.type="string"/>
+  <key id="d22" for="edge" attr.name="arrows" attr.type="string"/>
   <graph edgedefault="directed">
     <node id="livestock">
       <data key="d2">livestock</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">livestock&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="butter">
       <data key="d2">butter</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.1997</data>
+      <data key="d9">23.19</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.017047</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">butter&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.200&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.017047</data>
     </node>
     <node id="khaltse">
       <data key="d2">khaltse</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">khaltse&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="grim_naked_barley_">
       <data key="d2">grim (naked barley)</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">grim (naked barley)&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="ladakh">
       <data key="d2">ladakh</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">1.0</data>
+      <data key="d8">0.4893</data>
+      <data key="d9">31.78</data>
+      <data key="d5">4.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.000487</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">ladakh&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.489&lt;br&gt;Weighted degree: 4.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="valuable_corrective">
       <data key="d2">valuable corrective</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0378</data>
+      <data key="d9">14.61</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.012598</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">valuable corrective&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.038&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.012598</data>
     </node>
     <node id="deldan">
       <data key="d2">deldan</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.123</data>
+      <data key="d9">19.92</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">deldan&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.123&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="aurangzeb">
       <data key="d2">aurangzeb</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0307</data>
+      <data key="d9">13.96</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011778</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">aurangzeb&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.031&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011778</data>
     </node>
     <node id="tibetan_authorities">
       <data key="d2">tibetan authorities</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0307</data>
+      <data key="d9">13.96</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011778</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">tibetan authorities&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.031&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011778</data>
     </node>
     <node id="king_of_ladakh">
       <data key="d2">king of ladakh</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0147</data>
+      <data key="d9">12.12</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">king of ladakh&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.015&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="tibet">
       <data key="d2">tibet</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">1.0</data>
+      <data key="d8">0.5138</data>
+      <data key="d9">32.37</data>
+      <data key="d5">3.0</data>
+      <data key="d6">0.019969</data>
+      <data key="d7">0.000487</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">tibet&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.514&lt;br&gt;Weighted degree: 3.00&lt;br&gt;PageRank: 0.019969</data>
     </node>
     <node id="frederic_drew">
       <data key="d2">frederic drew</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">frederic drew&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="missionaries">
       <data key="d2">missionaries</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">missionaries&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="medical_aid_to_remote_villages">
       <data key="d2">medical aid to remote villages</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">medical aid to remote villages&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="china">
       <data key="d2">china</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">1.0</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">china&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="tea">
       <data key="d2">tea</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.2222</data>
+      <data key="d9">24.03</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.019623</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">tea&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.222&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.019623</data>
     </node>
     <node id="pashm_cashmere_">
       <data key="d2">pashm (cashmere)</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.1629</data>
+      <data key="d9">21.72</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.02524</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">pashm (cashmere)&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.163&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.025240</data>
     </node>
     <node id="tibet_s_salt_lakes">
       <data key="d2">tibet's salt lakes</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">tibet's salt lakes&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="salt">
       <data key="d2">salt</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.7787</data>
+      <data key="d9">38.0</data>
+      <data key="d5">5.0</data>
+      <data key="d6">0.036367</data>
+      <data key="d7">0.000649</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">salt&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.779&lt;br&gt;Weighted degree: 5.00&lt;br&gt;PageRank: 0.036367</data>
     </node>
     <node id="outer_hills">
       <data key="d2">outer hills</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">outer hills&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="foodgrains">
       <data key="d2">foodgrains</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.2457</data>
+      <data key="d9">24.85</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.022316</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">foodgrains&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.246&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.022316</data>
     </node>
     <node id="tibetan_herdspeople">
       <data key="d2">tibetan herdspeople</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">tibetan herdspeople&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="shamma">
       <data key="d2">shamma</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.38</data>
+      <data key="d9">28.96</data>
+      <data key="d5">6.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">shamma&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.380&lt;br&gt;Weighted degree: 6.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="leh_area_merchants">
       <data key="d2">leh area merchants</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0102</data>
+      <data key="d9">11.44</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.009436</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">leh area merchants&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.010&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.009436</data>
     </node>
     <node id="tibet_baqals">
       <data key="d2">tibet baqals</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.2205</data>
+      <data key="d9">23.97</data>
+      <data key="d5">3.0</data>
+      <data key="d6">0.009436</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">tibet baqals&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.221&lt;br&gt;Weighted degree: 3.00&lt;br&gt;PageRank: 0.009436</data>
     </node>
     <node id="pashm">
       <data key="d2">pashm</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.2906</data>
+      <data key="d9">26.33</data>
+      <data key="d5">3.0</data>
+      <data key="d6">0.017457</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">pashm&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.291&lt;br&gt;Weighted degree: 3.00&lt;br&gt;PageRank: 0.017457</data>
     </node>
     <node id="chang-pa">
       <data key="d2">chang-pa</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">1.0</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">chang-pa&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="chang-thang_sheep_s_wool">
       <data key="d2">chang-thang sheep's wool</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0102</data>
+      <data key="d9">11.44</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.009436</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">chang-thang sheep's wool&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.010&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.009436</data>
     </node>
     <node id="barley_for_salt">
       <data key="d2">barley for salt</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0102</data>
+      <data key="d9">11.44</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.009436</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">barley for salt&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.010&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.009436</data>
     </node>
     <node id="in_srinagar_or_leh">
       <data key="d2">in srinagar or leh</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0102</data>
+      <data key="d9">11.44</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.009436</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">in srinagar or leh&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.010&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.009436</data>
     </node>
     <node id="complex_pattern">
       <data key="d2">complex pattern</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0378</data>
+      <data key="d9">14.61</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.012598</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">complex pattern&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.038&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.012598</data>
     </node>
     <node id="pack-horses">
       <data key="d2">pack-horses</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">pack-horses&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="karakoram">
       <data key="d2">karakoram</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">karakoram&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="yarkand_breed">
       <data key="d2">yarkand breed</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">yarkand breed&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="loads">
       <data key="d2">loads</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">loads&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="dras">
       <data key="d2">dras</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">dras&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="one_crop">
       <data key="d2">one crop</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">one crop&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="yak">
       <data key="d2">yak</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">1.0</data>
+      <data key="d8">0.2779</data>
+      <data key="d9">25.92</data>
+      <data key="d5">4.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">yak&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.278&lt;br&gt;Weighted degree: 4.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="hair">
       <data key="d2">hair</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0153</data>
+      <data key="d9">12.21</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.010022</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">hair&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.015&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.010022</data>
     </node>
     <node id="milk">
       <data key="d2">milk</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0153</data>
+      <data key="d9">12.21</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.010022</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">milk&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.015&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.010022</data>
     </node>
     <node id="meat">
       <data key="d2">meat</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.169</data>
+      <data key="d9">21.98</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.013534</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">meat&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.169&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.013534</data>
     </node>
     <node id="chang-luk_sheep">
       <data key="d2">chang-luk sheep</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.123</data>
+      <data key="d9">19.92</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">chang-luk sheep&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.123&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="coarse_wool">
       <data key="d2">coarse wool</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0307</data>
+      <data key="d9">13.96</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011778</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">coarse wool&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.031&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011778</data>
     </node>
     <node id="villagers">
       <data key="d2">villagers</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.123</data>
+      <data key="d9">19.92</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">villagers&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.123&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="harvest_time">
       <data key="d2">harvest time</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0307</data>
+      <data key="d9">13.96</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011778</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">harvest time&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.031&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011778</data>
     </node>
     <node id="ladakhi_traders">
       <data key="d2">ladakhi traders</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">ladakhi traders&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="pashm_in_leh">
       <data key="d2">pashm in leh</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">pashm in leh&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="fragile_mountain_ecologies">
       <data key="d2">fragile mountain ecologies</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">fragile mountain ecologies&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="on_some_of_the_popular_trekking_trails">
       <data key="d2">on some of the popular trekking trails</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">on some of the popular trekking trails&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="material_base">
       <data key="d2">material base</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0307</data>
+      <data key="d9">13.96</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011778</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">material base&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.031&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011778</data>
     </node>
     <node id="basgo_palace">
       <data key="d2">basgo palace</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">basgo palace&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="true">
       <data key="d2">true</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">true&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="rupshu">
       <data key="d2">rupshu</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.7521</data>
+      <data key="d9">37.49</data>
+      <data key="d5">6.0</data>
+      <data key="d6">0.016517</data>
+      <data key="d7">0.000487</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">rupshu&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.752&lt;br&gt;Weighted degree: 6.00&lt;br&gt;PageRank: 0.016517</data>
     </node>
     <node id="tibetan_changpas">
       <data key="d2">tibetan changpas</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">tibetan changpas&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="rupshupa">
       <data key="d2">rupshupa</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.015</data>
+      <data key="d9">12.16</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">rupshupa&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.015&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="salt_from_tso_kar">
       <data key="d2">salt from tso kar</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.3852</data>
+      <data key="d9">29.1</data>
+      <data key="d5">3.0</data>
+      <data key="d6">0.022311</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">salt from tso kar&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.385&lt;br&gt;Weighted degree: 3.00&lt;br&gt;PageRank: 0.022311</data>
     </node>
     <node id="men">
       <data key="d2">men</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.2281</data>
+      <data key="d9">24.24</data>
+      <data key="d5">3.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">men&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.228&lt;br&gt;Weighted degree: 3.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="kharnak">
       <data key="d2">kharnak</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.5643</data>
+      <data key="d9">33.54</data>
+      <data key="d5">5.0</data>
+      <data key="d6">0.012943</data>
+      <data key="d7">0.000162</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">kharnak&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.564&lt;br&gt;Weighted degree: 5.00&lt;br&gt;PageRank: 0.012943</data>
     </node>
     <node id="ownership_of_tso_kar">
       <data key="d2">ownership of tso kar</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0641</data>
+      <data key="d9">16.61</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011016</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">ownership of tso kar&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.064&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011016</data>
     </node>
     <node id="there_and_in_villages_along_the_route">
       <data key="d2">there and in villages along the route</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0256</data>
+      <data key="d9">13.44</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.010607</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">there and in villages along the route&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.026&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.010607</data>
     </node>
     <node id="for_barley">
       <data key="d2">for barley</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.27</data>
+      <data key="d9">25.67</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.039178</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">for barley&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.270&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.039178</data>
     </node>
     <node id="yaks">
       <data key="d2">yaks</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">yaks&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="barley">
       <data key="d2">barley</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">barley&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="tibetan_partners">
       <data key="d2">tibetan partners</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">tibetan partners&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="dolpo">
       <data key="d2">dolpo</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.123</data>
+      <data key="d9">19.92</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">dolpo&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.123&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="china_and_tibet">
       <data key="d2">china and tibet</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0307</data>
+      <data key="d9">13.96</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011778</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">china and tibet&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.031&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011778</data>
     </node>
     <node id="chinese_authorities">
       <data key="d2">chinese authorities</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">chinese authorities&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="salt_trade">
       <data key="d2">salt trade</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">salt trade&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="drogpa">
       <data key="d2">drogpa</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">1.0</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">drogpa&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="tea_bricks">
       <data key="d2">tea bricks</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.2457</data>
+      <data key="d9">24.85</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.022316</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">tea bricks&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.246&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.022316</data>
     </node>
     <node id="tibetan_horses">
       <data key="d2">tibetan horses</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">tibetan horses&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="kitamura">
       <data key="d2">kitamura</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">kitamura&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="porcelain_cups">
       <data key="d2">porcelain cups</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">porcelain cups&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="tibetans">
       <data key="d2">tibetans</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">1.0</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">tibetans&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="caterpillar_fungus">
       <data key="d2">caterpillar fungus</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.2344</data>
+      <data key="d9">24.46</data>
+      <data key="d5">2.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.000162</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">caterpillar fungus&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.234&lt;br&gt;Weighted degree: 2.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="grain">
       <data key="d2">grain</data>
-      <data key="d3"/>
+      <data key="d3">COMMODITY</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0307</data>
+      <data key="d9">13.96</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.011778</data>
+      <data key="d7">0.0</data>
+      <data key="d11">COMMODITY</data>
+      <data key="d12">#1b9e77</data>
+      <data key="d10">grain&lt;br&gt;Type: COMMODITY&lt;br&gt;Prominence: 0.031&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.011778</data>
     </node>
     <node id="tukuche">
       <data key="d2">tukuche</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0</data>
+      <data key="d9">10</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.008265</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">tukuche&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.000&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.008265</data>
     </node>
     <node id="village">
       <data key="d2">village</data>
-      <data key="d3"/>
+      <data key="d3">LOCATION</data>
+      <data key="d4">0.8</data>
+      <data key="d8">0.0614</data>
+      <data key="d9">16.42</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.015291</data>
+      <data key="d7">0.0</data>
+      <data key="d11">LOCATION</data>
+      <data key="d12">#386cb0</data>
+      <data key="d10">village&lt;br&gt;Type: LOCATION&lt;br&gt;Prominence: 0.061&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.015291</data>
     </node>
     <node id="long_dagger">
       <data key="d2">long dagger</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.0256</data>
+      <data key="d9">13.44</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.010607</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">long dagger&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.026&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.010607</data>
     </node>
     <node id="sale">
       <data key="d2">sale</data>
-      <data key="d3"/>
+      <data key="d3">PERSON</data>
+      <data key="d4">0.5</data>
+      <data key="d8">0.1135</data>
+      <data key="d9">19.46</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.021263</data>
+      <data key="d7">0.0</data>
+      <data key="d11">PERSON</data>
+      <data key="d12">#d95f02</data>
+      <data key="d10">sale&lt;br&gt;Type: PERSON&lt;br&gt;Prominence: 0.114&lt;br&gt;Weighted degree: 1.00&lt;br&gt;PageRank: 0.021263</data>
     </node>
     <edge source="livestock" target="butter">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3157</data>
+      <data key="d16">0.126</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">1.91</data>
+      <data key="d20">3.16</data>
+      <data key="d22">to</data>
+      <data key="d21">livestock -&gt; butter&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.316&lt;br&gt;Embedding similarity: 0.126</data>
     </edge>
     <edge source="khaltse" target="grim_naked_barley_">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">extracts_from</data>
+      <data key="d1">extracts_from</data>
+      <data key="d14">harvest</data>
+      <data key="d15">0.3423</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.5228</data>
+      <data key="d19">2.09</data>
+      <data key="d20">3.42</data>
+      <data key="d22">to</data>
+      <data key="d21">khaltse -&gt; grim (naked barley)&lt;br&gt;Relation: extracts_from&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.342&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="ladakh" target="valuable_corrective">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.333</data>
+      <data key="d16">0.0556</data>
+      <data key="d17">0.1361</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">2.03</data>
+      <data key="d20">3.33</data>
+      <data key="d22">to</data>
+      <data key="d21">ladakh -&gt; valuable corrective&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.333&lt;br&gt;Embedding similarity: 0.056</data>
     </edge>
     <edge source="ladakh" target="complex_pattern">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">carry on trades according to</data>
+      <data key="d15">0.356</data>
+      <data key="d16">0.0556</data>
+      <data key="d17">0.1361</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.19</data>
+      <data key="d20">3.56</data>
+      <data key="d22">to</data>
+      <data key="d21">ladakh -&gt; complex pattern&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.356&lt;br&gt;Embedding similarity: 0.056</data>
     </edge>
     <edge source="ladakh" target="tea">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.3679</data>
+      <data key="d16">0.063</data>
+      <data key="d17">0.3297</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.27</data>
+      <data key="d20">3.68</data>
+      <data key="d22">to</data>
+      <data key="d21">ladakh -&gt; tea&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.368&lt;br&gt;Embedding similarity: 0.063</data>
     </edge>
     <edge source="deldan" target="aurangzeb">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">negotiates_with</data>
+      <data key="d1">negotiates_with</data>
+      <data key="d14">negotiate with</data>
+      <data key="d15">0.4012</data>
+      <data key="d16">0.126</data>
+      <data key="d17">0.0614</data>
+      <data key="d18">0.83</data>
+      <data key="d19">2.52</data>
+      <data key="d20">4.01</data>
+      <data key="d22">to</data>
+      <data key="d21">deldan -&gt; aurangzeb&lt;br&gt;Relation: negotiates_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.401&lt;br&gt;Embedding similarity: 0.126</data>
     </edge>
     <edge source="deldan" target="tibetan_authorities">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">negotiates_with</data>
+      <data key="d1">negotiates_with</data>
+      <data key="d14">agree with</data>
+      <data key="d15">0.4012</data>
+      <data key="d16">0.126</data>
+      <data key="d17">0.0614</data>
+      <data key="d18">0.83</data>
+      <data key="d19">2.52</data>
+      <data key="d20">4.01</data>
+      <data key="d22">to</data>
+      <data key="d21">deldan -&gt; tibetan authorities&lt;br&gt;Relation: negotiates_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.401&lt;br&gt;Embedding similarity: 0.126</data>
     </edge>
     <edge source="king_of_ladakh" target="tibet">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">licenses</data>
+      <data key="d1">licenses</data>
+      <data key="d14">must not allow an army from india to proceed to an attack on</data>
+      <data key="d15">0.3952</data>
+      <data key="d16">0.0619</data>
+      <data key="d17">0.0869</data>
+      <data key="d18">0.83</data>
+      <data key="d19">2.47</data>
+      <data key="d20">3.95</data>
+      <data key="d22">to</data>
+      <data key="d21">king of ladakh -&gt; tibet&lt;br&gt;Relation: licenses&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.395&lt;br&gt;Embedding similarity: 0.062</data>
     </edge>
     <edge source="tibet" target="pashm_cashmere_">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.4146</data>
+      <data key="d16">0.3714</data>
+      <data key="d17">0.2893</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.62</data>
+      <data key="d20">4.15</data>
+      <data key="d22">to</data>
+      <data key="d21">tibet -&gt; pashm (cashmere)&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.415&lt;br&gt;Embedding similarity: 0.371</data>
     </edge>
     <edge source="frederic_drew" target="ladakh">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">governs</data>
+      <data key="d1">governs</data>
+      <data key="d14">govern</data>
+      <data key="d15">0.392</data>
+      <data key="d16">0.0556</data>
+      <data key="d17">0.0</data>
+      <data key="d18">1.0</data>
+      <data key="d19">2.45</data>
+      <data key="d20">3.92</data>
+      <data key="d22">to</data>
+      <data key="d21">frederic drew -&gt; ladakh&lt;br&gt;Relation: governs&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.392&lt;br&gt;Embedding similarity: 0.056</data>
     </edge>
     <edge source="missionaries" target="medical_aid_to_remote_villages">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">bring</data>
+      <data key="d15">0.3361</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.05</data>
+      <data key="d20">3.36</data>
+      <data key="d22">to</data>
+      <data key="d21">missionaries -&gt; medical aid to remote villages&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.336&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="china" target="tea">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.3067</data>
+      <data key="d16">0.126</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.85</data>
+      <data key="d20">3.07</data>
+      <data key="d22">to</data>
+      <data key="d21">china -&gt; tea&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.307&lt;br&gt;Embedding similarity: 0.126</data>
     </edge>
     <edge source="tibet_s_salt_lakes" target="salt">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.3387</data>
+      <data key="d16">0.3038</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.07</data>
+      <data key="d20">3.39</data>
+      <data key="d22">to</data>
+      <data key="d21">tibet's salt lakes -&gt; salt&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.339&lt;br&gt;Embedding similarity: 0.304</data>
     </edge>
     <edge source="salt" target="for_barley">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">barter</data>
+      <data key="d15">0.4709</data>
+      <data key="d16">0.4774</data>
+      <data key="d17">0.4585</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">3.05</data>
+      <data key="d20">4.71</data>
+      <data key="d22">to</data>
+      <data key="d21">salt -&gt; for barley&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.471&lt;br&gt;Embedding similarity: 0.477</data>
     </edge>
     <edge source="outer_hills" target="foodgrains">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.2982</data>
+      <data key="d16">0.0786</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.8</data>
+      <data key="d20">2.98</data>
+      <data key="d22">to</data>
+      <data key="d21">outer hills -&gt; foodgrains&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.298&lt;br&gt;Embedding similarity: 0.079</data>
     </edge>
     <edge source="tibetan_herdspeople" target="foodgrains">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">supply</data>
+      <data key="d15">0.3072</data>
+      <data key="d16">0.0786</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">1.86</data>
+      <data key="d20">3.07</data>
+      <data key="d22">to</data>
+      <data key="d21">tibetan herdspeople -&gt; foodgrains&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.307&lt;br&gt;Embedding similarity: 0.079</data>
     </edge>
     <edge source="shamma" target="leh_area_merchants">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.323</data>
+      <data key="d16">0.14</data>
+      <data key="d17">0.0624</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.96</data>
+      <data key="d20">3.23</data>
+      <data key="d22">to</data>
+      <data key="d21">shamma -&gt; leh area merchants&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.323&lt;br&gt;Embedding similarity: 0.140</data>
     </edge>
     <edge source="shamma" target="tibet_baqals">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.4757</data>
+      <data key="d16">0.711</data>
+      <data key="d17">0.2895</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">3.09</data>
+      <data key="d20">4.76</data>
+      <data key="d22">to</data>
+      <data key="d21">shamma -&gt; tibet baqals&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.476&lt;br&gt;Embedding similarity: 0.711</data>
     </edge>
     <edge source="shamma" target="pashm">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">sell</data>
+      <data key="d15">0.3855</data>
+      <data key="d16">0.1576</data>
+      <data key="d17">0.3323</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.4</data>
+      <data key="d20">3.86</data>
+      <data key="d22">to</data>
+      <data key="d21">shamma -&gt; pashm&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.386&lt;br&gt;Embedding similarity: 0.158</data>
     </edge>
     <edge source="shamma" target="chang-thang_sheep_s_wool">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">buy</data>
+      <data key="d15">0.323</data>
+      <data key="d16">0.14</data>
+      <data key="d17">0.0624</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.96</data>
+      <data key="d20">3.23</data>
+      <data key="d22">to</data>
+      <data key="d21">shamma -&gt; chang-thang sheep's wool&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.323&lt;br&gt;Embedding similarity: 0.140</data>
     </edge>
     <edge source="shamma" target="barley_for_salt">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">barter</data>
+      <data key="d15">0.323</data>
+      <data key="d16">0.14</data>
+      <data key="d17">0.0624</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.96</data>
+      <data key="d20">3.23</data>
+      <data key="d22">to</data>
+      <data key="d21">shamma -&gt; barley for salt&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.323&lt;br&gt;Embedding similarity: 0.140</data>
     </edge>
     <edge source="shamma" target="in_srinagar_or_leh">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">sell</data>
+      <data key="d15">0.323</data>
+      <data key="d16">0.14</data>
+      <data key="d17">0.0624</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.96</data>
+      <data key="d20">3.23</data>
+      <data key="d22">to</data>
+      <data key="d21">shamma -&gt; in srinagar or leh&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.323&lt;br&gt;Embedding similarity: 0.140</data>
     </edge>
     <edge source="tibet_baqals" target="pashm">
       <data key="d0">2.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">buy|control_trade_of</data>
+      <data key="d15">0.5557</data>
+      <data key="d16">0.5174</data>
+      <data key="d17">0.2531</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">3.74</data>
+      <data key="d20">5.56</data>
+      <data key="d22">to</data>
+      <data key="d21">tibet baqals -&gt; pashm&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 2.00&lt;br&gt;Semantic strength: 0.556&lt;br&gt;Embedding similarity: 0.517</data>
     </edge>
     <edge source="chang-pa" target="salt">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">extracts_from</data>
+      <data key="d1">extracts_from</data>
+      <data key="d14">collect</data>
+      <data key="d15">0.3301</data>
+      <data key="d16">0.0434</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.5228</data>
+      <data key="d19">2.01</data>
+      <data key="d20">3.3</data>
+      <data key="d22">to</data>
+      <data key="d21">chang-pa -&gt; salt&lt;br&gt;Relation: extracts_from&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.330&lt;br&gt;Embedding similarity: 0.043</data>
     </edge>
     <edge source="pack-horses" target="karakoram">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">were used for transport across the karakoram</data>
+      <data key="d15">0.3361</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.05</data>
+      <data key="d20">3.36</data>
+      <data key="d22">to</data>
+      <data key="d21">pack-horses -&gt; karakoram&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.336&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="yarkand_breed" target="loads">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">could carry loads of about 100 kilograms</data>
+      <data key="d15">0.3361</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.05</data>
+      <data key="d20">3.36</data>
+      <data key="d22">to</data>
+      <data key="d21">yarkand breed -&gt; loads&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.336&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="dras" target="one_crop">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">extracts_from</data>
+      <data key="d1">extracts_from</data>
+      <data key="d14">harvest</data>
+      <data key="d15">0.3423</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.5228</data>
+      <data key="d19">2.09</data>
+      <data key="d20">3.42</data>
+      <data key="d22">to</data>
+      <data key="d21">dras -&gt; one crop&lt;br&gt;Relation: extracts_from&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.342&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="yak" target="hair">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3319</data>
+      <data key="d16">0.1361</data>
+      <data key="d17">0.0653</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">2.02</data>
+      <data key="d20">3.32</data>
+      <data key="d22">to</data>
+      <data key="d21">yak -&gt; hair&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.332&lt;br&gt;Embedding similarity: 0.136</data>
     </edge>
     <edge source="yak" target="milk">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3319</data>
+      <data key="d16">0.1361</data>
+      <data key="d17">0.0653</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">2.02</data>
+      <data key="d20">3.32</data>
+      <data key="d22">to</data>
+      <data key="d21">yak -&gt; milk&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.332&lt;br&gt;Embedding similarity: 0.136</data>
     </edge>
     <edge source="yak" target="butter">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3727</data>
+      <data key="d16">0.1543</data>
+      <data key="d17">0.2356</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">2.31</data>
+      <data key="d20">3.73</data>
+      <data key="d22">to</data>
+      <data key="d21">yak -&gt; butter&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.373&lt;br&gt;Embedding similarity: 0.154</data>
     </edge>
     <edge source="yak" target="meat">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3685</data>
+      <data key="d16">0.1543</data>
+      <data key="d17">0.2167</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">2.28</data>
+      <data key="d20">3.69</data>
+      <data key="d22">to</data>
+      <data key="d21">yak -&gt; meat&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.369&lt;br&gt;Embedding similarity: 0.154</data>
     </edge>
     <edge source="chang-luk_sheep" target="coarse_wool">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3293</data>
+      <data key="d16">0.126</data>
+      <data key="d17">0.0614</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">2.0</data>
+      <data key="d20">3.29</data>
+      <data key="d22">to</data>
+      <data key="d21">chang-luk sheep -&gt; coarse wool&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.329&lt;br&gt;Embedding similarity: 0.126</data>
     </edge>
     <edge source="chang-luk_sheep" target="meat">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3505</data>
+      <data key="d16">0.1429</data>
+      <data key="d17">0.1442</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">2.15</data>
+      <data key="d20">3.5</data>
+      <data key="d22">to</data>
+      <data key="d21">chang-luk sheep -&gt; meat&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.350&lt;br&gt;Embedding similarity: 0.143</data>
     </edge>
     <edge source="villagers" target="harvest_time">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">extracts_from</data>
+      <data key="d1">extracts_from</data>
+      <data key="d14">combine to gather crops</data>
+      <data key="d15">0.3499</data>
+      <data key="d16">0.0786</data>
+      <data key="d17">0.0614</data>
+      <data key="d18">0.5228</data>
+      <data key="d19">2.15</data>
+      <data key="d20">3.5</data>
+      <data key="d22">to</data>
+      <data key="d21">villagers -&gt; harvest time&lt;br&gt;Relation: extracts_from&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.350&lt;br&gt;Embedding similarity: 0.079</data>
     </edge>
     <edge source="villagers" target="material_base">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">provide</data>
+      <data key="d15">0.3207</data>
+      <data key="d16">0.0786</data>
+      <data key="d17">0.0614</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">1.95</data>
+      <data key="d20">3.21</data>
+      <data key="d22">to</data>
+      <data key="d21">villagers -&gt; material base&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.321&lt;br&gt;Embedding similarity: 0.079</data>
     </edge>
     <edge source="ladakhi_traders" target="pashm_in_leh">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">sell</data>
+      <data key="d15">0.3041</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.84</data>
+      <data key="d20">3.04</data>
+      <data key="d22">to</data>
+      <data key="d21">ladakhi traders -&gt; pashm in leh&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.304&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="fragile_mountain_ecologies" target="on_some_of_the_popular_trekking_trails">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">are at risk equally from the boots of the walkers and the hooves of the ponies that carry their baggage</data>
+      <data key="d15">0.3361</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.05</data>
+      <data key="d20">3.36</data>
+      <data key="d22">to</data>
+      <data key="d21">fragile mountain ecologies -&gt; on some of the popular trekking trails&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.336&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="basgo_palace" target="true">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">has perennial water-supply</data>
+      <data key="d15">0.3131</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">1.9</data>
+      <data key="d20">3.13</data>
+      <data key="d22">to</data>
+      <data key="d21">basgo palace -&gt; true&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.313&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="rupshu" target="tibet">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.4461</data>
+      <data key="d16">0.1404</data>
+      <data key="d17">0.6216</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.85</data>
+      <data key="d20">4.46</data>
+      <data key="d22">to</data>
+      <data key="d21">rupshu -&gt; tibet&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.446&lt;br&gt;Embedding similarity: 0.140</data>
     </edge>
     <edge source="rupshu" target="salt_from_tso_kar">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">extracts_from</data>
+      <data key="d1">extracts_from</data>
+      <data key="d14">remove</data>
+      <data key="d15">0.4497</data>
+      <data key="d16">0.0501</data>
+      <data key="d17">0.5383</data>
+      <data key="d18">0.5228</data>
+      <data key="d19">2.88</data>
+      <data key="d20">4.5</data>
+      <data key="d22">to</data>
+      <data key="d21">rupshu -&gt; salt from tso kar&lt;br&gt;Relation: extracts_from&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.450&lt;br&gt;Embedding similarity: 0.050</data>
     </edge>
     <edge source="rupshu" target="kharnak">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">supplies</data>
+      <data key="d1">supplies</data>
+      <data key="d14">give salt to</data>
+      <data key="d15">0.5318</data>
+      <data key="d16">0.0857</data>
+      <data key="d17">0.6515</data>
+      <data key="d18">0.3906</data>
+      <data key="d19">3.54</data>
+      <data key="d20">5.32</data>
+      <data key="d22">to</data>
+      <data key="d21">rupshu -&gt; kharnak&lt;br&gt;Relation: supplies&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.532&lt;br&gt;Embedding similarity: 0.086</data>
     </edge>
     <edge source="tibetan_changpas" target="salt">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">bring</data>
+      <data key="d15">0.3239</data>
+      <data key="d16">0.0434</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">1.97</data>
+      <data key="d20">3.24</data>
+      <data key="d22">to</data>
+      <data key="d21">tibetan changpas -&gt; salt&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.324&lt;br&gt;Embedding similarity: 0.043</data>
     </edge>
     <edge source="rupshupa" target="salt_from_tso_kar">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">extracts_from</data>
+      <data key="d1">extracts_from</data>
+      <data key="d14">collect</data>
+      <data key="d15">0.3628</data>
+      <data key="d16">0.1325</data>
+      <data key="d17">0.0759</data>
+      <data key="d18">0.5228</data>
+      <data key="d19">2.24</data>
+      <data key="d20">3.63</data>
+      <data key="d22">to</data>
+      <data key="d21">rupshupa -&gt; salt from tso kar&lt;br&gt;Relation: extracts_from&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.363&lt;br&gt;Embedding similarity: 0.132</data>
     </edge>
     <edge source="men" target="salt_from_tso_kar">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">extracts_from</data>
+      <data key="d1">extracts_from</data>
+      <data key="d14">remove</data>
+      <data key="d15">0.4013</data>
+      <data key="d16">0.0765</data>
+      <data key="d17">0.2965</data>
+      <data key="d18">0.5228</data>
+      <data key="d19">2.52</data>
+      <data key="d20">4.01</data>
+      <data key="d22">to</data>
+      <data key="d21">men -&gt; salt from tso kar&lt;br&gt;Relation: extracts_from&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.401&lt;br&gt;Embedding similarity: 0.076</data>
     </edge>
     <edge source="men" target="there_and_in_villages_along_the_route">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.3124</data>
+      <data key="d16">0.0642</data>
+      <data key="d17">0.0764</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.89</data>
+      <data key="d20">3.12</data>
+      <data key="d22">to</data>
+      <data key="d21">men -&gt; there and in villages along the route&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.312&lt;br&gt;Embedding similarity: 0.064</data>
     </edge>
     <edge source="men" target="long_dagger">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">carry</data>
+      <data key="d15">0.3445</data>
+      <data key="d16">0.0642</data>
+      <data key="d17">0.0764</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.11</data>
+      <data key="d20">3.44</data>
+      <data key="d22">to</data>
+      <data key="d21">men -&gt; long dagger&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.344&lt;br&gt;Embedding similarity: 0.064</data>
     </edge>
     <edge source="kharnak" target="ownership_of_tso_kar">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">disputes</data>
+      <data key="d1">disputes</data>
+      <data key="d14">claim</data>
+      <data key="d15">0.432</data>
+      <data key="d16">0.0454</data>
+      <data key="d17">0.1903</data>
+      <data key="d18">1.0</data>
+      <data key="d19">2.75</data>
+      <data key="d20">4.32</data>
+      <data key="d22">to</data>
+      <data key="d21">kharnak -&gt; ownership of tso kar&lt;br&gt;Relation: disputes&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.432&lt;br&gt;Embedding similarity: 0.045</data>
     </edge>
     <edge source="kharnak" target="rupshu">
       <data key="d0">3.0</data>
-      <data key="d1"/>
+      <data key="d13">taxes</data>
+      <data key="d1">taxes</data>
+      <data key="d14">get salt for free|pay fine to|receive share of salt</data>
+      <data key="d15">0.8308</data>
+      <data key="d16">0.0857</data>
+      <data key="d17">0.6515</data>
+      <data key="d18">1.0</data>
+      <data key="d19">6.26</data>
+      <data key="d20">8.31</data>
+      <data key="d22">to</data>
+      <data key="d21">kharnak -&gt; rupshu&lt;br&gt;Relation: taxes&lt;br&gt;Observed weight: 3.00&lt;br&gt;Semantic strength: 0.831&lt;br&gt;Embedding similarity: 0.086</data>
     </edge>
     <edge source="yaks" target="barley">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">carry</data>
+      <data key="d15">0.3361</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.05</data>
+      <data key="d20">3.36</data>
+      <data key="d22">to</data>
+      <data key="d21">yaks -&gt; barley&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.336&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="tibetan_partners" target="salt">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">barter</data>
+      <data key="d15">0.3387</data>
+      <data key="d16">0.3038</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.07</data>
+      <data key="d20">3.39</data>
+      <data key="d22">to</data>
+      <data key="d21">tibetan partners -&gt; salt&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.339&lt;br&gt;Embedding similarity: 0.304</data>
     </edge>
     <edge source="dolpo" target="china_and_tibet">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.3203</data>
+      <data key="d16">0.126</data>
+      <data key="d17">0.0614</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.94</data>
+      <data key="d20">3.2</data>
+      <data key="d22">to</data>
+      <data key="d21">dolpo -&gt; china and tibet&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.320&lt;br&gt;Embedding similarity: 0.126</data>
     </edge>
     <edge source="dolpo" target="grain">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">barter</data>
+      <data key="d15">0.3203</data>
+      <data key="d16">0.126</data>
+      <data key="d17">0.0614</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.94</data>
+      <data key="d20">3.2</data>
+      <data key="d22">to</data>
+      <data key="d21">dolpo -&gt; grain&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.320&lt;br&gt;Embedding similarity: 0.126</data>
     </edge>
     <edge source="chinese_authorities" target="salt_trade">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">licenses</data>
+      <data key="d1">licenses</data>
+      <data key="d14">allow</data>
+      <data key="d15">0.385</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.83</data>
+      <data key="d19">2.4</data>
+      <data key="d20">3.85</data>
+      <data key="d22">to</data>
+      <data key="d21">chinese authorities -&gt; salt trade&lt;br&gt;Relation: licenses&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.385&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="drogpa" target="tea_bricks">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">transports_via</data>
+      <data key="d1">transports_via</data>
+      <data key="d14">bring</data>
+      <data key="d15">0.3303</data>
+      <data key="d16">0.0786</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.4611</data>
+      <data key="d19">2.01</data>
+      <data key="d20">3.3</data>
+      <data key="d22">to</data>
+      <data key="d21">drogpa -&gt; tea bricks&lt;br&gt;Relation: transports_via&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.330&lt;br&gt;Embedding similarity: 0.079</data>
     </edge>
     <edge source="tibetan_horses" target="tea_bricks">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.2982</data>
+      <data key="d16">0.0786</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.8</data>
+      <data key="d20">2.98</data>
+      <data key="d22">to</data>
+      <data key="d21">tibetan horses -&gt; tea bricks&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.298&lt;br&gt;Embedding similarity: 0.079</data>
     </edge>
     <edge source="kitamura" target="porcelain_cups">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">trade</data>
+      <data key="d15">0.3041</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.84</data>
+      <data key="d20">3.04</data>
+      <data key="d22">to</data>
+      <data key="d21">kitamura -&gt; porcelain cups&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.304&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
     <edge source="tibetans" target="caterpillar_fungus">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">sell</data>
+      <data key="d15">0.3646</data>
+      <data key="d16">0.4472</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.25</data>
+      <data key="d20">3.65</data>
+      <data key="d22">to</data>
+      <data key="d21">tibetans -&gt; caterpillar fungus&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.365&lt;br&gt;Embedding similarity: 0.447</data>
     </edge>
     <edge source="caterpillar_fungus" target="sale">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">paying more than grain barter</data>
+      <data key="d15">0.4004</data>
+      <data key="d16">0.4472</data>
+      <data key="d17">0.1631</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">2.51</data>
+      <data key="d20">4.0</data>
+      <data key="d22">to</data>
+      <data key="d21">caterpillar fungus -&gt; sale&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.400&lt;br&gt;Embedding similarity: 0.447</data>
     </edge>
     <edge source="tukuche" target="village">
       <data key="d0">1.0</data>
-      <data key="d1"/>
+      <data key="d13">trades_with</data>
+      <data key="d1">trades_with</data>
+      <data key="d14">market center</data>
+      <data key="d15">0.3041</data>
+      <data key="d16">0.1111</data>
+      <data key="d17">0.0</data>
+      <data key="d18">0.2206</data>
+      <data key="d19">1.84</data>
+      <data key="d20">3.04</data>
+      <data key="d22">to</data>
+      <data key="d21">tukuche -&gt; village&lt;br&gt;Relation: trades_with&lt;br&gt;Observed weight: 1.00&lt;br&gt;Semantic strength: 0.304&lt;br&gt;Embedding similarity: 0.111</data>
     </edge>
   </graph>
 </graphml>
