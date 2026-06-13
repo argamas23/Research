@@ -104,6 +104,14 @@ def main():
         "--output_file", relation_output_path
     ])
 
+    # 7. Aggregate Graph (aggregate_graph.py)
+    print("\n--- Step 7: Generating Aggregate Graph (aggregate_graph.py) ---")
+    run_command(["python3", os.path.join(mine_dir, "aggregate_graph.py")])
+
+    # 8. Update Config (update_config.py)
+    print("\n--- Step 8: Updating Configuration (update_config.py) ---")
+    run_command(["python3", os.path.join(mine_dir, "update_config.py")])
+
     print(f"\nPipeline completed successfully! Results are in: {results_dir}")
 
 if __name__ == "__main__":

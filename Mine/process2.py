@@ -13,9 +13,9 @@ def parse_ner_file(ner_file_path):
             line = line.strip()
             if line.startswith("/"):
                 current_topic = line
-                topic_entities[current_topic] = []
+                topic_entities.setdefault(current_topic, [])
             elif "Relevance" in line and current_topic:
-                match = re.match(r'^([\w\s\-]+)\s+\(Relevance ([\d.]+) \| Confidence ([\d.]+)\)', line)
+                match = re.match(r'^(.*?)\s+\(Relevance ([\d.]+) \| Confidence ([\d.]+)\)', line)
                 if match:
                     entity = match.group(1).strip().lower()
                     topic_entities[current_topic].append(entity)
@@ -31,6 +31,8 @@ def get_corpus_words(corpus_file):
         words = text.split()
     return words
 
+import string
+
 def aggregate_cooccurrences(corpus_words, selected_entities, selected_topic_map, all_entities, all_topic_map):
     """Scan corpus and aggregate co-occurring entities by anchor entity."""
     anchor_data = defaultdict(lambda: {
@@ -39,28 +41,68 @@ def aggregate_cooccurrences(corpus_words, selected_entities, selected_topic_map,
         "example_contexts": []
     })
 
-    for idx, word in enumerate(corpus_words):
-        word_lower = word.lower()
-        if word_lower in selected_entities:
-            anchor_entity = word_lower
-            anchor_topic = selected_topic_map[anchor_entity]
+    # Strip punctuation from both ends of the corpus words for matching
+    cleaned_words = [w.strip(string.punctuation).lower() for w in corpus_words]
 
-            start = max(0, idx - BUFFER_SIZE)
-            end = min(len(corpus_words), idx + BUFFER_SIZE + 1)
-            window = corpus_words[start:end]
-            window_text = " ".join(window)
+    # Pre-process entities into first-word buckets, with longest phrases checked first.
+    sel_ent_tuples = defaultdict(list)
+    for ent in selected_entities:
+        ent_tuple = tuple(ent.split())
+        if ent_tuple:
+            sel_ent_tuples[ent_tuple[0]].append((ent_tuple, ent))
+    all_ent_tuples = defaultdict(list)
+    for ent in all_entities:
+        ent_tuple = tuple(ent.split())
+        if ent_tuple:
+            all_ent_tuples[ent_tuple[0]].append((ent_tuple, ent))
 
-            found_entities = set()
-            for w in window:
-                w_l = w.lower()
-                if w_l in all_entities and w_l != anchor_entity:
-                    found_entities.add(w_l)
+    for ent_list in sel_ent_tuples.values():
+        ent_list.sort(key=lambda x: len(x[0]), reverse=True)
+    for ent_list in all_ent_tuples.values():
+        ent_list.sort(key=lambda x: len(x[0]), reverse=True)
 
-            if found_entities:
-                anchor_data[anchor_entity]["topic"] = anchor_topic
-                anchor_data[anchor_entity]["example_contexts"].append(window_text)
-                for ent in found_entities:
-                    anchor_data[anchor_entity]["co_counts"][ent] += 1
+    i = 0
+    while i < len(cleaned_words):
+        matched = False
+        for ent_tuple, orig_ent in sel_ent_tuples.get(cleaned_words[i], []):
+            n = len(ent_tuple)
+            if i + n <= len(cleaned_words) and tuple(cleaned_words[i:i+n]) == ent_tuple:
+                anchor_entity = orig_ent
+                anchor_topic = selected_topic_map[anchor_entity]
+
+                start = max(0, i - BUFFER_SIZE)
+                end = min(len(corpus_words), i + n + BUFFER_SIZE)
+                window_words = corpus_words[start:end]
+                window_cleaned = cleaned_words[start:end]
+                window_text = " ".join(window_words)
+
+                found_entities = set()
+                j = 0
+                while j < len(window_cleaned):
+                    found_co = False
+                    for a_ent_tuple, a_orig_ent in all_ent_tuples.get(window_cleaned[j], []):
+                        an = len(a_ent_tuple)
+                        if j + an <= len(window_cleaned) and tuple(window_cleaned[j:j+an]) == a_ent_tuple:
+                            if a_orig_ent != anchor_entity:
+                                found_entities.add(a_orig_ent)
+                            j += an
+                            found_co = True
+                            break
+                    if not found_co:
+                        j += 1
+
+                if found_entities:
+                    anchor_data[anchor_entity]["topic"] = anchor_topic
+                    anchor_data[anchor_entity]["example_contexts"].append(window_text)
+                    for ent in found_entities:
+                        anchor_data[anchor_entity]["co_counts"][ent] += 1
+                
+                i += n
+                matched = True
+                break
+
+        if not matched:
+            i += 1
 
     return anchor_data
 

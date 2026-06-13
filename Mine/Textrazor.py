@@ -93,7 +93,10 @@ import textrazor
 import os
 import argparse
 import sys
+import ssl
 from collections import defaultdict
+
+ssl._create_default_https_context = ssl._create_unverified_context
 
 # === CONFIGURATION ===
 textrazor.api_key = "864276b8fd6c183c43d0244bf5926cb31275c7d30097228a089a0e25"
