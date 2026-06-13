@@ -16,6 +16,7 @@ except Exception:
 
 RESULTS_ROOT = os.path.join(os.path.dirname(__file__), "Results")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "outputs")
+RESEARCH_FOCUS_NODE = "salt"
 
 ALLOWED_RELATIONS = {
     "trades_with",
@@ -35,11 +36,17 @@ ALLOWED_RELATIONS = {
 COMMODITY_KEYWORDS = {
     "salt",
     "barley",
+    "apricot",
+    "apricots",
+    "fungus",
     "tea",
     "rice",
     "wool",
     "pashm",
     "butter",
+    "milk",
+    "meat",
+    "hair",
     "tsampa",
     "grain",
     "musk",
@@ -55,6 +62,7 @@ COMMODITY_KEYWORDS = {
     "goats",
     "livestock",
     "yak",
+    "yaks",
     "minerals",
     "skins",
     "skins",
@@ -100,6 +108,12 @@ LOCATION_KEYWORDS = {
     "leh",
     "rupshu",
     "tso kar",
+    "kharnak",
+    "dras",
+    "karakoram",
+    "khaltse",
+    "basgo",
+    "tukuche",
 }
 
 PERSON_INDICATORS = {
@@ -169,7 +183,133 @@ BAD_PERSON_TOKENS = {
     "accounts",
 }
 
-KEEP_ENTITY_TYPES = {"PERSON", "COMMODITY", "LOCATION"}
+KEEP_ENTITY_TYPES = {"PERSON", "GROUP", "COMMODITY", "LOCATION", "CONCEPT"}
+
+ENTITY_ALIASES = {
+    "pashm in leh": "pashm",
+    "pashm (cashmere)": "pashm",
+    "pashm cashmere": "pashm",
+    "pashm (cashmere": "pashm",
+    "yak": "yak",
+    "yaks": "yak",
+    "tea bricks": "tea",
+    "tea brick": "tea",
+    "rupshupa": "rupshu",
+    "villagers": "village",
+    "for barley": "barley",
+    "barley for salt": "barley",
+    "grim (naked barley)": "barley",
+    "grim naked barley": "barley",
+    "barley grain (nas) in zanskar": "barley",
+    "salt trade": "salt",
+    "salt from tso kar": "salt",
+    "tibet's salt lakes": "salt lakes",
+}
+
+ENTITY_TYPE_OVERRIDES = {
+    "aurangzeb": ("PERSON", 1.0),
+    "basgo palace": ("LOCATION", 1.0),
+    "barley": ("COMMODITY", 1.0),
+    "baltistan": ("LOCATION", 1.0),
+    "butter": ("COMMODITY", 1.0),
+    "british": ("GROUP", 0.9),
+    "caterpillar fungus": ("COMMODITY", 1.0),
+    "chang-luk sheep": ("COMMODITY", 1.0),
+    "chang-pa": ("GROUP", 1.0),
+    "chinese authorities": ("GROUP", 1.0),
+    "coarse wool": ("COMMODITY", 1.0),
+    "deldan": ("PERSON", 1.0),
+    "dried apricots": ("COMMODITY", 1.0),
+    "dolpo": ("LOCATION", 1.0),
+    "dras": ("LOCATION", 1.0),
+    "drogpa": ("GROUP", 1.0),
+    "frederic drew": ("PERSON", 1.0),
+    "grain": ("COMMODITY", 1.0),
+    "hair": ("COMMODITY", 1.0),
+    "karakoram": ("LOCATION", 1.0),
+    "kharnak": ("LOCATION", 1.0),
+    "khaltse": ("LOCATION", 1.0),
+    "king of ladakh": ("PERSON", 0.9),
+    "kitamura": ("PERSON", 1.0),
+    "ladakh": ("LOCATION", 1.0),
+    "ladakhi traders": ("GROUP", 1.0),
+    "leh area merchants": ("GROUP", 1.0),
+    "livestock": ("COMMODITY", 1.0),
+    "long dagger": ("COMMODITY", 0.8),
+    "meat": ("COMMODITY", 1.0),
+    "men": ("GROUP", 0.9),
+    "milk": ("COMMODITY", 1.0),
+    "missionaries": ("GROUP", 0.9),
+    "pack-horses": ("COMMODITY", 1.0),
+    "outer hills": ("LOCATION", 0.8),
+    "ownership of tso kar": ("CONCEPT", 0.9),
+    "pashm": ("COMMODITY", 1.0),
+    "porcelain cups": ("COMMODITY", 1.0),
+    "rupshu": ("LOCATION", 1.0),
+    "salt": ("COMMODITY", 1.0),
+    "salt from tso kar": ("COMMODITY", 1.0),
+    "salt lakes": ("LOCATION", 0.9),
+    "shamma": ("PERSON", 0.8),
+    "tea": ("COMMODITY", 1.0),
+    "tibet": ("LOCATION", 1.0),
+    "tibet baqals": ("GROUP", 1.0),
+    "tibetan authorities": ("GROUP", 1.0),
+    "tibetan changpas": ("GROUP", 1.0),
+    "tibetan herdspeople": ("GROUP", 1.0),
+    "tibetan horses": ("COMMODITY", 1.0),
+    "tibetan partners": ("GROUP", 1.0),
+    "tibetans": ("GROUP", 1.0),
+    "tukuche": ("LOCATION", 1.0),
+    "village": ("LOCATION", 0.9),
+    "yak": ("COMMODITY", 1.0),
+    "yarkand breed": ("COMMODITY", 0.8),
+}
+
+NOISY_ENTITIES = {
+    "complex pattern",
+    "harvest time",
+    "loads",
+    "material base",
+    "medical aid to remote villages",
+    "nomadic herdspeople of western tibet higher prices",
+    "one crop",
+    "prized gifts from tibetan highlands",
+    "sale",
+    "there and in villages along the route",
+    "true",
+    "valuable corrective",
+}
+
+GROUP_KEYWORDS = {
+    "authorities",
+    "baqals",
+    "changpas",
+    "herdspeople",
+    "merchants",
+    "missionaries",
+    "nomads",
+    "partners",
+    "people",
+    "shepherds",
+    "traders",
+    "tibetans",
+    "villagers",
+}
+
+EDGE_COLOR_BY_RELATION = {
+    "trades_with": "#2f8f5b",
+    "extracts_from": "#b86b2b",
+    "taxes": "#c73e3a",
+    "licenses": "#7d5cc6",
+    "controls": "#8a4a24",
+    "governs": "#315f9f",
+    "supplies": "#c28f00",
+    "depends_on": "#6f7c85",
+    "transports_via": "#2f80c0",
+    "monopolizes": "#7f3b3b",
+    "disputes": "#d62728",
+    "negotiates_with": "#8b6f3d",
+}
 
 RELATION_PATTERNS = [
     (
@@ -253,13 +393,17 @@ STOP_WORDS = {
 
 COLOR_BY_TYPE = {
     "PERSON": "#4c72b0",
+    "GROUP": "#8172b2",
     "LOCATION": "#55a868",
     "COMMODITY": "#c44e52",
+    "CONCEPT": "#937860",
 }
 SHAPE_BY_TYPE = {
     "PERSON": "dot",
-    "LOCATION": "triangle",
-    "COMMODITY": "square",
+    "GROUP": "dot",
+    "LOCATION": "dot",
+    "COMMODITY": "dot",
+    "CONCEPT": "dot",
 }
 DEFAULT_COLOR = "#888888"
 DEFAULT_SHAPE = "dot"
@@ -269,6 +413,14 @@ def normalize(text):
     if text is None:
         return ""
     return " ".join(text.strip().lower().split())
+
+
+def normalize_entity(text):
+    entity = normalize(text)
+    entity = entity.strip(" .,/\\")
+    entity = re.sub(r"\s+", " ", entity)
+    entity = re.sub(r"\s+\(([^)]*)$", "", entity)
+    return ENTITY_ALIASES.get(entity, entity)
 
 
 def find_weighted_csvs(root):
@@ -286,8 +438,8 @@ def load_edges(files):
         with open(path, "r", encoding="utf-8", errors="ignore") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                source = normalize(row.get("Source", ""))
-                target = normalize(row.get("Target", ""))
+                source = normalize_entity(row.get("Source", ""))
+                target = normalize_entity(row.get("Target", ""))
                 relation = normalize(row.get("Relation", ""))
                 try:
                     weight = float(row.get("Weight", 1) or 1)
@@ -370,6 +522,10 @@ def map_relation(relation_text, source, target):
 def is_too_noisy_entity(entity_text):
     if not entity_text:
         return True
+    if entity_text in NOISY_ENTITIES:
+        return True
+    if re.match(r"^(in|on|for|there|some|any|all|many|other)\b", entity_text):
+        return True
     if len(entity_text.split()) > 7:
         return True
     if re.search(r"\d", entity_text):
@@ -430,9 +586,12 @@ BAD_LOCATION_TERMS = {
 
 
 def classify_node(node):
-    node = normalize(node)
+    node = normalize_entity(node)
     if not node or is_too_noisy_entity(node):
         return None, 0.0
+
+    if node in ENTITY_TYPE_OVERRIDES:
+        return ENTITY_TYPE_OVERRIDES[node]
 
     if NLP is not None:
         doc = NLP(node)
@@ -443,11 +602,16 @@ def classify_node(node):
                 if ent.label_ in {"GPE", "LOC", "FAC"}:
                     return "LOCATION", 1.0
                 if ent.label_ == "ORG":
-                    return "INSTITUTION", 1.0
-                if ent.label_ in {"PRODUCT", "WORK_OF_ART", "NORP"}:
+                    return "GROUP", 1.0
+                if ent.label_ == "NORP":
+                    return "GROUP", 1.0
+                if ent.label_ in {"PRODUCT", "WORK_OF_ART"}:
                     return "COMMODITY", 1.0
 
     tokens = node.split()
+
+    if any(token in GROUP_KEYWORDS for token in tokens):
+        return "GROUP", 0.85
 
     if any(term in node for term in COMMODITY_KEYWORDS):
         if (
@@ -526,12 +690,20 @@ def build_clean_graph(aggregated, relation_attrs):
         )
 
     G_clean = nx.DiGraph()
+    for node, attrs in entity_types.items():
+        G_clean.add_node(
+            node,
+            type=attrs["type"],
+            confidence=attrs["confidence"],
+            label=node,
+        )
     for edge in cleaned_edges:
         G_clean.add_edge(
             edge["source"],
             edge["target"],
             weight=edge["weight"],
             relation=edge["relation"],
+            relations=edge["relation"],
             raw_relations=edge["raw_relations"],
         )
     return G_clean, entity_types, cleaned_edges
@@ -606,11 +778,15 @@ def calculate_node_size(weight):
 def build_visualization_data(entity_types, edges):
     node_weights = defaultdict(float)
     node_degrees = defaultdict(int)
+    focus_neighbors = set()
     for edge in edges:
         node_weights[edge["source"]] += edge["weight"]
         node_weights[edge["target"]] += edge["weight"]
         node_degrees[edge["source"]] += 1
         node_degrees[edge["target"]] += 1
+        if RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}:
+            focus_neighbors.add(edge["source"])
+            focus_neighbors.add(edge["target"])
 
     node_items = []
     for node, attrs in sorted(entity_types.items()):
@@ -619,30 +795,55 @@ def build_visualization_data(entity_types, edges):
         shape = SHAPE_BY_TYPE.get(node_type, DEFAULT_SHAPE)
         weight = node_weights.get(node, 0.0)
         degree = node_degrees.get(node, 0)
-        node_items.append(
-            {
-                "id": node,
-                "label": node,
-                "type": node_type,
-                "color": color,
-                "shape": shape,
-                "size": calculate_node_size(weight),
-                "weight": weight,
-                "degree": degree,
-                "title": f"<strong>{node}</strong><br>Type: {node_type}<br>Degree: {degree}<br>Weighted degree: {weight:.1f}",
-            }
-        )
+        size = calculate_node_size(weight)
+        item = {
+            "id": node,
+            "label": node,
+            "type": node_type,
+            "color": color,
+            "shape": shape,
+            "size": size,
+            "weight": weight,
+            "degree": degree,
+            "title": f"<strong>{node}</strong><br>Type: {node_type}<br>Degree: {degree}<br>Weighted degree: {weight:.1f}",
+        }
+        if node == RESEARCH_FOCUS_NODE:
+            item.update(
+                {
+                    "color": {"background": "#ffcc00", "border": "#d62728", "highlight": {"background": "#ffdf52", "border": "#b00020"}},
+                    "font": {"size": 18, "face": "Arial", "bold": True},
+                    "borderWidth": 4,
+                    "mass": 8,
+                    "size": max(42, size),
+                    "x": 0,
+                    "y": 0,
+                    "fixed": {"x": True, "y": True},
+                    "title": f"<strong>{node}</strong><br>Research focus<br>Type: {node_type}<br>Degree: {degree}<br>Weighted degree: {weight:.1f}",
+                }
+            )
+        elif node in focus_neighbors:
+            item.update({"mass": 2.6, "size": max(22, size)})
+        node_items.append(item)
 
     edge_items = []
-    for edge in edges:
+    for index, edge in enumerate(edges):
+        edge_color = EDGE_COLOR_BY_RELATION.get(edge["relation"], "#777777")
+        touches_focus = RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}
+        edge_width = max(2.0, min(9.0, 0.75 + edge["weight"] * 2.0))
+        if touches_focus:
+            edge_width = max(edge_width, 4.5)
         edge_items.append(
             {
+                "id": f"e{index}",
                 "from": edge["source"],
                 "to": edge["target"],
                 "label": edge["relation"],
-                "width": max(1, min(5, edge["weight"])),
+                "relation": edge["relation"],
+                "color": {"color": edge_color, "highlight": edge_color},
+                "width": edge_width,
                 "arrows": "to",
-                "title": f"Relation: {edge['relation']}<br>Weight: {edge['weight']:.1f}<br>Evidence: {edge['raw_relations']}",
+                "font": {"size": 10, "align": "middle", "strokeWidth": 3, "strokeColor": "#ffffff"},
+                "title": f"{edge['source']} -> {edge['target']}<br>Relation: {edge['relation']}<br>Weight: {edge['weight']:.1f}<br>Evidence: {edge['raw_relations']}",
             }
         )
 
@@ -652,25 +853,44 @@ def build_visualization_data(entity_types, edges):
 def generate_graph_html(node_items, edge_items):
     nodes_json = json.dumps(node_items, ensure_ascii=False)
     edges_json = json.dumps(edge_items, ensure_ascii=False)
+    relation_options = "\n".join(
+        f'        <option value="{relation}">{relation}</option>'
+        for relation in sorted(EDGE_COLOR_BY_RELATION)
+    )
+    relation_legend = "\n".join(
+        f'      <div class="legend-item"><span class="legend-line" style="background:{color}"></span> {relation}</div>'
+        for relation, color in sorted(EDGE_COLOR_BY_RELATION.items())
+    )
     html = """<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cleaned Graph Visualization</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8mWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <style>
-    body { margin: 0; font-family: Arial, sans-serif; background: #fafafa; }
-    #toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 12px; background: #fff; border-bottom: 1px solid #ddd; }
-    #toolbar label { font-weight: 600; }
-    #controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
-    #mynetwork { width: 100%; height: calc(100vh - 140px); background-color: #fff; }
-    #legend { padding: 12px; font-size: 14px; color: #333; background: #fff; border: 1px solid #ddd; margin: 12px; border-radius: 8px; max-width: 360px; }
-    .legend-item { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
-    .legend-swatch { display: inline-block; width: 16px; height: 16px; border-radius: 4px; }
-    #info { padding: 12px; background: #fff; border-top: 1px solid #ddd; font-size: 14px; color: #333; }
-    #reset-button { padding: 6px 12px; border: 1px solid #888; border-radius: 6px; background: #f5f5f5; cursor: pointer; }
+    body { margin: 0; font-family: Arial, sans-serif; color: #202124; background: #f7f7f5; }
+    #toolbar { display: grid; grid-template-columns: minmax(260px, 1fr) auto; gap: 14px; padding: 12px 14px; background: #fff; border-bottom: 1px solid #ddd; }
+    #controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+    label { font-size: 13px; font-weight: 600; color: #333; }
+    select, input[type="search"] { height: 32px; border: 1px solid #bbb; border-radius: 6px; background: #fff; padding: 0 8px; font-size: 13px; }
+    input[type="search"] { min-width: 220px; }
+    button { height: 32px; border: 1px solid #888; border-radius: 6px; background: #f5f5f5; cursor: pointer; padding: 0 12px; }
+    .toggle { display: inline-flex; align-items: center; gap: 6px; height: 32px; font-size: 13px; font-weight: 600; }
+    #legends { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px; }
+    .legend { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; max-width: 620px; font-size: 12px; }
+    .legend-title { font-weight: 700; color: #333; margin-right: 2px; }
+    .legend-item { display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; }
+    .legend-swatch { display: inline-block; width: 13px; height: 13px; border-radius: 3px; border: 1px solid rgba(0,0,0,0.18); }
+    .legend-line { display: inline-block; width: 22px; height: 3px; border-radius: 99px; }
+    #mynetwork { width: 100%; height: calc(100vh - 118px); background-color: #fff; }
+    #info { display: flex; justify-content: space-between; gap: 16px; padding: 9px 14px; background: #fff; border-top: 1px solid #ddd; font-size: 13px; color: #444; }
+    @media (max-width: 900px) {
+      #toolbar { grid-template-columns: 1fr; }
+      #legends { justify-content: flex-start; }
+      #mynetwork { height: calc(100vh - 220px); }
+    }
   </style>
 </head>
 <body>
@@ -680,26 +900,43 @@ def generate_graph_html(node_items, edge_items):
       <select id="filter-type">
         <option value="ALL">All</option>
         <option value="PERSON">Person</option>
+        <option value="GROUP">Group</option>
         <option value="LOCATION">Location</option>
         <option value="COMMODITY">Commodity</option>
-        <option value="UNKNOWN">Unknown</option>
+        <option value="CONCEPT">Concept</option>
+      </select>
+      <label for="filter-relation">Relation</label>
+      <select id="filter-relation">
+        <option value="ALL">All</option>
+__RELATION_OPTIONS__
       </select>
       <label for="search-node">Search node</label>
-      <input id="search-node" type="search" placeholder="Type a node label" style="min-width:200px; padding:6px; border-radius:6px; border:1px solid #ccc;" />
+      <input id="search-node" type="search" placeholder="Type a node label" />
+      <label class="toggle"><input id="core-only" type="checkbox" /> Core graph</label>
+      <label class="toggle"><input id="show-edge-labels" type="checkbox" checked /> Edge names</label>
       <button id="reset-button">Reset view</button>
     </div>
-    <div id="legend">
-      <div class="legend-item"><span class="legend-swatch" style="background:#4c72b0"></span> PERSON</div>
-      <div class="legend-item"><span class="legend-swatch" style="background:#55a868"></span> LOCATION</div>
-      <div class="legend-item"><span class="legend-swatch" style="background:#c44e52"></span> COMMODITY</div>
-      <div class="legend-item"><span class="legend-swatch" style="background:#888"></span> UNKNOWN</div>
+    <div id="legends">
+      <div class="legend">
+        <span class="legend-title">Entities</span>
+        <span class="legend-item"><span class="legend-swatch" style="background:#4c72b0"></span> Person</span>
+        <span class="legend-item"><span class="legend-swatch" style="background:#8172b2"></span> Group</span>
+        <span class="legend-item"><span class="legend-swatch" style="background:#55a868"></span> Location</span>
+        <span class="legend-item"><span class="legend-swatch" style="background:#c44e52"></span> Commodity</span>
+        <span class="legend-item"><span class="legend-swatch" style="background:#937860"></span> Concept</span>
+      </div>
+      <div class="legend">
+        <span class="legend-title">Relations</span>
+__RELATION_LEGEND__
+      </div>
     </div>
   </div>
   <div id="mynetwork"></div>
-  <div id="info">Click a node to inspect it. Hover edges to read relation labels. Use filters and search to focus the graph.</div>
+  <div id="info"><span>Click a node to center it. Hover nodes or edges for evidence and weights.</span><span id="counts"></span></div>
   <script>
     const nodesData = __NODES_JSON__;
     const edgesData = __EDGES_JSON__;
+    const visibleEdgeLabels = new Map(edgesData.map(function(edge) { return [edge.id, edge.label]; }));
 
     const nodes = new vis.DataSet(nodesData);
     const edges = new vis.DataSet(edgesData);
@@ -710,75 +947,110 @@ def generate_graph_html(node_items, edge_items):
     const options = {
       physics: {
         enabled: true,
-        stabilization: { iterations: 500, fit: true },
-        barnesHut: { gravitationalConstant: -18000, springLength: 200, springConstant: 0.04 },
+        stabilization: { iterations: 900, fit: true },
+        barnesHut: {
+          gravitationalConstant: -42000,
+          centralGravity: 0.12,
+          springLength: 210,
+          springConstant: 0.035,
+          damping: 0.36,
+          avoidOverlap: 0.45
+        },
       },
       interaction: { hover: true, tooltipDelay: 100, dragNodes: true, multiselect: false },
-      edges: { color: { inherit: true }, smooth: { enabled: true, type: 'dynamic' }, arrows: { to: { enabled: true, scaleFactor: 0.6 } }, font: { align: 'middle' } },
-      nodes: { font: { multi: 'html', size: 14 }, borderWidth: 2, chosen: { node: function(values, id, selected, hovering) { values.color = '#ffdd57'; } } },
+      edges: {
+        smooth: { enabled: true, type: 'continuous', roundness: 0.35 },
+        arrows: { to: { enabled: true, scaleFactor: 0.55 } },
+        font: { size: 10, align: 'middle', strokeWidth: 3, strokeColor: '#ffffff' },
+        selectionWidth: 2
+      },
+      nodes: {
+        font: { multi: 'html', size: 13 },
+        borderWidth: 1.5,
+        margin: 6,
+        chosen: { node: function(values) { values.borderColor = '#111111'; values.borderWidth = 3; } }
+      },
       layout: { improvedLayout: true },
       manipulation: false,
     };
 
     const network = new vis.Network(container, data, options);
 
-    function resetHighlight() {
-      nodes.forEach(function(node) {
-        nodes.update({ id: node.id, color: node.color, hidden: false });
-      });
-      edges.forEach(function(edge) { edges.update({ id: edge.id, hidden: false }); });
-      network.fit({ animation: true });
+    function updateCounts() {
+      const visibleNodes = nodes.get().filter(function(node) { return !node.hidden; }).length;
+      const visibleEdges = edges.get().filter(function(edge) { return !edge.hidden; }).length;
+      document.getElementById('counts').textContent = visibleNodes + ' nodes, ' + visibleEdges + ' edges visible';
     }
 
-    function highlightNode(nodeId) {
-      const connected = network.getConnectedNodes(nodeId);
+    function applyFilters(fit) {
+      const type = document.getElementById('filter-type').value;
+      const relation = document.getElementById('filter-relation').value;
+      const query = document.getElementById('search-node').value.trim().toLowerCase();
+      const coreOnly = document.getElementById('core-only').checked;
+      const showEdgeLabels = document.getElementById('show-edge-labels').checked;
+
       nodes.forEach(function(node) {
-        const hidden = node.id !== nodeId && !connected.includes(node.id);
-        nodes.update({ id: node.id, hidden: hidden });
+        const typeMatch = type === 'ALL' || node.type === type;
+        const queryMatch = !query || node.label.toLowerCase().includes(query);
+        const coreMatch = !coreOnly || node.degree > 1;
+        nodes.update({ id: node.id, hidden: !(typeMatch && queryMatch && coreMatch) });
       });
+
       edges.forEach(function(edge) {
-        const show = edge.from === nodeId || edge.to === nodeId || connected.includes(edge.from) || connected.includes(edge.to);
-        edges.update({ id: edge.id, hidden: !show });
+        const from = nodes.get(edge.from);
+        const to = nodes.get(edge.to);
+        const relationMatch = relation === 'ALL' || edge.relation === relation;
+        const visible = from && to && !from.hidden && !to.hidden && relationMatch;
+        edges.update({
+          id: edge.id,
+          hidden: !visible,
+          label: showEdgeLabels ? visibleEdgeLabels.get(edge.id) : ''
+        });
       });
-      network.focus(nodeId, { scale: 1.2, animation: { duration: 500 } });
+
+      updateCounts();
+      if (fit) {
+        network.fit({ animation: true });
+      }
+    }
+
+    function resetView() {
+      document.getElementById('filter-type').value = 'ALL';
+      document.getElementById('filter-relation').value = 'ALL';
+      document.getElementById('search-node').value = '';
+      document.getElementById('core-only').checked = false;
+      document.getElementById('show-edge-labels').checked = true;
+      applyFilters(true);
     }
 
     network.on('click', function(params) {
       if (params.nodes.length === 1) {
-        highlightNode(params.nodes[0]);
+        network.focus(params.nodes[0], { scale: 1.05, animation: { duration: 350 } });
+      } else {
+        network.fit({ animation: true });
       }
     });
 
-    document.getElementById('reset-button').addEventListener('click', resetHighlight);
+    document.getElementById('reset-button').addEventListener('click', resetView);
+    document.getElementById('filter-type').addEventListener('change', function() { applyFilters(true); });
+    document.getElementById('filter-relation').addEventListener('change', function() { applyFilters(true); });
+    document.getElementById('search-node').addEventListener('input', function() { applyFilters(true); });
+    document.getElementById('core-only').addEventListener('change', function() { applyFilters(true); });
+    document.getElementById('show-edge-labels').addEventListener('change', function() { applyFilters(false); });
 
-    document.getElementById('filter-type').addEventListener('change', function(event) {
-      const type = event.target.value;
-      nodes.forEach(function(node) {
-        nodes.update({ id: node.id, hidden: type !== 'ALL' && node.type !== type });
-      });
+    network.once('stabilizationIterationsDone', function() {
+      applyFilters(true);
     });
-
-    document.getElementById('search-node').addEventListener('input', function(event) {
-      const query = event.target.value.trim().toLowerCase();
-      if (!query) {
-        nodes.forEach(function(node) { nodes.update({ id: node.id, hidden: false }); });
-        edges.forEach(function(edge) { edges.update({ id: edge.id, hidden: false }); });
-        return;
-      }
-      nodes.forEach(function(node) {
-        const match = node.label.toLowerCase().includes(query);
-        nodes.update({ id: node.id, hidden: !match });
-      });
-      edges.forEach(function(edge) {
-        const from = nodes.get(edge.from);
-        const to = nodes.get(edge.to);
-        edges.update({ id: edge.id, hidden: from.hidden || to.hidden });
-      });
-    });
+    applyFilters(false);
   </script>
 </body>
 </html>"""
-    return html.replace("__NODES_JSON__", nodes_json).replace("__EDGES_JSON__", edges_json)
+    return (
+        html.replace("__NODES_JSON__", nodes_json)
+        .replace("__EDGES_JSON__", edges_json)
+        .replace("__RELATION_OPTIONS__", relation_options)
+        .replace("__RELATION_LEGEND__", relation_legend)
+    )
 
 
 def save_graph_html(node_items, edge_items, path):

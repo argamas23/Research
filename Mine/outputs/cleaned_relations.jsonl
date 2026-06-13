@@ -1,59 +1,49 @@
-{"subject": "livestock", "relation": "supplies", "object": "butter", "confidence": 0.32, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3157, "embedded_similarity": 0.126}
-{"subject": "khaltse", "relation": "extracts_from", "object": "grim (naked barley)", "confidence": 0.34, "evidence": "harvest", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3423, "embedded_similarity": 0.1111}
-{"subject": "ladakh", "relation": "supplies", "object": "valuable corrective", "confidence": 0.33, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.333, "embedded_similarity": 0.0556}
-{"subject": "deldan", "relation": "negotiates_with", "object": "aurangzeb", "confidence": 0.4, "evidence": "negotiate with", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4012, "embedded_similarity": 0.126}
-{"subject": "deldan", "relation": "negotiates_with", "object": "tibetan authorities", "confidence": 0.4, "evidence": "agree with", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4012, "embedded_similarity": 0.126}
-{"subject": "king of ladakh", "relation": "licenses", "object": "tibet", "confidence": 0.4, "evidence": "must not allow an army from india to proceed to an attack on", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3952, "embedded_similarity": 0.0619}
-{"subject": "frederic drew", "relation": "governs", "object": "ladakh", "confidence": 0.39, "evidence": "govern", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.392, "embedded_similarity": 0.0556}
-{"subject": "missionaries", "relation": "transports_via", "object": "medical aid to remote villages", "confidence": 0.34, "evidence": "bring", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3361, "embedded_similarity": 0.1111}
-{"subject": "china", "relation": "trades_with", "object": "tea", "confidence": 0.31, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3067, "embedded_similarity": 0.126}
-{"subject": "tibet", "relation": "trades_with", "object": "pashm (cashmere)", "confidence": 0.41, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4146, "embedded_similarity": 0.3714}
-{"subject": "tibet's salt lakes", "relation": "trades_with", "object": "salt", "confidence": 0.34, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3387, "embedded_similarity": 0.3038}
-{"subject": "outer hills", "relation": "trades_with", "object": "foodgrains", "confidence": 0.3, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.2982, "embedded_similarity": 0.0786}
-{"subject": "tibetan herdspeople", "relation": "supplies", "object": "foodgrains", "confidence": 0.31, "evidence": "supply", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3072, "embedded_similarity": 0.0786}
-{"subject": "shamma", "relation": "trades_with", "object": "leh area merchants", "confidence": 0.32, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.323, "embedded_similarity": 0.14}
-{"subject": "shamma", "relation": "trades_with", "object": "tibet baqals", "confidence": 0.48, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4757, "embedded_similarity": 0.711}
-{"subject": "shamma", "relation": "trades_with", "object": "pashm", "confidence": 0.39, "evidence": "sell", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3855, "embedded_similarity": 0.1576}
-{"subject": "tibet baqals", "relation": "trades_with", "object": "pashm", "confidence": 0.56, "evidence": "buy|control_trade_of", "document": "aggregated_csvs", "weight": 2.0, "semantic_strength": 0.5557, "embedded_similarity": 0.5174}
-{"subject": "chang-pa", "relation": "extracts_from", "object": "salt", "confidence": 0.33, "evidence": "collect", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3301, "embedded_similarity": 0.0434}
-{"subject": "shamma", "relation": "trades_with", "object": "chang-thang sheep's wool", "confidence": 0.32, "evidence": "buy", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.323, "embedded_similarity": 0.14}
-{"subject": "shamma", "relation": "trades_with", "object": "barley for salt", "confidence": 0.32, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.323, "embedded_similarity": 0.14}
-{"subject": "shamma", "relation": "trades_with", "object": "in srinagar or leh", "confidence": 0.32, "evidence": "sell", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.323, "embedded_similarity": 0.14}
-{"subject": "ladakh", "relation": "transports_via", "object": "complex pattern", "confidence": 0.36, "evidence": "carry on trades according to", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.356, "embedded_similarity": 0.0556}
-{"subject": "ladakh", "relation": "trades_with", "object": "tea", "confidence": 0.37, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3679, "embedded_similarity": 0.063}
-{"subject": "pack-horses", "relation": "transports_via", "object": "karakoram", "confidence": 0.34, "evidence": "were used for transport across the karakoram", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3361, "embedded_similarity": 0.1111}
-{"subject": "yarkand breed", "relation": "transports_via", "object": "loads", "confidence": 0.34, "evidence": "could carry loads of about 100 kilograms", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3361, "embedded_similarity": 0.1111}
-{"subject": "dras", "relation": "extracts_from", "object": "one crop", "confidence": 0.34, "evidence": "harvest", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3423, "embedded_similarity": 0.1111}
-{"subject": "yak", "relation": "supplies", "object": "hair", "confidence": 0.33, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3319, "embedded_similarity": 0.1361}
-{"subject": "yak", "relation": "supplies", "object": "milk", "confidence": 0.33, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3319, "embedded_similarity": 0.1361}
-{"subject": "yak", "relation": "supplies", "object": "butter", "confidence": 0.37, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3727, "embedded_similarity": 0.1543}
-{"subject": "yak", "relation": "supplies", "object": "meat", "confidence": 0.37, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3685, "embedded_similarity": 0.1543}
-{"subject": "chang-luk sheep", "relation": "supplies", "object": "coarse wool", "confidence": 0.33, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3293, "embedded_similarity": 0.126}
-{"subject": "chang-luk sheep", "relation": "supplies", "object": "meat", "confidence": 0.35, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3505, "embedded_similarity": 0.1429}
-{"subject": "villagers", "relation": "extracts_from", "object": "harvest time", "confidence": 0.35, "evidence": "combine to gather crops", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3499, "embedded_similarity": 0.0786}
-{"subject": "ladakhi traders", "relation": "trades_with", "object": "pashm in leh", "confidence": 0.3, "evidence": "sell", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3041, "embedded_similarity": 0.1111}
-{"subject": "fragile mountain ecologies", "relation": "transports_via", "object": "on some of the popular trekking trails", "confidence": 0.34, "evidence": "are at risk equally from the boots of the walkers and the hooves of the ponies that carry their baggage", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3361, "embedded_similarity": 0.1111}
-{"subject": "villagers", "relation": "supplies", "object": "material base", "confidence": 0.32, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3207, "embedded_similarity": 0.0786}
-{"subject": "basgo palace", "relation": "supplies", "object": "true", "confidence": 0.31, "evidence": "has perennial water-supply", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3131, "embedded_similarity": 0.1111}
-{"subject": "rupshu", "relation": "trades_with", "object": "tibet", "confidence": 0.45, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4461, "embedded_similarity": 0.1404}
-{"subject": "tibetan changpas", "relation": "transports_via", "object": "salt", "confidence": 0.32, "evidence": "bring", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3239, "embedded_similarity": 0.0434}
-{"subject": "rupshupa", "relation": "extracts_from", "object": "salt from tso kar", "confidence": 0.36, "evidence": "collect", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3628, "embedded_similarity": 0.1325}
-{"subject": "rupshu", "relation": "extracts_from", "object": "salt from tso kar", "confidence": 0.45, "evidence": "remove", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4497, "embedded_similarity": 0.0501}
-{"subject": "men", "relation": "extracts_from", "object": "salt from tso kar", "confidence": 0.4, "evidence": "remove", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4013, "embedded_similarity": 0.0765}
-{"subject": "kharnak", "relation": "disputes", "object": "ownership of tso kar", "confidence": 0.43, "evidence": "claim", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.432, "embedded_similarity": 0.0454}
-{"subject": "kharnak", "relation": "taxes", "object": "rupshu", "confidence": 0.83, "evidence": "get salt for free|pay fine to|receive share of salt", "document": "aggregated_csvs", "weight": 3.0, "semantic_strength": 0.8308, "embedded_similarity": 0.0857}
-{"subject": "rupshu", "relation": "supplies", "object": "kharnak", "confidence": 0.53, "evidence": "give salt to", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.5318, "embedded_similarity": 0.0857}
-{"subject": "men", "relation": "trades_with", "object": "there and in villages along the route", "confidence": 0.31, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3124, "embedded_similarity": 0.0642}
-{"subject": "salt", "relation": "trades_with", "object": "for barley", "confidence": 0.47, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4709, "embedded_similarity": 0.4774}
-{"subject": "yaks", "relation": "transports_via", "object": "barley", "confidence": 0.34, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3361, "embedded_similarity": 0.1111}
-{"subject": "tibetan partners", "relation": "trades_with", "object": "salt", "confidence": 0.34, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3387, "embedded_similarity": 0.3038}
-{"subject": "dolpo", "relation": "trades_with", "object": "china and tibet", "confidence": 0.32, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3203, "embedded_similarity": 0.126}
-{"subject": "chinese authorities", "relation": "licenses", "object": "salt trade", "confidence": 0.39, "evidence": "allow", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.385, "embedded_similarity": 0.1111}
-{"subject": "drogpa", "relation": "transports_via", "object": "tea bricks", "confidence": 0.33, "evidence": "bring", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3303, "embedded_similarity": 0.0786}
-{"subject": "tibetan horses", "relation": "trades_with", "object": "tea bricks", "confidence": 0.3, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.2982, "embedded_similarity": 0.0786}
-{"subject": "kitamura", "relation": "trades_with", "object": "porcelain cups", "confidence": 0.3, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3041, "embedded_similarity": 0.1111}
-{"subject": "tibetans", "relation": "trades_with", "object": "caterpillar fungus", "confidence": 0.36, "evidence": "sell", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3646, "embedded_similarity": 0.4472}
-{"subject": "dolpo", "relation": "trades_with", "object": "grain", "confidence": 0.32, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3203, "embedded_similarity": 0.126}
-{"subject": "tukuche", "relation": "trades_with", "object": "village", "confidence": 0.3, "evidence": "market center", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3041, "embedded_similarity": 0.1111}
-{"subject": "men", "relation": "transports_via", "object": "long dagger", "confidence": 0.34, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.3445, "embedded_similarity": 0.0642}
-{"subject": "caterpillar fungus", "relation": "trades_with", "object": "sale", "confidence": 0.4, "evidence": "paying more than grain barter", "document": "aggregated_csvs", "weight": 1.0, "semantic_strength": 0.4004, "embedded_similarity": 0.4472}
+{"subject": "livestock", "relation": "supplies", "object": "butter", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "khaltse", "relation": "extracts_from", "object": "barley", "confidence": 0.1, "evidence": "harvest", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "deldan", "relation": "negotiates_with", "object": "aurangzeb", "confidence": 0.1, "evidence": "negotiate with", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "deldan", "relation": "negotiates_with", "object": "tibetan authorities", "confidence": 0.1, "evidence": "agree with", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "king of ladakh", "relation": "licenses", "object": "tibet", "confidence": 0.1, "evidence": "must not allow an army from india to proceed to an attack on", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "frederic drew", "relation": "governs", "object": "ladakh", "confidence": 0.1, "evidence": "govern", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "baltistan", "relation": "trades_with", "object": "dried apricots", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "china", "relation": "trades_with", "object": "tea", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibet", "relation": "trades_with", "object": "pashm", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "salt lakes", "relation": "trades_with", "object": "salt", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "outer hills", "relation": "trades_with", "object": "foodgrains", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetan herdspeople", "relation": "supplies", "object": "foodgrains", "confidence": 0.1, "evidence": "supply", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "shamma", "relation": "trades_with", "object": "leh area merchants", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "shamma", "relation": "trades_with", "object": "tibet baqals", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "shamma", "relation": "trades_with", "object": "pashm", "confidence": 0.1, "evidence": "sell", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibet baqals", "relation": "trades_with", "object": "pashm", "confidence": 0.2, "evidence": "buy|control_trade_of", "document": "aggregated_csvs", "weight": 2.0}
+{"subject": "chang-pa", "relation": "extracts_from", "object": "salt", "confidence": 0.1, "evidence": "collect", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "shamma", "relation": "trades_with", "object": "chang-thang sheep's wool", "confidence": 0.1, "evidence": "buy", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "shamma", "relation": "trades_with", "object": "barley", "confidence": 0.1, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "ladakh", "relation": "trades_with", "object": "tea", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "pack-horses", "relation": "transports_via", "object": "karakoram", "confidence": 0.1, "evidence": "were used for transport across the karakoram", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "peasant traders", "relation": "transports_via", "object": "foodgrains", "confidence": 0.1, "evidence": "bring back", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "yak", "relation": "supplies", "object": "hair", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "yak", "relation": "supplies", "object": "milk", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "yak", "relation": "supplies", "object": "butter", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "yak", "relation": "supplies", "object": "meat", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "chang-luk sheep", "relation": "supplies", "object": "coarse wool", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "chang-luk sheep", "relation": "supplies", "object": "meat", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "ladakhi traders", "relation": "trades_with", "object": "pashm", "confidence": 0.1, "evidence": "sell", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "rupshu", "relation": "trades_with", "object": "tibet", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetan changpas", "relation": "transports_via", "object": "salt", "confidence": 0.1, "evidence": "bring", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "rupshu", "relation": "trades_with", "object": "barley", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "rupshu", "relation": "extracts_from", "object": "salt", "confidence": 0.2, "evidence": "collect|remove", "document": "aggregated_csvs", "weight": 2.0}
+{"subject": "men", "relation": "extracts_from", "object": "salt", "confidence": 0.1, "evidence": "remove", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "kharnak", "relation": "disputes", "object": "ownership of tso kar", "confidence": 0.1, "evidence": "claim", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "kharnak", "relation": "taxes", "object": "rupshu", "confidence": 0.3, "evidence": "get salt for free|pay fine to|receive share of salt", "document": "aggregated_csvs", "weight": 3.0}
+{"subject": "rupshu", "relation": "supplies", "object": "kharnak", "confidence": 0.1, "evidence": "give salt to", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "salt", "relation": "trades_with", "object": "barley", "confidence": 0.1, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "yak", "relation": "transports_via", "object": "barley", "confidence": 0.1, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetan partners", "relation": "trades_with", "object": "salt", "confidence": 0.1, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "dolpo", "relation": "trades_with", "object": "china and tibet", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "chinese authorities", "relation": "licenses", "object": "salt", "confidence": 0.1, "evidence": "allow", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "drogpa", "relation": "transports_via", "object": "tea", "confidence": 0.1, "evidence": "bring", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetan horses", "relation": "trades_with", "object": "tea", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "kitamura", "relation": "trades_with", "object": "porcelain cups", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetans", "relation": "trades_with", "object": "caterpillar fungus", "confidence": 0.1, "evidence": "sell", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "dolpo", "relation": "trades_with", "object": "grain", "confidence": 0.1, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tukuche", "relation": "trades_with", "object": "village", "confidence": 0.1, "evidence": "market center", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "men", "relation": "transports_via", "object": "long dagger", "confidence": 0.1, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0}
