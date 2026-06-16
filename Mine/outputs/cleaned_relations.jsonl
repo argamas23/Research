@@ -1,3 +1,65 @@
+{"subject": "i", "relation": "depends_on", "object": "this effort", "confidence": 0.1, "evidence": "realised that to write a contextualised history of unfree labour in the western himalayas, i would need to understand the local dynamics of social and economic transformations during the colonial period separate from the general history of india under colonialism", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "british rule", "relation": "negotiates_with", "object": "local habitations", "confidence": 0.1, "evidence": "settle in", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "british rule", "relation": "supplies", "object": "with the emergent indian nation", "confidence": 0.1, "evidence": "provide the enabling conditions for the social and political integration", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "river sutlej", "relation": "supplies", "object": "traders and others", "confidence": 0.1, "evidence": "provide access", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "simla", "relation": "depends_on", "object": "to the borders of tibet", "confidence": 0.1, "evidence": "need building of road", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "hill state", "relation": "trades_with", "object": "basis", "confidence": 0.1, "evidence": "developed from trade in large river valleys", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "peasant family", "relation": "controls", "object": "begar", "confidence": 0.1, "evidence": "had no control over", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "dominant village community", "relation": "controls", "object": "servile groups", "confidence": 0.1, "evidence": "control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "village deity", "relation": "controls", "object": "servile groups", "confidence": 0.1, "evidence": "control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "ruler of the tract", "relation": "controls", "object": "servile groups", "confidence": 0.1, "evidence": "control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "pastoral groups", "relation": "transports_via", "object": "lower hills bordering the plains of punjab", "confidence": 0.1, "evidence": "move", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "the british government", "relation": "trades_with", "object": "through palampur and from leh to kashmir", "confidence": 0.1, "evidence": "gave encouragement to other trade routes", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "traders from the plains", "relation": "negotiates_with", "object": "the narrow mountain paths", "confidence": 0.1, "evidence": "could not negotiate", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "divine functionaries", "relation": "transports_via", "object": "deity", "confidence": 0.1, "evidence": "carry out work on behalf of", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "hill state", "relation": "taxes", "object": "revenue demand", "confidence": 0.1, "evidence": "levy revenue demand on every community", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "the khumri", "relation": "governs", "object": "agricultural cycle", "confidence": 0.1, "evidence": "regulate", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "state officials", "relation": "taxes", "object": "of the states", "confidence": 0.1, "evidence": "shared the duty of administering finances", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "those deities", "relation": "trades_with", "object": "obedience", "confidence": 0.1, "evidence": "pay", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "the state", "relation": "governs", "object": "area", "confidence": 0.1, "evidence": "control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "his patron god", "relation": "negotiates_with", "object": "clan deity", "confidence": 0.1, "evidence": "mediate", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "clan deity", "relation": "extracts_from", "object": "surplus", "confidence": 0.1, "evidence": "extract", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "these mountain communities", "relation": "trades_with", "object": "cash", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "hill state", "relation": "depends_on", "object": "cash dues", "confidence": 0.1, "evidence": "require", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "wool of the pastoralists", "relation": "trades_with", "object": "cash instead of cloth", "confidence": 0.1, "evidence": "exchange", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "village", "relation": "supplies", "object": "the corn", "confidence": 0.1, "evidence": "declared their inability to supply", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "the first thing", "relation": "depends_on", "object": "to be emphasised about himalayan marriage", "confidence": 0.1, "evidence": "need", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "british", "relation": "controls", "object": "entire border with the sikh territories", "confidence": 0.1, "evidence": "wanted military and political control of", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "sikhs", "relation": "controls", "object": "sutlej valley", "confidence": 0.1, "evidence": "control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "gurkhas of nepal", "relation": "controls", "object": "mountainous areas", "confidence": 0.1, "evidence": "rule", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetans", "relation": "supplies", "object": "natural products", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "prior interventions", "relation": "negotiates_with", "object": "revenue matters in a few hill states", "confidence": 0.1, "evidence": "attempt to settle", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "gurkhas", "relation": "disputes", "object": "the british east india company", "confidence": 0.1, "evidence": "fight against", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "the rulers of these hill states", "relation": "disputes", "object": "the crown", "confidence": 0.1, "evidence": "were conceived of as little monarchs and their claim over the territory granted to them as absolute, with nominal internal independence under the supervision of", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "deities", "relation": "negotiates_with", "object": "relations between the state and its subjects", "confidence": 0.1, "evidence": "mediate", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "himalayan population", "relation": "disputes", "object": "mahasu", "confidence": 0.1, "evidence": "staked claim to allegiance", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "peasants", "relation": "supplies", "object": "poorzee", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "wazeers", "relation": "extracts_from", "object": "peasants", "confidence": 0.1, "evidence": "collect revenue", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tika ruder sen", "relation": "governs", "object": "state's administration", "confidence": 0.1, "evidence": "tried to control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "outsiders", "relation": "disputes", "object": "imprisoned", "confidence": 0.1, "evidence": "seized", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "mandi", "relation": "taxes", "object": "the british", "confidence": 0.1, "evidence": "paid a very high tribute to", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "the raja", "relation": "controls", "object": "a situation", "confidence": 0.1, "evidence": "control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "peasants", "relation": "licenses", "object": "state forests", "confidence": 0.1, "evidence": "be allowed to kill ghorls and kakkars", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "women", "relation": "licenses", "object": "village boundaries", "confidence": 0.1, "evidence": "not allowed to leave", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "land revenue", "relation": "licenses", "object": "the bethus", "confidence": 0.1, "evidence": "should be allowed to pay", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "bethus", "relation": "transports_via", "object": "produce", "confidence": 0.1, "evidence": "carry and dispose of", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "khash-kanet peasants", "relation": "trades_with", "object": "begar", "confidence": 0.1, "evidence": "pay commutation fee to", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "bethus", "relation": "trades_with", "object": "rana", "confidence": 0.1, "evidence": "pay rent on land for subsistence to", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "hill states", "relation": "controls", "object": "productive resources", "confidence": 0.1, "evidence": "control", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "chasralu", "relation": "disputes", "object": "mahasu", "confidence": 0.1, "evidence": "put up a valiant fight", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "land settlements", "relation": "transports_via", "object": "changes", "confidence": 0.1, "evidence": "bring about", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "hindustan-tibet road", "relation": "licenses", "object": "the western himalayas", "confidence": 0.1, "evidence": "allow large-scale civilian populations of europeans to go up into the mountains for purposes of extended stay", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "british officers", "relation": "transports_via", "object": "the west himalayas", "confidence": 0.1, "evidence": "bring their families to the hill stations", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "kanets", "relation": "depends_on", "object": "agriculture", "confidence": 0.1, "evidence": "depend", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "new law", "relation": "licenses", "object": "special circumstances", "confidence": 0.1, "evidence": "permit divorce under", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "begar", "relation": "transports_via", "object": "europeans", "confidence": 0.1, "evidence": "transport", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "peasantry", "relation": "extracts_from", "object": "obstacles", "confidence": 0.1, "evidence": "remove", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "khash-kanet peasantry", "relation": "disputes", "object": "begar conscription", "confidence": 0.1, "evidence": "oppose", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "padam dev gautam", "relation": "disputes", "object": "having no credibility", "confidence": 0.1, "evidence": "claim", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "civilisational centres", "relation": "controls", "object": "marginal, oppressed people", "confidence": 0.1, "evidence": "dominate and exploit", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "himalayan peasants", "relation": "negotiates_with", "object": "demands", "confidence": 0.1, "evidence": "negotiate", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "himalayan peasants", "relation": "transports_via", "object": "baggage", "confidence": 0.1, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "loggers", "relation": "transports_via", "object": "logs down the big rivers", "confidence": 0.1, "evidence": "transport", "document": "aggregated_csvs", "weight": 1.0}
 {"subject": "livestock", "relation": "supplies", "object": "butter", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
 {"subject": "khaltse", "relation": "extracts_from", "object": "barley", "confidence": 0.1, "evidence": "harvest", "document": "aggregated_csvs", "weight": 1.0}
 {"subject": "deldan", "relation": "negotiates_with", "object": "aurangzeb", "confidence": 0.1, "evidence": "negotiate with", "document": "aggregated_csvs", "weight": 1.0}
@@ -47,3 +109,23 @@
 {"subject": "dolpo", "relation": "trades_with", "object": "grain", "confidence": 0.1, "evidence": "barter", "document": "aggregated_csvs", "weight": 1.0}
 {"subject": "tukuche", "relation": "trades_with", "object": "village", "confidence": 0.1, "evidence": "market center", "document": "aggregated_csvs", "weight": 1.0}
 {"subject": "men", "relation": "transports_via", "object": "long dagger", "confidence": 0.1, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "lakes of the changthang", "relation": "extracts_from", "object": "salt", "confidence": 0.1, "evidence": "extract", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "nomads or drokpas", "relation": "extracts_from", "object": "salt from the lakes", "confidence": 0.1, "evidence": "extract", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "people", "relation": "transports_via", "object": "a trade", "confidence": 0.1, "evidence": "carry out", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "nomads", "relation": "extracts_from", "object": "salt in the lake", "confidence": 0.1, "evidence": "collect", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "the nepalese state", "relation": "taxes", "object": "the subbas", "confidence": 0.1, "evidence": "also collected a tax through", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "bhutanese", "relation": "transports_via", "object": "rice", "confidence": 0.1, "evidence": "bring", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "ladakhis", "relation": "transports_via", "object": "salt", "confidence": 0.1, "evidence": "transport", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "chumey naktsang", "relation": "trades_with", "object": "salt", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetans", "relation": "trades_with", "object": "products", "confidence": 0.1, "evidence": "exchange", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "amdowas", "relation": "supplies", "object": "salt", "confidence": 0.1, "evidence": "supply", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "dabusun nor", "relation": "transports_via", "object": "salt", "confidence": 0.1, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "monasteries", "relation": "supplies", "object": "storage facilities", "confidence": 0.1, "evidence": "provide", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "tibetan women", "relation": "transports_via", "object": "buckets of salt water", "confidence": 0.1, "evidence": "carry", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "zhao erfeng", "relation": "taxes", "object": "tsakalho", "confidence": 0.1, "evidence": "established a salt tax office in", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "drokpas", "relation": "trades_with", "object": "yak butter", "confidence": 0.1, "evidence": "buy", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "shepherds", "relation": "trades_with", "object": "jada family", "confidence": 0.1, "evidence": "trade", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "pe customs house", "relation": "trades_with", "object": "tibetan official", "confidence": 0.1, "evidence": "collected the rice, corn and cane and distributed the salt in exchange", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "government", "relation": "trades_with", "object": "people of tsakalho", "confidence": 0.1, "evidence": "approved their right to produce and sell salt autonomously", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "himalayan peoples", "relation": "trades_with", "object": "tibetan salt", "confidence": 0.1, "evidence": "attributed properties and made possible a small-scale trade to survive", "document": "aggregated_csvs", "weight": 1.0}
+{"subject": "ancient tea horse road", "relation": "disputes", "object": "national cultural heritage", "confidence": 0.1, "evidence": "claim", "document": "aggregated_csvs", "weight": 1.0}
