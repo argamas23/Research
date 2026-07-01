@@ -3,6 +3,8 @@ import json
 import csv
 import re
 import time
+import os
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
 
 # --- Configuration ---
@@ -68,6 +70,12 @@ def extract_triples_ollama(chunk, topics):
         print(f"Ollama Error: {e}")
     return []
 
+
+def process_chunk(index, total, chunk, topics):
+    """Run one LLM extraction job and keep enough metadata for ordered logging."""
+    triples = extract_triples_ollama(chunk, topics)
+    return index, total, triples
+
 # --- 3. Main Pipeline ---
 
 import argparse
@@ -78,6 +86,12 @@ def main():
     parser.add_argument("--coocc_file", required=True, help="Path to entity co-occurrences file.")
     parser.add_argument("--topics_file", required=True, help="Path to selected topics file.")
     parser.add_argument("--output_file", required=True, help="Path to output CSV file.")
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=max(1, min(4, (os.cpu_count() or 2))),
+        help="Number of concurrent Ollama requests. Use 1 for sequential processing.",
+    )
     args = parser.parse_args()
 
     CORPUS_FILE = args.corpus_file
@@ -105,21 +119,37 @@ def main():
                 current_chunk = sent + " "
     if current_chunk: relevant_chunks.append(current_chunk)
 
-    print(f"Step 2: Processing {len(relevant_chunks)} chunks via {MODEL_NAME}...")
+    workers = max(1, args.workers)
+    print(f"Step 2: Processing {len(relevant_chunks)} chunks via {MODEL_NAME} with {workers} worker(s)...")
     master_graph = defaultdict(int)
 
-    for i, chunk in enumerate(relevant_chunks):
-        print(f"Processing chunk {i+1}/{len(relevant_chunks)}...")
-        triples = extract_triples_ollama(chunk, topics)
-        
-        for t in triples:
-            if not isinstance(t, dict): continue
-            
+    chunk_results = {}
+    if workers == 1 or len(relevant_chunks) <= 1:
+        for i, chunk in enumerate(relevant_chunks):
+            print(f"Processing chunk {i+1}/{len(relevant_chunks)}...")
+            _, _, triples = process_chunk(i, len(relevant_chunks), chunk, topics)
+            chunk_results[i] = triples
+    else:
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = [
+                executor.submit(process_chunk, i, len(relevant_chunks), chunk, topics)
+                for i, chunk in enumerate(relevant_chunks)
+            ]
+            for future in as_completed(futures):
+                i, total, triples = future.result()
+                print(f"Finished chunk {i+1}/{total} ({len(triples)} triples).")
+                chunk_results[i] = triples
+
+    for i in sorted(chunk_results):
+        for t in chunk_results[i]:
+            if not isinstance(t, dict):
+                continue
+
             # Robust extraction to avoid 'list has no attribute strip'
             s = get_safe_str(t, 'subject').strip().lower()
             r = get_safe_str(t, 'relation').strip().upper()
             o = get_safe_str(t, 'object').strip().lower()
-            
+
             if s and r and o:
                 master_graph[(s, r, o)] += 1
 

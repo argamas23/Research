@@ -58,22 +58,22 @@ civilisational centres,"marginal, oppressed people",controls,1.0,dominate and ex
 himalayan peasants,demands,negotiates_with,1.0,negotiate,LOCATION,PERSON,Becoming_India
 himalayan peasants,baggage,transports_via,1.0,carry,LOCATION,PERSON,Becoming_India
 loggers,logs down the big rivers,transports_via,1.0,transport,PERSON,LOCATION,Becoming_India
-tibet,rampur,trades_with,1.0,have trade with,LOCATION,PERSON,Gutenberg_EBook_20260618_020818
-specimens,european plant,negotiates_with,1.0,agree with,PERSON,PERSON,Gutenberg_EBook_20260618_020818
-garu,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook_20260618_020818
-ladak,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook_20260618_020818
-loaded men,support,depends_on,1.0,need,PERSON,PERSON,Gutenberg_EBook_20260618_020818
-saffron,throughout the year,licenses,1.0,is allowed to remain in the ground,PERSON,PERSON,Gutenberg_EBook_20260618_020818
-strachey,facts,supplies,1.0,furnish,PERSON,PERSON,Gutenberg_EBook_20260618_020818
-donations,statements,taxes,1.0,concerning tax treatment,PERSON,LOCATION,Gutenberg_EBook_20260618_020818
-nepal,tibet,trades_with,1.0,trade,LOCATION,LOCATION,HUMLA_NEPAL_20260618_013400
-grains,tibetan rock salt,trades_with,1.0,exchange,COMMODITY,COMMODITY,HUMLA_NEPAL_20260618_013400
-limis,marts,supplies,1.0,supply,GROUP,PERSON,HUMLA_NEPAL_20260618_013400
-humlis,salt,trades_with,1.0,market,PERSON,COMMODITY,HUMLA_NEPAL_20260618_013400
-consumers,grain for salt,trades_with,1.0,exchange,PERSON,COMMODITY,HUMLA_NEPAL_20260618_013400
-humlis,at present,trades_with,1.0,have had to accept lower rates of exchange in order to remain competitive,PERSON,PERSON,HUMLA_NEPAL_20260618_013400
-traders from two villages,tibetan salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL_20260618_013400
-traders from two villages,indian salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL_20260618_013400
+tibet,rampur,trades_with,1.0,have trade with,LOCATION,PERSON,Gutenberg_EBook
+specimens,european plant,negotiates_with,1.0,agree with,PERSON,PERSON,Gutenberg_EBook
+garu,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook
+ladak,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook
+loaded men,support,depends_on,1.0,need,PERSON,PERSON,Gutenberg_EBook
+saffron,throughout the year,licenses,1.0,is allowed to remain in the ground,PERSON,PERSON,Gutenberg_EBook
+strachey,facts,supplies,1.0,furnish,PERSON,PERSON,Gutenberg_EBook
+donations,statements,taxes,1.0,concerning tax treatment,PERSON,LOCATION,Gutenberg_EBook
+nepal,tibet,trades_with,1.0,trade,LOCATION,LOCATION,HUMLA_NEPAL
+grains,tibetan rock salt,trades_with,1.0,exchange,COMMODITY,COMMODITY,HUMLA_NEPAL
+limis,marts,supplies,1.0,supply,GROUP,PERSON,HUMLA_NEPAL
+humlis,salt,trades_with,1.0,market,PERSON,COMMODITY,HUMLA_NEPAL
+consumers,grain for salt,trades_with,1.0,exchange,PERSON,COMMODITY,HUMLA_NEPAL
+humlis,at present,trades_with,1.0,have had to accept lower rates of exchange in order to remain competitive,PERSON,PERSON,HUMLA_NEPAL
+traders from two villages,tibetan salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL
+traders from two villages,indian salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL
 livestock,butter,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
 khaltse,barley,extracts_from,1.0,harvest,LOCATION,COMMODITY,Ladakh
 deldan,aurangzeb,negotiates_with,1.0,negotiate with,PERSON,PERSON,Ladakh
@@ -102,7 +102,7 @@ yak,meat,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
 chang-luk sheep,coarse wool,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
 chang-luk sheep,meat,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
 ladakhi traders,pashm,trades_with,1.0,sell,GROUP,COMMODITY,Ladakh
-pastoralists,migratory strategy,depends_on,1.0,need,PERSON,PERSON,No_Greenery_Rupshu_20260618_014228
+pastoralists,migratory strategy,depends_on,1.0,need,PERSON,PERSON,No_Greenery_Rupshu
 rupshu,tibet,trades_with,1.0,trade,LOCATION,LOCATION,Rupshu
 tibetan changpas,salt,transports_via,1.0,bring,GROUP,COMMODITY,Rupshu
 rupshu,barley,trades_with,1.0,trade,LOCATION,COMMODITY,Rupshu

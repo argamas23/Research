@@ -17,6 +17,12 @@ def run_command(command):
 def main():
     parser = argparse.ArgumentParser(description="Run NLP pipeline on a single book.")
     parser.add_argument("--book", required=True, help="Name of the PDF file in Research/Books directory (e.g., '1910.pdf').")
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=max(1, min(4, (os.cpu_count() or 2))),
+        help="Concurrent workers for parallel-capable stages, especially relation extraction.",
+    )
     args = parser.parse_args()
     book_name = args.book
 
@@ -101,7 +107,8 @@ def main():
         "--corpus_file", txt_path, # Use the single book text file
         "--coocc_file", coocc_output_path,
         "--topics_file", selected_topics_path,
-        "--output_file", relation_output_path
+        "--output_file", relation_output_path,
+        "--workers", str(max(1, args.workers)),
     ])
 
     # 7. Aggregate Graph (aggregate_graph.py)

@@ -5,6 +5,7 @@ import json
 import math
 import re
 import networkx as nx
+from concurrent.futures import ThreadPoolExecutor
 from collections import defaultdict
 
 try:
@@ -104,19 +105,31 @@ def compute_metrics(G):
         metrics["eigenvector"] = zero_metric.copy()
         return metrics
 
-    metrics["betweenness"] = nx.betweenness_centrality(
-        G, weight="weight", normalized=True
-    )
-    metrics["closeness"] = nx.closeness_centrality(G, distance="weight")
-    try:
-        metrics["eigenvector"] = nx.eigenvector_centrality_numpy(G, weight="weight")
-    except Exception:
+    def betweenness():
+        return nx.betweenness_centrality(G, weight="weight", normalized=True)
+
+    def closeness():
+        return nx.closeness_centrality(G, distance="weight")
+
+    def eigenvector():
         try:
-            metrics["eigenvector"] = nx.eigenvector_centrality(
+            return nx.eigenvector_centrality_numpy(G, weight="weight")
+        except Exception:
+            return nx.eigenvector_centrality(
                 nx.Graph(G.to_undirected()), weight="weight", max_iter=200, tol=1e-06
             )
-        except Exception:
-            metrics["eigenvector"] = {node: 0.0 for node in G.nodes()}
+
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        futures = {
+            "betweenness": executor.submit(betweenness),
+            "closeness": executor.submit(closeness),
+            "eigenvector": executor.submit(eigenvector),
+        }
+        for name, future in futures.items():
+            try:
+                metrics[name] = future.result()
+            except Exception:
+                metrics[name] = {node: 0.0 for node in G.nodes()}
     return metrics
 
 
@@ -566,6 +579,8 @@ def build_visualization_data(entity_types, edges):
         edge_color = EDGE_COLOR_BY_RELATION.get(edge["relation"], "#777777")
         touches_focus = RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}
         edge_width = max(2.0, min(9.0, 0.75 + edge["weight"] * 2.0))
+        books = edge.get("books", [])
+        books_text = ", ".join(books) if books else "Unknown"
         if touches_focus:
             edge_width = max(edge_width, 4.5)
         edge_items.append(
@@ -577,9 +592,11 @@ def build_visualization_data(entity_types, edges):
                 "relation": edge["relation"],
                 "color": {"color": edge_color, "highlight": edge_color},
                 "width": edge_width,
+                "weight": edge["weight"],
+                "books": books,
                 "arrows": "to",
                 "font": {"size": 10, "align": "middle", "strokeWidth": 3, "strokeColor": "#ffffff"},
-                "title": f"{edge['source']} -> {edge['target']}<br>Relation: {edge['relation']}<br>Weight: {edge['weight']:.1f}<br>Evidence: {edge['raw_relations']}",
+                "title": f"{edge['source']} -> {edge['target']}<br>Relation: {edge['relation']}<br>Weight: {edge['weight']:.1f}<br>Books: {books_text}<br>Evidence: {edge['raw_relations']}",
             }
         )
 
@@ -612,8 +629,12 @@ def generate_graph_html(node_items, edge_items):
     label { font-size: 13px; font-weight: 600; color: #333; }
     select, input[type="search"] { height: 32px; border: 1px solid #bbb; border-radius: 6px; background: #fff; padding: 0 8px; font-size: 13px; }
     input[type="search"] { min-width: 220px; }
+    input[type="range"] { width: 132px; accent-color: #4c72b0; }
     button { height: 32px; border: 1px solid #888; border-radius: 6px; background: #f5f5f5; cursor: pointer; padding: 0 12px; }
+    button:hover { background: #eeeeee; }
     .toggle { display: inline-flex; align-items: center; gap: 6px; height: 32px; font-size: 13px; font-weight: 600; }
+    .range-control { display: inline-flex; align-items: center; gap: 7px; height: 32px; }
+    #weight-value { min-width: 26px; font-size: 12px; color: #444; }
     #legends { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px; }
     .legend { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; max-width: 620px; font-size: 12px; }
     .legend-title { font-weight: 700; color: #333; margin-right: 2px; }
@@ -648,8 +669,15 @@ __RELATION_OPTIONS__
       </select>
       <label for="search-node">Search node</label>
       <input id="search-node" type="search" placeholder="Type a node label" />
+      <span class="range-control">
+        <label for="min-weight">Min weight</label>
+        <input id="min-weight" type="range" min="0" max="1" step="1" value="0" />
+        <span id="weight-value">0</span>
+      </span>
       <label class="toggle"><input id="core-only" type="checkbox" /> Core graph</label>
       <label class="toggle"><input id="show-edge-labels" type="checkbox" checked /> Edge names</label>
+      <label class="toggle"><input id="physics-toggle" type="checkbox" checked /> Physics</label>
+      <button id="focus-button">Focus search</button>
       <button id="reset-button">Reset view</button>
     </div>
     <div id="legends">
@@ -673,6 +701,17 @@ __RELATION_LEGEND__
     const nodesData = __NODES_JSON__;
     const edgesData = __EDGES_JSON__;
     const visibleEdgeLabels = new Map(edgesData.map(function(edge) { return [edge.id, edge.label]; }));
+    const maxEdgeWeight = Math.max(1, ...edgesData.map(function(edge) { return Number(edge.weight || 0); }));
+    const originalNodeStyles = new Map(nodesData.map(function(node) {
+      return [node.id, { color: node.color, borderWidth: node.borderWidth || 1.5, size: node.size }];
+    }));
+    const adjacency = new Map();
+    edgesData.forEach(function(edge) {
+      if (!adjacency.has(edge.from)) adjacency.set(edge.from, new Set());
+      if (!adjacency.has(edge.to)) adjacency.set(edge.to, new Set());
+      adjacency.get(edge.from).add(edge.to);
+      adjacency.get(edge.to).add(edge.from);
+    });
 
     const nodes = new vis.DataSet(nodesData);
     const edges = new vis.DataSet(edgesData);
@@ -711,19 +750,27 @@ __RELATION_LEGEND__
     };
 
     const network = new vis.Network(container, data, options);
+    const minWeightInput = document.getElementById('min-weight');
+    minWeightInput.max = String(Math.ceil(maxEdgeWeight));
+    document.getElementById('weight-value').textContent = minWeightInput.value;
 
     function updateCounts() {
       const visibleNodes = nodes.get().filter(function(node) { return !node.hidden; }).length;
       const visibleEdges = edges.get().filter(function(edge) { return !edge.hidden; }).length;
-      document.getElementById('counts').textContent = visibleNodes + ' nodes, ' + visibleEdges + ' edges visible';
+      const totalWeight = edges.get().reduce(function(sum, edge) {
+        return edge.hidden ? sum : sum + Number(edge.weight || 0);
+      }, 0);
+      document.getElementById('counts').textContent = visibleNodes + ' nodes, ' + visibleEdges + ' edges, weight ' + totalWeight.toFixed(1);
     }
 
     function applyFilters(fit) {
       const type = document.getElementById('filter-type').value;
       const relation = document.getElementById('filter-relation').value;
       const query = document.getElementById('search-node').value.trim().toLowerCase();
+      const minWeight = Number(document.getElementById('min-weight').value || 0);
       const coreOnly = document.getElementById('core-only').checked;
       const showEdgeLabels = document.getElementById('show-edge-labels').checked;
+      document.getElementById('weight-value').textContent = String(minWeight);
 
       nodes.forEach(function(node) {
         const typeMatch = type === 'ALL' || node.type === type;
@@ -736,7 +783,8 @@ __RELATION_LEGEND__
         const from = nodes.get(edge.from);
         const to = nodes.get(edge.to);
         const relationMatch = relation === 'ALL' || edge.relation === relation;
-        const visible = from && to && !from.hidden && !to.hidden && relationMatch;
+        const weightMatch = Number(edge.weight || 0) >= minWeight;
+        const visible = from && to && !from.hidden && !to.hidden && relationMatch && weightMatch;
         edges.update({
           id: edge.id,
           hidden: !visible,
@@ -754,25 +802,81 @@ __RELATION_LEGEND__
       document.getElementById('filter-type').value = 'ALL';
       document.getElementById('filter-relation').value = 'ALL';
       document.getElementById('search-node').value = '';
+      document.getElementById('min-weight').value = '0';
       document.getElementById('core-only').checked = false;
       document.getElementById('show-edge-labels').checked = true;
+      document.getElementById('physics-toggle').checked = true;
+      network.setOptions({ physics: { enabled: true } });
+      clearHighlight();
       applyFilters(true);
+    }
+
+    function clearHighlight() {
+      nodes.get().forEach(function(node) {
+        const original = originalNodeStyles.get(node.id) || {};
+        nodes.update({
+          id: node.id,
+          color: original.color,
+          borderWidth: original.borderWidth,
+          size: original.size
+        });
+      });
+    }
+
+    function highlightNeighborhood(nodeId) {
+      clearHighlight();
+      const neighbors = adjacency.get(nodeId) || new Set();
+      nodes.get().forEach(function(node) {
+        const original = originalNodeStyles.get(node.id) || {};
+        if (node.id === nodeId) {
+          nodes.update({ id: node.id, borderWidth: 5, size: Math.max((original.size || node.size), 34) });
+        } else if (neighbors.has(node.id)) {
+          nodes.update({ id: node.id, borderWidth: 3, size: Math.max((original.size || node.size), 24) });
+        } else {
+          nodes.update({ id: node.id, color: { background: '#e7e7e7', border: '#c6c6c6' }, borderWidth: 1 });
+        }
+      });
+    }
+
+    function focusSearch() {
+      const query = document.getElementById('search-node').value.trim().toLowerCase();
+      if (!query) {
+        network.fit({ animation: true });
+        return;
+      }
+      const match = nodes.get().find(function(node) {
+        return !node.hidden && node.label.toLowerCase().includes(query);
+      });
+      if (match) {
+        highlightNeighborhood(match.id);
+        network.focus(match.id, { scale: 1.15, animation: { duration: 350 } });
+      }
     }
 
     network.on('click', function(params) {
       if (params.nodes.length === 1) {
+        highlightNeighborhood(params.nodes[0]);
         network.focus(params.nodes[0], { scale: 1.05, animation: { duration: 350 } });
       } else {
+        clearHighlight();
         network.fit({ animation: true });
       }
     });
 
+    document.getElementById('focus-button').addEventListener('click', focusSearch);
     document.getElementById('reset-button').addEventListener('click', resetView);
     document.getElementById('filter-type').addEventListener('change', function() { applyFilters(true); });
     document.getElementById('filter-relation').addEventListener('change', function() { applyFilters(true); });
-    document.getElementById('search-node').addEventListener('input', function() { applyFilters(true); });
+    document.getElementById('search-node').addEventListener('input', function() { clearHighlight(); applyFilters(true); });
+    document.getElementById('search-node').addEventListener('keydown', function(event) {
+      if (event.key === 'Enter') focusSearch();
+    });
+    document.getElementById('min-weight').addEventListener('input', function() { applyFilters(false); });
     document.getElementById('core-only').addEventListener('change', function() { applyFilters(true); });
     document.getElementById('show-edge-labels').addEventListener('change', function() { applyFilters(false); });
+    document.getElementById('physics-toggle').addEventListener('change', function(event) {
+      network.setOptions({ physics: { enabled: event.target.checked } });
+    });
 
     network.once('stabilizationIterationsDone', function() {
       applyFilters(true);
