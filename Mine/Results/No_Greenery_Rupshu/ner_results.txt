@@ -1,0 +1,2607 @@
+
+=== CHUNK 1 (53.62 KB) ===
+
+──────────
+12:15  (Relevance 0.000 | Confidence 0.500)
+20Hornbill.pdf  (Relevance 0.000 | Confidence 0.500)
+http://creativecommons.org/licenses/by/2.0  (Relevance 0.000 | Confidence 0.500)
+http://www.ncf-india.org/publication/Trivedi%202006%  (Relevance 0.000 | Confidence 0.500)
+http://www.pastoralismjournal.com/content/3/1/16  (Relevance 0.044 | Confidence 0.500)
+navinder.singh@slu.se  (Relevance 0.000 | Confidence 0.500)
+springeropen.com  (Relevance 0.000 | Confidence 0.500)
+
+/architecture/architectural_structure_owner
+──────────
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/architecture/building_complex_function
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+Research  (Relevance 0.107 | Confidence 1.941)
+
+/architecture/building_function
+──────────
+Farm  (Relevance 0.132 | Confidence 1.107)
+Monastery  (Relevance 0.073 | Confidence 4.845)
+Research  (Relevance 0.107 | Confidence 1.941)
+Warehouse  (Relevance 0.110 | Confidence 1.154)
+
+/astronomy/type_of_planetographic_feature
+──────────
+Mountain  (Relevance 0.121 | Confidence 1.852)
+Plain  (Relevance 0.033 | Confidence 1.029)
+Valley  (Relevance 0.089 | Confidence 4.293)
+
+/atom/feed_category
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+
+/aviation/aircraft_manufacturer
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/aviation/aircraft_owner
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/aviation/airport_operator
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/aviation/airport_runway_surface
+──────────
+Grass  (Relevance 0.016 | Confidence 8.007)
+Soil  (Relevance 0.123 | Confidence 14.310)
+
+/award/award_discipline
+──────────
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Anthropology  (Relevance 0.080 | Confidence 1.038)
+Biology  (Relevance 0.000 | Confidence 17.030)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Education  (Relevance 0.164 | Confidence 2.543)
+Innovation  (Relevance 0.240 | Confidence 1.434)
+Nature conservation  (Relevance 0.113 | Confidence 1.716)
+Research  (Relevance 0.107 | Confidence 1.941)
+Sustainable development  (Relevance 0.101 | Confidence 8.787)
+
+/award/award_nominated_work
+──────────
+Page 3  (Relevance 0.012 | Confidence 1.463)
+
+/award/award_nominee
+──────────
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+Kashmir  (Relevance 0.071 | Confidence 3.154)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/award/award_presenting_organization
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/award/award_winner
+──────────
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+NASA  (Relevance 0.157 | Confidence 16.310)
+World Wide Fund for Nature  (Relevance 0.167 | Confidence 1.518)
+
+/award/award_winning_work
+──────────
+Decision-making  (Relevance 0.083 | Confidence 1.061)
+Refugee  (Relevance 0.049 | Confidence 1.500)
+
+/award/hall_of_fame_induction_category
+──────────
+Horse  (Relevance 0.085 | Confidence 12.180)
+
+/award/ranked_item
+──────────
+Budget  (Relevance 0.022 | Confidence 1.034)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/biology/animal
+──────────
+Antelope  (Relevance 0.100 | Confidence 7.859)
+Argali  (Relevance 0.460 | Confidence 1.648)
+Bird  (Relevance 0.123 | Confidence 16.590)
+Cashmere goat  (Relevance 0.213 | Confidence 4.166)
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Fish  (Relevance 0.086 | Confidence 2.267)
+Fox  (Relevance 0.000 | Confidence 1.054)
+Gazelle  (Relevance 0.097 | Confidence 6.215)
+Goat  (Relevance 0.213 | Confidence 5.527)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Leopard  (Relevance 0.255 | Confidence 4.599)
+Oryx  (Relevance 0.095 | Confidence 4.222)
+Panthera  (Relevance 0.171 | Confidence 2.833)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Wild yak  (Relevance 0.311 | Confidence 7.827)
+Wolf  (Relevance 0.297 | Confidence 35.050)
+Yak  (Relevance 0.366 | Confidence 7.470)
+
+/biology/animal_breed
+──────────
+Cashmere goat  (Relevance 0.213 | Confidence 4.166)
+Herding dog  (Relevance 0.199 | Confidence 2.243)
+
+/biology/breed_origin
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Asia  (Relevance 0.350 | Confidence 16.700)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Central Asia  (Relevance 0.604 | Confidence 2.608)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/biology/domesticated_animal
+──────────
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Goat  (Relevance 0.213 | Confidence 5.527)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Yak  (Relevance 0.366 | Confidence 7.470)
+
+/biology/hybrid_parent_classification
+──────────
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Wolf  (Relevance 0.297 | Confidence 35.050)
+
+/biology/informal_biological_grouping
+──────────
+Fish  (Relevance 0.086 | Confidence 2.267)
+
+/biology/organism_classification
+──────────
+Animal  (Relevance 0.111 | Confidence 1.127)
+Antelope  (Relevance 0.100 | Confidence 7.859)
+Argali  (Relevance 0.460 | Confidence 1.648)
+Barley  (Relevance 0.099 | Confidence 11.700)
+Bharal  (Relevance 0.148 | Confidence 9.555)
+Bird  (Relevance 0.123 | Confidence 16.590)
+Bos  (Relevance 0.000 | Confidence 1.467)
+Canis  (Relevance 0.217 | Confidence 3.314)
+Capra (genus)  (Relevance 0.195 | Confidence 2.901)
+Cashmere goat  (Relevance 0.213 | Confidence 4.166)
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Cur  (Relevance 0.015 | Confidence 1.027)
+Cyperaceae  (Relevance 0.036 | Confidence 4.660)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Equus (genus)  (Relevance 0.192 | Confidence 3.746)
+Fauna  (Relevance 0.000 | Confidence 7.886)
+Fish  (Relevance 0.086 | Confidence 2.267)
+Forb  (Relevance 0.064 | Confidence 4.495)
+Forestry  (Relevance 0.126 | Confidence 1.246)
+Fox  (Relevance 0.000 | Confidence 1.054)
+Gazelle  (Relevance 0.097 | Confidence 6.215)
+Goa (antelope)  (Relevance 0.268 | Confidence 2.044)
+Goat  (Relevance 0.213 | Confidence 5.527)
+Herbivore  (Relevance 0.181 | Confidence 17.200)
+Himalayan marmot  (Relevance 0.236 | Confidence 1.611)
+Himalayan wolf  (Relevance 0.378 | Confidence 1.750)
+Hornbill  (Relevance 0.024 | Confidence 2.821)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Ibex  (Relevance 0.108 | Confidence 5.840)
+Kiang  (Relevance 0.197 | Confidence 4.463)
+Leopard  (Relevance 0.255 | Confidence 4.599)
+Marmot  (Relevance 0.185 | Confidence 5.220)
+Oryx  (Relevance 0.095 | Confidence 4.222)
+Ovis  (Relevance 0.141 | Confidence 2.923)
+Panthera  (Relevance 0.171 | Confidence 2.833)
+Plant  (Relevance 0.094 | Confidence 15.850)
+Procapra  (Relevance 0.034 | Confidence 1.914)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Ruminant  (Relevance 0.118 | Confidence 10.260)
+Saiga antelope  (Relevance 0.341 | Confidence 4.791)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Siberian ibex  (Relevance 0.216 | Confidence 1.681)
+Snow leopard  (Relevance 0.347 | Confidence 10.610)
+Species  (Relevance 0.105 | Confidence 10.950)
+Taiga  (Relevance 0.100 | Confidence 1.483)
+Tern  (Relevance 0.063 | Confidence 1.421)
+Tibetan antelope  (Relevance 0.449 | Confidence 9.069)
+Ungulate  (Relevance 0.074 | Confidence 7.653)
+Urial  (Relevance 0.138 | Confidence 9.874)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+Wolf  (Relevance 0.297 | Confidence 35.050)
+Yak  (Relevance 0.366 | Confidence 7.470)
+
+/biology/organism_classification_rank
+──────────
+Species  (Relevance 0.105 | Confidence 10.950)
+
+/biology/plant_disease_host
+──────────
+Barley  (Relevance 0.099 | Confidence 11.700)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+
+/biology/source_organism
+──────────
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+
+/book/author
+──────────
+E. J. Milner-Gulland  (Relevance 0.133 | Confidence 1.472)
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+Taylor & Francis  (Relevance 0.064 | Confidence 4.857)
+
+/book/book_subject
+──────────
+1980s  (Relevance 0.071 | Confidence 0.950)
+Adaptation  (Relevance 0.091 | Confidence 7.691)
+Africa  (Relevance 0.124 | Confidence 20.660)
+Agricultural science  (Relevance 0.029 | Confidence 1.057)
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Animal  (Relevance 0.111 | Confidence 1.127)
+Anthropology  (Relevance 0.080 | Confidence 1.038)
+Arctic  (Relevance 0.000 | Confidence 9.257)
+Asia  (Relevance 0.350 | Confidence 16.700)
+Barley  (Relevance 0.099 | Confidence 11.700)
+Behavior  (Relevance 0.055 | Confidence 0.950)
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+Biodiversity  (Relevance 0.590 | Confidence 23.340)
+Biology  (Relevance 0.000 | Confidence 17.030)
+Bird  (Relevance 0.123 | Confidence 16.590)
+Bird migration  (Relevance 0.215 | Confidence 1.137)
+California  (Relevance 0.102 | Confidence 8.444)
+Camping  (Relevance 0.049 | Confidence 2.845)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Carbon sequestration  (Relevance 0.107 | Confidence 27.990)
+Central Asia  (Relevance 0.604 | Confidence 2.608)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Child  (Relevance 0.141 | Confidence 2.103)
+China  (Relevance 0.138 | Confidence 3.503)
+Climate  (Relevance 0.119 | Confidence 11.020)
+Climate change  (Relevance 0.281 | Confidence 39.760)
+Community  (Relevance 0.072 | Confidence 1.985)
+Competition  (Relevance 0.125 | Confidence 1.210)
+Conservation biology  (Relevance 0.454 | Confidence 1.233)
+Consumption (economics)  (Relevance 0.127 | Confidence 2.704)
+Copyright  (Relevance 0.045 | Confidence 7.606)
+Cost  (Relevance 0.047 | Confidence 2.188)
+Decision-making  (Relevance 0.083 | Confidence 1.061)
+Density  (Relevance 0.151 | Confidence 8.453)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Desert  (Relevance 0.142 | Confidence 9.852)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Drainage basin  (Relevance 0.165 | Confidence 1.739)
+Drought  (Relevance 0.216 | Confidence 11.080)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Economy  (Relevance 0.166 | Confidence 2.235)
+Ecosystem  (Relevance 0.187 | Confidence 25.830)
+Education  (Relevance 0.164 | Confidence 2.543)
+Emigration  (Relevance 0.078 | Confidence 2.649)
+Employment  (Relevance 0.217 | Confidence 6.688)
+Endangered species  (Relevance 0.000 | Confidence 1.834)
+Environmental degradation  (Relevance 0.288 | Confidence 1.910)
+Environmental resource management  (Relevance 0.130 | Confidence 1.354)
+Erosion  (Relevance 0.130 | Confidence 14.510)
+Fen  (Relevance 0.000 | Confidence 3.017)
+Field research  (Relevance 0.070 | Confidence 1.067)
+Fish  (Relevance 0.086 | Confidence 2.267)
+Fishery  (Relevance 0.000 | Confidence 5.642)
+Flora  (Relevance 0.000 | Confidence 1.945)
+Fodder  (Relevance 0.097 | Confidence 8.820)
+Forestry  (Relevance 0.126 | Confidence 1.246)
+Formula  (Relevance 0.067 | Confidence 1.000)
+Generalist and specialist species  (Relevance 0.055 | Confidence 3.453)
+God  (Relevance 0.106 | Confidence 1.198)
+Great Plains  (Relevance 0.127 | Confidence 3.491)
+Grocery store  (Relevance 0.100 | Confidence 0.999)
+Habitat  (Relevance 0.126 | Confidence 16.720)
+Health  (Relevance 0.139 | Confidence 3.218)
+Himalayas  (Relevance 0.371 | Confidence 13.010)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Human resources  (Relevance 0.155 | Confidence 1.838)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+Income  (Relevance 0.204 | Confidence 4.190)
+India  (Relevance 0.302 | Confidence 3.256)
+Infrastructure  (Relevance 0.177 | Confidence 7.972)
+Innovation  (Relevance 0.240 | Confidence 1.434)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Kashmir  (Relevance 0.071 | Confidence 3.154)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Lake  (Relevance 0.135 | Confidence 7.946)
+Land use  (Relevance 0.479 | Confidence 3.232)
+Law  (Relevance 0.078 | Confidence 2.487)
+Leaf  (Relevance 0.288 | Confidence 1.413)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+Livestock  (Relevance 0.797 | Confidence 3.149)
+London  (Relevance 0.064 | Confidence 8.875)
+Management  (Relevance 0.119 | Confidence 1.934)
+Manuscript  (Relevance 0.024 | Confidence 5.193)
+Map  (Relevance 0.174 | Confidence 3.072)
+Measurement  (Relevance 0.024 | Confidence 1.071)
+Millennium  (Relevance 0.000 | Confidence 3.148)
+Morphology (biology)  (Relevance 0.040 | Confidence 9.515)
+Mountain  (Relevance 0.121 | Confidence 1.852)
+NASA  (Relevance 0.157 | Confidence 16.310)
+Natural resource  (Relevance 0.183 | Confidence 10.690)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Nature conservation  (Relevance 0.113 | Confidence 1.716)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Number  (Relevance 0.000 | Confidence 1.342)
+Open access  (Relevance 0.227 | Confidence 3.926)
+Organism  (Relevance 0.364 | Confidence 44.010)
+Pastoralism  (Relevance 0.884 | Confidence 8.538)
+Pasture  (Relevance 0.885 | Confidence 7.687)
+Plant  (Relevance 0.094 | Confidence 15.850)
+Polyandry  (Relevance 0.201 | Confidence 7.180)
+Population  (Relevance 0.101 | Confidence 2.107)
+Population growth  (Relevance 0.097 | Confidence 6.569)
+Predation  (Relevance 0.253 | Confidence 17.560)
+Priest  (Relevance 0.059 | Confidence 3.197)
+Productivity  (Relevance 0.036 | Confidence 2.882)
+Property  (Relevance 0.103 | Confidence 1.387)
+Radar  (Relevance 0.151 | Confidence 6.806)
+Refugee  (Relevance 0.049 | Confidence 1.500)
+Reproduction  (Relevance 0.000 | Confidence 3.245)
+Research  (Relevance 0.107 | Confidence 1.941)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Risk  (Relevance 0.152 | Confidence 1.046)
+Risk management  (Relevance 0.047 | Confidence 4.003)
+Salt  (Relevance 0.084 | Confidence 6.943)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Snow  (Relevance 0.128 | Confidence 6.757)
+Society  (Relevance 0.265 | Confidence 2.320)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Space  (Relevance 0.072 | Confidence 1.046)
+Standard of living  (Relevance 0.073 | Confidence 4.107)
+Stock  (Relevance 0.091 | Confidence 1.478)
+Subsidy  (Relevance 0.180 | Confidence 1.599)
+Sugar  (Relevance 0.045 | Confidence 9.856)
+Sustainable development  (Relevance 0.101 | Confidence 8.787)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Techno  (Relevance 0.073 | Confidence 2.988)
+Temperature  (Relevance 0.119 | Confidence 11.790)
+Thesis  (Relevance 0.138 | Confidence 5.036)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+Tool  (Relevance 0.026 | Confidence 1.009)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+Trade  (Relevance 0.124 | Confidence 1.550)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+Urbanization  (Relevance 0.084 | Confidence 8.143)
+Vegetation  (Relevance 0.132 | Confidence 6.866)
+Veterinary medicine  (Relevance 0.050 | Confidence 0.996)
+War  (Relevance 0.041 | Confidence 2.058)
+Warehouse  (Relevance 0.110 | Confidence 1.154)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Water  (Relevance 0.192 | Confidence 3.374)
+Wealth  (Relevance 0.106 | Confidence 0.988)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+Wilderness  (Relevance 0.121 | Confidence 4.635)
+Wildlife  (Relevance 0.685 | Confidence 8.166)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+Wolf  (Relevance 0.297 | Confidence 35.050)
+Wool  (Relevance 0.099 | Confidence 8.122)
+
+/book/financial_support_provider
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/book/magazine_genre
+──────────
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+
+/book/periodical_publisher
+──────────
+Frontiers Media  (Relevance 0.392 | Confidence 2.116)
+Routledge  (Relevance 0.029 | Confidence 1.866)
+Taylor & Francis  (Relevance 0.064 | Confidence 4.857)
+University of California Press  (Relevance 0.010 | Confidence 4.579)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+
+/book/periodical_subject
+──────────
+Asia  (Relevance 0.350 | Confidence 16.700)
+Biodiversity  (Relevance 0.590 | Confidence 23.340)
+Biology  (Relevance 0.000 | Confidence 17.030)
+Bird  (Relevance 0.123 | Confidence 16.590)
+China  (Relevance 0.138 | Confidence 3.503)
+Copyright  (Relevance 0.045 | Confidence 7.606)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Education  (Relevance 0.164 | Confidence 2.543)
+Employment  (Relevance 0.217 | Confidence 6.688)
+Health  (Relevance 0.139 | Confidence 3.218)
+Law  (Relevance 0.078 | Confidence 2.487)
+Management  (Relevance 0.119 | Confidence 1.934)
+Nature conservation  (Relevance 0.113 | Confidence 1.716)
+Research  (Relevance 0.107 | Confidence 1.941)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+
+/book/publishing_company
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+National Academies Press  (Relevance 0.021 | Confidence 1.856)
+Routledge  (Relevance 0.029 | Confidence 1.866)
+Taylor & Francis  (Relevance 0.064 | Confidence 4.857)
+University of California Press  (Relevance 0.010 | Confidence 4.579)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+
+/book/written_work
+──────────
+Manuscript  (Relevance 0.024 | Confidence 5.193)
+
+/broadcast/content
+──────────
+Wildlife  (Relevance 0.685 | Confidence 8.166)
+
+/broadcast/genre
+──────────
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Animal  (Relevance 0.111 | Confidence 1.127)
+Competition  (Relevance 0.125 | Confidence 1.210)
+Education  (Relevance 0.164 | Confidence 2.543)
+Health  (Relevance 0.139 | Confidence 3.218)
+Law  (Relevance 0.078 | Confidence 2.487)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+Management  (Relevance 0.119 | Confidence 1.934)
+Techno  (Relevance 0.073 | Confidence 2.988)
+
+/broadcast/producer
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/business/asset_owner
+──────────
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/business/brand
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+
+/business/business_location
+──────────
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Denver  (Relevance 0.075 | Confidence 5.185)
+India  (Relevance 0.302 | Confidence 3.256)
+London  (Relevance 0.064 | Confidence 8.875)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/business/business_operation
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+National Academies Press  (Relevance 0.021 | Confidence 1.856)
+Routledge  (Relevance 0.029 | Confidence 1.866)
+Taylor & Francis  (Relevance 0.064 | Confidence 4.857)
+University of California Press  (Relevance 0.010 | Confidence 4.579)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+
+/business/competitive_space
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+Human resources  (Relevance 0.155 | Confidence 1.838)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+
+/business/consumer_product
+──────────
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Plant  (Relevance 0.094 | Confidence 15.850)
+
+/business/customer
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+
+/business/employer
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Delhi University  (Relevance 0.088 | Confidence 8.412)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Frontiers Media  (Relevance 0.392 | Confidence 2.116)
+India  (Relevance 0.302 | Confidence 3.256)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+NASA  (Relevance 0.157 | Confidence 16.310)
+National Academies Press  (Relevance 0.021 | Confidence 1.856)
+Nature Conservation Foundation  (Relevance 0.175 | Confidence 1.643)
+Routledge  (Relevance 0.029 | Confidence 1.866)
+Saurashtra University  (Relevance 0.051 | Confidence 6.153)
+Snow Leopard Trust  (Relevance 0.220 | Confidence 6.879)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+Taylor & Francis  (Relevance 0.064 | Confidence 4.857)
+The Arctic University of Norway  (Relevance 0.337 | Confidence 10.090)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+University of California Press  (Relevance 0.010 | Confidence 4.579)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+World Wide Fund for Nature  (Relevance 0.167 | Confidence 1.518)
+
+/business/industry
+──────────
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Asia  (Relevance 0.350 | Confidence 16.700)
+Education  (Relevance 0.164 | Confidence 2.543)
+Environmental resource management  (Relevance 0.130 | Confidence 1.354)
+Global Positioning System  (Relevance 0.229 | Confidence 11.530)
+Grocery store  (Relevance 0.100 | Confidence 0.999)
+Health  (Relevance 0.139 | Confidence 3.218)
+Human migration  (Relevance 0.141 | Confidence 1.016)
+Human resources  (Relevance 0.155 | Confidence 1.838)
+Infrastructure  (Relevance 0.177 | Confidence 7.972)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Law  (Relevance 0.078 | Confidence 2.487)
+Livestock  (Relevance 0.797 | Confidence 3.149)
+Logistics  (Relevance 0.150 | Confidence 3.781)
+Management  (Relevance 0.119 | Confidence 1.934)
+Plant  (Relevance 0.094 | Confidence 15.850)
+Research  (Relevance 0.107 | Confidence 1.941)
+Risk management  (Relevance 0.047 | Confidence 4.003)
+Sustainability  (Relevance 0.300 | Confidence 2.643)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+Warehouse  (Relevance 0.110 | Confidence 1.154)
+
+/business/job_title
+──────────
+Canada Research Chair  (Relevance 0.016 | Confidence 5.827)
+Ownership  (Relevance 0.086 | Confidence 1.071)
+Sheep farming  (Relevance 0.108 | Confidence 6.443)
+
+/business/product_category
+──────────
+Grass  (Relevance 0.016 | Confidence 8.007)
+Health  (Relevance 0.139 | Confidence 3.218)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Map  (Relevance 0.174 | Confidence 3.072)
+Plant  (Relevance 0.094 | Confidence 15.850)
+Plough  (Relevance 0.107 | Confidence 1.278)
+Stocking  (Relevance 0.008 | Confidence 1.147)
+
+/business/product_ingredient
+──────────
+Salt  (Relevance 0.084 | Confidence 6.943)
+Sugar  (Relevance 0.045 | Confidence 9.856)
+
+/business/product_line
+──────────
+Insurance  (Relevance 0.144 | Confidence 0.952)
+
+/business/product_theme
+──────────
+Sustainable development  (Relevance 0.101 | Confidence 8.787)
+
+/chemistry/chemical_classification
+──────────
+Sugar  (Relevance 0.045 | Confidence 9.856)
+
+/chemistry/chemical_compound
+──────────
+Water  (Relevance 0.192 | Confidence 3.374)
+
+/chemistry/chemical_element
+──────────
+Carbon  (Relevance 0.031 | Confidence 11.010)
+
+/chemistry/molecular_entity
+──────────
+Water  (Relevance 0.192 | Confidence 3.374)
+
+/computer/computing_platform
+──────────
+Command-line interface  (Relevance 0.105 | Confidence 1.854)
+
+/computer/content_license
+──────────
+Copyright  (Relevance 0.045 | Confidence 7.606)
+Open access  (Relevance 0.227 | Confidence 3.926)
+
+/computer/software
+──────────
+ArcGIS  (Relevance 0.054 | Confidence 4.109)
+Kernel (operating system)  (Relevance 0.122 | Confidence 1.010)
+
+/computer/software_developer
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/computer/software_genre
+──────────
+Decision-making  (Relevance 0.083 | Confidence 1.061)
+Kernel (operating system)  (Relevance 0.122 | Confidence 1.010)
+Logistics  (Relevance 0.150 | Confidence 3.781)
+Productivity  (Relevance 0.036 | Confidence 2.882)
+
+/computer/software_license
+──────────
+Copyright  (Relevance 0.045 | Confidence 7.606)
+
+/conferences/conference_subject
+──────────
+Community  (Relevance 0.072 | Confidence 1.985)
+Education  (Relevance 0.164 | Confidence 2.543)
+
+/cvg/computer_game_region
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/cvg/computer_game_subject
+──────────
+Water  (Relevance 0.192 | Confidence 3.374)
+
+/cvg/cvg_genre
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+
+/dataworld/information_source
+──────────
+Management  (Relevance 0.119 | Confidence 1.934)
+
+/distilled_spirits/fermentation_base
+──────────
+Barley  (Relevance 0.099 | Confidence 11.700)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+
+/education/academic
+──────────
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+Law  (Relevance 0.078 | Confidence 2.487)
+
+/education/academic_institution
+──────────
+Research Council of Norway  (Relevance 0.023 | Confidence 8.225)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/education/department
+──────────
+Biology  (Relevance 0.000 | Confidence 17.030)
+Economics  (Relevance 0.013 | Confidence 20.650)
+
+/education/educational_degree
+──────────
+Doctor of Philosophy  (Relevance 0.101 | Confidence 5.507)
+Master of Philosophy  (Relevance 0.088 | Confidence 3.938)
+
+/education/educational_institution
+──────────
+Delhi University  (Relevance 0.088 | Confidence 8.412)
+Saurashtra University  (Relevance 0.051 | Confidence 6.153)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+The Arctic University of Norway  (Relevance 0.337 | Confidence 10.090)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/education/educational_institution_campus
+──────────
+Delhi University  (Relevance 0.088 | Confidence 8.412)
+London  (Relevance 0.064 | Confidence 8.875)
+Saurashtra University  (Relevance 0.051 | Confidence 6.153)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+The Arctic University of Norway  (Relevance 0.337 | Confidence 10.090)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/education/field_of_study
+──────────
+Agricultural science  (Relevance 0.029 | Confidence 1.057)
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Animal husbandry  (Relevance 0.336 | Confidence 9.453)
+Anthropology  (Relevance 0.080 | Confidence 1.038)
+Applied ecology  (Relevance 0.032 | Confidence 1.531)
+Behavior  (Relevance 0.055 | Confidence 0.950)
+Biology  (Relevance 0.000 | Confidence 17.030)
+China  (Relevance 0.138 | Confidence 3.503)
+Conservation biology  (Relevance 0.454 | Confidence 1.233)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Economy  (Relevance 0.166 | Confidence 2.235)
+Education  (Relevance 0.164 | Confidence 2.543)
+Emigration  (Relevance 0.078 | Confidence 2.649)
+Environmental studies  (Relevance 0.023 | Confidence 1.320)
+Forestry  (Relevance 0.126 | Confidence 1.246)
+Health  (Relevance 0.139 | Confidence 3.218)
+Human ecology  (Relevance 0.158 | Confidence 3.413)
+Human resources  (Relevance 0.155 | Confidence 1.838)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+Information  (Relevance 0.000 | Confidence 1.775)
+Innovation  (Relevance 0.240 | Confidence 1.434)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Law  (Relevance 0.078 | Confidence 2.487)
+Logistics  (Relevance 0.150 | Confidence 3.781)
+Management  (Relevance 0.119 | Confidence 1.934)
+Marine biology  (Relevance 0.000 | Confidence 4.169)
+Market economy  (Relevance 0.134 | Confidence 4.539)
+Morphology (biology)  (Relevance 0.040 | Confidence 9.515)
+Natural resource  (Relevance 0.183 | Confidence 10.690)
+Radar  (Relevance 0.151 | Confidence 6.806)
+Refugee  (Relevance 0.049 | Confidence 1.500)
+Research  (Relevance 0.107 | Confidence 1.941)
+Risk management  (Relevance 0.047 | Confidence 4.003)
+Topography  (Relevance 0.303 | Confidence 8.630)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+Vaccination  (Relevance 0.071 | Confidence 3.137)
+Veterinary medicine  (Relevance 0.050 | Confidence 0.996)
+
+/education/honorary_degree_recipient
+──────────
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+
+/education/school_category
+──────────
+Economics  (Relevance 0.013 | Confidence 20.650)
+Management  (Relevance 0.119 | Confidence 1.934)
+Research  (Relevance 0.107 | Confidence 1.941)
+
+/education/school_mascot
+──────────
+Antelope  (Relevance 0.100 | Confidence 7.859)
+
+/education/university
+──────────
+Delhi University  (Relevance 0.088 | Confidence 8.412)
+Saurashtra University  (Relevance 0.051 | Confidence 6.153)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+The Arctic University of Norway  (Relevance 0.337 | Confidence 10.090)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/engineering/material
+──────────
+Soil  (Relevance 0.123 | Confidence 14.310)
+
+/event/disaster_type
+──────────
+Drought  (Relevance 0.216 | Confidence 11.080)
+
+/event/speech_topic
+──────────
+Community  (Relevance 0.072 | Confidence 1.985)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/exhibitions/exhibition_sponsor
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+
+/exhibitions/exhibition_subject
+──────────
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Animal  (Relevance 0.111 | Confidence 1.127)
+Bird  (Relevance 0.123 | Confidence 16.590)
+China  (Relevance 0.138 | Confidence 3.503)
+Health  (Relevance 0.139 | Confidence 3.218)
+Horse  (Relevance 0.085 | Confidence 12.180)
+London  (Relevance 0.064 | Confidence 8.875)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Temperature  (Relevance 0.119 | Confidence 11.790)
+United States  (Relevance 0.088 | Confidence 13.450)
+Vegetation  (Relevance 0.132 | Confidence 6.866)
+Water  (Relevance 0.192 | Confidence 3.374)
+
+/fashion/fiber
+──────────
+Cashmere wool  (Relevance 0.381 | Confidence 5.828)
+Pashmina (material)  (Relevance 0.369 | Confidence 9.415)
+Wool  (Relevance 0.099 | Confidence 8.122)
+
+/fashion/garment
+──────────
+Stocking  (Relevance 0.008 | Confidence 1.147)
+
+/fictional_universe/character_occupation
+──────────
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Priest  (Relevance 0.059 | Confidence 3.197)
+
+/fictional_universe/character_powers
+──────────
+Drought  (Relevance 0.216 | Confidence 11.080)
+
+/fictional_universe/character_rank
+──────────
+Priest  (Relevance 0.059 | Confidence 3.197)
+
+/fictional_universe/character_species
+──────────
+Bird  (Relevance 0.123 | Confidence 16.590)
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Fish  (Relevance 0.086 | Confidence 2.267)
+Fox  (Relevance 0.000 | Confidence 1.054)
+God  (Relevance 0.106 | Confidence 1.198)
+Hornbill  (Relevance 0.024 | Confidence 2.821)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Leopard  (Relevance 0.255 | Confidence 4.599)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Snow leopard  (Relevance 0.347 | Confidence 10.610)
+Wolf  (Relevance 0.297 | Confidence 35.050)
+
+/fictional_universe/fictional_character
+──────────
+Child  (Relevance 0.141 | Confidence 2.103)
+
+/fictional_universe/fictional_organization
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/fictional_universe/fictional_organization_type
+──────────
+Village  (Relevance 0.118 | Confidence 2.177)
+
+/fictional_universe/fictional_setting
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Desert  (Relevance 0.142 | Confidence 9.852)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+London  (Relevance 0.064 | Confidence 8.875)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/fictional_universe/medical_condition_in_fiction
+──────────
+Lupus  (Relevance 0.113 | Confidence 2.611)
+
+/fictional_universe/person_in_fiction
+──────────
+God  (Relevance 0.106 | Confidence 1.198)
+
+/fictional_universe/school_in_fiction
+──────────
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/fictional_universe/type_of_fictional_setting
+──────────
+Desert  (Relevance 0.142 | Confidence 9.852)
+Mountain  (Relevance 0.121 | Confidence 1.852)
+
+/film/actor
+──────────
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+
+/film/film_character
+──────────
+Child  (Relevance 0.141 | Confidence 2.103)
+
+/film/film_genre
+──────────
+Animal  (Relevance 0.111 | Confidence 1.127)
+Education  (Relevance 0.164 | Confidence 2.543)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+Nature  (Relevance 0.172 | Confidence 1.439)
+War  (Relevance 0.041 | Confidence 2.058)
+
+/film/film_location
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Himalayas  (Relevance 0.371 | Confidence 13.010)
+India  (Relevance 0.302 | Confidence 3.256)
+Kashmir  (Relevance 0.071 | Confidence 3.154)
+Ladakh  (Relevance 0.270 | Confidence 13.360)
+London  (Relevance 0.064 | Confidence 8.875)
+Mysore  (Relevance 0.000 | Confidence 3.798)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/film/film_screening_venue
+──────────
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+
+/film/film_subject
+──────────
+Animal husbandry  (Relevance 0.336 | Confidence 9.453)
+Anthropology  (Relevance 0.080 | Confidence 1.038)
+Bird  (Relevance 0.123 | Confidence 16.590)
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+Climate change  (Relevance 0.281 | Confidence 39.760)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economy  (Relevance 0.166 | Confidence 2.235)
+Education  (Relevance 0.164 | Confidence 2.543)
+Endangered species  (Relevance 0.000 | Confidence 1.834)
+Farm  (Relevance 0.132 | Confidence 1.107)
+Fishery  (Relevance 0.000 | Confidence 5.642)
+God  (Relevance 0.106 | Confidence 1.198)
+Himalayas  (Relevance 0.371 | Confidence 13.010)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+India  (Relevance 0.302 | Confidence 3.256)
+Innovation  (Relevance 0.240 | Confidence 1.434)
+Law  (Relevance 0.078 | Confidence 2.487)
+Market economy  (Relevance 0.134 | Confidence 4.539)
+NASA  (Relevance 0.157 | Confidence 16.310)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Nature conservation  (Relevance 0.113 | Confidence 1.716)
+Polyandry  (Relevance 0.201 | Confidence 7.180)
+Resource depletion  (Relevance 0.214 | Confidence 1.007)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+United States  (Relevance 0.088 | Confidence 13.450)
+War  (Relevance 0.041 | Confidence 2.058)
+Wildlife  (Relevance 0.685 | Confidence 8.166)
+
+/food/beer_country_region
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/food/cheese_milk_source
+──────────
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Goat  (Relevance 0.213 | Confidence 5.527)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+
+/food/food
+──────────
+Barley  (Relevance 0.099 | Confidence 11.700)
+Flour  (Relevance 0.033 | Confidence 4.520)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Salt  (Relevance 0.084 | Confidence 6.943)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Sugar  (Relevance 0.045 | Confidence 9.856)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+
+/food/ingredient
+──────────
+Barley  (Relevance 0.099 | Confidence 11.700)
+Flour  (Relevance 0.033 | Confidence 4.520)
+Plant  (Relevance 0.094 | Confidence 15.850)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Salt  (Relevance 0.084 | Confidence 6.943)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Sugar  (Relevance 0.045 | Confidence 9.856)
+Water  (Relevance 0.192 | Confidence 3.374)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+
+/food/nutrient
+──────────
+Sugar  (Relevance 0.045 | Confidence 9.856)
+Water  (Relevance 0.192 | Confidence 3.374)
+
+/games/game_genre
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+
+/geography/body_of_water
+──────────
+Indus River  (Relevance 0.141 | Confidence 6.340)
+Tso Kar  (Relevance 0.619 | Confidence 3.792)
+Tso Moriri  (Relevance 0.317 | Confidence 5.800)
+
+/geography/geographical_feature
+──────────
+Asia  (Relevance 0.350 | Confidence 16.700)
+Himalayas  (Relevance 0.371 | Confidence 13.010)
+Indus River  (Relevance 0.141 | Confidence 6.340)
+Meadow  (Relevance 0.227 | Confidence 3.108)
+Tso Kar  (Relevance 0.619 | Confidence 3.792)
+Tso Moriri  (Relevance 0.317 | Confidence 5.800)
+
+/geography/geographical_feature_category
+──────────
+Desert  (Relevance 0.142 | Confidence 9.852)
+Drainage basin  (Relevance 0.165 | Confidence 1.739)
+Fen  (Relevance 0.000 | Confidence 3.017)
+Foothills  (Relevance 0.000 | Confidence 2.518)
+Grassland  (Relevance 0.196 | Confidence 6.387)
+Lake  (Relevance 0.135 | Confidence 7.946)
+Marsh  (Relevance 0.135 | Confidence 6.454)
+Mountain  (Relevance 0.121 | Confidence 1.852)
+Mountain pass  (Relevance 0.096 | Confidence 1.775)
+Pasture  (Relevance 0.885 | Confidence 7.687)
+Plain  (Relevance 0.033 | Confidence 1.029)
+Plateau  (Relevance 0.073 | Confidence 4.814)
+Savanna  (Relevance 0.184 | Confidence 5.488)
+Steppe  (Relevance 0.063 | Confidence 8.400)
+Valley  (Relevance 0.089 | Confidence 4.293)
+
+/geography/lake
+──────────
+Tso Kar  (Relevance 0.619 | Confidence 3.792)
+Tso Moriri  (Relevance 0.317 | Confidence 5.800)
+
+/geography/lake_type
+──────────
+Fresh water  (Relevance 0.074 | Confidence 9.090)
+Lake  (Relevance 0.135 | Confidence 7.946)
+
+/geography/mountain_range
+──────────
+Himalayas  (Relevance 0.371 | Confidence 13.010)
+
+/geography/mountain_type
+──────────
+Plateau  (Relevance 0.073 | Confidence 4.814)
+
+/geography/river
+──────────
+Indus River  (Relevance 0.141 | Confidence 6.340)
+
+/government/government
+──────────
+India  (Relevance 0.302 | Confidence 3.256)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/government/government_agency
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+NASA  (Relevance 0.157 | Confidence 16.310)
+Research Council of Norway  (Relevance 0.023 | Confidence 8.225)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+
+/government/government_service
+──────────
+Education  (Relevance 0.164 | Confidence 2.543)
+
+/government/governmental_jurisdiction
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Himachal Pradesh  (Relevance 0.149 | Confidence 12.510)
+India  (Relevance 0.302 | Confidence 3.256)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tibetan diaspora  (Relevance 0.093 | Confidence 2.311)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/government/political_district
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/government/political_ideology
+──────────
+Law and order (politics)  (Relevance 0.050 | Confidence 1.022)
+
+/influence/influence_node
+──────────
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+
+/interests/collection_category
+──────────
+Grass  (Relevance 0.016 | Confidence 8.007)
+Plant  (Relevance 0.094 | Confidence 15.850)
+
+/interests/hobby
+──────────
+Camping  (Relevance 0.049 | Confidence 2.845)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+Weaving  (Relevance 0.123 | Confidence 1.162)
+
+/interests/interest
+──────────
+Camping  (Relevance 0.049 | Confidence 2.845)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+Weaving  (Relevance 0.123 | Confidence 1.162)
+
+/internet/blog
+──────────
+Health  (Relevance 0.139 | Confidence 3.218)
+
+/internet/social_network_user
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/internet/website_category
+──────────
+Biology  (Relevance 0.000 | Confidence 17.030)
+Budget  (Relevance 0.022 | Confidence 1.034)
+Community  (Relevance 0.072 | Confidence 1.985)
+Data  (Relevance 0.091 | Confidence 1.732)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Education  (Relevance 0.164 | Confidence 2.543)
+Employment  (Relevance 0.217 | Confidence 6.688)
+Flora  (Relevance 0.000 | Confidence 1.945)
+Grocery store  (Relevance 0.100 | Confidence 0.999)
+Health  (Relevance 0.139 | Confidence 3.218)
+Information  (Relevance 0.000 | Confidence 1.775)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Society  (Relevance 0.265 | Confidence 2.320)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+
+/internet/website_owner
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+Snow Leopard Trust  (Relevance 0.220 | Confidence 6.879)
+Taylor & Francis  (Relevance 0.064 | Confidence 4.857)
+
+/language/human_language
+──────────
+Kashmiri language  (Relevance 0.020 | Confidence 0.959)
+
+/law/court_jurisdiction_area
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+India  (Relevance 0.302 | Confidence 3.256)
+Norway  (Relevance 0.000 | Confidence 16.390)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+
+/law/invention
+──────────
+Global Positioning System  (Relevance 0.229 | Confidence 11.530)
+Map  (Relevance 0.174 | Confidence 3.072)
+Radar  (Relevance 0.151 | Confidence 6.806)
+
+/law/legal_subject
+──────────
+Copyright  (Relevance 0.045 | Confidence 7.606)
+Employment  (Relevance 0.217 | Confidence 6.688)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+
+/location/administrative_division
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Himachal Pradesh  (Relevance 0.149 | Confidence 12.510)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+Jammu division  (Relevance 0.156 | Confidence 1.416)
+Kargil district  (Relevance 0.193 | Confidence 3.397)
+Kashmir  (Relevance 0.071 | Confidence 3.154)
+Lages  (Relevance 0.029 | Confidence 1.960)
+London  (Relevance 0.064 | Confidence 8.875)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+Tromsø  (Relevance 0.095 | Confidence 4.962)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/location/capital_of_administrative_division
+──────────
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Jammu  (Relevance 0.057 | Confidence 2.520)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+
+/location/citytown
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+Chanco, Chile  (Relevance 0.000 | Confidence 1.905)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Jammu  (Relevance 0.057 | Confidence 2.520)
+Karzok  (Relevance 0.116 | Confidence 2.599)
+Lages  (Relevance 0.029 | Confidence 1.960)
+Leh  (Relevance 0.142 | Confidence 2.352)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+Mysore  (Relevance 0.000 | Confidence 3.798)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Nyoma  (Relevance 0.145 | Confidence 4.052)
+Pasto, Colombia  (Relevance 0.035 | Confidence 2.289)
+Rajkot  (Relevance 0.088 | Confidence 2.604)
+The Pas  (Relevance 0.016 | Confidence 1.764)
+Tromsø  (Relevance 0.095 | Confidence 4.962)
+Umeå  (Relevance 0.111 | Confidence 5.269)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Ås, Akershus  (Relevance 0.055 | Confidence 1.357)
+
+/location/cn_autonomous_region
+──────────
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+
+/location/continent
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Asia  (Relevance 0.350 | Confidence 16.700)
+
+/location/country
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+Dian kingdom  (Relevance 0.051 | Confidence 1.173)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/location/dated_location
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chanco, Chile  (Relevance 0.000 | Confidence 1.905)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Goba (woreda)  (Relevance 0.061 | Confidence 2.464)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Himachal Pradesh  (Relevance 0.149 | Confidence 12.510)
+India  (Relevance 0.302 | Confidence 3.256)
+Jammu  (Relevance 0.057 | Confidence 2.520)
+Jammu and Kashmir (princely state)  (Relevance 0.024 | Confidence 2.426)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+Jammu and Kashmir (union territory)  (Relevance 0.328 | Confidence 12.680)
+Jammu division  (Relevance 0.156 | Confidence 1.416)
+Kargil district  (Relevance 0.193 | Confidence 3.397)
+Karzok  (Relevance 0.116 | Confidence 2.599)
+Kashmir  (Relevance 0.071 | Confidence 3.154)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Lages  (Relevance 0.029 | Confidence 1.960)
+Leh  (Relevance 0.142 | Confidence 2.352)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+Mysore  (Relevance 0.000 | Confidence 3.798)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Nyoma  (Relevance 0.145 | Confidence 4.052)
+Pasto, Colombia  (Relevance 0.035 | Confidence 2.289)
+Rajkot  (Relevance 0.088 | Confidence 2.604)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+The Pas  (Relevance 0.016 | Confidence 1.764)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+Tromsø  (Relevance 0.095 | Confidence 4.962)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+Umeå  (Relevance 0.111 | Confidence 5.269)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+Ås, Akershus  (Relevance 0.055 | Confidence 1.357)
+
+/location/hud_county_place
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/location/hud_foreclosure_area
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/location/in_city
+──────────
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Jammu  (Relevance 0.057 | Confidence 2.520)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+
+/location/in_district
+──────────
+Jammu division  (Relevance 0.156 | Confidence 1.416)
+Kargil district  (Relevance 0.193 | Confidence 3.397)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+
+/location/in_state
+──────────
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Himachal Pradesh  (Relevance 0.149 | Confidence 12.510)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+
+/location/in_union_territory
+──────────
+Delhi  (Relevance 0.063 | Confidence 5.527)
+
+/location/location
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Arctic  (Relevance 0.000 | Confidence 9.257)
+Asia  (Relevance 0.350 | Confidence 16.700)
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Central  (Relevance 0.000 | Confidence 0.500)
+Central Asia  (Relevance 0.604 | Confidence 2.608)
+Chanco, Chile  (Relevance 0.000 | Confidence 1.905)
+Chang Tanh  (Relevance 0.000 | Confidence 0.500)
+Changtang  (Relevance 0.451 | Confidence 10.230)
+Changthang Wildlife Sanctu  (Relevance 0.000 | Confidence 0.500)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Chinese Tibet  (Relevance 0.358 | Confidence 0.500)
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Delhi University  (Relevance 0.088 | Confidence 8.412)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Goba (woreda)  (Relevance 0.061 | Confidence 2.464)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Great Plains  (Relevance 0.127 | Confidence 3.491)
+Himachal Pradesh  (Relevance 0.149 | Confidence 12.510)
+Himalayas  (Relevance 0.371 | Confidence 13.010)
+IV Cross  (Relevance 0.000 | Confidence 0.500)
+India  (Relevance 0.302 | Confidence 3.256)
+Indian Changthang  (Relevance 0.000 | Confidence 0.500)
+Indo-Tibetan  (Relevance 0.000 | Confidence 0.500)
+Indus River  (Relevance 0.141 | Confidence 6.340)
+Jammu  (Relevance 0.057 | Confidence 2.520)
+Jammu and Kashmir (princely state)  (Relevance 0.024 | Confidence 2.426)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+Jammu and Kashmir (union territory)  (Relevance 0.328 | Confidence 12.680)
+Jammu division  (Relevance 0.156 | Confidence 1.416)
+Kar basin  (Relevance 0.000 | Confidence 0.500)
+Kargil district  (Relevance 0.193 | Confidence 3.397)
+Karzok  (Relevance 0.116 | Confidence 2.599)
+Kashmir  (Relevance 0.071 | Confidence 3.154)
+Kathiawar  (Relevance 0.039 | Confidence 2.506)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Ladakh  (Relevance 0.270 | Confidence 13.360)
+Ladakh Himalaya  (Relevance 0.000 | Confidence 0.500)
+Ladakh region  (Relevance 0.000 | Confidence 0.500)
+Ladakh trans-Himalaya  (Relevance 0.000 | Confidence 0.500)
+Lages  (Relevance 0.029 | Confidence 1.960)
+Leh  (Relevance 0.142 | Confidence 2.352)
+London  (Relevance 0.064 | Confidence 8.875)
+Madison  (Relevance 0.000 | Confidence 0.500)
+Meadow  (Relevance 0.227 | Confidence 3.108)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+Mysore  (Relevance 0.000 | Confidence 3.798)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+North-West India  (Relevance 0.000 | Confidence 0.500)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Nuruchen River  (Relevance 0.000 | Confidence 0.500)
+Nyoma  (Relevance 0.145 | Confidence 4.052)
+Pasto, Colombia  (Relevance 0.035 | Confidence 2.289)
+Rajkot  (Relevance 0.088 | Confidence 2.604)
+Rupshu  (Relevance 0.276 | Confidence 6.705)
+Rupshu-Kharnak  (Relevance 0.000 | Confidence 0.500)
+Rupshupa  (Relevance 0.000 | Confidence 0.500)
+Samad  (Relevance 0.000 | Confidence 0.500)
+Saurashtra University  (Relevance 0.051 | Confidence 6.153)
+Skagjung  (Relevance 0.000 | Confidence 0.500)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Spiti  (Relevance 0.255 | Confidence 4.873)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+Taklang la  (Relevance 0.000 | Confidence 0.500)
+Taklangla  (Relevance 0.000 | Confidence 0.500)
+The Arctic University of Norway  (Relevance 0.337 | Confidence 10.090)
+The Pas  (Relevance 0.016 | Confidence 1.764)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+Tibetan Plateau  (Relevance 0.209 | Confidence 27.880)
+Tibetan diaspora  (Relevance 0.093 | Confidence 2.311)
+Tibetan steppe  (Relevance 0.000 | Confidence 0.500)
+Trans  (Relevance 0.000 | Confidence 0.500)
+Tromsø  (Relevance 0.095 | Confidence 4.962)
+Tsatapuk  (Relevance 0.000 | Confidence 0.500)
+Tso Kar  (Relevance 0.619 | Confidence 3.792)
+Tso Kar basin  (Relevance 0.000 | Confidence 0.500)
+Tso Moriri  (Relevance 0.317 | Confidence 5.800)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+Umeå  (Relevance 0.111 | Confidence 5.269)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+ders  (Relevance 0.000 | Confidence 0.500)
+eastern Ladakh , India  (Relevance 0.000 | Confidence 0.500)
+region  (Relevance 0.000 | Confidence 0.500)
+Ås, Akershus  (Relevance 0.055 | Confidence 1.357)
+
+/location/metropolitan_area_anchor
+──────────
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/location/offical_symbol_variety
+──────────
+Horse  (Relevance 0.085 | Confidence 12.180)
+
+/location/place_with_neighborhoods
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+Denver  (Relevance 0.075 | Confidence 5.185)
+London  (Relevance 0.064 | Confidence 8.875)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/location/region
+──────────
+Asia  (Relevance 0.350 | Confidence 16.700)
+Great Plains  (Relevance 0.127 | Confidence 3.491)
+
+/location/statistical_region
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Asia  (Relevance 0.350 | Confidence 16.700)
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chanco, Chile  (Relevance 0.000 | Confidence 1.905)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Goba (woreda)  (Relevance 0.061 | Confidence 2.464)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Himachal Pradesh  (Relevance 0.149 | Confidence 12.510)
+India  (Relevance 0.302 | Confidence 3.256)
+Jammu  (Relevance 0.057 | Confidence 2.520)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+Jammu and Kashmir (union territory)  (Relevance 0.328 | Confidence 12.680)
+Jammu division  (Relevance 0.156 | Confidence 1.416)
+Kargil district  (Relevance 0.193 | Confidence 3.397)
+Karzok  (Relevance 0.116 | Confidence 2.599)
+Kashmir  (Relevance 0.071 | Confidence 3.154)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Ladakh  (Relevance 0.270 | Confidence 13.360)
+Lages  (Relevance 0.029 | Confidence 1.960)
+Leh  (Relevance 0.142 | Confidence 2.352)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+Mysore  (Relevance 0.000 | Confidence 3.798)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Nyoma  (Relevance 0.145 | Confidence 4.052)
+Pasto, Colombia  (Relevance 0.035 | Confidence 2.289)
+Rajkot  (Relevance 0.088 | Confidence 2.604)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+The Pas  (Relevance 0.016 | Confidence 1.764)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+Tromsø  (Relevance 0.095 | Confidence 4.962)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+Umeå  (Relevance 0.111 | Confidence 5.269)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+Ås, Akershus  (Relevance 0.055 | Confidence 1.357)
+
+/location/uk_statistical_location
+──────────
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+
+/location/us_county
+──────────
+Denver  (Relevance 0.075 | Confidence 5.185)
+
+/location/us_federal_district
+──────────
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/location/us_state
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/measurement_unit/common_dimension
+──────────
+Density  (Relevance 0.151 | Confidence 8.453)
+Pressure  (Relevance 0.122 | Confidence 2.346)
+Temperature  (Relevance 0.119 | Confidence 11.790)
+Volume  (Relevance 0.073 | Confidence 1.198)
+
+/measurement_unit/dimension
+──────────
+Density  (Relevance 0.151 | Confidence 8.453)
+Pressure  (Relevance 0.122 | Confidence 2.346)
+Ratio  (Relevance 0.071 | Confidence 1.148)
+Temperature  (Relevance 0.119 | Confidence 11.790)
+Volume  (Relevance 0.073 | Confidence 1.198)
+
+/measurement_unit/time_unit
+──────────
+Millennium  (Relevance 0.000 | Confidence 3.148)
+
+/media_common/literary_genre
+──────────
+Biology  (Relevance 0.000 | Confidence 17.030)
+Conservation biology  (Relevance 0.454 | Confidence 1.233)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Economy  (Relevance 0.166 | Confidence 2.235)
+Education  (Relevance 0.164 | Confidence 2.543)
+Health  (Relevance 0.139 | Confidence 3.218)
+Law  (Relevance 0.078 | Confidence 2.487)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+Marine biology  (Relevance 0.000 | Confidence 4.169)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Sustainability  (Relevance 0.300 | Confidence 2.643)
+Thesis  (Relevance 0.138 | Confidence 5.036)
+War  (Relevance 0.041 | Confidence 2.058)
+
+/media_common/media_genre
+──────────
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Animal  (Relevance 0.111 | Confidence 1.127)
+Biology  (Relevance 0.000 | Confidence 17.030)
+Competition  (Relevance 0.125 | Confidence 1.210)
+Conservation biology  (Relevance 0.454 | Confidence 1.233)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Economy  (Relevance 0.166 | Confidence 2.235)
+Education  (Relevance 0.164 | Confidence 2.543)
+Health  (Relevance 0.139 | Confidence 3.218)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Law  (Relevance 0.078 | Confidence 2.487)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+Marine biology  (Relevance 0.000 | Confidence 4.169)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Sustainability  (Relevance 0.300 | Confidence 2.643)
+Thesis  (Relevance 0.138 | Confidence 5.036)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+War  (Relevance 0.041 | Confidence 2.058)
+
+/media_common/media_genre_equivalent_topic
+──────────
+Law  (Relevance 0.078 | Confidence 2.487)
+War  (Relevance 0.041 | Confidence 2.058)
+
+/media_common/netflix_genre
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+China  (Relevance 0.138 | Confidence 3.503)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+India  (Relevance 0.302 | Confidence 3.256)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+
+/media_common/quotation
+──────────
+India  (Relevance 0.302 | Confidence 3.256)
+
+/media_common/quotation_addressee
+──────────
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/media_common/quotation_subject
+──────────
+Animal  (Relevance 0.111 | Confidence 1.127)
+Behavior  (Relevance 0.055 | Confidence 0.950)
+Community  (Relevance 0.072 | Confidence 1.985)
+Competition (biology)  (Relevance 0.225 | Confidence 2.478)
+Cost  (Relevance 0.047 | Confidence 2.188)
+Desert  (Relevance 0.142 | Confidence 9.852)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Education  (Relevance 0.164 | Confidence 2.543)
+Fish  (Relevance 0.086 | Confidence 2.267)
+Health  (Relevance 0.139 | Confidence 3.218)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+Income  (Relevance 0.204 | Confidence 4.190)
+Information  (Relevance 0.000 | Confidence 1.775)
+Innovation  (Relevance 0.240 | Confidence 1.434)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Law  (Relevance 0.078 | Confidence 2.487)
+London  (Relevance 0.064 | Confidence 8.875)
+Management  (Relevance 0.119 | Confidence 1.934)
+Mountain  (Relevance 0.121 | Confidence 1.852)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Ownership  (Relevance 0.086 | Confidence 1.071)
+Policy  (Relevance 0.363 | Confidence 1.076)
+Population  (Relevance 0.101 | Confidence 2.107)
+Property  (Relevance 0.103 | Confidence 1.387)
+Reproduction  (Relevance 0.000 | Confidence 3.245)
+Research  (Relevance 0.107 | Confidence 1.941)
+Risk  (Relevance 0.152 | Confidence 1.046)
+Society  (Relevance 0.265 | Confidence 2.320)
+Space  (Relevance 0.072 | Confidence 1.046)
+Sustainability  (Relevance 0.300 | Confidence 2.643)
+Tool  (Relevance 0.026 | Confidence 1.009)
+Trade  (Relevance 0.124 | Confidence 1.550)
+Uncertainty  (Relevance 0.181 | Confidence 2.555)
+Understanding  (Relevance 0.042 | Confidence 1.000)
+United States  (Relevance 0.088 | Confidence 13.450)
+War  (Relevance 0.041 | Confidence 2.058)
+Wealth  (Relevance 0.106 | Confidence 0.988)
+Wilderness  (Relevance 0.121 | Confidence 4.635)
+
+/medicine/cancer_center_constituent
+──────────
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+
+/medicine/disease
+──────────
+Lupus  (Relevance 0.113 | Confidence 2.611)
+
+/medicine/disease_cause
+──────────
+Lupus  (Relevance 0.113 | Confidence 2.611)
+Pressure  (Relevance 0.122 | Confidence 2.346)
+
+/medicine/drug_ingredient
+──────────
+Barley  (Relevance 0.099 | Confidence 11.700)
+Kerosene  (Relevance 0.048 | Confidence 4.032)
+Rice  (Relevance 0.104 | Confidence 11.280)
+Water  (Relevance 0.192 | Confidence 3.374)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+
+/medicine/icd_9_cm_classification
+──────────
+Lupus  (Relevance 0.113 | Confidence 2.611)
+
+/medicine/risk_factor
+──────────
+Child  (Relevance 0.141 | Confidence 2.103)
+Lupus  (Relevance 0.113 | Confidence 2.611)
+
+/meteorology/cyclone_affected_area
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/military/military_combatant
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/military/military_post
+──────────
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/military/military_unit_place_of_origin
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+Norway  (Relevance 0.000 | Confidence 16.390)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/music/genre
+──────────
+Techno  (Relevance 0.073 | Confidence 2.988)
+
+/music/performance_role
+──────────
+Ownership  (Relevance 0.086 | Confidence 1.071)
+
+/olympics/olympic_bidding_city
+──────────
+Chicago  (Relevance 0.066 | Confidence 12.840)
+London  (Relevance 0.064 | Confidence 8.875)
+
+/olympics/olympic_host_city
+──────────
+London  (Relevance 0.064 | Confidence 8.875)
+
+/olympics/olympic_participating_country
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/olympics/olympic_venue
+──────────
+London  (Relevance 0.064 | Confidence 8.875)
+
+/organization/club_interest
+──────────
+Camping  (Relevance 0.049 | Confidence 2.845)
+
+/organization/contact_category
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Education  (Relevance 0.164 | Confidence 2.543)
+Employment  (Relevance 0.217 | Confidence 6.688)
+Information  (Relevance 0.000 | Confidence 1.775)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Law  (Relevance 0.078 | Confidence 2.487)
+Logistics  (Relevance 0.150 | Confidence 3.781)
+London  (Relevance 0.064 | Confidence 8.875)
+Ownership  (Relevance 0.086 | Confidence 1.071)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/organization/endowed_organization
+──────────
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+
+/organization/membership_organization
+──────────
+Society for Range Management  (Relevance 0.159 | Confidence 1.941)
+
+/organization/non_profit_organization
+──────────
+Frontiers Media  (Relevance 0.392 | Confidence 2.116)
+Snow Leopard Trust  (Relevance 0.220 | Confidence 6.879)
+Society for Range Management  (Relevance 0.159 | Confidence 1.941)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+World Wide Fund for Nature  (Relevance 0.167 | Confidence 1.518)
+
+/organization/organization
+──────────
+2Nature Conservation Foundation  (Relevance 0.272 | Confidence 0.500)
+4Canada  (Relevance 0.000 | Confidence 0.500)
+Animal Feed Science and Technology  (Relevance 0.000 | Confidence 0.500)
+Cooperrider  (Relevance 0.000 | Confidence 0.500)
+Delhi University  (Relevance 0.088 | Confidence 8.412)
+Departments of Wildlife  (Relevance 0.000 | Confidence 0.500)
+Development Institute  (Relevance 0.000 | Confidence 0.500)
+Faculty  (Relevance 0.000 | Confidence 0.500)
+Faculty of Biosciences , Fisheries  (Relevance 0.063 | Confidence 0.500)
+Frontiers Media  (Relevance 0.392 | Confidence 2.116)
+Gokulam Park  (Relevance 0.097 | Confidence 1.706)
+Husbandry and Animal Husbandry Departments  (Relevance 0.000 | Confidence 0.500)
+Indian army  (Relevance 0.000 | Confidence 0.500)
+International Journal of Sustainable Development & World  (Relevance 0.000 | Confidence 0.500)
+Jammu and Kashmir State government  (Relevance 0.000 | Confidence 0.500)
+Journal of Applied Ecology  (Relevance 0.000 | Confidence 0.500)
+NASA  (Relevance 0.157 | Confidence 16.310)
+NGY  (Relevance 0.000 | Confidence 0.500)
+NJS  (Relevance 0.000 | Confidence 0.500)
+National Academies Press  (Relevance 0.021 | Confidence 1.856)
+Nature Conservation Foundation  (Relevance 0.175 | Confidence 1.643)
+Næss  (Relevance 0.000 | Confidence 0.500)
+Political Weekly  (Relevance 0.000 | Confidence 0.500)
+Protection and Sheep Husbandry  (Relevance 0.000 | Confidence 0.500)
+Public Distribution System (India)  (Relevance 0.205 | Confidence 3.694)
+Research Council of Norway  (Relevance 0.023 | Confidence 8.225)
+Routledge  (Relevance 0.029 | Confidence 1.866)
+Rufford Foundation  (Relevance 0.018 | Confidence 5.350)
+SLT  (Relevance 0.000 | Confidence 0.500)
+Saurashtra University  (Relevance 0.051 | Confidence 6.153)
+Sheep Husbandry Department  (Relevance 0.000 | Confidence 0.500)
+Sheep and Animal Husbandry  (Relevance 0.000 | Confidence 0.500)
+Snow Leopard Trust  (Relevance 0.220 | Confidence 6.879)
+Society for Range Management  (Relevance 0.159 | Confidence 1.941)
+Swedish University of Agricultural Sciences  (Relevance 0.058 | Confidence 8.505)
+Taylor & Francis  (Relevance 0.064 | Confidence 4.857)
+The Arctic University of Norway  (Relevance 0.337 | Confidence 10.090)
+Tso  (Relevance 0.000 | Confidence 0.500)
+University of  (Relevance 0.000 | Confidence 0.500)
+University of California Press  (Relevance 0.010 | Confidence 4.579)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+University of Delhi , India  (Relevance 0.000 | Confidence 0.500)
+University of Norway  (Relevance 0.000 | Confidence 0.500)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+Wisconsin Press  (Relevance 0.000 | Confidence 0.500)
+World Wide Fund for Nature  (Relevance 0.167 | Confidence 1.518)
+YVB  (Relevance 0.000 | Confidence 0.500)
+labour  (Relevance 0.000 | Confidence 0.500)
+of Arctic and Marine Biology  (Relevance 0.243 | Confidence 0.500)
+of Wildlife , Fish , and Environmental Studies  (Relevance 0.000 | Confidence 0.500)
+the Creative Commons  (Relevance 0.000 | Confidence 0.500)
+tion Foundation  (Relevance 0.000 | Confidence 0.500)
+weavers  (Relevance 0.000 | Confidence 0.500)
+
+/organization/organization_founder
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+
+/organization/organization_member
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+University of Chicago  (Relevance 0.048 | Confidence 10.420)
+
+/organization/organization_scope
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Asia  (Relevance 0.350 | Confidence 16.700)
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Central Asia  (Relevance 0.604 | Confidence 2.608)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Himalayas  (Relevance 0.371 | Confidence 13.010)
+India  (Relevance 0.302 | Confidence 3.256)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/organization/organization_sector
+──────────
+Agricultural science  (Relevance 0.029 | Confidence 1.057)
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Anthropology  (Relevance 0.080 | Confidence 1.038)
+Community  (Relevance 0.072 | Confidence 1.985)
+Conservation biology  (Relevance 0.454 | Confidence 1.233)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Ecology  (Relevance 0.000 | Confidence 18.340)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Education  (Relevance 0.164 | Confidence 2.543)
+Employment  (Relevance 0.217 | Confidence 6.688)
+Environmental resource management  (Relevance 0.130 | Confidence 1.354)
+Evaluation  (Relevance 0.037 | Confidence 0.966)
+Forestry  (Relevance 0.126 | Confidence 1.246)
+Health  (Relevance 0.139 | Confidence 3.218)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Human resources  (Relevance 0.155 | Confidence 1.838)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+India  (Relevance 0.302 | Confidence 3.256)
+Infrastructure  (Relevance 0.177 | Confidence 7.972)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Law  (Relevance 0.078 | Confidence 2.487)
+Logistics  (Relevance 0.150 | Confidence 3.781)
+Management  (Relevance 0.119 | Confidence 1.934)
+Nature conservation  (Relevance 0.113 | Confidence 1.716)
+Plant  (Relevance 0.094 | Confidence 15.850)
+Research  (Relevance 0.107 | Confidence 1.941)
+Risk management  (Relevance 0.047 | Confidence 4.003)
+Sustainability  (Relevance 0.300 | Confidence 2.643)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+Trade  (Relevance 0.124 | Confidence 1.550)
+United States  (Relevance 0.088 | Confidence 13.450)
+Warehouse  (Relevance 0.110 | Confidence 1.154)
+
+/organization/organization_type
+──────────
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Community  (Relevance 0.072 | Confidence 1.985)
+Education  (Relevance 0.164 | Confidence 2.543)
+Health  (Relevance 0.139 | Confidence 3.218)
+Insurance  (Relevance 0.144 | Confidence 0.952)
+Research  (Relevance 0.107 | Confidence 1.941)
+Society  (Relevance 0.265 | Confidence 2.320)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+
+/organization/role
+──────────
+Management  (Relevance 0.119 | Confidence 1.934)
+Ownership  (Relevance 0.086 | Confidence 1.071)
+Property  (Relevance 0.103 | Confidence 1.387)
+
+/people/cause_of_death
+──────────
+Lupus  (Relevance 0.113 | Confidence 2.611)
+War  (Relevance 0.041 | Confidence 2.058)
+
+/people/chinese_ethnic_group
+──────────
+Tibetans  (Relevance 0.172 | Confidence 1.011)
+
+/people/ethnicity
+──────────
+Ammon  (Relevance 0.071 | Confidence 2.924)
+Changpa  (Relevance 0.211 | Confidence 6.889)
+Nomad  (Relevance 0.634 | Confidence 1.935)
+Tibetans  (Relevance 0.172 | Confidence 1.011)
+
+/people/group
+──────────
+Law  (Relevance 0.078 | Confidence 2.487)
+
+/people/person
+──────────
+A Wilkes  (Relevance 0.000 | Confidence 0.500)
+AA Lushchekina  (Relevance 0.000 | Confidence 0.500)
+AB Bekenov  (Relevance 0.000 | Confidence 0.500)
+AL Goetsch  (Relevance 0.000 | Confidence 0.500)
+AY Cooperrider  (Relevance 0.000 | Confidence 0.500)
+Ahmed  (Relevance 0.000 | Confidence 0.500)
+Ahmed , M.  (Relevance 0.000 | Confidence 0.500)
+Aishworya Shrestha  (Relevance 0.032 | Confidence 1.580)
+Amgalan  (Relevance 0.000 | Confidence 0.500)
+Animuta  (Relevance 0.000 | Confidence 0.500)
+Apori  (Relevance 0.000 | Confidence 0.500)
+Bagchi  (Relevance 0.000 | Confidence 0.500)
+Bauer  (Relevance 0.000 | Confidence 0.500)
+Bauer , K.  (Relevance 0.000 | Confidence 0.500)
+Beall  (Relevance 0.000 | Confidence 0.500)
+Behnke  (Relevance 0.089 | Confidence 0.500)
+Bhatnagar  (Relevance 0.038 | Confidence 0.500)
+Bhishen Singh Mahendra Pal Singh  (Relevance 0.000 | Confidence 0.500)
+Briske  (Relevance 0.000 | Confidence 0.500)
+Briske and Richards  (Relevance 0.000 | Confidence 0.500)
+Bukreeva  (Relevance 0.000 | Confidence 0.500)
+C Beall  (Relevance 0.000 | Confidence 0.500)
+C Kerven  (Relevance 0.000 | Confidence 0.500)
+C Mishra  (Relevance 0.000 | Confidence 0.500)
+CR Krehbiel  (Relevance 0.000 | Confidence 0.500)
+Chaudhri  (Relevance 0.000 | Confidence 0.500)
+Chaudhuri  (Relevance 0.000 | Confidence 0.500)
+Chaudhuri , A.  (Relevance 0.000 | Confidence 0.500)
+Cole  (Relevance 0.000 | Confidence 0.500)
+DJ Bedunah  (Relevance 0.000 | Confidence 0.500)
+E. J. Milner-Gulland  (Relevance 0.133 | Confidence 1.472)
+E. O. Wilson  (Relevance 0.118 | Confidence 2.700)
+EJ Milner-Gulland  (Relevance 0.000 | Confidence 0.500)
+ER Orskov  (Relevance 0.000 | Confidence 0.500)
+Ellis  (Relevance 0.000 | Confidence 0.500)
+Ellis and Lee  (Relevance 0.083 | Confidence 0.500)
+FB Castro  (Relevance 0.000 | Confidence 0.500)
+G Detweiler  (Relevance 0.000 | Confidence 0.500)
+GB Schaller  (Relevance 0.000 | Confidence 0.500)
+GE Aiken  (Relevance 0.000 | Confidence 0.500)
+Goldstein  (Relevance 0.000 | Confidence 0.500)
+Goodall  (Relevance 0.000 | Confidence 0.500)
+HHT Prins  (Relevance 0.000 | Confidence 0.500)
+Hagalia  (Relevance 0.000 | Confidence 0.500)
+Hagalia , W.  (Relevance 0.000 | Confidence 0.500)
+I Grachev  (Relevance 0.000 | Confidence 0.500)
+I Scoones  (Relevance 0.000 | Confidence 0.500)
+IMA Heitkonig  (Relevance 0.000 | Confidence 0.500)
+JH Richards  (Relevance 0.000 | Confidence 0.500)
+JL Fox  (Relevance 0.000 | Confidence 0.500)
+Joseph L Fox1  (Relevance 0.000 | Confidence 0.500)
+K Dhondup  (Relevance 0.000 | Confidence 0.500)
+KG Saxana  (Relevance 0.000 | Confidence 0.500)
+KH Hodder  (Relevance 0.000 | Confidence 0.500)
+Kenward  (Relevance 0.000 | Confidence 0.500)
+Kerven , C  (Relevance 0.000 | Confidence 0.500)
+Khazanov  (Relevance 0.000 | Confidence 0.500)
+Khazanov , A.  (Relevance 0.000 | Confidence 0.500)
+LJ Dawson  (Relevance 0.000 | Confidence 0.500)
+Liang  (Relevance 0.000 | Confidence 0.500)
+Long  (Relevance 0.000 | Confidence 0.500)
+M Eriksson  (Relevance 0.000 | Confidence 0.500)
+MV Kholodova  (Relevance 0.000 | Confidence 0.500)
+Manju Sharma  (Relevance 0.000 | Confidence 0.500)
+Merkel  (Relevance 0.000 | Confidence 0.500)
+Miller  (Relevance 0.000 | Confidence 0.500)
+Milner-Gulland  (Relevance 0.217 | Confidence 0.500)
+Mishra  (Relevance 0.029 | Confidence 0.500)
+NJ Singh  (Relevance 0.000 | Confidence 0.500)
+Namgail  (Relevance 0.125 | Confidence 0.500)
+Navinder J Singh1  (Relevance 0.007 | Confidence 0.500)
+Nicolas Lecomte4  (Relevance 0.000 | Confidence 0.500)
+Nigel G Yoccoz1  (Relevance 0.000 | Confidence 0.500)
+Noss  (Relevance 0.000 | Confidence 0.500)
+P Ketner  (Relevance 0.000 | Confidence 0.500)
+R Lee  (Relevance 0.000 | Confidence 0.500)
+R Puchala  (Relevance 0.000 | Confidence 0.500)
+R Wangchuk  (Relevance 0.000 | Confidence 0.500)
+RE Grumbine  (Relevance 0.000 | Confidence 0.500)
+RH Behnke  (Relevance 0.000 | Confidence 0.500)
+RT Clarke  (Relevance 0.000 | Confidence 0.500)
+Raghavan  (Relevance 0.000 | Confidence 0.500)
+Raghavan , B.  (Relevance 0.000 | Confidence 0.500)
+Risser  (Relevance 0.000 | Confidence 0.500)
+Ritchie  (Relevance 0.000 | Confidence 0.500)
+Robinson  (Relevance 0.000 | Confidence 0.500)
+Robinson and Milner-Gulland  (Relevance 0.107 | Confidence 0.500)
+Roy Behnke  (Relevance 0.000 | Confidence 0.500)
+Sabharwal  (Relevance 0.000 | Confidence 0.500)
+Sabharwal , A.  (Relevance 0.000 | Confidence 0.500)
+Saurabh Bagchi  (Relevance 0.045 | Confidence 1.955)
+Schaller  (Relevance 0.000 | Confidence 0.500)
+Scoones  (Relevance 0.093 | Confidence 0.500)
+Singh  (Relevance 0.607 | Confidence 0.500)
+Singh , N.  (Relevance 0.000 | Confidence 0.500)
+Sosebee  (Relevance 0.000 | Confidence 0.500)
+Springer  (Relevance 0.000 | Confidence 0.500)
+T Dorji  (Relevance 0.000 | Confidence 0.500)
+T Sahlu  (Relevance 0.000 | Confidence 0.500)
+TA Gipson  (Relevance 0.000 | Confidence 0.500)
+Trivedi  (Relevance 0.000 | Confidence 0.500)
+Trivedi , P.  (Relevance 0.000 | Confidence 0.500)
+Van Wieren  (Relevance 0.000 | Confidence 0.500)
+Worton  (Relevance 0.000 | Confidence 0.500)
+X Xue  (Relevance 0.000 | Confidence 0.500)
+X Yang  (Relevance 0.000 | Confidence 0.500)
+YUN Wang  (Relevance 0.000 | Confidence 0.500)
+YV Bhatnagar  (Relevance 0.000 | Confidence 0.500)
+Yash Veer Bhatnagar2  (Relevance 0.048 | Confidence 0.500)
+ZB Johnson  (Relevance 0.000 | Confidence 0.500)
+dkor-pa  (Relevance 0.000 | Confidence 0.500)
+ery  (Relevance 0.000 | Confidence 0.500)
+fashioned  (Relevance 0.000 | Confidence 0.500)
+ing  (Relevance 0.000 | Confidence 0.500)
+tinction  (Relevance 0.099 | Confidence 0.500)
+tion  (Relevance 0.000 | Confidence 0.500)
+vignei  (Relevance 0.000 | Confidence 0.500)
+
+/people/profession
+──────────
+Lama  (Relevance 0.056 | Confidence 1.454)
+Management  (Relevance 0.119 | Confidence 1.934)
+Morphology (biology)  (Relevance 0.040 | Confidence 9.515)
+Page 3  (Relevance 0.012 | Confidence 1.463)
+Priest  (Relevance 0.059 | Confidence 3.197)
+Tourism  (Relevance 0.104 | Confidence 1.416)
+
+/people/professional_field
+──────────
+Agriculture  (Relevance 0.108 | Confidence 2.263)
+Biology  (Relevance 0.000 | Confidence 17.030)
+Education  (Relevance 0.164 | Confidence 2.543)
+Law  (Relevance 0.078 | Confidence 2.487)
+
+/periodicals/newspaper_circulation_area
+──────────
+Asia  (Relevance 0.350 | Confidence 16.700)
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Graz  (Relevance 0.045 | Confidence 2.781)
+Himachal Pradesh  (Relevance 0.149 | Confidence 12.510)
+India  (Relevance 0.302 | Confidence 3.256)
+Jammu  (Relevance 0.057 | Confidence 2.520)
+Jammu and Kashmir (state)  (Relevance 0.391 | Confidence 2.018)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+London  (Relevance 0.064 | Confidence 8.875)
+Mysore  (Relevance 0.000 | Confidence 3.798)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Rajkot  (Relevance 0.088 | Confidence 2.604)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tromsø  (Relevance 0.095 | Confidence 4.962)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+Ås, Akershus  (Relevance 0.055 | Confidence 1.357)
+
+/projects/project_focus
+──────────
+Logistics  (Relevance 0.150 | Confidence 3.781)
+University of Oxford  (Relevance 0.066 | Confidence 11.570)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/projects/project_participant
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/protected_sites/iucn_category
+──────────
+Nature reserve  (Relevance 0.090 | Confidence 1.709)
+
+/protected_sites/listed_site
+──────────
+Graz  (Relevance 0.045 | Confidence 2.781)
+
+/radio/radio_subject
+──────────
+Climate change  (Relevance 0.281 | Confidence 39.760)
+Community  (Relevance 0.072 | Confidence 1.985)
+Economics  (Relevance 0.013 | Confidence 20.650)
+Health  (Relevance 0.139 | Confidence 3.218)
+Immigration  (Relevance 0.111 | Confidence 5.516)
+Millennium  (Relevance 0.000 | Confidence 3.148)
+Nature  (Relevance 0.172 | Confidence 1.439)
+United States  (Relevance 0.088 | Confidence 13.450)
+War  (Relevance 0.041 | Confidence 2.058)
+
+/rail/railway_terminus
+──────────
+London  (Relevance 0.064 | Confidence 8.875)
+
+/religion/deity
+──────────
+God  (Relevance 0.106 | Confidence 1.198)
+
+/religion/religious_leadership_jurisdiction
+──────────
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/religion/religious_leadership_title
+──────────
+Priest  (Relevance 0.059 | Confidence 3.197)
+
+/religion/type_of_place_of_worship
+──────────
+Monastery  (Relevance 0.073 | Confidence 4.845)
+
+/royalty/kingdom
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+
+/royalty/system_of_nobility
+──────────
+China  (Relevance 0.138 | Confidence 3.503)
+
+/spaceflight/rocket_engine_fuel
+──────────
+Kerosene  (Relevance 0.048 | Confidence 4.032)
+
+/spaceflight/rocket_fuel
+──────────
+Kerosene  (Relevance 0.048 | Confidence 4.032)
+
+/spaceflight/rocket_launch_site
+──────────
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+
+/spaceflight/satellite_manufacturer
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/spaceflight/satellite_type
+──────────
+Research  (Relevance 0.107 | Confidence 1.941)
+
+/spaceflight/space_agency
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/spaceflight/space_program_sponsor
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+
+/sports/sport_country
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/sports/sports_equipment
+──────────
+Horse  (Relevance 0.085 | Confidence 12.180)
+Map  (Relevance 0.174 | Confidence 3.072)
+
+/sports/sports_team_location
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Graz  (Relevance 0.045 | Confidence 2.781)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+Umeå  (Relevance 0.111 | Confidence 5.269)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/symbols/coat_of_arms_bearer
+──────────
+Canada  (Relevance 0.095 | Confidence 12.760)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+
+/symbols/flag_referent
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+Canada  (Relevance 0.095 | Confidence 12.760)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Soviet Union  (Relevance 0.204 | Confidence 3.720)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Turkmenistan  (Relevance 0.081 | Confidence 7.784)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/symbols/name_source
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+London  (Relevance 0.064 | Confidence 8.875)
+United States  (Relevance 0.088 | Confidence 13.450)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+
+/symbols/namesake
+──────────
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+
+/time/event
+──────────
+1980s  (Relevance 0.071 | Confidence 0.950)
+International Polar Year  (Relevance 0.126 | Confidence 3.115)
+
+/time_series/unit
+──────────
+Millennium  (Relevance 0.000 | Confidence 3.148)
+
+/travel/tourist_attraction
+──────────
+Ladakh  (Relevance 0.270 | Confidence 13.360)
+
+/travel/travel_destination
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Asia  (Relevance 0.350 | Confidence 16.700)
+Berkeley, California  (Relevance 0.045 | Confidence 1.058)
+California  (Relevance 0.102 | Confidence 8.444)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+Dehradun  (Relevance 0.083 | Confidence 6.786)
+Delhi  (Relevance 0.063 | Confidence 5.527)
+Denver  (Relevance 0.075 | Confidence 5.185)
+Graz  (Relevance 0.045 | Confidence 2.781)
+India  (Relevance 0.302 | Confidence 3.256)
+Kazakhstan  (Relevance 0.116 | Confidence 13.060)
+Ladakh  (Relevance 0.270 | Confidence 13.360)
+Leh  (Relevance 0.142 | Confidence 2.352)
+London  (Relevance 0.064 | Confidence 8.875)
+Moncton  (Relevance 0.027 | Confidence 2.466)
+New Delhi  (Relevance 0.044 | Confidence 5.674)
+Norway  (Relevance 0.000 | Confidence 16.390)
+Pasto, Colombia  (Relevance 0.035 | Confidence 2.289)
+Sweden  (Relevance 0.104 | Confidence 17.400)
+Tibet  (Relevance 0.380 | Confidence 9.991)
+Tibet Autonomous Region  (Relevance 0.310 | Confidence 1.075)
+Tromsø  (Relevance 0.095 | Confidence 4.962)
+United States  (Relevance 0.088 | Confidence 13.450)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wisconsin  (Relevance 0.100 | Confidence 5.975)
+Ås, Akershus  (Relevance 0.055 | Confidence 1.357)
+
+/tv/tv_genre
+──────────
+Animal  (Relevance 0.111 | Confidence 1.127)
+Competition  (Relevance 0.125 | Confidence 1.210)
+Education  (Relevance 0.164 | Confidence 2.543)
+Lifestyle  (Relevance 0.078 | Confidence 0.997)
+Nature  (Relevance 0.172 | Confidence 1.439)
+
+/tv/tv_location
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Canada  (Relevance 0.095 | Confidence 12.760)
+Chicago  (Relevance 0.066 | Confidence 12.840)
+China  (Relevance 0.138 | Confidence 3.503)
+India  (Relevance 0.302 | Confidence 3.256)
+London  (Relevance 0.064 | Confidence 8.875)
+United Kingdom  (Relevance 0.066 | Confidence 8.491)
+United States  (Relevance 0.088 | Confidence 13.450)
+
+/tv/tv_subject
+──────────
+Africa  (Relevance 0.124 | Confidence 20.660)
+Animal  (Relevance 0.111 | Confidence 1.127)
+Animal husbandry  (Relevance 0.336 | Confidence 9.453)
+Biodiversity  (Relevance 0.590 | Confidence 23.340)
+NASA  (Relevance 0.157 | Confidence 16.310)
+Reproduction  (Relevance 0.000 | Confidence 3.245)
+Sustainability  (Relevance 0.300 | Confidence 2.643)
+
+/type/unit
+──────────
+Millennium  (Relevance 0.000 | Confidence 3.148)
+
+/visual_art/art_subject
+──────────
+Animal  (Relevance 0.111 | Confidence 1.127)
+Cattle  (Relevance 0.164 | Confidence 16.790)
+Child  (Relevance 0.141 | Confidence 2.103)
+Dog  (Relevance 0.211 | Confidence 1.899)
+Farm  (Relevance 0.132 | Confidence 1.107)
+Fish  (Relevance 0.086 | Confidence 2.267)
+Hay  (Relevance 0.201 | Confidence 5.668)
+Horse  (Relevance 0.085 | Confidence 12.180)
+Hunting  (Relevance 0.210 | Confidence 1.507)
+London  (Relevance 0.064 | Confidence 8.875)
+Mountain  (Relevance 0.121 | Confidence 1.852)
+Nature  (Relevance 0.172 | Confidence 1.439)
+Savanna  (Relevance 0.184 | Confidence 5.488)
+Sheep  (Relevance 0.234 | Confidence 16.180)
+Society  (Relevance 0.265 | Confidence 2.320)
+War  (Relevance 0.041 | Confidence 2.058)
+Washington, D.C.  (Relevance 0.053 | Confidence 19.940)
+Wealth  (Relevance 0.106 | Confidence 0.988)
+Wheat  (Relevance 0.115 | Confidence 14.210)
+Wildlife  (Relevance 0.685 | Confidence 8.166)
+
+/visual_art/visual_art_medium
+──────────
+Grass  (Relevance 0.016 | Confidence 8.007)
+Water  (Relevance 0.192 | Confidence 3.374)
+Wool  (Relevance 0.099 | Confidence 8.122)
+
+/visual_art/visual_artist
+──────────
+NASA  (Relevance 0.157 | Confidence 16.310)
+
+/wine/wine_region
+──────────
+California  (Relevance 0.102 | Confidence 8.444)
+Washington (state)  (Relevance 0.110 | Confidence 2.486)
+
+Topics
+──────
+Pasture  (Score 1.000)
+Pastoralism  (Score 1.000)
+Livestock  (Score 1.000)
+Rangeland  (Score 1.000)
+Nomadic pastoralism  (Score 1.000)
+Nomad  (Score 1.000)
+Wildlife  (Score 1.000)
+Tso Kar  (Score 1.000)
+Biodiversity  (Score 1.000)
+Changtang  (Score 1.000)
+Conservation biology  (Score 1.000)
+Herding  (Score 1.000)
+Central Asia  (Score 1.000)
+Frontiers Media  (Score 1.000)
+Sedentism  (Score 0.953)
+Rangeland management  (Score 0.937)
+Forage  (Score 0.925)
+Cashmere wool  (Score 0.914)
+Tibet  (Score 0.886)
+India  (Score 0.856)
+Tibetan antelope  (Score 0.834)
+Himalayas  (Score 0.824)
+Yak  (Score 0.812)
+Intensive farming  (Score 0.811)
+Policy  (Score 0.780)
+Tibet Autonomous Region  (Score 0.778)
+Argali  (Score 0.766)
+Ladakh  (Score 0.765)
+Human–wildlife conflict  (Score 0.740)
+Jammu and Kashmir (state)  (Score 0.727)
+Asia  (Score 0.691)
+Grazing pressure  (Score 0.684)
+Jammu and Kashmir (union territory)  (Score 0.678)
+Grazing  (Score 0.655)
+Animal keeping  (Score 0.646)
+Domesticated animals  (Score 0.620)
+Snow leopard  (Score 0.610)
+Saiga antelope  (Score 0.583)
+Natural environment  (Score 0.580)
+Wolf  (Score 0.579)
+Altitude  (Score 0.576)
+The Arctic University of Norway  (Score 0.576)
+Sheep  (Score 0.558)
+Animal husbandry  (Score 0.553)
+Land use  (Score 0.545)
+Organism  (Score 0.545)
+Agriculture  (Score 0.538)
+Rupshu  (Score 0.508)
+Resource  (Score 0.486)
+Climate change  (Score 0.479)
+Tso Moriri  (Score 0.475)
+Overgrazing  (Score 0.474)
+Tibetan Plateau  (Score 0.449)
+Predation  (Score 0.447)
+Transhumance  (Score 0.437)
+Goat  (Score 0.433)
+Leaf  (Score 0.432)
+Himalayan wolf  (Score 0.430)
+Sustainability  (Score 0.423)
+Pashmina (material)  (Score 0.420)
+Socio-ecological system  (Score 0.414)
+Employment  (Score 0.403)
+Open access  (Score 0.389)
+Spiti  (Score 0.382)
+Ecology  (Score 0.376)
+Nomads  (Score 0.375)
+Goa (antelope)  (Score 0.375)
+Agricultural land  (Score 0.369)
+Leopard  (Score 0.364)
+Innovation  (Score 0.360)
+Changpa  (Score 0.360)
+Wild yak  (Score 0.353)
+Society  (Score 0.353)
+Soviet Union  (Score 0.349)
+Human–animal interaction  (Score 0.348)
+Topography  (Score 0.344)
+Ecosystem service  (Score 0.342)
+Animals  (Score 0.336)
+Dog  (Score 0.317)
+Zoology  (Score 0.313)
+Digital elevation model  (Score 0.309)
+Protected area  (Score 0.306)
+Canis  (Score 0.306)
+Animal migration  (Score 0.304)
+Grasslands  (Score 0.304)
+Polyandry  (Score 0.301)
+Meadow  (Score 0.297)
+Drought  (Score 0.287)
+Natural regions  (Score 0.280)
+Biogeography  (Score 0.279)
+Siberian ibex  (Score 0.277)
+Environmental degradation  (Score 0.275)
+Human impact on the environment  (Score 0.271)
+Himalayan marmot  (Score 0.269)
+Global Positioning System  (Score 0.263)
+Bird migration  (Score 0.261)
+Natural resources  (Score 0.259)
+Competition (biology)  (Score 0.256)
+Snow Leopard Trust  (Score 0.250)
+Pastoralists  (Score 0.250)
+Resource depletion  (Score 0.244)
+Cashmere goat  (Score 0.242)
+Hunting  (Score 0.239)
+Public Distribution System (India)  (Score 0.233)
+Income  (Score 0.233)
+Hay  (Score 0.229)
+Earth sciences  (Score 0.228)
+Organisms  (Score 0.204)
+People in agriculture  (Score 0.196)
+Environmental social science  (Score 0.179)
+Physical geography  (Score 0.171)
+Itinerant living  (Score 0.170)
+Natural sciences  (Score 0.164)
+Nature conservation  (Score 0.162)
+Environmental conservation  (Score 0.158)
+Ecoregions  (Score 0.144)
+Systems ecology  (Score 0.144)
+Geographical areas  (Score 0.132)
+Economy  (Score 0.123)
+Biology  (Score 0.120)
+Nature  (Score 0.118)
+Homeless people  (Score 0.107)
+Migrants  (Score 0.106)
+Environments  (Score 0.104)
+Caprids  (Score 0.104)
+Environmental science  (Score 0.098)
+Ecological restoration  (Score 0.094)
+Landscape  (Score 0.092)
+Habitats  (Score 0.084)
+Natural resource management  (Score 0.074)
+Landscape ecology  (Score 0.074)
+Mammals of Asia  (Score 0.064)
+Ovis  (Score 0.060)
+Holozoa  (Score 0.060)
+Biogeographic realms  (Score 0.054)

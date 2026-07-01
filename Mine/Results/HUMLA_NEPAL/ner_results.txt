@@ -1,0 +1,1049 @@
+
+=== CHUNK 1 (18.93 KB) ===
+
+/amusement_parks/ride_theme
+──────────
+Jungle  (Relevance 0.053 | Confidence 1.587)
+
+/architecture/architectural_structure_owner
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/architecture/building_complex_function
+──────────
+Research  (Relevance 0.158 | Confidence 2.408)
+
+/architecture/building_function
+──────────
+Research  (Relevance 0.158 | Confidence 2.408)
+Warehouse  (Relevance 0.154 | Confidence 1.455)
+
+/award/award_discipline
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Food  (Relevance 0.177 | Confidence 5.474)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Research  (Relevance 0.158 | Confidence 2.408)
+Welfare spending  (Relevance 0.138 | Confidence 1.336)
+
+/award/award_presenting_organization
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/award/award_winner
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/award/ranked_item
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/biology/animal
+──────────
+Goat  (Relevance 0.207 | Confidence 2.305)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Yak  (Relevance 0.154 | Confidence 7.932)
+
+/biology/breed_origin
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+
+/biology/domesticated_animal
+──────────
+Goat  (Relevance 0.207 | Confidence 2.305)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Yak  (Relevance 0.154 | Confidence 7.932)
+
+/biology/organism_classification
+──────────
+Animal  (Relevance 0.390 | Confidence 2.248)
+Goat  (Relevance 0.207 | Confidence 2.305)
+Maize  (Relevance 0.197 | Confidence 18.190)
+Rice  (Relevance 0.241 | Confidence 15.820)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Wheat  (Relevance 0.143 | Confidence 14.670)
+Yak  (Relevance 0.154 | Confidence 7.932)
+
+/biology/plant_disease_host
+──────────
+Wheat  (Relevance 0.143 | Confidence 14.670)
+
+/biology/source_organism
+──────────
+Rice  (Relevance 0.241 | Confidence 15.820)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+
+/boats/ship_owner
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/book/book_subject
+──────────
+Adaptation  (Relevance 0.012 | Confidence 1.070)
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Animal  (Relevance 0.390 | Confidence 2.248)
+Bazaar  (Relevance 0.106 | Confidence 3.986)
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+Caste  (Relevance 0.000 | Confidence 1.843)
+China  (Relevance 0.158 | Confidence 2.740)
+Commodity  (Relevance 0.362 | Confidence 5.503)
+Consumption (economics)  (Relevance 0.000 | Confidence 3.568)
+Dalai Lama  (Relevance 0.237 | Confidence 7.103)
+Desire  (Relevance 0.092 | Confidence 1.411)
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+Drainage basin  (Relevance 0.000 | Confidence 8.420)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Employment  (Relevance 0.232 | Confidence 6.021)
+Entrepôt  (Relevance 0.057 | Confidence 5.872)
+Farmer  (Relevance 0.138 | Confidence 1.562)
+Food  (Relevance 0.177 | Confidence 5.474)
+Himalayas  (Relevance 0.059 | Confidence 1.721)
+Hinduism  (Relevance 0.216 | Confidence 12.190)
+India  (Relevance 0.227 | Confidence 13.700)
+Jungle  (Relevance 0.053 | Confidence 1.587)
+Lake  (Relevance 0.054 | Confidence 1.102)
+London  (Relevance 0.066 | Confidence 5.006)
+Maize  (Relevance 0.197 | Confidence 18.190)
+Malaria  (Relevance 0.123 | Confidence 9.205)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Mining  (Relevance 0.145 | Confidence 5.596)
+Money  (Relevance 0.287 | Confidence 7.247)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Number  (Relevance 0.115 | Confidence 1.291)
+Paper  (Relevance 0.103 | Confidence 1.085)
+Pasture  (Relevance 0.130 | Confidence 6.302)
+Price  (Relevance 0.271 | Confidence 1.487)
+Productivity  (Relevance 0.194 | Confidence 2.453)
+Profit (economics)  (Relevance 0.262 | Confidence 1.156)
+Research  (Relevance 0.158 | Confidence 2.408)
+Rice  (Relevance 0.241 | Confidence 15.820)
+River  (Relevance 0.000 | Confidence 1.557)
+Salt  (Relevance 0.879 | Confidence 8.425)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Snow  (Relevance 0.000 | Confidence 1.418)
+Supply and demand  (Relevance 0.255 | Confidence 8.445)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+Trade  (Relevance 0.816 | Confidence 1.580)
+Trade route  (Relevance 0.115 | Confidence 3.044)
+Trade show  (Relevance 0.009 | Confidence 1.107)
+Wage  (Relevance 0.092 | Confidence 2.954)
+Warehouse  (Relevance 0.154 | Confidence 1.455)
+Welfare spending  (Relevance 0.138 | Confidence 1.336)
+Wheat  (Relevance 0.143 | Confidence 14.670)
+
+/book/financial_support_provider
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/book/magazine_genre
+──────────
+Food  (Relevance 0.177 | Confidence 5.474)
+
+/book/periodical_subject
+──────────
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+China  (Relevance 0.158 | Confidence 2.740)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Employment  (Relevance 0.232 | Confidence 6.021)
+Food  (Relevance 0.177 | Confidence 5.474)
+Mining  (Relevance 0.145 | Confidence 5.596)
+Research  (Relevance 0.158 | Confidence 2.408)
+Welfare spending  (Relevance 0.138 | Confidence 1.336)
+
+/broadcast/genre
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Animal  (Relevance 0.390 | Confidence 2.248)
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+Food  (Relevance 0.177 | Confidence 5.474)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/broadcast/radio_station_owner
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/business/business_location
+──────────
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+
+/business/business_operation
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/business/competitive_space
+──────────
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/business/consumer_product
+──────────
+Bag  (Relevance 0.069 | Confidence 1.863)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Paper  (Relevance 0.103 | Confidence 1.085)
+
+/business/customer
+──────────
+Consumer  (Relevance 0.070 | Confidence 1.123)
+
+/business/employer
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+Tribhuvan University  (Relevance 0.080 | Confidence 10.130)
+
+/business/industry
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+Food  (Relevance 0.177 | Confidence 5.474)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Mining  (Relevance 0.145 | Confidence 5.596)
+Paper  (Relevance 0.103 | Confidence 1.085)
+Research  (Relevance 0.158 | Confidence 2.408)
+Warehouse  (Relevance 0.154 | Confidence 1.455)
+
+/business/product_category
+──────────
+Bag  (Relevance 0.069 | Confidence 1.863)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/business/product_ingredient
+──────────
+Maize  (Relevance 0.197 | Confidence 18.190)
+Salt  (Relevance 0.879 | Confidence 8.425)
+
+/business/product_line
+──────────
+Food  (Relevance 0.177 | Confidence 5.474)
+
+/business/product_theme
+──────────
+Paper  (Relevance 0.103 | Confidence 1.085)
+
+/computer/software_genre
+──────────
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Productivity  (Relevance 0.194 | Confidence 2.453)
+
+/conferences/conference_subject
+──────────
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/conferences/type_of_conference
+──────────
+Trade show  (Relevance 0.009 | Confidence 1.107)
+
+/cvg/computer_game_subject
+──────────
+Mining  (Relevance 0.145 | Confidence 5.596)
+Money  (Relevance 0.287 | Confidence 7.247)
+
+/distilled_spirits/fermentation_base
+──────────
+Maize  (Relevance 0.197 | Confidence 18.190)
+Rice  (Relevance 0.241 | Confidence 15.820)
+Wheat  (Relevance 0.143 | Confidence 14.670)
+
+/education/academic_institution
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/education/department
+──────────
+Economics  (Relevance 0.175 | Confidence 17.130)
+
+/education/educational_institution
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+Tribhuvan University  (Relevance 0.080 | Confidence 10.130)
+
+/education/educational_institution_campus
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+London  (Relevance 0.066 | Confidence 5.006)
+Tribhuvan University  (Relevance 0.080 | Confidence 10.130)
+
+/education/field_of_study
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+China  (Relevance 0.158 | Confidence 2.740)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Hinduism  (Relevance 0.216 | Confidence 12.190)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Mining  (Relevance 0.145 | Confidence 5.596)
+Research  (Relevance 0.158 | Confidence 2.408)
+Welfare spending  (Relevance 0.138 | Confidence 1.336)
+
+/education/school_category
+──────────
+Economics  (Relevance 0.175 | Confidence 17.130)
+Research  (Relevance 0.158 | Confidence 2.408)
+
+/education/university
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+Tribhuvan University  (Relevance 0.080 | Confidence 10.130)
+
+/engineering/material
+──────────
+Paper  (Relevance 0.103 | Confidence 1.085)
+
+/exhibitions/exhibition_sponsor
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/exhibitions/exhibition_subject
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Animal  (Relevance 0.390 | Confidence 2.248)
+China  (Relevance 0.158 | Confidence 2.740)
+Food  (Relevance 0.177 | Confidence 5.474)
+London  (Relevance 0.066 | Confidence 5.006)
+Rice  (Relevance 0.241 | Confidence 15.820)
+
+/exhibitions/exhibition_venue
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/fictional_universe/character_occupation
+──────────
+Farmer  (Relevance 0.138 | Confidence 1.562)
+
+/fictional_universe/character_species
+──────────
+Sheep  (Relevance 0.334 | Confidence 10.870)
+
+/fictional_universe/fictional_organization_type
+──────────
+Village  (Relevance 0.000 | Confidence 2.121)
+
+/fictional_universe/fictional_setting
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/film/film_genre
+──────────
+Animal  (Relevance 0.390 | Confidence 2.248)
+
+/film/film_location
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+Himalayas  (Relevance 0.059 | Confidence 1.721)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/film/film_subject
+──────────
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+China  (Relevance 0.158 | Confidence 2.740)
+Desire  (Relevance 0.092 | Confidence 1.411)
+Farmer  (Relevance 0.138 | Confidence 1.562)
+Food  (Relevance 0.177 | Confidence 5.474)
+Himalayas  (Relevance 0.059 | Confidence 1.721)
+India  (Relevance 0.227 | Confidence 13.700)
+Jungle  (Relevance 0.053 | Confidence 1.587)
+Mining  (Relevance 0.145 | Confidence 5.596)
+Money  (Relevance 0.287 | Confidence 7.247)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Wage  (Relevance 0.092 | Confidence 2.954)
+
+/film/person_or_entity_appearing_in_film
+──────────
+Dalai Lama  (Relevance 0.237 | Confidence 7.103)
+
+/food/beer_country_region
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+
+/food/cheese_milk_source
+──────────
+Goat  (Relevance 0.207 | Confidence 2.305)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+
+/food/food
+──────────
+Grain  (Relevance 0.546 | Confidence 7.042)
+Maize  (Relevance 0.197 | Confidence 18.190)
+Rice  (Relevance 0.241 | Confidence 15.820)
+Salt  (Relevance 0.879 | Confidence 8.425)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Wheat  (Relevance 0.143 | Confidence 14.670)
+
+/food/ingredient
+──────────
+Maize  (Relevance 0.197 | Confidence 18.190)
+Rice  (Relevance 0.241 | Confidence 15.820)
+Salt  (Relevance 0.879 | Confidence 8.425)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Wheat  (Relevance 0.143 | Confidence 14.670)
+
+/geography/body_of_water
+──────────
+Ghaghara  (Relevance 0.321 | Confidence 9.652)
+
+/geography/geographical_feature
+──────────
+Ghaghara  (Relevance 0.321 | Confidence 9.652)
+Himalayas  (Relevance 0.059 | Confidence 1.721)
+
+/geography/geographical_feature_category
+──────────
+Drainage basin  (Relevance 0.000 | Confidence 8.420)
+Lake  (Relevance 0.054 | Confidence 1.102)
+Pasture  (Relevance 0.130 | Confidence 6.302)
+Plateau  (Relevance 0.000 | Confidence 4.302)
+River  (Relevance 0.000 | Confidence 1.557)
+
+/geography/glacier_terminus
+──────────
+River  (Relevance 0.000 | Confidence 1.557)
+
+/geography/lake
+──────────
+Soda lake  (Relevance 0.334 | Confidence 2.145)
+
+/geography/lake_type
+──────────
+Lake  (Relevance 0.054 | Confidence 1.102)
+
+/geography/mountain_range
+──────────
+Himalayas  (Relevance 0.059 | Confidence 1.721)
+
+/geography/mountain_type
+──────────
+Plateau  (Relevance 0.000 | Confidence 4.302)
+
+/geography/river
+──────────
+Ghaghara  (Relevance 0.321 | Confidence 9.652)
+
+/government/government
+──────────
+Government of Nepal  (Relevance 0.072 | Confidence 4.763)
+India  (Relevance 0.227 | Confidence 13.700)
+
+/government/government_agency
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/government/governmental_jurisdiction
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+
+/influence/influence_node
+──────────
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+
+/interests/hobby
+──────────
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/interests/hobbyist
+──────────
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/interests/interest
+──────────
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/internet/website_category
+──────────
+Data  (Relevance 0.103 | Confidence 2.821)
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Employment  (Relevance 0.232 | Confidence 6.021)
+Food  (Relevance 0.177 | Confidence 5.474)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/law/court_jurisdiction_area
+──────────
+India  (Relevance 0.227 | Confidence 13.700)
+
+/law/invention
+──────────
+Paper  (Relevance 0.103 | Confidence 1.085)
+
+/law/legal_subject
+──────────
+Employment  (Relevance 0.232 | Confidence 6.021)
+Food  (Relevance 0.177 | Confidence 5.474)
+
+/location/administrative_division
+──────────
+Achham District  (Relevance 0.128 | Confidence 3.004)
+Bajhang District  (Relevance 0.231 | Confidence 3.615)
+Bajura District  (Relevance 0.242 | Confidence 3.312)
+Humla District  (Relevance 0.813 | Confidence 9.637)
+Karnali Province  (Relevance 0.285 | Confidence 4.030)
+Karnali Zone  (Relevance 0.406 | Confidence 8.261)
+London  (Relevance 0.066 | Confidence 5.006)
+Surkhet District  (Relevance 0.166 | Confidence 4.985)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/location/citytown
+──────────
+Bhimdatta  (Relevance 0.148 | Confidence 3.004)
+Limi  (Relevance 0.183 | Confidence 2.439)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepalgunj  (Relevance 0.139 | Confidence 8.850)
+Purang Town  (Relevance 0.755 | Confidence 4.169)
+
+/location/cn_autonomous_region
+──────────
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/location/country
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/location/dated_location
+──────────
+Achham District  (Relevance 0.128 | Confidence 3.004)
+Bajhang District  (Relevance 0.231 | Confidence 3.615)
+Bajura District  (Relevance 0.242 | Confidence 3.312)
+Bhimdatta  (Relevance 0.148 | Confidence 3.004)
+China  (Relevance 0.158 | Confidence 2.740)
+Humla District  (Relevance 0.813 | Confidence 9.637)
+India  (Relevance 0.227 | Confidence 13.700)
+Karnali Province  (Relevance 0.285 | Confidence 4.030)
+Karnali Zone  (Relevance 0.406 | Confidence 8.261)
+Limi  (Relevance 0.183 | Confidence 2.439)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Nepalgunj  (Relevance 0.139 | Confidence 8.850)
+Purang Town  (Relevance 0.755 | Confidence 4.169)
+Surkhet District  (Relevance 0.166 | Confidence 4.985)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/location/location
+──────────
+Achham District  (Relevance 0.128 | Confidence 3.004)
+Bajhang District  (Relevance 0.231 | Confidence 3.615)
+Bajura District  (Relevance 0.242 | Confidence 3.312)
+Bhimdatta  (Relevance 0.148 | Confidence 3.004)
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+China  (Relevance 0.158 | Confidence 2.740)
+Ghaghara  (Relevance 0.321 | Confidence 9.652)
+Himalayas  (Relevance 0.059 | Confidence 1.721)
+Humla District  (Relevance 0.813 | Confidence 9.637)
+India  (Relevance 0.227 | Confidence 13.700)
+Indian border  (Relevance 0.000 | Confidence 0.500)
+Julgart  (Relevance 0.000 | Confidence 0.500)
+Karnali Province  (Relevance 0.285 | Confidence 4.030)
+Karnali Zone  (Relevance 0.406 | Confidence 8.261)
+Limi  (Relevance 0.183 | Confidence 2.439)
+London  (Relevance 0.066 | Confidence 5.006)
+Narala Pass  (Relevance 0.410 | Confidence 0.500)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Nepalese Districts  (Relevance 0.171 | Confidence 0.500)
+Nepalgunj  (Relevance 0.139 | Confidence 8.850)
+Purang Town  (Relevance 0.755 | Confidence 4.169)
+Purangbas  (Relevance 0.644 | Confidence 0.500)
+Salt road  (Relevance 0.318 | Confidence 0.956)
+Surkhet District  (Relevance 0.166 | Confidence 4.985)
+Terai  (Relevance 0.283 | Confidence 9.160)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+Tribhuvan University  (Relevance 0.080 | Confidence 10.130)
+
+/location/place_with_neighborhoods
+──────────
+London  (Relevance 0.066 | Confidence 5.006)
+
+/location/statistical_region
+──────────
+Achham District  (Relevance 0.128 | Confidence 3.004)
+Bajhang District  (Relevance 0.231 | Confidence 3.615)
+Bajura District  (Relevance 0.242 | Confidence 3.312)
+Bhimdatta  (Relevance 0.148 | Confidence 3.004)
+China  (Relevance 0.158 | Confidence 2.740)
+Humla District  (Relevance 0.813 | Confidence 9.637)
+India  (Relevance 0.227 | Confidence 13.700)
+Karnali Province  (Relevance 0.285 | Confidence 4.030)
+Karnali Zone  (Relevance 0.406 | Confidence 8.261)
+Limi  (Relevance 0.183 | Confidence 2.439)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Nepalgunj  (Relevance 0.139 | Confidence 8.850)
+Purang Town  (Relevance 0.755 | Confidence 4.169)
+Surkhet District  (Relevance 0.166 | Confidence 4.985)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/measurement_unit/common_dimension
+──────────
+Volume  (Relevance 0.000 | Confidence 1.001)
+
+/measurement_unit/dimension
+──────────
+Volume  (Relevance 0.000 | Confidence 1.001)
+
+/media_common/literary_genre
+──────────
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Food  (Relevance 0.177 | Confidence 5.474)
+
+/media_common/media_genre
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Animal  (Relevance 0.390 | Confidence 2.248)
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Food  (Relevance 0.177 | Confidence 5.474)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/media_common/netflix_genre
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+
+/media_common/quotation
+──────────
+India  (Relevance 0.227 | Confidence 13.700)
+
+/media_common/quotation_subject
+──────────
+Animal  (Relevance 0.390 | Confidence 2.248)
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+Cash  (Relevance 0.157 | Confidence 1.653)
+Desire  (Relevance 0.092 | Confidence 1.411)
+Food  (Relevance 0.177 | Confidence 5.474)
+Generation  (Relevance 0.070 | Confidence 1.441)
+Goods  (Relevance 0.227 | Confidence 2.073)
+London  (Relevance 0.066 | Confidence 5.006)
+Money  (Relevance 0.287 | Confidence 7.247)
+Price  (Relevance 0.271 | Confidence 1.487)
+Research  (Relevance 0.158 | Confidence 2.408)
+Trade  (Relevance 0.816 | Confidence 1.580)
+Wage  (Relevance 0.092 | Confidence 2.954)
+Welfare spending  (Relevance 0.138 | Confidence 1.336)
+
+/medicine/cancer_center_constituent
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/medicine/condition_prevention_factors
+──────────
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+
+/medicine/disease
+──────────
+Malaria  (Relevance 0.123 | Confidence 9.205)
+
+/medicine/disease_cause
+──────────
+Food  (Relevance 0.177 | Confidence 5.474)
+Malaria  (Relevance 0.123 | Confidence 9.205)
+
+/medicine/drug_ingredient
+──────────
+Maize  (Relevance 0.197 | Confidence 18.190)
+Millet  (Relevance 0.165 | Confidence 10.620)
+Rice  (Relevance 0.241 | Confidence 15.820)
+Wheat  (Relevance 0.143 | Confidence 14.670)
+
+/medicine/icd_9_cm_classification
+──────────
+Malaria  (Relevance 0.123 | Confidence 9.205)
+
+/medicine/infectious_disease
+──────────
+Malaria  (Relevance 0.123 | Confidence 9.205)
+
+/medicine/risk_factor
+──────────
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+Malaria  (Relevance 0.123 | Confidence 9.205)
+
+/meteorology/cyclone_affected_area
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+
+/military/military_combatant
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+
+/olympics/olympic_bidding_city
+──────────
+London  (Relevance 0.066 | Confidence 5.006)
+
+/olympics/olympic_host_city
+──────────
+London  (Relevance 0.066 | Confidence 5.006)
+
+/olympics/olympic_participating_country
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+
+/olympics/olympic_venue
+──────────
+London  (Relevance 0.066 | Confidence 5.006)
+
+/organization/contact_category
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+Consumer  (Relevance 0.070 | Confidence 1.123)
+Employment  (Relevance 0.232 | Confidence 6.021)
+London  (Relevance 0.066 | Confidence 5.006)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/organization/endowed_organization
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/organization/non_profit_organization
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+
+/organization/organization
+──────────
+CNAS  (Relevance 0.000 | Confidence 0.500)
+CNAS Journal  (Relevance 0.013 | Confidence 0.500)
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+Center for Nepal and Asian Studies  (Relevance 0.000 | Confidence 0.500)
+Fürer-Haimendorf  (Relevance 0.000 | Confidence 0.500)
+Government of Nepal  (Relevance 0.072 | Confidence 4.763)
+Graduate Alumni Fund  (Relevance 0.000 | Confidence 0.500)
+Humlis  (Relevance 0.435 | Confidence 0.500)
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+Tribhuvan University  (Relevance 0.080 | Confidence 10.130)
+
+/organization/organization_founder
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+
+/organization/organization_member
+──────────
+Case Western Reserve University  (Relevance 0.051 | Confidence 4.743)
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+
+/organization/organization_scope
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+Himalayas  (Relevance 0.059 | Confidence 1.721)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+
+/organization/organization_sector
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Diet (nutrition)  (Relevance 0.082 | Confidence 0.975)
+Economics  (Relevance 0.175 | Confidence 17.130)
+Employment  (Relevance 0.232 | Confidence 6.021)
+Farmer  (Relevance 0.138 | Confidence 1.562)
+Food  (Relevance 0.177 | Confidence 5.474)
+India  (Relevance 0.227 | Confidence 13.700)
+Malaria  (Relevance 0.123 | Confidence 9.205)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Mining  (Relevance 0.145 | Confidence 5.596)
+Paper  (Relevance 0.103 | Confidence 1.085)
+Research  (Relevance 0.158 | Confidence 2.408)
+Trade  (Relevance 0.816 | Confidence 1.580)
+Warehouse  (Relevance 0.154 | Confidence 1.455)
+
+/organization/organization_type
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+Research  (Relevance 0.158 | Confidence 2.408)
+
+/people/cause_of_death
+──────────
+Malaria  (Relevance 0.123 | Confidence 9.205)
+
+/people/chinese_ethnic_group
+──────────
+Tibetans  (Relevance 0.142 | Confidence 3.476)
+
+/people/ethnicity
+──────────
+Chhetri  (Relevance 0.256 | Confidence 9.210)
+Nomad  (Relevance 0.165 | Confidence 3.582)
+Tibetans  (Relevance 0.142 | Confidence 3.476)
+
+/people/person
+──────────
+Fürer-Haimendorf , C. Von  (Relevance 0.000 | Confidence 0.500)
+J.L. Ross  (Relevance 0.146 | Confidence 0.500)
+John Murray  (Relevance 0.000 | Confidence 0.500)
+
+/people/profession
+──────────
+Farmer  (Relevance 0.138 | Confidence 1.562)
+Marketing  (Relevance 0.248 | Confidence 2.521)
+
+/people/professional_field
+──────────
+Agriculture  (Relevance 0.276 | Confidence 2.902)
+
+/periodicals/newspaper_circulation_area
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+
+/projects/project_participant
+──────────
+National Science Foundation  (Relevance 0.079 | Confidence 7.030)
+
+/radio/radio_subject
+──────────
+Economics  (Relevance 0.175 | Confidence 17.130)
+
+/rail/railway_terminus
+──────────
+London  (Relevance 0.066 | Confidence 5.006)
+
+/religion/religion
+──────────
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+Hinduism  (Relevance 0.216 | Confidence 12.190)
+
+/religion/religious_leadership_title
+──────────
+Dalai Lama  (Relevance 0.237 | Confidence 7.103)
+
+/religion/religious_order
+──────────
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+
+/religion/religious_organization
+──────────
+Buddhism  (Relevance 0.159 | Confidence 12.810)
+
+/royalty/kingdom
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+
+/royalty/system_of_nobility
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+Thakuri  (Relevance 0.263 | Confidence 8.346)
+
+/spaceflight/satellite_type
+──────────
+Research  (Relevance 0.158 | Confidence 2.408)
+
+/sports/sport_country
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+
+/sports/sports_team_location
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+
+/symbols/flag_referent
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+
+/symbols/name_source
+──────────
+London  (Relevance 0.066 | Confidence 5.006)
+Maize  (Relevance 0.197 | Confidence 18.190)
+
+/travel/travel_destination
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+Nepal  (Relevance 0.818 | Confidence 9.366)
+Tibet  (Relevance 0.800 | Confidence 12.030)
+Tibet Autonomous Region  (Relevance 0.505 | Confidence 2.681)
+
+/tv/tv_genre
+──────────
+Animal  (Relevance 0.390 | Confidence 2.248)
+Food  (Relevance 0.177 | Confidence 5.474)
+
+/tv/tv_location
+──────────
+China  (Relevance 0.158 | Confidence 2.740)
+India  (Relevance 0.227 | Confidence 13.700)
+London  (Relevance 0.066 | Confidence 5.006)
+
+/tv/tv_subject
+──────────
+Animal  (Relevance 0.390 | Confidence 2.248)
+
+/visual_art/art_subject
+──────────
+Animal  (Relevance 0.390 | Confidence 2.248)
+Farmer  (Relevance 0.138 | Confidence 1.562)
+Food  (Relevance 0.177 | Confidence 5.474)
+London  (Relevance 0.066 | Confidence 5.006)
+River  (Relevance 0.000 | Confidence 1.557)
+Sheep  (Relevance 0.334 | Confidence 10.870)
+Wheat  (Relevance 0.143 | Confidence 14.670)
+
+/visual_art/visual_art_medium
+──────────
+Paper  (Relevance 0.103 | Confidence 1.085)
+
+/visual_art/visual_art_support
+──────────
+Paper  (Relevance 0.103 | Confidence 1.085)
+
+Topics
+──────
+Salt  (Score 1.000)
+Trade  (Score 1.000)
+Humla District  (Score 1.000)
+Nepal  (Score 1.000)
+Tibet  (Score 1.000)
+Purang Town  (Score 1.000)
+Grain  (Score 1.000)
+Tibet Autonomous Region  (Score 1.000)
+Halite  (Score 1.000)
+Animal  (Score 1.000)
+Economy  (Score 1.000)
+Geography of Nepal  (Score 0.905)
+Exchange rate  (Score 0.877)
+Commodity  (Score 0.868)
+Agriculture  (Score 0.824)
+Sheep  (Score 0.767)
+Rice  (Score 0.688)
+Sonar  (Score 0.675)
+Food industry  (Score 0.657)
+Karnali Zone  (Score 0.612)
+Thakuri  (Score 0.587)
+Profit (economics)  (Score 0.546)
+Economies  (Score 0.532)
+Karnali Province  (Score 0.491)
+Terai  (Score 0.487)
+Ghaghara  (Score 0.484)
+Business  (Score 0.476)
+Geography of Tibet  (Score 0.474)
+India  (Score 0.452)
+Primary sector  (Score 0.443)
+Price  (Score 0.408)
+Demand  (Score 0.405)
+Goat  (Score 0.387)
+Supply and demand  (Score 0.385)
+Soda lake  (Score 0.382)
+Edible salt  (Score 0.366)
+Bajura District  (Score 0.365)
+Salt road  (Score 0.364)
+Bajhang District  (Score 0.349)
+Employment  (Score 0.344)
+Economics  (Score 0.338)
+Preservatives  (Score 0.333)
+Money  (Score 0.329)
+Hinduism  (Score 0.326)
+Harvest  (Score 0.316)
+Food ingredients  (Score 0.299)
+Sodium compounds  (Score 0.296)
+Chhetri  (Score 0.293)
+Marketing  (Score 0.284)
+Salts  (Score 0.282)
+Food science  (Score 0.274)
+Dalai Lama  (Score 0.271)
+Microeconomics  (Score 0.268)
+Food politics  (Score 0.263)
+Primary industries  (Score 0.261)
+Goods  (Score 0.260)
+Condiments  (Score 0.258)
+Culture  (Score 0.254)
+Private sector  (Score 0.253)
+Macroeconomics  (Score 0.247)
+Political economy  (Score 0.243)
+Agricultural science  (Score 0.242)
+Solid-state chemistry  (Score 0.237)
+Sodium  (Score 0.220)
+Business processes  (Score 0.216)
+Natural resources  (Score 0.210)
+Financial markets  (Score 0.195)
+Grains  (Score 0.190)
+Food additives  (Score 0.188)
+Cultural exchange  (Score 0.179)
+Dried foods  (Score 0.178)
+International trade  (Score 0.178)
+Staple foods  (Score 0.172)
+Market (economics)  (Score 0.169)
+Agronomy  (Score 0.169)
+Foods  (Score 0.168)
+Sodium minerals  (Score 0.167)
+World economy  (Score 0.163)
+Agricultural revolutions  (Score 0.159)
+Food preservation  (Score 0.156)
+Agricultural production  (Score 0.154)
+Crops  (Score 0.150)
+Alkali metals  (Score 0.149)
+Preservation methods  (Score 0.143)
+Industries (economics)  (Score 0.141)
+Food powders  (Score 0.138)
+Food processing  (Score 0.133)
+Politics  (Score 0.131)
+Chemical compounds  (Score 0.128)
+Plant agriculture  (Score 0.115)
+Pharmaceutical microbiology  (Score 0.115)
+Cultural regions  (Score 0.113)
+Antimicrobials  (Score 0.111)
+East Asia  (Score 0.111)
+Food safety  (Score 0.108)
+Coolants  (Score 0.107)
+Food and drink preparation  (Score 0.105)
+Edible plants  (Score 0.098)
+Chemical substances  (Score 0.097)
+China  (Score 0.089)
+Chemical elements  (Score 0.084)
+Material protection  (Score 0.083)
+Schools of economic thought  (Score 0.082)
+Agricultural economics  (Score 0.079)
+Economics of primary sector industries  (Score 0.077)
+Edible nuts and seeds  (Score 0.077)
+Finance  (Score 0.075)
+Public economics  (Score 0.074)
+Indigenous land rights  (Score 0.066)
+Zoology  (Score 0.066)
+Business economics  (Score 0.065)
+Plant crops  (Score 0.063)
+Animals  (Score 0.062)
+Natural environment  (Score 0.062)
+Monetary economics  (Score 0.061)
+Foreign exchange market  (Score 0.059)
+Inner Asia  (Score 0.059)
+Investment  (Score 0.058)
+Social issues  (Score 0.055)
+Vegan cuisine  (Score 0.053)
+North America  (Score 0.051)

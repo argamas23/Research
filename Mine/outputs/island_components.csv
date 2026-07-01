@@ -1,0 +1,76 @@
+ComponentId,Size,EdgeCount,TotalWeight,Books,Nodes,Edges,RelationSummary,Recommendation
+2,6,5,5.0,Ladakh|Salt_routes_and_barter_caravans_in_the_H,china|drogpa|frederic drew|ladakh|tea|tibetan horses,china -> tea|drogpa -> tea|frederic drew -> ladakh|ladakh -> tea|tibetan horses -> tea,governs:1|trades_with:3|transports_via:1,review_disconnected_theme
+3,4,3,3.0,Becoming_India,basis|cash dues|hill state|revenue demand,hill state -> basis|hill state -> cash dues|hill state -> revenue demand,depends_on:1|taxes:1|trades_with:1,review_disconnected_theme
+4,4,3,3.0,Becoming_India,begar|europeans|khash-kanet peasants|peasant family,begar -> europeans|khash-kanet peasants -> begar|peasant family -> begar,controls:1|trades_with:1|transports_via:1,review_disconnected_theme
+5,4,3,3.0,Becoming_India|Salt_routes_and_barter_caravans_in_the_H|Santiago_Lazcano,caterpillar fungus|natural products|products|tibetans,tibetans -> caterpillar fungus|tibetans -> natural products|tibetans -> products,supplies:1|trades_with:2,review_disconnected_theme
+6,4,3,3.0,Becoming_India,dominant village community|ruler of the tract|servile groups|village deity,dominant village community -> servile groups|ruler of the tract -> servile groups|village deity -> servile groups,controls:3,review_disconnected_theme
+7,4,3,3.0,Ladakh,foodgrains|outer hills|peasant traders|tibetan herdspeople,outer hills -> foodgrains|peasant traders -> foodgrains|tibetan herdspeople -> foodgrains,supplies:1|trades_with:1|transports_via:1,review_disconnected_theme
+8,4,3,3.0,HUMLA_NEPAL_20260618_013400|Santiago_Lazcano,himalayan peoples|indian salt|tibetan salt|traders from two villages,himalayan peoples -> tibetan salt|traders from two villages -> indian salt|traders from two villages -> tibetan salt,trades_with:1|transports_via:2,review_disconnected_theme
+9,4,3,3.0,Becoming_India,peasants|poorzee|state forests|wazeers,peasants -> poorzee|peasants -> state forests|wazeers -> peasants,extracts_from:1|licenses:1|supplies:1,review_disconnected_theme
+10,3,2,2.0,Ladakh,aurangzeb|deldan|tibetan authorities,deldan -> aurangzeb|deldan -> tibetan authorities,negotiates_with:2,review_or_hide_small_island
+11,3,2,2.0,Becoming_India,baggage|demands|himalayan peasants,himalayan peasants -> baggage|himalayan peasants -> demands,negotiates_with:1|transports_via:1,review_or_hide_small_island
+12,3,2,2.0,Becoming_India,bethus|produce|rana,bethus -> produce|bethus -> rana,trades_with:1|transports_via:1,review_or_hide_small_island
+13,3,2,2.0,Becoming_India,chasralu|himalayan population|mahasu,chasralu -> mahasu|himalayan population -> mahasu,disputes:2,review_or_hide_small_island
+14,3,2,2.0,Salt_routes_and_barter_caravans_in_the_H,china and tibet|dolpo|grain,dolpo -> china and tibet|dolpo -> grain,trades_with:2,review_or_hide_small_island
+15,3,2,2.0,Becoming_India,clan deity|his patron god|surplus,clan deity -> surplus|his patron god -> clan deity,extracts_from:1|negotiates_with:1,review_or_hide_small_island
+16,3,2,2.0,Gutenberg_EBook_20260618_020818,garu|ladak|tibetan countries in its neighbourhood,garu -> tibetan countries in its neighbourhood|ladak -> tibetan countries in its neighbourhood,taxes:2,review_or_hide_small_island
+17,3,2,2.0,Becoming_India|Salt_routes_and_barter_caravans_in_the_H,the corn|tukuche|village,tukuche -> village|village -> the corn,supplies:1|trades_with:1,review_or_hide_small_island
+18,2,1,1.0,Becoming_India,a situation|the raja,the raja -> a situation,controls:1,review_or_hide_small_island
+19,2,1,1.0,Santiago_Lazcano,a trade|people,people -> a trade,transports_via:1,review_or_hide_small_island
+20,2,1,1.0,Becoming_India,agricultural cycle|the khumri,the khumri -> agricultural cycle,governs:1,review_or_hide_small_island
+21,2,1,1.0,Becoming_India,agriculture|kanets,kanets -> agriculture,depends_on:1,review_or_hide_small_island
+22,2,1,1.0,Santiago_Lazcano,ancient tea horse road|national cultural heritage,ancient tea horse road -> national cultural heritage,disputes:1,review_or_hide_small_island
+23,2,1,1.0,Becoming_India,area|the state,the state -> area,governs:1,review_or_hide_small_island
+24,2,1,1.0,Ladakh,baltistan|dried apricots,baltistan -> dried apricots,trades_with:1,review_or_hide_small_island
+25,2,1,1.0,Becoming_India,begar conscription|khash-kanet peasantry,khash-kanet peasantry -> begar conscription,disputes:1,review_or_hide_small_island
+26,2,1,1.0,Santiago_Lazcano,bhutanese|rice,bhutanese -> rice,transports_via:1,review_or_hide_small_island
+27,2,1,1.0,Becoming_India,british|entire border with the sikh territories,british -> entire border with the sikh territories,controls:1,review_or_hide_small_island
+28,2,1,1.0,Becoming_India,british officers|the west himalayas,british officers -> the west himalayas,transports_via:1,review_or_hide_small_island
+29,2,1,1.0,Becoming_India,british rule|local habitations,british rule -> local habitations,negotiates_with:1,review_or_hide_small_island
+30,2,1,1.0,Santiago_Lazcano,buckets of salt water|tibetan women,tibetan women -> buckets of salt water,transports_via:1,review_or_hide_small_island
+31,2,1,1.0,Becoming_India,cash instead of cloth|wool of the pastoralists,wool of the pastoralists -> cash instead of cloth,trades_with:1,review_or_hide_small_island
+32,2,1,1.0,Becoming_India,changes|land settlements,land settlements -> changes,transports_via:1,review_or_hide_small_island
+33,2,1,1.0,Becoming_India,"civilisational centres|marginal, oppressed people","civilisational centres -> marginal, oppressed people",controls:1,review_or_hide_small_island
+34,2,1,1.0,HUMLA_NEPAL_20260618_013400,consumers|grain for salt,consumers -> grain for salt,trades_with:1,review_or_hide_small_island
+35,2,1,1.0,Becoming_India,deities|relations between the state and its subjects,deities -> relations between the state and its subjects,negotiates_with:1,review_or_hide_small_island
+36,2,1,1.0,Becoming_India,deity|divine functionaries,divine functionaries -> deity,transports_via:1,review_or_hide_small_island
+37,2,1,1.0,Gutenberg_EBook_20260618_020818,donations|statements,donations -> statements,taxes:1,review_or_hide_small_island
+38,2,1,1.0,Santiago_Lazcano,drokpas|yak butter,drokpas -> yak butter,trades_with:1,review_or_hide_small_island
+39,2,1,1.0,Gutenberg_EBook_20260618_020818,european plant|specimens,specimens -> european plant,negotiates_with:1,review_or_hide_small_island
+40,2,1,1.0,Gutenberg_EBook_20260618_020818,facts|strachey,strachey -> facts,supplies:1,review_or_hide_small_island
+41,2,1,1.0,Santiago_Lazcano,government|people of tsakalho,government -> people of tsakalho,trades_with:1,review_or_hide_small_island
+42,2,1,1.0,HUMLA_NEPAL_20260618_013400,grains|tibetan rock salt,grains -> tibetan rock salt,trades_with:1,review_or_hide_small_island
+43,2,1,1.0,Becoming_India,gurkhas|the british east india company,gurkhas -> the british east india company,disputes:1,review_or_hide_small_island
+44,2,1,1.0,Becoming_India,gurkhas of nepal|mountainous areas,gurkhas of nepal -> mountainous areas,controls:1,review_or_hide_small_island
+45,2,1,1.0,Becoming_India,having no credibility|padam dev gautam,padam dev gautam -> having no credibility,disputes:1,review_or_hide_small_island
+46,2,1,1.0,Becoming_India,hill states|productive resources,hill states -> productive resources,controls:1,review_or_hide_small_island
+47,2,1,1.0,Becoming_India,hindustan-tibet road|the western himalayas,hindustan-tibet road -> the western himalayas,licenses:1,review_or_hide_small_island
+48,2,1,1.0,Becoming_India,imprisoned|outsiders,outsiders -> imprisoned,disputes:1,review_or_hide_small_island
+49,2,1,1.0,Santiago_Lazcano,jada family|shepherds,shepherds -> jada family,trades_with:1,review_or_hide_small_island
+50,2,1,1.0,Ladakh,karakoram|pack-horses,pack-horses -> karakoram,transports_via:1,review_or_hide_small_island
+51,2,1,1.0,Salt_routes_and_barter_caravans_in_the_H,kitamura|porcelain cups,kitamura -> porcelain cups,trades_with:1,review_or_hide_small_island
+52,2,1,1.0,Becoming_India,land revenue|the bethus,land revenue -> the bethus,licenses:1,review_or_hide_small_island
+53,2,1,1.0,HUMLA_NEPAL_20260618_013400,limis|marts,limis -> marts,supplies:1,review_or_hide_small_island
+54,2,1,1.0,Gutenberg_EBook_20260618_020818,loaded men|support,loaded men -> support,depends_on:1,review_or_hide_small_island
+55,2,1,1.0,Becoming_India,loggers|logs down the big rivers,loggers -> logs down the big rivers,transports_via:1,review_or_hide_small_island
+56,2,1,1.0,Becoming_India,lower hills bordering the plains of punjab|pastoral groups,pastoral groups -> lower hills bordering the plains of punjab,transports_via:1,review_or_hide_small_island
+57,2,1,1.0,Becoming_India,mandi|the british,mandi -> the british,taxes:1,review_or_hide_small_island
+58,2,1,1.0,No_Greenery_Rupshu_20260618_014228,migratory strategy|pastoralists,pastoralists -> migratory strategy,depends_on:1,review_or_hide_small_island
+59,2,1,1.0,Santiago_Lazcano,monasteries|storage facilities,monasteries -> storage facilities,supplies:1,review_or_hide_small_island
+60,2,1,1.0,Becoming_India,new law|special circumstances,new law -> special circumstances,licenses:1,review_or_hide_small_island
+61,2,1,1.0,Santiago_Lazcano,nomads|salt in the lake,nomads -> salt in the lake,extracts_from:1,review_or_hide_small_island
+62,2,1,1.0,Santiago_Lazcano,nomads or drokpas|salt from the lakes,nomads or drokpas -> salt from the lakes,extracts_from:1,review_or_hide_small_island
+63,2,1,1.0,Becoming_India,obstacles|peasantry,peasantry -> obstacles,extracts_from:1,review_or_hide_small_island
+64,2,1,1.0,Becoming_India,of the states|state officials,state officials -> of the states,taxes:1,review_or_hide_small_island
+65,2,1,1.0,Santiago_Lazcano,pe customs house|tibetan official,pe customs house -> tibetan official,trades_with:1,review_or_hide_small_island
+66,2,1,1.0,Becoming_India,prior interventions|revenue matters in a few hill states,prior interventions -> revenue matters in a few hill states,negotiates_with:1,review_or_hide_small_island
+67,2,1,1.0,Becoming_India,river sutlej|traders and others,river sutlej -> traders and others,supplies:1,review_or_hide_small_island
+68,2,1,1.0,Gutenberg_EBook_20260618_020818,saffron|throughout the year,saffron -> throughout the year,licenses:1,review_or_hide_small_island
+69,2,1,1.0,Becoming_India,sikhs|sutlej valley,sikhs -> sutlej valley,controls:1,review_or_hide_small_island
+70,2,1,1.0,Becoming_India,simla|to the borders of tibet,simla -> to the borders of tibet,depends_on:1,review_or_hide_small_island
+71,2,1,1.0,Becoming_India,state's administration|tika ruder sen,tika ruder sen -> state's administration,governs:1,review_or_hide_small_island
+72,2,1,1.0,Becoming_India,the crown|the rulers of these hill states,the rulers of these hill states -> the crown,disputes:1,review_or_hide_small_island
+73,2,1,1.0,Becoming_India,the narrow mountain paths|traders from the plains,traders from the plains -> the narrow mountain paths,negotiates_with:1,review_or_hide_small_island
+74,2,1,1.0,Santiago_Lazcano,the nepalese state|the subbas,the nepalese state -> the subbas,taxes:1,review_or_hide_small_island
+75,2,1,1.0,Santiago_Lazcano,tsakalho|zhao erfeng,zhao erfeng -> tsakalho,taxes:1,review_or_hide_small_island
+76,2,1,1.0,Becoming_India,village boundaries|women,women -> village boundaries,licenses:1,review_or_hide_small_island

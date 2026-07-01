@@ -5,14 +5,6 @@
   <key id="d2" for="node" attr.name="label" attr.type="string"/>
   <key id="d3" for="node" attr.name="type" attr.type="string"/>
   <graph edgedefault="directed">
-    <node id="i">
-      <data key="d2">i</data>
-      <data key="d3">PERSON</data>
-    </node>
-    <node id="this_effort">
-      <data key="d2">this effort</data>
-      <data key="d3">PERSON</data>
-    </node>
     <node id="british_rule">
       <data key="d2">british rule</data>
       <data key="d3">PERSON</data>
@@ -20,10 +12,6 @@
     <node id="local_habitations">
       <data key="d2">local habitations</data>
       <data key="d3">PERSON</data>
-    </node>
-    <node id="with_the_emergent_indian_nation">
-      <data key="d2">with the emergent indian nation</data>
-      <data key="d3">LOCATION</data>
     </node>
     <node id="river_sutlej">
       <data key="d2">river sutlej</data>
@@ -81,14 +69,6 @@
       <data key="d2">lower hills bordering the plains of punjab</data>
       <data key="d3">LOCATION</data>
     </node>
-    <node id="the_british_government">
-      <data key="d2">the british government</data>
-      <data key="d3">PERSON</data>
-    </node>
-    <node id="through_palampur_and_from_leh_to_kashmir">
-      <data key="d2">through palampur and from leh to kashmir</data>
-      <data key="d3">LOCATION</data>
-    </node>
     <node id="traders_from_the_plains">
       <data key="d2">traders from the plains</data>
       <data key="d3">GROUP</data>
@@ -125,14 +105,6 @@
       <data key="d2">of the states</data>
       <data key="d3">LOCATION</data>
     </node>
-    <node id="those_deities">
-      <data key="d2">those deities</data>
-      <data key="d3">PERSON</data>
-    </node>
-    <node id="obedience">
-      <data key="d2">obedience</data>
-      <data key="d3">PERSON</data>
-    </node>
     <node id="the_state">
       <data key="d2">the state</data>
       <data key="d3">LOCATION</data>
@@ -151,14 +123,6 @@
     </node>
     <node id="surplus">
       <data key="d2">surplus</data>
-      <data key="d3">PERSON</data>
-    </node>
-    <node id="these_mountain_communities">
-      <data key="d2">these mountain communities</data>
-      <data key="d3">LOCATION</data>
-    </node>
-    <node id="cash">
-      <data key="d2">cash</data>
       <data key="d3">PERSON</data>
     </node>
     <node id="cash_dues">
@@ -180,14 +144,6 @@
     <node id="the_corn">
       <data key="d2">the corn</data>
       <data key="d3">PERSON</data>
-    </node>
-    <node id="the_first_thing">
-      <data key="d2">the first thing</data>
-      <data key="d3">PERSON</data>
-    </node>
-    <node id="to_be_emphasised_about_himalayan_marriage">
-      <data key="d2">to be emphasised about himalayan marriage</data>
-      <data key="d3">LOCATION</data>
     </node>
     <node id="british">
       <data key="d2">british</data>
@@ -449,6 +405,118 @@
       <data key="d2">logs down the big rivers</data>
       <data key="d3">LOCATION</data>
     </node>
+    <node id="tibet">
+      <data key="d2">tibet</data>
+      <data key="d3">LOCATION</data>
+    </node>
+    <node id="rampur">
+      <data key="d2">rampur</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="specimens">
+      <data key="d2">specimens</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="european_plant">
+      <data key="d2">european plant</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="garu">
+      <data key="d2">garu</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="tibetan_countries_in_its_neighbourhood">
+      <data key="d2">tibetan countries in its neighbourhood</data>
+      <data key="d3">LOCATION</data>
+    </node>
+    <node id="ladak">
+      <data key="d2">ladak</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="loaded_men">
+      <data key="d2">loaded men</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="support">
+      <data key="d2">support</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="saffron">
+      <data key="d2">saffron</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="throughout_the_year">
+      <data key="d2">throughout the year</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="strachey">
+      <data key="d2">strachey</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="facts">
+      <data key="d2">facts</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="donations">
+      <data key="d2">donations</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="statements">
+      <data key="d2">statements</data>
+      <data key="d3">LOCATION</data>
+    </node>
+    <node id="nepal">
+      <data key="d2">nepal</data>
+      <data key="d3">LOCATION</data>
+    </node>
+    <node id="grains">
+      <data key="d2">grains</data>
+      <data key="d3">COMMODITY</data>
+    </node>
+    <node id="tibetan_rock_salt">
+      <data key="d2">tibetan rock salt</data>
+      <data key="d3">COMMODITY</data>
+    </node>
+    <node id="limis">
+      <data key="d2">limis</data>
+      <data key="d3">GROUP</data>
+    </node>
+    <node id="marts">
+      <data key="d2">marts</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="humlis">
+      <data key="d2">humlis</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="salt">
+      <data key="d2">salt</data>
+      <data key="d3">COMMODITY</data>
+    </node>
+    <node id="consumers">
+      <data key="d2">consumers</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="grain_for_salt">
+      <data key="d2">grain for salt</data>
+      <data key="d3">COMMODITY</data>
+    </node>
+    <node id="at_present">
+      <data key="d2">at present</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="traders_from_two_villages">
+      <data key="d2">traders from two villages</data>
+      <data key="d3">GROUP</data>
+    </node>
+    <node id="tibetan_salt">
+      <data key="d2">tibetan salt</data>
+      <data key="d3">COMMODITY</data>
+    </node>
+    <node id="indian_salt">
+      <data key="d2">indian salt</data>
+      <data key="d3">COMMODITY</data>
+    </node>
     <node id="livestock">
       <data key="d2">livestock</data>
       <data key="d3">COMMODITY</data>
@@ -481,10 +549,6 @@
       <data key="d2">king of ladakh</data>
       <data key="d3">PERSON</data>
     </node>
-    <node id="tibet">
-      <data key="d2">tibet</data>
-      <data key="d3">LOCATION</data>
-    </node>
     <node id="frederic_drew">
       <data key="d2">frederic drew</data>
       <data key="d3">PERSON</data>
@@ -516,10 +580,6 @@
     <node id="salt_lakes">
       <data key="d2">salt lakes</data>
       <data key="d3">LOCATION</data>
-    </node>
-    <node id="salt">
-      <data key="d2">salt</data>
-      <data key="d3">COMMODITY</data>
     </node>
     <node id="outer_hills">
       <data key="d2">outer hills</data>
@@ -592,6 +652,14 @@
     <node id="ladakhi_traders">
       <data key="d2">ladakhi traders</data>
       <data key="d3">GROUP</data>
+    </node>
+    <node id="pastoralists">
+      <data key="d2">pastoralists</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="migratory_strategy">
+      <data key="d2">migratory strategy</data>
+      <data key="d3">PERSON</data>
     </node>
     <node id="rupshu">
       <data key="d2">rupshu</data>
@@ -785,10 +853,6 @@
       <data key="d2">himalayan peoples</data>
       <data key="d3">PERSON</data>
     </node>
-    <node id="tibetan_salt">
-      <data key="d2">tibetan salt</data>
-      <data key="d3">COMMODITY</data>
-    </node>
     <node id="ancient_tea_horse_road">
       <data key="d2">ancient tea horse road</data>
       <data key="d3">COMMODITY</data>
@@ -797,17 +861,9 @@
       <data key="d2">national cultural heritage</data>
       <data key="d3">GROUP</data>
     </node>
-    <edge source="i" target="this_effort">
-      <data key="d0">1.0</data>
-      <data key="d1">depends_on</data>
-    </edge>
     <edge source="british_rule" target="local_habitations">
       <data key="d0">1.0</data>
       <data key="d1">negotiates_with</data>
-    </edge>
-    <edge source="british_rule" target="with_the_emergent_indian_nation">
-      <data key="d0">1.0</data>
-      <data key="d1">supplies</data>
     </edge>
     <edge source="river_sutlej" target="traders_and_others">
       <data key="d0">1.0</data>
@@ -853,10 +909,6 @@
       <data key="d0">1.0</data>
       <data key="d1">transports_via</data>
     </edge>
-    <edge source="the_british_government" target="through_palampur_and_from_leh_to_kashmir">
-      <data key="d0">1.0</data>
-      <data key="d1">trades_with</data>
-    </edge>
     <edge source="traders_from_the_plains" target="the_narrow_mountain_paths">
       <data key="d0">1.0</data>
       <data key="d1">negotiates_with</data>
@@ -873,10 +925,6 @@
       <data key="d0">1.0</data>
       <data key="d1">taxes</data>
     </edge>
-    <edge source="those_deities" target="obedience">
-      <data key="d0">1.0</data>
-      <data key="d1">trades_with</data>
-    </edge>
     <edge source="the_state" target="area">
       <data key="d0">1.0</data>
       <data key="d1">governs</data>
@@ -889,10 +937,6 @@
       <data key="d0">1.0</data>
       <data key="d1">extracts_from</data>
     </edge>
-    <edge source="these_mountain_communities" target="cash">
-      <data key="d0">1.0</data>
-      <data key="d1">trades_with</data>
-    </edge>
     <edge source="wool_of_the_pastoralists" target="cash_instead_of_cloth">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
@@ -900,10 +944,6 @@
     <edge source="village" target="the_corn">
       <data key="d0">1.0</data>
       <data key="d1">supplies</data>
-    </edge>
-    <edge source="the_first_thing" target="to_be_emphasised_about_himalayan_marriage">
-      <data key="d0">1.0</data>
-      <data key="d1">depends_on</data>
     </edge>
     <edge source="british" target="entire_border_with_the_sikh_territories">
       <data key="d0">1.0</data>
@@ -1053,6 +1093,78 @@
       <data key="d0">1.0</data>
       <data key="d1">transports_via</data>
     </edge>
+    <edge source="tibet" target="rampur">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="tibet" target="pashm">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="specimens" target="european_plant">
+      <data key="d0">1.0</data>
+      <data key="d1">negotiates_with</data>
+    </edge>
+    <edge source="garu" target="tibetan_countries_in_its_neighbourhood">
+      <data key="d0">1.0</data>
+      <data key="d1">taxes</data>
+    </edge>
+    <edge source="ladak" target="tibetan_countries_in_its_neighbourhood">
+      <data key="d0">1.0</data>
+      <data key="d1">taxes</data>
+    </edge>
+    <edge source="loaded_men" target="support">
+      <data key="d0">1.0</data>
+      <data key="d1">depends_on</data>
+    </edge>
+    <edge source="saffron" target="throughout_the_year">
+      <data key="d0">1.0</data>
+      <data key="d1">licenses</data>
+    </edge>
+    <edge source="strachey" target="facts">
+      <data key="d0">1.0</data>
+      <data key="d1">supplies</data>
+    </edge>
+    <edge source="donations" target="statements">
+      <data key="d0">1.0</data>
+      <data key="d1">taxes</data>
+    </edge>
+    <edge source="nepal" target="tibet">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="grains" target="tibetan_rock_salt">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="limis" target="marts">
+      <data key="d0">1.0</data>
+      <data key="d1">supplies</data>
+    </edge>
+    <edge source="humlis" target="salt">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="humlis" target="at_present">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="salt" target="barley">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="consumers" target="grain_for_salt">
+      <data key="d0">1.0</data>
+      <data key="d1">trades_with</data>
+    </edge>
+    <edge source="traders_from_two_villages" target="tibetan_salt">
+      <data key="d0">1.0</data>
+      <data key="d1">transports_via</data>
+    </edge>
+    <edge source="traders_from_two_villages" target="indian_salt">
+      <data key="d0">1.0</data>
+      <data key="d1">transports_via</data>
+    </edge>
     <edge source="livestock" target="butter">
       <data key="d0">1.0</data>
       <data key="d1">supplies</data>
@@ -1073,10 +1185,6 @@
       <data key="d0">1.0</data>
       <data key="d1">licenses</data>
     </edge>
-    <edge source="tibet" target="pashm">
-      <data key="d0">1.0</data>
-      <data key="d1">trades_with</data>
-    </edge>
     <edge source="frederic_drew" target="ladakh">
       <data key="d0">1.0</data>
       <data key="d1">governs</data>
@@ -1094,10 +1202,6 @@
       <data key="d1">trades_with</data>
     </edge>
     <edge source="salt_lakes" target="salt">
-      <data key="d0">1.0</data>
-      <data key="d1">trades_with</data>
-    </edge>
-    <edge source="salt" target="barley">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
     </edge>
@@ -1176,6 +1280,10 @@
     <edge source="ladakhi_traders" target="pashm">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
+    </edge>
+    <edge source="pastoralists" target="migratory_strategy">
+      <data key="d0">1.0</data>
+      <data key="d1">depends_on</data>
     </edge>
     <edge source="rupshu" target="tibet">
       <data key="d0">1.0</data>

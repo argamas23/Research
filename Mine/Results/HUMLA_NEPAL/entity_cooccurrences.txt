@@ -1,0 +1,800 @@
+Anchor Entity: cnas [/organization/organization]
+Example Context:
+...CONTRIBUTIONS TO NEPALESE STUDIES CNAS, TRIBHUVAN UNIVERSITY Vol. 10, No. 1 & 2 Dec. 82/June 1983 Adaptation to a Changing Salt Trade: The View from Humla J.L. Ross* Throughout Nepal trans-Himalayan trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ tribhuvan university [/organization/organization] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tribhuvan university [/organization/organization]
+Example Context:
+...CONTRIBUTIONS TO NEPALESE STUDIES CNAS, TRIBHUVAN UNIVERSITY Vol. 10, No. 1 & 2 Dec. 82/June 1983 Adaptation to a Changing Salt Trade: The View from Humla J.L. Ross* Throughout Nepal trans-Himalayan trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ adaptation [/book/book_subject] — 2 times
+  ↳ karnali zone [/location/statistical_region] — 2 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ humla district [/location/statistical_region] — 2 times
+  ↳ nepal [/travel/travel_destination] — 2 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ cnas [/organization/organization] — 1 times
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ case western reserve university [/organization/organization_member] — 1 times
+  ↳ government of nepal [/organization/organization] — 1 times
+  ↳ graduate alumni fund [/organization/organization] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: salt [/food/ingredient]
+Example Context:
+...CONTRIBUTIONS TO NEPALESE STUDIES CNAS, TRIBHUVAN UNIVERSITY Vol. 10, No. 1 & 2 Dec. 82/June 1983 Adaptation to a Changing Salt Trade: The View from Humla J.L. Ross* Throughout Nepal trans-Himalayan trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 29 times
+  ↳ rice [/medicine/drug_ingredient] — 29 times
+  ↳ grain [/food/food] — 16 times
+  ↳ tibet [/travel/travel_destination] — 15 times
+  ↳ sheep [/visual_art/art_subject] — 13 times
+  ↳ humlis [/organization/organization] — 12 times
+  ↳ animal [/visual_art/art_subject] — 12 times
+  ↳ adaptation [/book/book_subject] — 10 times
+  ↳ purangbas [/location/location] — 10 times
+  ↳ commodity [/book/book_subject] — 9 times
+  ↳ volume [/measurement_unit/dimension] — 7 times
+  ↳ yak [/biology/organism_classification] — 6 times
+  ↳ number [/book/book_subject] — 6 times
+  ↳ nepal [/travel/travel_destination] — 5 times
+  ↳ supply and demand [/book/book_subject] — 5 times
+  ↳ cash [/media_common/quotation_subject] — 5 times
+  ↳ thakuri [/royalty/system_of_nobility] — 4 times
+  ↳ mining [/organization/organization_sector] — 4 times
+  ↳ limi [/location/statistical_region] — 4 times
+  ↳ snow [/book/book_subject] — 4 times
+  ↳ village [/fictional_universe/fictional_organization_type] — 4 times
+  ↳ india [/tv/tv_location] — 4 times
+  ↳ millet [/medicine/drug_ingredient] — 4 times
+  ↳ wheat [/visual_art/art_subject] — 4 times
+  ↳ economics [/radio/radio_subject] — 4 times
+  ↳ river [/visual_art/art_subject] — 3 times
+  ↳ narala pass [/location/location] — 3 times
+  ↳ price [/media_common/quotation_subject] — 3 times
+  ↳ terai [/location/location] — 3 times
+  ↳ goods [/media_common/quotation_subject] — 3 times
+  ↳ bazaar [/book/book_subject] — 3 times
+  ↳ tibetans [/people/ethnicity] — 3 times
+  ↳ cnas journal [/organization/organization] — 2 times
+  ↳ marketing [/people/profession] — 2 times
+  ↳ productivity [/computer/software_genre] — 2 times
+  ↳ malaria [/people/cause_of_death] — 2 times
+  ↳ data [/internet/website_category] — 2 times
+  ↳ money [/media_common/quotation_subject] — 2 times
+  ↳ consumer [/organization/contact_category] — 2 times
+  ↳ agriculture [/people/professional_field] — 2 times
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ cnas [/organization/organization] — 1 times
+  ↳ tribhuvan university [/organization/organization] — 1 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ chhetri [/people/ethnicity] — 1 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ nepalese districts [/location/location] — 1 times
+  ↳ pasture [/geography/geographical_feature_category] — 1 times
+  ↳ generation [/media_common/quotation_subject] — 1 times
+  ↳ dalai lama [/religion/religious_leadership_title] — 1 times
+  ↳ bag [/business/product_category] — 1 times
+  ↳ indian border [/location/location] — 1 times
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ nepalgunj [/location/statistical_region] — 1 times
+  ↳ julgart [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: nepal [/travel/travel_destination]
+Example Context:
+...CONTRIBUTIONS TO NEPALESE STUDIES CNAS, TRIBHUVAN UNIVERSITY Vol. 10, No. 1 & 2 Dec. 82/June 1983 Adaptation to a Changing Salt Trade: The View from Humla J.L. Ross* Throughout Nepal trans-Himalayan trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 8 times
+  ↳ karnali zone [/location/statistical_region] — 5 times
+  ↳ salt [/food/ingredient] — 4 times
+  ↳ india [/tv/tv_location] — 4 times
+  ↳ fürer-haimendorf [/organization/organization] — 4 times
+  ↳ adaptation [/book/book_subject] — 3 times
+  ↳ humla district [/location/statistical_region] — 3 times
+  ↳ river [/visual_art/art_subject] — 3 times
+  ↳ tribhuvan university [/organization/organization] — 3 times
+  ↳ tibet [/travel/travel_destination] — 3 times
+  ↳ tibetans [/people/ethnicity] — 3 times
+  ↳ trade route [/book/book_subject] — 2 times
+  ↳ plateau [/geography/mountain_type] — 2 times
+  ↳ thakuri [/royalty/system_of_nobility] — 2 times
+  ↳ caste [/book/book_subject] — 2 times
+  ↳ chhetri [/people/ethnicity] — 2 times
+  ↳ grain [/food/food] — 2 times
+  ↳ rice [/medicine/drug_ingredient] — 2 times
+  ↳ graduate alumni fund [/organization/organization] — 2 times
+  ↳ case western reserve university [/organization/organization_member] — 2 times
+  ↳ government of nepal [/organization/organization] — 2 times
+  ↳ research [/spaceflight/satellite_type] — 2 times
+  ↳ cnas [/organization/organization] — 1 times
+  ↳ cnas journal [/organization/organization] — 1 times
+  ↳ dalai lama [/religion/religious_leadership_title] — 1 times
+  ↳ malaria [/people/cause_of_death] — 1 times
+  ↳ terai [/location/location] — 1 times
+  ↳ productivity [/computer/software_genre] — 1 times
+  ↳ number [/book/book_subject] — 1 times
+  ↳ goods [/media_common/quotation_subject] — 1 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ wage [/media_common/quotation_subject] — 1 times
+  ↳ employment [/organization/organization_sector] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ nepalgunj [/location/statistical_region] — 1 times
+  ↳ john murray [/people/person] — 1 times
+  ↳ london [/visual_art/art_subject] — 1 times
+  ↳ julgart [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: karnali zone [/location/location]
+Example Context:
+...TO NEPALESE STUDIES CNAS, TRIBHUVAN UNIVERSITY Vol. 10, No. 1 & 2 Dec. 82/June 1983 Adaptation to a Changing Salt Trade: The View from Humla J.L. Ross* Throughout Nepal trans-Himalayan trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and northern India with the plateau regions of western Tibet. In upper Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ adaptation [/book/book_subject] — 2 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ humla district [/location/statistical_region] — 2 times
+  ↳ nepal [/travel/travel_destination] — 2 times
+  ↳ tribhuvan university [/organization/organization] — 2 times
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ plateau [/geography/mountain_type] — 1 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ cnas [/organization/organization] — 1 times
+  ↳ chhetri [/people/ethnicity] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: humla district [/location/location]
+Example Context:
+...CNAS, TRIBHUVAN UNIVERSITY Vol. 10, No. 1 & 2 Dec. 82/June 1983 Adaptation to a Changing Salt Trade: The View from Humla J.L. Ross* Throughout Nepal trans-Himalayan trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and northern India with the plateau regions of western Tibet. In upper Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu populations have engaged...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ adaptation [/book/book_subject] — 2 times
+  ↳ karnali zone [/location/statistical_region] — 2 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ nepal [/travel/travel_destination] — 2 times
+  ↳ tribhuvan university [/organization/organization] — 2 times
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ plateau [/geography/mountain_type] — 1 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ chhetri [/people/ethnicity] — 1 times
+  ↳ cnas [/organization/organization] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ case western reserve university [/organization/organization_member] — 1 times
+  ↳ government of nepal [/organization/organization] — 1 times
+  ↳ graduate alumni fund [/organization/organization] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: river [/geography/geographical_feature_category]
+Example Context:
+...Trade: The View from Humla J.L. Ross* Throughout Nepal trans-Himalayan trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and northern India with the plateau regions of western Tibet. In upper Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu populations have engaged in long-distance trade for several centuries.³ The traditional rationale of this trade system in western Nepal...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tibet [/travel/travel_destination] — 2 times
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ plateau [/geography/mountain_type] — 1 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ chhetri [/people/ethnicity] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ yak [/biology/organism_classification] — 1 times
+  ↳ limi [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ cnas journal [/organization/organization] — 1 times
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ narala pass [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: india [/travel/travel_destination]
+Example Context:
+...trade is a major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and northern India with the plateau regions of western Tibet. In upper Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu populations have engaged in long-distance trade for several centuries.³ The traditional rationale of this trade system in western Nepal is simply stated: in the high altitude regions of western...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ nepal [/travel/travel_destination] — 4 times
+  ↳ trade [/organization/organization_sector] — 3 times
+  ↳ terai [/location/location] — 3 times
+  ↳ salt [/food/ingredient] — 3 times
+  ↳ thakuri [/royalty/system_of_nobility] — 2 times
+  ↳ tibet [/travel/travel_destination] — 2 times
+  ↳ malaria [/people/cause_of_death] — 2 times
+  ↳ rice [/medicine/drug_ingredient] — 2 times
+  ↳ number [/book/book_subject] — 2 times
+  ↳ humlis [/organization/organization] — 2 times
+  ↳ goods [/media_common/quotation_subject] — 2 times
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ plateau [/geography/mountain_type] — 1 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ chhetri [/people/ethnicity] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ village [/fictional_universe/fictional_organization_type] — 1 times
+  ↳ jungle [/film/film_subject] — 1 times
+  ↳ cnas journal [/organization/organization] — 1 times
+  ↳ generation [/media_common/quotation_subject] — 1 times
+  ↳ dalai lama [/religion/religious_leadership_title] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: plateau [/geography/geographical_feature_category]
+Example Context:
+...major economic strategy for many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and northern India with the plateau regions of western Tibet. In upper Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu populations have engaged in long-distance trade for several centuries.³ The traditional rationale of this trade system in western Nepal is simply stated: in the high altitude regions of western Tibet there has...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ chhetri [/people/ethnicity] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tibet [/travel/travel_destination]
+Example Context:
+...many populations, particularly for those inhabiting the northern border areas.² Located in the Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and northern India with the plateau regions of western Tibet. In upper Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu populations have engaged in long-distance trade for several centuries.³ The traditional rationale of this trade system in western Nepal is simply stated: in the high altitude regions of western Tibet there has been a demand for...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 7 times
+  ↳ trade [/organization/organization_sector] — 6 times
+  ↳ grain [/food/food] — 4 times
+  ↳ nepal [/travel/travel_destination] — 3 times
+  ↳ rice [/medicine/drug_ingredient] — 3 times
+  ↳ cnas journal [/organization/organization] — 3 times
+  ↳ sheep [/visual_art/art_subject] — 3 times
+  ↳ india [/tv/tv_location] — 2 times
+  ↳ plateau [/geography/mountain_type] — 2 times
+  ↳ thakuri [/royalty/system_of_nobility] — 2 times
+  ↳ caste [/book/book_subject] — 2 times
+  ↳ chhetri [/people/ethnicity] — 2 times
+  ↳ river [/visual_art/art_subject] — 2 times
+  ↳ snow [/book/book_subject] — 2 times
+  ↳ purangbas [/location/location] — 2 times
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ mining [/organization/organization_sector] — 1 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ commodity [/book/book_subject] — 1 times
+  ↳ yak [/biology/organism_classification] — 1 times
+  ↳ narala pass [/location/location] — 1 times
+  ↳ marketing [/people/profession] — 1 times
+  ↳ humlis [/organization/organization] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ number [/book/book_subject] — 1 times
+  ↳ pasture [/geography/geographical_feature_category] — 1 times
+  ↳ village [/fictional_universe/fictional_organization_type] — 1 times
+  ↳ dalai lama [/religion/religious_leadership_title] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: chhetri [/people/ethnicity]
+Example Context:
+...Karnali Zone, the Humla District is situated along an historically important trade route which follows the watershed of the Karnali River and links the lower regions of Nepal and northern India with the plateau regions of western Tibet. In upper Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu populations have engaged in long-distance trade for several centuries.³ The traditional rationale of this trade system in western Nepal is simply stated: in the high altitude regions of western Tibet there has been a demand for grains, particularly rice, in exchange for which Tibetan rock salt can be obtained...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade route [/book/book_subject] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ plateau [/geography/mountain_type] — 1 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: rice [/food/ingredient]
+Example Context:
+...Humla both Tibetan speaking Buddhist and high caste Thakuri and Chhetri Hindu populations have engaged in long-distance trade for several centuries.³ The traditional rationale of this trade system in western Nepal is simply stated: in the high altitude regions of western Tibet there has been a demand for grains, particularly rice, in exchange for which Tibetan rock salt can be obtained and marketed in the grain rich areas to the south. The differential in exchange ratios of grain to salt between these two regions represents a substantial profit, one which has been realized by the development of an extended trade network...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 25 times
+  ↳ trade [/organization/organization_sector] — 12 times
+  ↳ animal [/visual_art/art_subject] — 12 times
+  ↳ grain [/food/food] — 6 times
+  ↳ tibet [/travel/travel_destination] — 5 times
+  ↳ volume [/measurement_unit/dimension] — 4 times
+  ↳ sheep [/visual_art/art_subject] — 4 times
+  ↳ commodity [/book/book_subject] — 4 times
+  ↳ village [/fictional_universe/fictional_organization_type] — 3 times
+  ↳ millet [/medicine/drug_ingredient] — 3 times
+  ↳ cnas journal [/organization/organization] — 3 times
+  ↳ thakuri [/royalty/system_of_nobility] — 2 times
+  ↳ nepal [/travel/travel_destination] — 2 times
+  ↳ data [/internet/website_category] — 2 times
+  ↳ wheat [/visual_art/art_subject] — 2 times
+  ↳ cash [/media_common/quotation_subject] — 2 times
+  ↳ tibetans [/people/ethnicity] — 2 times
+  ↳ caste [/book/book_subject] — 1 times
+  ↳ chhetri [/people/ethnicity] — 1 times
+  ↳ supply and demand [/book/book_subject] — 1 times
+  ↳ purangbas [/location/location] — 1 times
+  ↳ nepalese districts [/location/location] — 1 times
+  ↳ pasture [/geography/geographical_feature_category] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ generation [/media_common/quotation_subject] — 1 times
+  ↳ dalai lama [/religion/religious_leadership_title] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ malaria [/people/cause_of_death] — 1 times
+  ↳ terai [/location/location] — 1 times
+  ↳ productivity [/computer/software_genre] — 1 times
+  ↳ number [/book/book_subject] — 1 times
+  ↳ goods [/media_common/quotation_subject] — 1 times
+  ↳ humlis [/organization/organization] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: grain [/food/food]
+Example Context:
+...in long-distance trade for several centuries.³ The traditional rationale of this trade system in western Nepal is simply stated: in the high altitude regions of western Tibet there has been a demand for grains, particularly rice, in exchange for which Tibetan rock salt can be obtained and marketed in the grain rich areas to the south. The differential in exchange ratios of grain to salt between these two regions represents a substantial profit, one which has been realized by the development of an extended trade network and complex schedule of movement of men, animals and commodities. In the last two decades...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 9 times
+  ↳ rice [/medicine/drug_ingredient] — 6 times
+  ↳ trade [/organization/organization_sector] — 6 times
+  ↳ tibet [/travel/travel_destination] — 6 times
+  ↳ nepal [/travel/travel_destination] — 3 times
+  ↳ purangbas [/location/location] — 2 times
+  ↳ sheep [/visual_art/art_subject] — 2 times
+  ↳ adaptation [/book/book_subject] — 2 times
+  ↳ number [/book/book_subject] — 2 times
+  ↳ thakuri [/royalty/system_of_nobility] — 2 times
+  ↳ supply and demand [/book/book_subject] — 1 times
+  ↳ marketing [/people/profession] — 1 times
+  ↳ humlis [/organization/organization] — 1 times
+  ↳ nepalese districts [/location/location] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ terai [/location/location] — 1 times
+  ↳ malaria [/people/cause_of_death] — 1 times
+  ↳ productivity [/computer/software_genre] — 1 times
+  ↳ data [/internet/website_category] — 1 times
+  ↳ commodity [/book/book_subject] — 1 times
+  ↳ employment [/organization/organization_sector] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: paper [/business/consumer_product]
+Example Context:
+...profit, one which has been realized by the development of an extended trade network and complex schedule of movement of men, animals and commodities. In the last two decades a combination of political, economic and ecological events have resulted in a reorientation of this trading system. The purpose of this paper is to describe the changes which have occurred and the manner in which Humla traders have adapted to maintain long-distance trade as a viable strategy. Rock salt, the principal commodity acquired in Tibet, has its source in alkaline lakes to the north of the trade entrepot of Purang. Several alternatives...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ commodity [/book/book_subject] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ wage [/media_common/quotation_subject] — 1 times
+  ↳ graduate alumni fund [/organization/organization] — 1 times
+  ↳ case western reserve university [/organization/organization_member] — 1 times
+  ↳ employment [/organization/organization_sector] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: limi [/location/location]
+Example Context:
+...the north of the trade entrepot of Purang. Several alternatives traditionally existed through which Nepali traders could obtain this salt, including the option of travelling directly to the source and mining it after paying a fee to local Tibetan officials. This alternative was most often employed by inhabitants of the Limi valley who had large numbers of yak as well as sheep with which to transport salt. Generally salt was mined by Tibetan nomads who sold it to Tibetan farmers inhabiting the border area known as Purang. To acquire salt traders from villages along the Humla-Karnali River undertook one or more...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ yak [/biology/organism_classification] — 1 times
+  ↳ mining [/organization/organization_sector] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: yak [/biology/animal]
+Example Context:
+...Purang. Several alternatives traditionally existed through which Nepali traders could obtain this salt, including the option of travelling directly to the source and mining it after paying a fee to local Tibetan officials. This alternative was most often employed by inhabitants of the Limi valley who had large numbers of yak as well as sheep with which to transport salt. Generally salt was mined by Tibetan nomads who sold it to Tibetan farmers inhabiting the border area known as Purang. To acquire salt traders from villages along the Humla-Karnali River undertook one or more excursions to Purang (Tibet) between the harvesting...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ sheep [/visual_art/art_subject] — 2 times
+  ↳ mining [/organization/organization_sector] — 1 times
+  ↳ limi [/location/statistical_region] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ purangbas [/location/location] — 1 times
+  ↳ narala pass [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: sheep [/food/ingredient]
+Example Context:
+...existed through which Nepali traders could obtain this salt, including the option of travelling directly to the source and mining it after paying a fee to local Tibetan officials. This alternative was most often employed by inhabitants of the Limi valley who had large numbers of yak as well as sheep with which to transport salt. Generally salt was mined by Tibetan nomads who sold it to Tibetan farmers inhabiting the border area known as Purang. To acquire salt traders from villages along the Humla-Karnali River undertook one or more excursions to Purang (Tibet) between the harvesting of the winter and...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 5 times
+  ↳ tibet [/travel/travel_destination] — 3 times
+  ↳ yak [/biology/organism_classification] — 2 times
+  ↳ purangbas [/location/location] — 2 times
+  ↳ rice [/medicine/drug_ingredient] — 2 times
+  ↳ mining [/organization/organization_sector] — 1 times
+  ↳ limi [/location/statistical_region] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ narala pass [/location/location] — 1 times
+  ↳ nepalese districts [/location/location] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ village [/fictional_universe/fictional_organization_type] — 1 times
+  ↳ volume [/measurement_unit/dimension] — 1 times
+  ↳ animal [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: cnas journal [/organization/organization]
+Example Context:
+...Tibetan nomads who sold it to Tibetan farmers inhabiting the border area known as Purang. To acquire salt traders from villages along the Humla-Karnali River undertook one or more excursions to Purang (Tibet) between the harvesting of the winter and summer crops (June-October), which coincides with the period that 44 CNAS Journal, Vol. 10, No. 1 & 2 (Dec. 82/June 83) the Narala Pass (16,500 feet) linking Humla and Purang is open and free of snow. Although the round-trip distance could be covered in as few as eight days, trips typically took between twelve and twenty days as they also served the...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ tibet [/travel/travel_destination] — 3 times
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ narala pass [/location/location] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ dalai lama [/religion/religious_leadership_title] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+  ↳ tibetans [/people/ethnicity] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: narala pass [/location/location]
+Example Context:
+...known as Purang. To acquire salt traders from villages along the Humla-Karnali River undertook one or more excursions to Purang (Tibet) between the harvesting of the winter and summer crops (June-October), which coincides with the period that 44 CNAS Journal, Vol. 10, No. 1 & 2 (Dec. 82/June 83) the Narala Pass (16,500 feet) linking Humla and Purang is open and free of snow. Although the round-trip distance could be covered in as few as eight days, trips typically took between twelve and twenty days as they also served the purpose of providing summer grazing for the flocks of ovines along the...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ snow [/book/book_subject] — 2 times
+  ↳ cnas journal [/organization/organization] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ river [/visual_art/art_subject] — 1 times
+  ↳ yak [/biology/organism_classification] — 1 times
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ purangbas [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: purangbas [/location/location]
+Example Context:
+...of ovines along the route. Another traditional source of salt was the trade fairs held in Humla in late October-November. At this time of year Humla traders were reluctant to travel over the Narala Pass as a sudden storm could severely decimate a flock of sheep and goats, but the Purangbas travelled with large numbers of yak capable of negotiating the pass even with a moderate snow cover. These fairs afforded the Purangbas and Limis the opportunity to market stores of salt they had not disposed of the previous summer season. This appears to have ended in 1973 when Purangbas were...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 5 times
+  ↳ yak [/biology/organism_classification] — 3 times
+  ↳ sheep [/visual_art/art_subject] — 3 times
+  ↳ snow [/book/book_subject] — 3 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ narala pass [/location/location] — 2 times
+  ↳ grain [/food/food] — 2 times
+  ↳ tibet [/travel/travel_destination] — 2 times
+  ↳ supply and demand [/book/book_subject] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+  ↳ volume [/measurement_unit/dimension] — 1 times
+  ↳ marketing [/people/profession] — 1 times
+  ↳ humlis [/organization/organization] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ number [/book/book_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: marketing [/people/profession]
+Example Context:
+...individual and seasonal variation in the supply and demand of the commodities involved. Often both Hindu and Buddhist Nepalis employed formal-ritualized ties of friendship with local Purangbas to ensure a dependable supply of salt from a reliable source. In return these trade partners were assured grain at minimum rates. The marketing by Humlis of the salt obtained in Tibet took place, as it does today, during the winter season (October-May) and often involved two trips to areas south of Humla. The first was a limited excursion in terms of distance (12-18 days distance) and duration (4-6 weeks). Only a portion of...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ supply and demand [/book/book_subject] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ purangbas [/location/location] — 1 times
+  ↳ humlis [/organization/organization] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: humlis [/organization/organization]
+Example Context:
+...seasonal variation in the supply and demand of the commodities involved. Often both Hindu and Buddhist Nepalis employed formal-ritualized ties of friendship with local Purangbas to ensure a dependable supply of salt from a reliable source. In return these trade partners were assured grain at minimum rates. The marketing by Humlis of the salt obtained in Tibet took place, as it does today, during the winter season (October-May) and often involved two trips to areas south of Humla. The first was a limited excursion in terms of distance (12-18 days distance) and duration (4-6 weeks). Only a portion of available carrier...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 4 times
+  ↳ trade [/organization/organization_sector] — 3 times
+  ↳ supply and demand [/book/book_subject] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ purangbas [/location/location] — 1 times
+  ↳ marketing [/people/profession] — 1 times
+  ↳ india [/tv/tv_location] — 1 times
+  ↳ goods [/media_common/quotation_subject] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ agriculture [/people/professional_field] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: nepalese districts [/location/location]
+Example Context:
+...was a limited excursion in terms of distance (12-18 days distance) and duration (4-6 weeks). Only a portion of available carrier animals (sheep and goats) were taken at this time. This occurs in late September or early October and coincides with the completion of the rice harvest in such lower-lying Nepalese Districts as Bajura and Bajhang. The trip serves the purpose of both reducing the stores of salt to a level where what remains can be transported with available animals during the second trip, and of obtaining grain to add to the stores for household consumption during the ensuing winter. The second...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ sheep [/visual_art/art_subject] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: terai [/location/location]
+Example Context:
+...to several lower lying, grain growing districts including Bajhang, Bajura and Achham. The Thakuri traders travel to areas where they not only have established trade contacts, but also ties through marriage. In the past traders would occasionally travel to India via Nepal's western border, but until the 1950s the Nepali terai was a sparsely populated malarial jungle that traders seldom visited. The schedule followed by traders from upper Humla (which results in the trader and his animals being absent from the village for as much as 8-9 months of every year) provides not only essential pasture for ovines which because of...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ india [/tv/tv_location] — 3 times
+  ↳ malaria [/people/cause_of_death] — 2 times
+  ↳ salt [/food/ingredient] — 2 times
+  ↳ rice [/medicine/drug_ingredient] — 2 times
+  ↳ number [/book/book_subject] — 2 times
+  ↳ nepal [/travel/travel_destination] — 2 times
+  ↳ goods [/media_common/quotation_subject] — 2 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ pasture [/geography/geographical_feature_category] — 1 times
+  ↳ grain [/food/food] — 1 times
+  ↳ village [/fictional_universe/fictional_organization_type] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ jungle [/film/film_subject] — 1 times
+  ↳ productivity [/computer/software_genre] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: pasture [/geography/geographical_feature_category]
+Example Context:
+...until the 1950s the Nepali terai was a sparsely populated malarial jungle that traders seldom visited. The schedule followed by traders from upper Humla (which results in the trader and his animals being absent from the village for as much as 8-9 months of every year) provides not only essential pasture for ovines which because of snow cover is not available in Humla, but results in a system of profitable salt-grain exchange. One to two generations ago in Tibet, one unit of Nepali rice brought between six to ten units of rock salt. In the middle hills, however, one unit of...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ terai [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ snow [/book/book_subject] — 1 times
+  ↳ village [/fictional_universe/fictional_organization_type] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ jungle [/film/film_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: wheat [/food/ingredient]
+Example Context:
+...supplies of Tibetan salt are now exchanged not only for rice but also for other grains which are less highly valued, such as corn and millet. For example, one unit of salt will bring two units of corn or millet, and four units of salt will bring five units of wheat. It is these grains, supplemented by rice, that constitute the bulk of the diet of the trader in the middle hills. Adaptation to 47 But even if the entire supply of salt were traded for grains at the rate of 1:2, it would provide subsistence for only four months. For...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ millet [/medicine/drug_ingredient] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: indian border [/location/location]
+Example Context:
+...winter. This is due not only to lower rates of exchange but also restrictions on the availability of this commodity at its source. In order to remain viable and realize a profit the system has been reoriented. The Humla trader now makes several trips to bazaar towns near the north Indian border to acquire Indian salt.⁶ There, a large bag of salt equivalent to 10 animal loads can be acquired for Rs. 50/- in cash. The money is generated by selling an older animal for slaughter in the bazaar. Returning to our example, we can see how this new element increases the...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ bag [/business/product_category] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ cash [/media_common/quotation_subject] — 1 times
+  ↳ commodity [/book/book_subject] — 1 times
+  ↳ bazaar [/book/book_subject] — 1 times
+  ↳ money [/media_common/quotation_subject] — 1 times
+  ↳ animal [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: bag [/business/product_category]
+Example Context:
+...of exchange but also restrictions on the availability of this commodity at its source. In order to remain viable and realize a profit the system has been reoriented. The Humla trader now makes several trips to bazaar towns near the north Indian border to acquire Indian salt.⁶ There, a large bag of salt equivalent to 10 animal loads can be acquired for Rs. 50/- in cash. The money is generated by selling an older animal for slaughter in the bazaar. Returning to our example, we can see how this new element increases the profitability of the system. The trader in question...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ cash [/media_common/quotation_subject] — 1 times
+  ↳ indian border [/location/location] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ commodity [/book/book_subject] — 1 times
+  ↳ bazaar [/book/book_subject] — 1 times
+  ↳ money [/media_common/quotation_subject] — 1 times
+  ↳ animal [/visual_art/art_subject] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: food [/business/product_line]
+Example Context:
+...every household in each community expressed a desire to do so eventually. The benefits of this activity extend to others in the population as well. In 1976-1977 adults from 12 households were able to find employment with the long-distance traders during the winter season. In return they received their daily food, a set of clothes and the equivalent of Rs. 300/-. This amount is often paid by allowing individuals to select animals from the flock as compensation. This strategy of seasonal employment is often the means by which a household will acquire the animals necessary to engage in trade independently. For...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ employment [/organization/organization_sector] — 1 times
+  ↳ desire [/media_common/quotation_subject] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: tibetans [/people/ethnicity]
+Example Context:
+...amount, 219 khal (28 percent) was ultimately carried to Tibet the following season in exchange for salt. This left 559 khal of rice for home consumption within the community, an average of 9 khal per household. 48 CNAS Journal, Vol. 10, No. 1 & 2 (Dec. 82/June 83) Among the Tibetans during the same season a total of 890 khal of rice were brought back to the community. Of this amount, 133 khal (15 percent) were utilized for trade the following season, leaving a total of 757 khal for household consumption in the community, an average of 21 khal per household....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ salt [/food/ingredient] — 3 times
+  ↳ trade [/organization/organization_sector] — 2 times
+  ↳ cnas journal [/organization/organization] — 1 times
+  ↳ rice [/medicine/drug_ingredient] — 1 times
+  ↳ tibet [/travel/travel_destination] — 1 times
+  ↳ number [/book/book_subject] — 1 times
+  ↳ thakuri [/royalty/system_of_nobility] — 1 times
+  ↳ consumer [/organization/contact_category] — 1 times
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: national science foundation [/organization/organization]
+Example Context:
+...as seasonal migration for wage employment. It is in this light that we can see the continued importance of trans-Himalayan trade as an adaptive strategy. NOTES 1.​ This paper is the result of research undertaken in Nepal from October 1975 to July 1977. Support was provided in part by a National Science Foundation Dissertation Improvement Grant (BNS 76-00670), and Travel and Research Support Grants from the Graduate Alumni Fund, Case Western Reserve University. I am grateful to His Majesty's Government of Nepal for permission to conduct research in the Humla District and to the Center for Nepal and Asian Studies, Tribhuvan University, for...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ wage [/media_common/quotation_subject] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ graduate alumni fund [/organization/organization] — 1 times
+  ↳ case western reserve university [/organization/organization_member] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ employment [/organization/organization_sector] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ government of nepal [/organization/organization] — 1 times
+  ↳ tribhuvan university [/organization/organization] — 1 times
+  ↳ research [/spaceflight/satellite_type] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: graduate alumni fund [/organization/organization]
+Example Context:
+...continued importance of trans-Himalayan trade as an adaptive strategy. NOTES 1.​ This paper is the result of research undertaken in Nepal from October 1975 to July 1977. Support was provided in part by a National Science Foundation Dissertation Improvement Grant (BNS 76-00670), and Travel and Research Support Grants from the Graduate Alumni Fund, Case Western Reserve University. I am grateful to His Majesty's Government of Nepal for permission to conduct research in the Humla District and to the Center for Nepal and Asian Studies, Tribhuvan University, for their assistance and support while in Nepal. Adaptation to 49 2.​ For an extensive overview of...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ case western reserve university [/organization/organization_member] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ government of nepal [/organization/organization] — 1 times
+  ↳ tribhuvan university [/organization/organization] — 1 times
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: case western reserve university [/organization/organization]
+Example Context:
+...trans-Himalayan trade as an adaptive strategy. NOTES 1.​ This paper is the result of research undertaken in Nepal from October 1975 to July 1977. Support was provided in part by a National Science Foundation Dissertation Improvement Grant (BNS 76-00670), and Travel and Research Support Grants from the Graduate Alumni Fund, Case Western Reserve University. I am grateful to His Majesty's Government of Nepal for permission to conduct research in the Humla District and to the Center for Nepal and Asian Studies, Tribhuvan University, for their assistance and support while in Nepal. Adaptation to 49 2.​ For an extensive overview of trans-Himalayan trade throughout the...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ paper [/visual_art/visual_art_support] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ graduate alumni fund [/organization/organization] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ government of nepal [/organization/organization] — 1 times
+  ↳ tribhuvan university [/organization/organization] — 1 times
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: government of nepal [/organization/organization]
+Example Context:
+...is the result of research undertaken in Nepal from October 1975 to July 1977. Support was provided in part by a National Science Foundation Dissertation Improvement Grant (BNS 76-00670), and Travel and Research Support Grants from the Graduate Alumni Fund, Case Western Reserve University. I am grateful to His Majesty's Government of Nepal for permission to conduct research in the Humla District and to the Center for Nepal and Asian Studies, Tribhuvan University, for their assistance and support while in Nepal. Adaptation to 49 2.​ For an extensive overview of trans-Himalayan trade throughout the northern border areas see Fürer-Haimendorf, 1975. 3.​ For a...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ case western reserve university [/organization/organization_member] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ tribhuvan university [/organization/organization] — 1 times
+  ↳ graduate alumni fund [/organization/organization] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: center for nepal and asian studies [/organization/organization]
+Example Context:
+...was provided in part by a National Science Foundation Dissertation Improvement Grant (BNS 76-00670), and Travel and Research Support Grants from the Graduate Alumni Fund, Case Western Reserve University. I am grateful to His Majesty's Government of Nepal for permission to conduct research in the Humla District and to the Center for Nepal and Asian Studies, Tribhuvan University, for their assistance and support while in Nepal. Adaptation to 49 2.​ For an extensive overview of trans-Himalayan trade throughout the northern border areas see Fürer-Haimendorf, 1975. 3.​ For a general discussion of the populations of the Karnali Zone, including Humla, and long-distance trade in western Nepal, see...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ adaptation [/book/book_subject] — 1 times
+  ↳ karnali zone [/location/statistical_region] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ case western reserve university [/organization/organization_member] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ government of nepal [/organization/organization] — 1 times
+  ↳ tribhuvan university [/organization/organization] — 1 times
+  ↳ graduate alumni fund [/organization/organization] — 1 times
+  ↳ national science foundation [/projects/project_participant] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: fürer-haimendorf [/organization/organization]
+Example Context:
+...His Majesty's Government of Nepal for permission to conduct research in the Humla District and to the Center for Nepal and Asian Studies, Tribhuvan University, for their assistance and support while in Nepal. Adaptation to 49 2.​ For an extensive overview of trans-Himalayan trade throughout the northern border areas see Fürer-Haimendorf, 1975. 3.​ For a general discussion of the populations of the Karnali Zone, including Humla, and long-distance trade in western Nepal, see Fürer-Haimendorf, 1975, p. 221-285. 4.​ In 1972 Fürer-Haimendorf observed Tibetans who had entered Nepal travelling to a trade fair in Humla (1975, p. 251). Since that time bilateral...
+
+Co-occurring Entities (sorted by frequency):
+  ↳ nepal [/travel/travel_destination] — 4 times
+  ↳ adaptation [/book/book_subject] — 3 times
+  ↳ karnali zone [/location/statistical_region] — 3 times
+  ↳ trade [/organization/organization_sector] — 3 times
+  ↳ tibetans [/people/ethnicity] — 3 times
+  ↳ tribhuvan university [/organization/organization] — 2 times
+  ↳ center for nepal and asian studies [/organization/organization] — 1 times
+  ↳ humla district [/location/statistical_region] — 1 times
+  ↳ government of nepal [/organization/organization] — 1 times
+  ↳ research [/spaceflight/satellite_type] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ nepalgunj [/location/statistical_region] — 1 times
+  ↳ john murray [/people/person] — 1 times
+  ↳ london [/visual_art/art_subject] — 1 times
+  ↳ julgart [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: nepalgunj [/location/location]
+Example Context:
+...fall trade fair in November 1977 Limis had relatively little salt with which to trade. That summer they had been able to acquire little more than that needed for their own consumption. They were unable to identify a reason for this other than that it was Chinese policy. 6.​ Mahendranagar, Nepalgunj, Julgart and Surkhet are the towns most frequently visited for this purpose. 7.​ In western Nepal 1 khal is equal to 20, two mana pathis or 40 mana. REFERENCE ●​ Fürer-Haimendorf, C. Von, 1975. Himalayan Traders. London: John Murray....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ john murray [/people/person] — 1 times
+  ↳ london [/visual_art/art_subject] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ julgart [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: julgart [/location/location]
+Example Context:
+...trade fair in November 1977 Limis had relatively little salt with which to trade. That summer they had been able to acquire little more than that needed for their own consumption. They were unable to identify a reason for this other than that it was Chinese policy. 6.​ Mahendranagar, Nepalgunj, Julgart and Surkhet are the towns most frequently visited for this purpose. 7.​ In western Nepal 1 khal is equal to 20, two mana pathis or 40 mana. REFERENCE ●​ Fürer-Haimendorf, C. Von, 1975. Himalayan Traders. London: John Murray....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ salt [/food/ingredient] — 1 times
+  ↳ nepalgunj [/location/statistical_region] — 1 times
+  ↳ trade [/organization/organization_sector] — 1 times
+  ↳ john murray [/people/person] — 1 times
+  ↳ london [/visual_art/art_subject] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: london [/travel/travel_destination]
+Example Context:
+...a reason for this other than that it was Chinese policy. 6.​ Mahendranagar, Nepalgunj, Julgart and Surkhet are the towns most frequently visited for this purpose. 7.​ In western Nepal 1 khal is equal to 20, two mana pathis or 40 mana. REFERENCE ●​ Fürer-Haimendorf, C. Von, 1975. Himalayan Traders. London: John Murray....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ nepalgunj [/location/statistical_region] — 1 times
+  ↳ john murray [/people/person] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ julgart [/location/location] — 1 times
+--------------------------------------------------------------------------------
+Anchor Entity: john murray [/people/person]
+Example Context:
+...reason for this other than that it was Chinese policy. 6.​ Mahendranagar, Nepalgunj, Julgart and Surkhet are the towns most frequently visited for this purpose. 7.​ In western Nepal 1 khal is equal to 20, two mana pathis or 40 mana. REFERENCE ●​ Fürer-Haimendorf, C. Von, 1975. Himalayan Traders. London: John Murray....
+
+Co-occurring Entities (sorted by frequency):
+  ↳ fürer-haimendorf [/organization/organization] — 1 times
+  ↳ nepalgunj [/location/statistical_region] — 1 times
+  ↳ london [/visual_art/art_subject] — 1 times
+  ↳ nepal [/travel/travel_destination] — 1 times
+  ↳ julgart [/location/location] — 1 times
+--------------------------------------------------------------------------------

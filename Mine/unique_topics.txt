@@ -122,6 +122,7 @@
 /book/book_subject
 /book/excerpted_work
 /book/financial_support_provider
+/book/illustrator
 /book/interviewee
 /book/journal
 /book/literary_series
@@ -210,12 +211,15 @@
 /chess/chess_color
 /chess/chess_player
 /comedy/comedy_genre
+/comic_books/comic_book_creator
 /comic_books/comic_book_genre
+/comic_books/comic_book_penciler
 /comic_books/comic_book_publisher
 /comic_strips/comic_strip_creator
 /comic_strips/comic_strip_creator_role
 /comic_strips/comic_strip_genre
 /common/identity
+/common/license
 /common/webpage
 /computer/computer_designer
 /computer/computer_manufacturer_brand
@@ -224,6 +228,7 @@
 /computer/computing_platform
 /computer/content_license
 /computer/file_format
+/computer/file_format_genre
 /computer/internet_protocol
 /computer/operating_system
 /computer/operating_system_developer
@@ -242,6 +247,7 @@
 /conferences/type_of_conference
 /cricket/cricket_match_type
 /cricket/cricket_player
+/cricket/cricket_series
 /cvg/computer_game_rating_system
 /cvg/computer_game_region
 /cvg/computer_game_subject
@@ -283,6 +289,7 @@
 /education/student_radio_station
 /education/university
 /education/university_system
+/engineering/battery_cell_type
 /engineering/battery_shape_format
 /engineering/engine_category
 /engineering/engine_designer
@@ -338,6 +345,7 @@
 /film/director
 /film/film
 /film/film_character
+/film/film_collection
 /film/film_company
 /film/film_crewmember
 /film/film_distributor
@@ -571,6 +579,7 @@
 /measurement_unit/pressure_unit
 /measurement_unit/resistance_unit
 /measurement_unit/substance_unit
+/measurement_unit/temperature_unit
 /measurement_unit/time_unit
 /measurement_unit/unit_of_cargo_capacity
 /measurement_unit/unit_of_frequency
@@ -625,6 +634,7 @@
 /medicine/notable_person_with_medical_condition
 /medicine/physician
 /medicine/risk_factor
+/medicine/surgeon
 /medicine/symptom
 /medicine/transmission_route
 /medicine/type_of_infectious_agent
@@ -791,9 +801,11 @@
 /spaceflight/rocket_engine_oxidizer
 /spaceflight/rocket_fuel
 /spaceflight/rocket_function
+/spaceflight/rocket_launch_site
 /spaceflight/satellite
 /spaceflight/satellite_manufacturer
 /spaceflight/satellite_type
+/spaceflight/space_agency
 /spaceflight/space_program_sponsor
 /spaceflight/spacecraft
 /sports/coaching_position

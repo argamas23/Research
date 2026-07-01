@@ -32,6 +32,13 @@ def normalize_entity(text):
     return ENTITY_ALIASES.get(entity, entity)
 
 
+def book_label(path):
+    result_dir = os.path.basename(os.path.dirname(path))
+    if result_dir:
+        return result_dir
+    return os.path.splitext(os.path.basename(path))[0]
+
+
 def find_weighted_csvs(root):
     paths = []
     for path in glob.glob(
@@ -90,6 +97,13 @@ def compute_metrics(G):
     metrics["weighted_degree"] = dict(G.degree(weight="weight"))
     metrics["weighted_in_degree"] = dict(G.in_degree(weight="weight"))
     metrics["weighted_out_degree"] = dict(G.out_degree(weight="weight"))
+    if G.number_of_nodes() > 1500:
+        zero_metric = {node: 0.0 for node in G.nodes()}
+        metrics["betweenness"] = zero_metric.copy()
+        metrics["closeness"] = zero_metric.copy()
+        metrics["eigenvector"] = zero_metric.copy()
+        return metrics
+
     metrics["betweenness"] = nx.betweenness_centrality(
         G, weight="weight", normalized=True
     )
@@ -131,9 +145,18 @@ def map_relation(relation_text, source, target):
 def is_too_noisy_entity(entity_text):
     if not entity_text:
         return True
+    if entity_text in STOP_WORDS:
+        return True
     if entity_text in NOISY_ENTITIES:
         return True
-    if re.match(r"^(in|on|for|there|some|any|all|many|other)\b", entity_text):
+    if re.match(
+        r"^(in|on|for|there|some|any|all|many|other|with|through|by|as|to be)\b",
+        entity_text,
+    ):
+        return True
+    if re.match(r"^(this|that|these|those)\s+\w+", entity_text):
+        return True
+    if re.search(r"\b(i|we|me|my|our|us)\b", entity_text):
         return True
     if len(entity_text.split()) > 7:
         return True
@@ -229,7 +252,7 @@ def classify_node(node):
     return None, 0.0
 
 
-def build_clean_graph(aggregated, relation_attrs):
+def build_clean_graph(aggregated, relation_attrs, source_paths=None):
     entity_types = {}
     cleaned_edges = []
     for (source, target), weight in aggregated.items():
@@ -254,6 +277,10 @@ def build_clean_graph(aggregated, relation_attrs):
                 "raw_relations": raw_relations,
                 "source_type": source_type,
                 "target_type": target_type,
+                "books": sorted(
+                    book_label(path)
+                    for path in (source_paths or {}).get((source, target), [])
+                ),
             }
         )
 
@@ -305,6 +332,7 @@ def save_clean_relations(edges, path):
                 "confidence": round(min(edge["weight"] / 10.0, 1.0), 2),
                 "evidence": edge["raw_relations"],
                 "document": "aggregated_csvs",
+                "books": edge.get("books", []),
                 "weight": edge["weight"],
             }
             f.write(json.dumps(item, ensure_ascii=False) + "\n")
@@ -323,6 +351,7 @@ def save_clean_edges_csv(edges, path):
                 "RawRelations",
                 "SourceType",
                 "TargetType",
+                "Books",
             ]
         )
         for edge in sorted(edges, key=lambda x: -x["weight"]):
@@ -335,8 +364,133 @@ def save_clean_edges_csv(edges, path):
                     edge["raw_relations"],
                     edge["source_type"],
                     edge["target_type"],
+                    "|".join(edge.get("books", [])),
                 ]
             )
+
+
+def cleaned_graph_for_file(path):
+    edges = load_edges([path])
+    aggregated, relation_attrs, source_paths = aggregate_edges(edges)
+    return build_clean_graph(aggregated, relation_attrs, source_paths)
+
+
+def save_incoming_nodes_report(weighted_files, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    ordered_files = sorted(weighted_files, key=lambda item: (os.path.getmtime(item), item))
+    seen_nodes = set()
+    rows = []
+
+    for weighted_file in ordered_files:
+        G_book, entity_types, _ = cleaned_graph_for_file(weighted_file)
+        book = book_label(weighted_file)
+        previous_nodes = set(seen_nodes)
+        for node in sorted(G_book.nodes()):
+            if node in seen_nodes:
+                continue
+
+            neighbors = set(G_book.predecessors(node)) | set(G_book.successors(node))
+            bridge_neighbors = sorted(neighbors & previous_nodes)
+            rows.append(
+                {
+                    "Book": book,
+                    "Node": node,
+                    "Type": entity_types[node]["type"],
+                    "Confidence": round(entity_types[node]["confidence"], 2),
+                    "DegreeInBook": G_book.degree(node),
+                    "WeightedDegreeInBook": G_book.degree(node, weight="weight"),
+                    "ConnectsToExistingCorpus": bool(bridge_neighbors),
+                    "ExistingCorpusNeighbors": "|".join(bridge_neighbors),
+                }
+            )
+        seen_nodes.update(G_book.nodes())
+
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        fieldnames = [
+            "Book",
+            "Node",
+            "Type",
+            "Confidence",
+            "DegreeInBook",
+            "WeightedDegreeInBook",
+            "ConnectsToExistingCorpus",
+            "ExistingCorpusNeighbors",
+        ]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def save_island_components_report(G_clean, cleaned_edges, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    edge_lookup = {
+        (edge["source"], edge["target"]): edge
+        for edge in cleaned_edges
+    }
+    undirected = G_clean.to_undirected()
+    focus_component = set()
+    if RESEARCH_FOCUS_NODE in undirected:
+        focus_component = nx.node_connected_component(undirected, RESEARCH_FOCUS_NODE)
+
+    rows = []
+    components = sorted(
+        nx.connected_components(undirected), key=lambda component: (-len(component), sorted(component))
+    )
+    for index, component in enumerate(components, start=1):
+        component_edges = []
+        total_weight = 0.0
+        relation_counts = defaultdict(int)
+        books = set()
+
+        for source, target in G_clean.subgraph(component).edges():
+            edge = edge_lookup.get((source, target), {})
+            component_edges.append(f"{source} -> {target}")
+            total_weight += float(edge.get("weight", 1))
+            if edge.get("relation"):
+                relation_counts[edge["relation"]] += 1
+            books.update(edge.get("books", []))
+
+        is_focus_component = bool(focus_component and component <= focus_component)
+        if is_focus_component:
+            recommendation = "keep_core"
+        elif len(component) <= 3 and total_weight <= 3:
+            recommendation = "review_or_hide_small_island"
+        else:
+            recommendation = "review_disconnected_theme"
+
+        if not is_focus_component:
+            rows.append(
+                {
+                    "ComponentId": index,
+                    "Size": len(component),
+                    "EdgeCount": len(component_edges),
+                    "TotalWeight": total_weight,
+                    "Books": "|".join(sorted(books)),
+                    "Nodes": "|".join(sorted(component)),
+                    "Edges": "|".join(sorted(component_edges)),
+                    "RelationSummary": "|".join(
+                        f"{relation}:{count}"
+                        for relation, count in sorted(relation_counts.items())
+                    ),
+                    "Recommendation": recommendation,
+                }
+            )
+
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        fieldnames = [
+            "ComponentId",
+            "Size",
+            "EdgeCount",
+            "TotalWeight",
+            "Books",
+            "Nodes",
+            "Edges",
+            "RelationSummary",
+            "Recommendation",
+        ]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
 
 
 def calculate_node_size(weight):
@@ -346,15 +500,28 @@ def calculate_node_size(weight):
 def build_visualization_data(entity_types, edges):
     node_weights = defaultdict(float)
     node_degrees = defaultdict(int)
+    adjacency = defaultdict(set)
     focus_neighbors = set()
     for edge in edges:
         node_weights[edge["source"]] += edge["weight"]
         node_weights[edge["target"]] += edge["weight"]
         node_degrees[edge["source"]] += 1
         node_degrees[edge["target"]] += 1
+        adjacency[edge["source"]].add(edge["target"])
+        adjacency[edge["target"]].add(edge["source"])
         if RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}:
             focus_neighbors.add(edge["source"])
             focus_neighbors.add(edge["target"])
+
+    core_nodes = set()
+    if RESEARCH_FOCUS_NODE in entity_types:
+        pending = [RESEARCH_FOCUS_NODE]
+        while pending:
+            node = pending.pop()
+            if node in core_nodes:
+                continue
+            core_nodes.add(node)
+            pending.extend(sorted(adjacency.get(node, set()) - core_nodes))
 
     node_items = []
     for node, attrs in sorted(entity_types.items()):
@@ -373,6 +540,7 @@ def build_visualization_data(entity_types, edges):
             "size": size,
             "weight": weight,
             "degree": degree,
+            "core": node in core_nodes,
             "title": f"<strong>{node}</strong><br>Type: {node_type}<br>Degree: {degree}<br>Weighted degree: {weight:.1f}",
         }
         if node == RESEARCH_FOCUS_NODE:
@@ -560,7 +728,7 @@ __RELATION_LEGEND__
       nodes.forEach(function(node) {
         const typeMatch = type === 'ALL' || node.type === type;
         const queryMatch = !query || node.label.toLowerCase().includes(query);
-        const coreMatch = !coreOnly || node.degree > 1;
+        const coreMatch = !coreOnly || node.core;
         nodes.update({ id: node.id, hidden: !(typeMatch && queryMatch && coreMatch) });
       });
 
@@ -769,7 +937,9 @@ if __name__ == "__main__":
         aggregated, relation_attrs, os.path.join(OUTPUT_DIR, "aggregated_edges.csv")
     )
 
-    G_clean, entity_types, cleaned_edges = build_clean_graph(aggregated, relation_attrs)
+    G_clean, entity_types, cleaned_edges = build_clean_graph(
+        aggregated, relation_attrs, source_paths
+    )
     if cleaned_edges:
         cleaned_metrics = compute_metrics(G_clean)
         save_metrics(
@@ -785,6 +955,12 @@ if __name__ == "__main__":
         save_clean_edges_csv(
             cleaned_edges, os.path.join(OUTPUT_DIR, "cleaned_aggregated_edges.csv")
         )
+        save_incoming_nodes_report(
+            weighted_files, os.path.join(OUTPUT_DIR, "incoming_nodes.csv")
+        )
+        save_island_components_report(
+            G_clean, cleaned_edges, os.path.join(OUTPUT_DIR, "island_components.csv")
+        )
         node_items, edge_items = build_visualization_data(entity_types, cleaned_edges)
         output_vis_path = os.path.join(OUTPUT_DIR, "network_visualization.html")
         root_vis_path = os.path.join(os.path.dirname(__file__), "network_visualization.html")
@@ -792,6 +968,7 @@ if __name__ == "__main__":
         save_graph_html(node_items, edge_items, root_vis_path)
         print("Saved HTML visualization to", output_vis_path)
         print("Also updated root visualization file at", root_vis_path)
+        print("Saved incoming-node report and island-component report.")
     else:
         print(
             "No cleaned edges matched PERSON/COMMODITY/LOCATION and allowed relation mapping."
