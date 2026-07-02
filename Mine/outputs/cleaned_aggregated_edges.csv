@@ -1,143 +1,143 @@
-Source,Target,MappedRelation,Weight,RawRelations,SourceType,TargetType,Books
-kharnak,rupshu,taxes,3.0,get salt for free|pay fine to|receive share of salt,LOCATION,LOCATION,Rupshu
-tibet baqals,pashm,trades_with,2.0,buy|control_trade_of,GROUP,COMMODITY,Ladakh
-rupshu,salt,extracts_from,2.0,collect|remove,LOCATION,COMMODITY,Rupshu
-british rule,local habitations,negotiates_with,1.0,settle in,PERSON,PERSON,Becoming_India
-river sutlej,traders and others,supplies,1.0,provide access,LOCATION,GROUP,Becoming_India
-simla,to the borders of tibet,depends_on,1.0,need building of road,PERSON,LOCATION,Becoming_India
-hill state,basis,trades_with,1.0,developed from trade in large river valleys,LOCATION,PERSON,Becoming_India
-peasant family,begar,controls,1.0,had no control over,PERSON,PERSON,Becoming_India
-dominant village community,servile groups,controls,1.0,control,LOCATION,PERSON,Becoming_India
-village deity,servile groups,controls,1.0,control,LOCATION,PERSON,Becoming_India
-ruler of the tract,servile groups,controls,1.0,control,PERSON,PERSON,Becoming_India
-pastoral groups,lower hills bordering the plains of punjab,transports_via,1.0,move,PERSON,LOCATION,Becoming_India
-traders from the plains,the narrow mountain paths,negotiates_with,1.0,could not negotiate,GROUP,LOCATION,Becoming_India
-divine functionaries,deity,transports_via,1.0,carry out work on behalf of,PERSON,PERSON,Becoming_India
-hill state,revenue demand,taxes,1.0,levy revenue demand on every community,LOCATION,PERSON,Becoming_India
-the khumri,agricultural cycle,governs,1.0,regulate,PERSON,PERSON,Becoming_India
-state officials,of the states,taxes,1.0,shared the duty of administering finances,LOCATION,LOCATION,Becoming_India
-the state,area,governs,1.0,control,LOCATION,PERSON,Becoming_India
-his patron god,clan deity,negotiates_with,1.0,mediate,PERSON,PERSON,Becoming_India
-clan deity,surplus,extracts_from,1.0,extract,PERSON,PERSON,Becoming_India
-hill state,cash dues,depends_on,1.0,require,LOCATION,PERSON,Becoming_India
-wool of the pastoralists,cash instead of cloth,trades_with,1.0,exchange,COMMODITY,COMMODITY,Becoming_India
-village,the corn,supplies,1.0,declared their inability to supply,LOCATION,PERSON,Becoming_India
-british,entire border with the sikh territories,controls,1.0,wanted military and political control of,GROUP,LOCATION,Becoming_India
-sikhs,sutlej valley,controls,1.0,control,GROUP,PERSON,Becoming_India
-gurkhas of nepal,mountainous areas,controls,1.0,rule,LOCATION,LOCATION,Becoming_India
-tibetans,natural products,supplies,1.0,provide,GROUP,PERSON,Becoming_India
-prior interventions,revenue matters in a few hill states,negotiates_with,1.0,attempt to settle,PERSON,LOCATION,Becoming_India
-gurkhas,the british east india company,disputes,1.0,fight against,PERSON,LOCATION,Becoming_India
-the rulers of these hill states,the crown,disputes,1.0,"were conceived of as little monarchs and their claim over the territory granted to them as absolute, with nominal internal independence under the supervision of",LOCATION,PERSON,Becoming_India
-deities,relations between the state and its subjects,negotiates_with,1.0,mediate,PERSON,LOCATION,Becoming_India
-himalayan population,mahasu,disputes,1.0,staked claim to allegiance,LOCATION,PERSON,Becoming_India
-peasants,poorzee,supplies,1.0,provide,PERSON,PERSON,Becoming_India
-wazeers,peasants,extracts_from,1.0,collect revenue,PERSON,PERSON,Becoming_India
-tika ruder sen,state's administration,governs,1.0,tried to control,PERSON,LOCATION,Becoming_India
-outsiders,imprisoned,disputes,1.0,seized,PERSON,PERSON,Becoming_India
-mandi,the british,taxes,1.0,paid a very high tribute to,PERSON,PERSON,Becoming_India
-the raja,a situation,controls,1.0,control,PERSON,PERSON,Becoming_India
-peasants,state forests,licenses,1.0,be allowed to kill ghorls and kakkars,PERSON,LOCATION,Becoming_India
-women,village boundaries,licenses,1.0,not allowed to leave,PERSON,LOCATION,Becoming_India
-land revenue,the bethus,licenses,1.0,should be allowed to pay,PERSON,PERSON,Becoming_India
-bethus,produce,transports_via,1.0,carry and dispose of,PERSON,PERSON,Becoming_India
-khash-kanet peasants,begar,trades_with,1.0,pay commutation fee to,PERSON,PERSON,Becoming_India
-bethus,rana,trades_with,1.0,pay rent on land for subsistence to,PERSON,GROUP,Becoming_India
-hill states,productive resources,controls,1.0,control,LOCATION,PERSON,Becoming_India
-chasralu,mahasu,disputes,1.0,put up a valiant fight,PERSON,PERSON,Becoming_India
-land settlements,changes,transports_via,1.0,bring about,PERSON,PERSON,Becoming_India
-hindustan-tibet road,the western himalayas,licenses,1.0,allow large-scale civilian populations of europeans to go up into the mountains for purposes of extended stay,LOCATION,LOCATION,Becoming_India
-british officers,the west himalayas,transports_via,1.0,bring their families to the hill stations,PERSON,LOCATION,Becoming_India
-kanets,agriculture,depends_on,1.0,depend,PERSON,PERSON,Becoming_India
-new law,special circumstances,licenses,1.0,permit divorce under,PERSON,PERSON,Becoming_India
-begar,europeans,transports_via,1.0,transport,PERSON,GROUP,Becoming_India
-peasantry,obstacles,extracts_from,1.0,remove,PERSON,PERSON,Becoming_India
-khash-kanet peasantry,begar conscription,disputes,1.0,oppose,PERSON,PERSON,Becoming_India
-padam dev gautam,having no credibility,disputes,1.0,claim,PERSON,PERSON,Becoming_India
-civilisational centres,"marginal, oppressed people",controls,1.0,dominate and exploit,PERSON,GROUP,Becoming_India
-himalayan peasants,demands,negotiates_with,1.0,negotiate,LOCATION,PERSON,Becoming_India
-himalayan peasants,baggage,transports_via,1.0,carry,LOCATION,PERSON,Becoming_India
-loggers,logs down the big rivers,transports_via,1.0,transport,PERSON,LOCATION,Becoming_India
-tibet,rampur,trades_with,1.0,have trade with,LOCATION,PERSON,Gutenberg_EBook
-specimens,european plant,negotiates_with,1.0,agree with,PERSON,PERSON,Gutenberg_EBook
-garu,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook
-ladak,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook
-loaded men,support,depends_on,1.0,need,PERSON,PERSON,Gutenberg_EBook
-saffron,throughout the year,licenses,1.0,is allowed to remain in the ground,PERSON,PERSON,Gutenberg_EBook
-strachey,facts,supplies,1.0,furnish,PERSON,PERSON,Gutenberg_EBook
-donations,statements,taxes,1.0,concerning tax treatment,PERSON,LOCATION,Gutenberg_EBook
-nepal,tibet,trades_with,1.0,trade,LOCATION,LOCATION,HUMLA_NEPAL
-grains,tibetan rock salt,trades_with,1.0,exchange,COMMODITY,COMMODITY,HUMLA_NEPAL
-limis,marts,supplies,1.0,supply,GROUP,PERSON,HUMLA_NEPAL
-humlis,salt,trades_with,1.0,market,PERSON,COMMODITY,HUMLA_NEPAL
-consumers,grain for salt,trades_with,1.0,exchange,PERSON,COMMODITY,HUMLA_NEPAL
-humlis,at present,trades_with,1.0,have had to accept lower rates of exchange in order to remain competitive,PERSON,PERSON,HUMLA_NEPAL
-traders from two villages,tibetan salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL
-traders from two villages,indian salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL
-livestock,butter,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
-khaltse,barley,extracts_from,1.0,harvest,LOCATION,COMMODITY,Ladakh
-deldan,aurangzeb,negotiates_with,1.0,negotiate with,PERSON,PERSON,Ladakh
-deldan,tibetan authorities,negotiates_with,1.0,agree with,PERSON,GROUP,Ladakh
-king of ladakh,tibet,licenses,1.0,must not allow an army from india to proceed to an attack on,PERSON,LOCATION,Ladakh
-frederic drew,ladakh,governs,1.0,govern,PERSON,LOCATION,Ladakh
-baltistan,dried apricots,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh
-china,tea,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh
-tibet,pashm,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh
-salt lakes,salt,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh
-outer hills,foodgrains,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh
-tibetan herdspeople,foodgrains,supplies,1.0,supply,GROUP,COMMODITY,Ladakh
-shamma,leh area merchants,trades_with,1.0,trade,PERSON,GROUP,Ladakh
-shamma,tibet baqals,trades_with,1.0,trade,PERSON,GROUP,Ladakh
-shamma,pashm,trades_with,1.0,sell,PERSON,COMMODITY,Ladakh
-chang-pa,salt,extracts_from,1.0,collect,GROUP,COMMODITY,Ladakh
-shamma,chang-thang sheep's wool,trades_with,1.0,buy,PERSON,COMMODITY,Ladakh
-shamma,barley,trades_with,1.0,barter,PERSON,COMMODITY,Ladakh
-ladakh,tea,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh
-pack-horses,karakoram,transports_via,1.0,were used for transport across the karakoram,COMMODITY,LOCATION,Ladakh
-peasant traders,foodgrains,transports_via,1.0,bring back,GROUP,COMMODITY,Ladakh
-yak,hair,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
-yak,milk,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
-yak,butter,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
-yak,meat,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
-chang-luk sheep,coarse wool,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
-chang-luk sheep,meat,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh
-ladakhi traders,pashm,trades_with,1.0,sell,GROUP,COMMODITY,Ladakh
-pastoralists,migratory strategy,depends_on,1.0,need,PERSON,PERSON,No_Greenery_Rupshu
-rupshu,tibet,trades_with,1.0,trade,LOCATION,LOCATION,Rupshu
-tibetan changpas,salt,transports_via,1.0,bring,GROUP,COMMODITY,Rupshu
-rupshu,barley,trades_with,1.0,trade,LOCATION,COMMODITY,Rupshu
-men,salt,extracts_from,1.0,remove,GROUP,COMMODITY,Rupshu
-kharnak,ownership of tso kar,disputes,1.0,claim,LOCATION,CONCEPT,Rupshu
-rupshu,kharnak,supplies,1.0,give salt to,LOCATION,LOCATION,Rupshu
-salt,barley,trades_with,1.0,barter,COMMODITY,COMMODITY,Rupshu
-yak,barley,transports_via,1.0,carry,COMMODITY,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-tibetan partners,salt,trades_with,1.0,barter,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-dolpo,china and tibet,trades_with,1.0,trade,LOCATION,LOCATION,Salt_routes_and_barter_caravans_in_the_H
-chinese authorities,salt,licenses,1.0,allow,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-drogpa,tea,transports_via,1.0,bring,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-tibetan horses,tea,trades_with,1.0,trade,COMMODITY,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-kitamura,porcelain cups,trades_with,1.0,trade,PERSON,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-tibetans,caterpillar fungus,trades_with,1.0,sell,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-dolpo,grain,trades_with,1.0,barter,LOCATION,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-tukuche,village,trades_with,1.0,market center,LOCATION,LOCATION,Salt_routes_and_barter_caravans_in_the_H
-men,long dagger,transports_via,1.0,carry,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H
-lakes of the changthang,salt,extracts_from,1.0,extract,LOCATION,COMMODITY,Santiago_Lazcano
-nomads or drokpas,salt from the lakes,extracts_from,1.0,extract,GROUP,COMMODITY,Santiago_Lazcano
-people,a trade,transports_via,1.0,carry out,GROUP,PERSON,Santiago_Lazcano
-nomads,salt in the lake,extracts_from,1.0,collect,GROUP,COMMODITY,Santiago_Lazcano
-the nepalese state,the subbas,taxes,1.0,also collected a tax through,LOCATION,PERSON,Santiago_Lazcano
-bhutanese,rice,transports_via,1.0,bring,GROUP,COMMODITY,Santiago_Lazcano
-ladakhis,salt,transports_via,1.0,transport,LOCATION,COMMODITY,Santiago_Lazcano
-chumey naktsang,salt,trades_with,1.0,trade,PERSON,COMMODITY,Santiago_Lazcano
-tibetans,products,trades_with,1.0,exchange,GROUP,PERSON,Santiago_Lazcano
-amdowas,salt,supplies,1.0,supply,LOCATION,COMMODITY,Santiago_Lazcano
-dabusun nor,salt,transports_via,1.0,carry,PERSON,COMMODITY,Santiago_Lazcano
-monasteries,storage facilities,supplies,1.0,provide,PERSON,PERSON,Santiago_Lazcano
-tibetan women,buckets of salt water,transports_via,1.0,carry,LOCATION,COMMODITY,Santiago_Lazcano
-zhao erfeng,tsakalho,taxes,1.0,established a salt tax office in,PERSON,PERSON,Santiago_Lazcano
-drokpas,yak butter,trades_with,1.0,buy,PERSON,COMMODITY,Santiago_Lazcano
-shepherds,jada family,trades_with,1.0,trade,GROUP,PERSON,Santiago_Lazcano
-pe customs house,tibetan official,trades_with,1.0,"collected the rice, corn and cane and distributed the salt in exchange",PERSON,LOCATION,Santiago_Lazcano
-government,people of tsakalho,trades_with,1.0,approved their right to produce and sell salt autonomously,PERSON,GROUP,Santiago_Lazcano
-himalayan peoples,tibetan salt,trades_with,1.0,attributed properties and made possible a small-scale trade to survive,PERSON,COMMODITY,Santiago_Lazcano
-ancient tea horse road,national cultural heritage,disputes,1.0,claim,COMMODITY,GROUP,Santiago_Lazcano
+Source,Target,MappedRelation,Weight,RawRelations,SourceType,TargetType,Books,Evidence
+kharnak,rupshu,taxes,3.0,get salt for free|pay fine to|receive share of salt,LOCATION,LOCATION,Rupshu,
+tibet baqals,pashm,trades_with,2.0,buy|control_trade_of,GROUP,COMMODITY,Ladakh,
+rupshu,salt,extracts_from,2.0,collect|remove,LOCATION,COMMODITY,Rupshu,
+british rule,local habitations,negotiates_with,1.0,settle in,PERSON,PERSON,Becoming_India,
+river sutlej,traders and others,supplies,1.0,provide access,LOCATION,GROUP,Becoming_India,
+simla,to the borders of tibet,depends_on,1.0,need building of road,PERSON,LOCATION,Becoming_India,
+hill state,basis,trades_with,1.0,developed from trade in large river valleys,LOCATION,PERSON,Becoming_India,
+peasant family,begar,controls,1.0,had no control over,PERSON,PERSON,Becoming_India,
+dominant village community,servile groups,controls,1.0,control,LOCATION,PERSON,Becoming_India,
+village deity,servile groups,controls,1.0,control,LOCATION,PERSON,Becoming_India,
+ruler of the tract,servile groups,controls,1.0,control,PERSON,PERSON,Becoming_India,
+pastoral groups,lower hills bordering the plains of punjab,transports_via,1.0,move,PERSON,LOCATION,Becoming_India,
+traders from the plains,the narrow mountain paths,negotiates_with,1.0,could not negotiate,GROUP,LOCATION,Becoming_India,
+divine functionaries,deity,transports_via,1.0,carry out work on behalf of,PERSON,PERSON,Becoming_India,
+hill state,revenue demand,taxes,1.0,levy revenue demand on every community,LOCATION,PERSON,Becoming_India,
+the khumri,agricultural cycle,governs,1.0,regulate,PERSON,PERSON,Becoming_India,
+state officials,of the states,taxes,1.0,shared the duty of administering finances,LOCATION,LOCATION,Becoming_India,
+the state,area,governs,1.0,control,LOCATION,PERSON,Becoming_India,
+his patron god,clan deity,negotiates_with,1.0,mediate,PERSON,PERSON,Becoming_India,
+clan deity,surplus,extracts_from,1.0,extract,PERSON,PERSON,Becoming_India,
+hill state,cash dues,depends_on,1.0,require,LOCATION,PERSON,Becoming_India,
+wool of the pastoralists,cash instead of cloth,trades_with,1.0,exchange,COMMODITY,COMMODITY,Becoming_India,
+village,the corn,supplies,1.0,declared their inability to supply,LOCATION,PERSON,Becoming_India,
+british,entire border with the sikh territories,controls,1.0,wanted military and political control of,GROUP,LOCATION,Becoming_India,
+sikhs,sutlej valley,controls,1.0,control,GROUP,PERSON,Becoming_India,
+gurkhas of nepal,mountainous areas,controls,1.0,rule,LOCATION,LOCATION,Becoming_India,
+tibetans,natural products,supplies,1.0,provide,GROUP,PERSON,Becoming_India,
+prior interventions,revenue matters in a few hill states,negotiates_with,1.0,attempt to settle,PERSON,LOCATION,Becoming_India,
+gurkhas,the british east india company,disputes,1.0,fight against,PERSON,LOCATION,Becoming_India,
+the rulers of these hill states,the crown,disputes,1.0,"were conceived of as little monarchs and their claim over the territory granted to them as absolute, with nominal internal independence under the supervision of",LOCATION,PERSON,Becoming_India,
+deities,relations between the state and its subjects,negotiates_with,1.0,mediate,PERSON,LOCATION,Becoming_India,
+himalayan population,mahasu,disputes,1.0,staked claim to allegiance,LOCATION,PERSON,Becoming_India,
+peasants,poorzee,supplies,1.0,provide,PERSON,PERSON,Becoming_India,
+wazeers,peasants,extracts_from,1.0,collect revenue,PERSON,PERSON,Becoming_India,
+tika ruder sen,state's administration,governs,1.0,tried to control,PERSON,LOCATION,Becoming_India,
+outsiders,imprisoned,disputes,1.0,seized,PERSON,PERSON,Becoming_India,
+mandi,the british,taxes,1.0,paid a very high tribute to,PERSON,PERSON,Becoming_India,
+the raja,a situation,controls,1.0,control,PERSON,PERSON,Becoming_India,
+peasants,state forests,licenses,1.0,be allowed to kill ghorls and kakkars,PERSON,LOCATION,Becoming_India,
+women,village boundaries,licenses,1.0,not allowed to leave,PERSON,LOCATION,Becoming_India,
+land revenue,the bethus,licenses,1.0,should be allowed to pay,PERSON,PERSON,Becoming_India,
+bethus,produce,transports_via,1.0,carry and dispose of,PERSON,PERSON,Becoming_India,
+khash-kanet peasants,begar,trades_with,1.0,pay commutation fee to,PERSON,PERSON,Becoming_India,
+bethus,rana,trades_with,1.0,pay rent on land for subsistence to,PERSON,GROUP,Becoming_India,
+hill states,productive resources,controls,1.0,control,LOCATION,PERSON,Becoming_India,
+chasralu,mahasu,disputes,1.0,put up a valiant fight,PERSON,PERSON,Becoming_India,
+land settlements,changes,transports_via,1.0,bring about,PERSON,PERSON,Becoming_India,
+hindustan-tibet road,the western himalayas,licenses,1.0,allow large-scale civilian populations of europeans to go up into the mountains for purposes of extended stay,LOCATION,LOCATION,Becoming_India,
+british officers,the west himalayas,transports_via,1.0,bring their families to the hill stations,PERSON,LOCATION,Becoming_India,
+kanets,agriculture,depends_on,1.0,depend,PERSON,PERSON,Becoming_India,
+new law,special circumstances,licenses,1.0,permit divorce under,PERSON,PERSON,Becoming_India,
+begar,europeans,transports_via,1.0,transport,PERSON,GROUP,Becoming_India,
+peasantry,obstacles,extracts_from,1.0,remove,PERSON,PERSON,Becoming_India,
+khash-kanet peasantry,begar conscription,disputes,1.0,oppose,PERSON,PERSON,Becoming_India,
+padam dev gautam,having no credibility,disputes,1.0,claim,PERSON,PERSON,Becoming_India,
+civilisational centres,"marginal, oppressed people",controls,1.0,dominate and exploit,PERSON,GROUP,Becoming_India,
+himalayan peasants,demands,negotiates_with,1.0,negotiate,LOCATION,PERSON,Becoming_India,
+himalayan peasants,baggage,transports_via,1.0,carry,LOCATION,PERSON,Becoming_India,
+loggers,logs down the big rivers,transports_via,1.0,transport,PERSON,LOCATION,Becoming_India,
+tibet,rampur,trades_with,1.0,have trade with,LOCATION,PERSON,Gutenberg_EBook,
+specimens,european plant,negotiates_with,1.0,agree with,PERSON,PERSON,Gutenberg_EBook,
+garu,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook,
+ladak,tibetan countries in its neighbourhood,taxes,1.0,"paid tribute to, or exchanged presents with",PERSON,LOCATION,Gutenberg_EBook,
+loaded men,support,depends_on,1.0,need,PERSON,PERSON,Gutenberg_EBook,
+saffron,throughout the year,licenses,1.0,is allowed to remain in the ground,PERSON,PERSON,Gutenberg_EBook,
+strachey,facts,supplies,1.0,furnish,PERSON,PERSON,Gutenberg_EBook,
+donations,statements,taxes,1.0,concerning tax treatment,PERSON,LOCATION,Gutenberg_EBook,
+nepal,tibet,trades_with,1.0,trade,LOCATION,LOCATION,HUMLA_NEPAL,
+grains,tibetan rock salt,trades_with,1.0,exchange,COMMODITY,COMMODITY,HUMLA_NEPAL,
+limis,marts,supplies,1.0,supply,GROUP,PERSON,HUMLA_NEPAL,
+humlis,salt,trades_with,1.0,market,PERSON,COMMODITY,HUMLA_NEPAL,
+consumers,grain for salt,trades_with,1.0,exchange,PERSON,COMMODITY,HUMLA_NEPAL,
+humlis,at present,trades_with,1.0,have had to accept lower rates of exchange in order to remain competitive,PERSON,PERSON,HUMLA_NEPAL,
+traders from two villages,tibetan salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL,
+traders from two villages,indian salt,transports_via,1.0,transport,GROUP,COMMODITY,HUMLA_NEPAL,
+livestock,butter,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh,
+khaltse,barley,extracts_from,1.0,harvest,LOCATION,COMMODITY,Ladakh,
+deldan,aurangzeb,negotiates_with,1.0,negotiate with,PERSON,PERSON,Ladakh,
+deldan,tibetan authorities,negotiates_with,1.0,agree with,PERSON,GROUP,Ladakh,
+king of ladakh,tibet,licenses,1.0,must not allow an army from india to proceed to an attack on,PERSON,LOCATION,Ladakh,
+frederic drew,ladakh,governs,1.0,govern,PERSON,LOCATION,Ladakh,
+baltistan,dried apricots,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh,
+china,tea,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh,
+tibet,pashm,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh,
+salt lakes,salt,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh,
+outer hills,foodgrains,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh,
+tibetan herdspeople,foodgrains,supplies,1.0,supply,GROUP,COMMODITY,Ladakh,
+shamma,leh area merchants,trades_with,1.0,trade,PERSON,GROUP,Ladakh,
+shamma,tibet baqals,trades_with,1.0,trade,PERSON,GROUP,Ladakh,
+shamma,pashm,trades_with,1.0,sell,PERSON,COMMODITY,Ladakh,
+chang-pa,salt,extracts_from,1.0,collect,GROUP,COMMODITY,Ladakh,
+shamma,chang-thang sheep's wool,trades_with,1.0,buy,PERSON,COMMODITY,Ladakh,
+shamma,barley,trades_with,1.0,barter,PERSON,COMMODITY,Ladakh,
+ladakh,tea,trades_with,1.0,trade,LOCATION,COMMODITY,Ladakh,
+pack-horses,karakoram,transports_via,1.0,were used for transport across the karakoram,COMMODITY,LOCATION,Ladakh,
+peasant traders,foodgrains,transports_via,1.0,bring back,GROUP,COMMODITY,Ladakh,
+yak,hair,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh,
+yak,milk,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh,
+yak,butter,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh,
+yak,meat,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh,
+chang-luk sheep,coarse wool,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh,
+chang-luk sheep,meat,supplies,1.0,provide,COMMODITY,COMMODITY,Ladakh,
+ladakhi traders,pashm,trades_with,1.0,sell,GROUP,COMMODITY,Ladakh,
+pastoralists,migratory strategy,depends_on,1.0,need,PERSON,PERSON,No_Greenery_Rupshu,
+rupshu,tibet,trades_with,1.0,trade,LOCATION,LOCATION,Rupshu,
+tibetan changpas,salt,transports_via,1.0,bring,GROUP,COMMODITY,Rupshu,
+rupshu,barley,trades_with,1.0,trade,LOCATION,COMMODITY,Rupshu,
+men,salt,extracts_from,1.0,remove,GROUP,COMMODITY,Rupshu,
+kharnak,ownership of tso kar,disputes,1.0,claim,LOCATION,CONCEPT,Rupshu,
+rupshu,kharnak,supplies,1.0,give salt to,LOCATION,LOCATION,Rupshu,
+salt,barley,trades_with,1.0,barter,COMMODITY,COMMODITY,Rupshu,
+yak,barley,transports_via,1.0,carry,COMMODITY,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+tibetan partners,salt,trades_with,1.0,barter,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+dolpo,china and tibet,trades_with,1.0,trade,LOCATION,LOCATION,Salt_routes_and_barter_caravans_in_the_H,
+chinese authorities,salt,licenses,1.0,allow,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+drogpa,tea,transports_via,1.0,bring,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+tibetan horses,tea,trades_with,1.0,trade,COMMODITY,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+kitamura,porcelain cups,trades_with,1.0,trade,PERSON,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+tibetans,caterpillar fungus,trades_with,1.0,sell,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+dolpo,grain,trades_with,1.0,barter,LOCATION,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+tukuche,village,trades_with,1.0,market center,LOCATION,LOCATION,Salt_routes_and_barter_caravans_in_the_H,
+men,long dagger,transports_via,1.0,carry,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+lakes of the changthang,salt,extracts_from,1.0,extract,LOCATION,COMMODITY,Santiago_Lazcano,
+nomads or drokpas,salt from the lakes,extracts_from,1.0,extract,GROUP,COMMODITY,Santiago_Lazcano,
+people,a trade,transports_via,1.0,carry out,GROUP,PERSON,Santiago_Lazcano,
+nomads,salt in the lake,extracts_from,1.0,collect,GROUP,COMMODITY,Santiago_Lazcano,
+the nepalese state,the subbas,taxes,1.0,also collected a tax through,LOCATION,PERSON,Santiago_Lazcano,
+bhutanese,rice,transports_via,1.0,bring,GROUP,COMMODITY,Santiago_Lazcano,
+ladakhis,salt,transports_via,1.0,transport,LOCATION,COMMODITY,Santiago_Lazcano,
+chumey naktsang,salt,trades_with,1.0,trade,PERSON,COMMODITY,Santiago_Lazcano,
+tibetans,products,trades_with,1.0,exchange,GROUP,PERSON,Santiago_Lazcano,
+amdowas,salt,supplies,1.0,supply,LOCATION,COMMODITY,Santiago_Lazcano,
+dabusun nor,salt,transports_via,1.0,carry,PERSON,COMMODITY,Santiago_Lazcano,
+monasteries,storage facilities,supplies,1.0,provide,PERSON,PERSON,Santiago_Lazcano,
+tibetan women,buckets of salt water,transports_via,1.0,carry,LOCATION,COMMODITY,Santiago_Lazcano,
+zhao erfeng,tsakalho,taxes,1.0,established a salt tax office in,PERSON,PERSON,Santiago_Lazcano,
+drokpas,yak butter,trades_with,1.0,buy,PERSON,COMMODITY,Santiago_Lazcano,
+shepherds,jada family,trades_with,1.0,trade,GROUP,PERSON,Santiago_Lazcano,
+pe customs house,tibetan official,trades_with,1.0,"collected the rice, corn and cane and distributed the salt in exchange",PERSON,LOCATION,Santiago_Lazcano,
+government,people of tsakalho,trades_with,1.0,approved their right to produce and sell salt autonomously,PERSON,GROUP,Santiago_Lazcano,
+himalayan peoples,tibetan salt,trades_with,1.0,attributed properties and made possible a small-scale trade to survive,PERSON,COMMODITY,Santiago_Lazcano,
+ancient tea horse road,national cultural heritage,disputes,1.0,claim,COMMODITY,GROUP,Santiago_Lazcano,

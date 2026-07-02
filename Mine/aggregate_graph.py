@@ -4,6 +4,7 @@ import glob
 import json
 import math
 import re
+import shutil
 import networkx as nx
 from concurrent.futures import ThreadPoolExecutor
 from collections import defaultdict
@@ -49,9 +50,46 @@ def find_weighted_csvs(root):
     return sorted(paths)
 
 
+def evidence_sidecar_path(csv_path):
+    root, _ = os.path.splitext(csv_path)
+    return root + ".jsonl"
+
+
+def load_evidence_sidecar(csv_path):
+    evidence = defaultdict(list)
+    path = evidence_sidecar_path(csv_path)
+    if not os.path.exists(path):
+        return evidence
+
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                item = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            source = normalize_entity(item.get("subject", ""))
+            target = normalize_entity(item.get("object", ""))
+            relation = normalize(item.get("relation", ""))
+            if not source or not target or not relation:
+                continue
+            evidence[(source, target, relation)].append(
+                {
+                    "sentence": str(item.get("evidence_sentence", "")).strip(),
+                    "confidence": item.get("confidence", ""),
+                    "chunk_index": item.get("chunk_index", ""),
+                    "source_file": path,
+                }
+            )
+    return evidence
+
+
 def load_edges(files):
     edges = []
     for path in files:
+        sidecar_evidence = load_evidence_sidecar(path)
         with open(path, "r", encoding="utf-8", errors="ignore") as f:
             reader = csv.DictReader(f)
             for row in reader:
@@ -68,7 +106,38 @@ def load_edges(files):
                 if source == target:
                     continue
 
-                edges.append((source, target, relation, weight, path))
+                row_evidence = str(
+                    row.get("Evidence")
+                    or row.get("Sentence")
+                    or row.get("SourceSentence")
+                    or ""
+                ).strip()
+                try:
+                    row_confidence = float(row.get("Confidence", "") or 0)
+                except ValueError:
+                    row_confidence = 0.0
+
+                evidence_items = list(sidecar_evidence.get((source, target, relation), []))
+                if row_evidence and not evidence_items:
+                    evidence_items.append(
+                        {
+                            "sentence": row_evidence,
+                            "confidence": row_confidence,
+                            "chunk_index": "",
+                            "source_file": path,
+                        }
+                    )
+
+                edges.append(
+                    {
+                        "source": source,
+                        "target": target,
+                        "relation": relation,
+                        "weight": weight,
+                        "path": path,
+                        "evidence": evidence_items,
+                    }
+                )
     return edges
 
 
@@ -76,13 +145,25 @@ def aggregate_edges(edges):
     aggregated = defaultdict(float)
     relation_attrs = defaultdict(set)
     sources_by_edge = defaultdict(set)
-    targets_by_edge = defaultdict(set)
-    for source, target, relation, weight, path in edges:
-        aggregated[(source, target)] += weight
+    evidence_by_edge = defaultdict(list)
+    for edge in edges:
+        source = edge["source"]
+        target = edge["target"]
+        relation = edge["relation"]
+        aggregated[(source, target)] += edge["weight"]
         relation_attrs[(source, target)].add(relation)
-        sources_by_edge[(source, target)].add(path)
-        targets_by_edge[(source, target)].add(path)
-    return aggregated, relation_attrs, sources_by_edge
+        sources_by_edge[(source, target)].add(edge["path"])
+        for item in edge.get("evidence", []):
+            if item.get("sentence"):
+                evidence_by_edge[(source, target)].append(
+                    {
+                        "relation": relation,
+                        "sentence": item.get("sentence", ""),
+                        "confidence": item.get("confidence", ""),
+                        "source_file": item.get("source_file", edge["path"]),
+                    }
+                )
+    return aggregated, relation_attrs, sources_by_edge, evidence_by_edge
 
 
 def build_graph(aggregated, relation_attrs):
@@ -265,7 +346,7 @@ def classify_node(node):
     return None, 0.0
 
 
-def build_clean_graph(aggregated, relation_attrs, source_paths=None):
+def build_clean_graph(aggregated, relation_attrs, source_paths=None, evidence_by_edge=None):
     entity_types = {}
     cleaned_edges = []
     for (source, target), weight in aggregated.items():
@@ -294,6 +375,7 @@ def build_clean_graph(aggregated, relation_attrs, source_paths=None):
                     book_label(path)
                     for path in (source_paths or {}).get((source, target), [])
                 ),
+                "evidence_items": (evidence_by_edge or {}).get((source, target), []),
             }
         )
 
@@ -338,12 +420,19 @@ def save_clean_relations(edges, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         for edge in edges:
+            evidence_sentences = [
+                item.get("sentence", "")
+                for item in edge.get("evidence_items", [])
+                if item.get("sentence")
+            ]
             item = {
                 "subject": edge["source"],
                 "relation": edge["relation"],
                 "object": edge["target"],
                 "confidence": round(min(edge["weight"] / 10.0, 1.0), 2),
-                "evidence": edge["raw_relations"],
+                "evidence": evidence_sentences[0] if evidence_sentences else edge["raw_relations"],
+                "evidence_sentences": evidence_sentences[:5],
+                "raw_relations": edge["raw_relations"],
                 "document": "aggregated_csvs",
                 "books": edge.get("books", []),
                 "weight": edge["weight"],
@@ -365,9 +454,15 @@ def save_clean_edges_csv(edges, path):
                 "SourceType",
                 "TargetType",
                 "Books",
+                "Evidence",
             ]
         )
         for edge in sorted(edges, key=lambda x: -x["weight"]):
+            evidence_sentences = [
+                item.get("sentence", "")
+                for item in edge.get("evidence_items", [])
+                if item.get("sentence")
+            ]
             writer.writerow(
                 [
                     edge["source"],
@@ -378,14 +473,114 @@ def save_clean_edges_csv(edges, path):
                     edge["source_type"],
                     edge["target_type"],
                     "|".join(edge.get("books", [])),
+                    " | ".join(evidence_sentences[:3]),
                 ]
+            )
+
+
+def review_reason(edge):
+    reasons = []
+    if edge["weight"] <= 1:
+        reasons.append("single_observation")
+    if not edge.get("evidence_items"):
+        reasons.append("missing_sentence_evidence")
+    if edge["source_type"] == "PERSON" and edge["source"].split()[0] in STOP_WORDS:
+        reasons.append("possible_bad_source_entity")
+    if edge["target_type"] == "PERSON" and edge["target"].split()[0] in STOP_WORDS:
+        reasons.append("possible_bad_target_entity")
+    if edge["source_type"] == "PERSON" and edge["source"].lower() in BAD_PERSON_TOKENS:
+        reasons.append("source_may_be_concept_not_person")
+    if edge["target_type"] == "PERSON" and edge["target"].lower() in BAD_PERSON_TOKENS:
+        reasons.append("target_may_be_concept_not_person")
+    return "|".join(reasons) if reasons else "review_for_historical_meaning"
+
+
+def save_relation_review_csv(edges, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        fieldnames = [
+            "ReviewStatus",
+            "ReviewReason",
+            "Source",
+            "SourceType",
+            "Relation",
+            "Target",
+            "TargetType",
+            "Weight",
+            "Books",
+            "Evidence",
+            "RawRelations",
+            "Notes",
+        ]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for edge in sorted(edges, key=lambda x: (-x["weight"], x["source"], x["target"])):
+            evidence_sentences = [
+                item.get("sentence", "")
+                for item in edge.get("evidence_items", [])
+                if item.get("sentence")
+            ]
+            writer.writerow(
+                {
+                    "ReviewStatus": "pending",
+                    "ReviewReason": review_reason(edge),
+                    "Source": edge["source"],
+                    "SourceType": edge["source_type"],
+                    "Relation": edge["relation"],
+                    "Target": edge["target"],
+                    "TargetType": edge["target_type"],
+                    "Weight": edge["weight"],
+                    "Books": "|".join(edge.get("books", [])),
+                    "Evidence": " | ".join(evidence_sentences[:5]),
+                    "RawRelations": edge["raw_relations"],
+                    "Notes": "",
+                }
+            )
+
+
+def save_entity_review_csv(entity_types, cleaned_edges, path):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    node_books = defaultdict(set)
+    node_evidence_counts = defaultdict(int)
+    for edge in cleaned_edges:
+        for node in (edge["source"], edge["target"]):
+            node_books[node].update(edge.get("books", []))
+            node_evidence_counts[node] += len(edge.get("evidence_items", []))
+
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        fieldnames = [
+            "ReviewStatus",
+            "Entity",
+            "SuggestedType",
+            "Confidence",
+            "Books",
+            "EvidenceCount",
+            "CorrectedType",
+            "CanonicalEntity",
+            "Notes",
+        ]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for entity, attrs in sorted(entity_types.items()):
+            writer.writerow(
+                {
+                    "ReviewStatus": "pending",
+                    "Entity": entity,
+                    "SuggestedType": attrs["type"],
+                    "Confidence": round(attrs["confidence"], 2),
+                    "Books": "|".join(sorted(node_books.get(entity, []))),
+                    "EvidenceCount": node_evidence_counts.get(entity, 0),
+                    "CorrectedType": "",
+                    "CanonicalEntity": "",
+                    "Notes": "",
+                }
             )
 
 
 def cleaned_graph_for_file(path):
     edges = load_edges([path])
-    aggregated, relation_attrs, source_paths = aggregate_edges(edges)
-    return build_clean_graph(aggregated, relation_attrs, source_paths)
+    aggregated, relation_attrs, source_paths, evidence_by_edge = aggregate_edges(edges)
+    return build_clean_graph(aggregated, relation_attrs, source_paths, evidence_by_edge)
 
 
 def save_incoming_nodes_report(weighted_files, path):
@@ -510,6 +705,30 @@ def calculate_node_size(weight):
     return min(32, max(14, 10 + math.log1p(weight) * 8))
 
 
+def edge_support(edge):
+    has_evidence = any(
+        item.get("sentence")
+        for item in edge.get("evidence_items", [])
+    )
+    if edge["weight"] >= 3:
+        return "strong"
+    if edge["weight"] >= 2:
+        return "repeated"
+    if has_evidence:
+        return "single_with_evidence"
+    return "single_needs_evidence"
+
+
+def edge_support_label(support):
+    labels = {
+        "strong": "Strong repeated",
+        "repeated": "Repeated",
+        "single_with_evidence": "Single with evidence",
+        "single_needs_evidence": "Needs evidence",
+    }
+    return labels.get(support, support)
+
+
 def build_visualization_data(entity_types, edges):
     node_weights = defaultdict(float)
     node_degrees = defaultdict(int)
@@ -578,9 +797,23 @@ def build_visualization_data(entity_types, edges):
     for index, edge in enumerate(edges):
         edge_color = EDGE_COLOR_BY_RELATION.get(edge["relation"], "#777777")
         touches_focus = RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}
-        edge_width = max(2.0, min(9.0, 0.75 + edge["weight"] * 2.0))
+        support = edge_support(edge)
+        has_sentence_evidence = support != "single_needs_evidence"
+        edge_width = max(2.4, min(10.0, 1.8 + math.sqrt(edge["weight"]) * 2.2))
+        if support == "strong":
+            edge_width = max(edge_width, 8.0)
+        elif support == "repeated":
+            edge_width = max(edge_width, 6.0)
+        elif support == "single_needs_evidence":
+            edge_width = max(2.2, edge_width - 0.8)
         books = edge.get("books", [])
         books_text = ", ".join(books) if books else "Unknown"
+        evidence_sentences = [
+            item.get("sentence", "")
+            for item in edge.get("evidence_items", [])
+            if item.get("sentence")
+        ]
+        evidence_text = " | ".join(evidence_sentences[:3]) if evidence_sentences else edge["raw_relations"]
         if touches_focus:
             edge_width = max(edge_width, 4.5)
         edge_items.append(
@@ -590,20 +823,35 @@ def build_visualization_data(entity_types, edges):
                 "to": edge["target"],
                 "label": edge["relation"],
                 "relation": edge["relation"],
+                "support": support,
+                "supportLabel": edge_support_label(support),
                 "color": {"color": edge_color, "highlight": edge_color},
                 "width": edge_width,
+                "dashes": not has_sentence_evidence,
+                "opacity": 1.0 if support in {"strong", "repeated"} else 0.72,
                 "weight": edge["weight"],
                 "books": books,
+                "evidence": evidence_sentences[:5],
                 "arrows": "to",
                 "font": {"size": 10, "align": "middle", "strokeWidth": 3, "strokeColor": "#ffffff"},
-                "title": f"{edge['source']} -> {edge['target']}<br>Relation: {edge['relation']}<br>Weight: {edge['weight']:.1f}<br>Books: {books_text}<br>Evidence: {edge['raw_relations']}",
+                "title": f"{edge['source']} -> {edge['target']}<br>Relation: {edge['relation']}<br>Support: {edge_support_label(support)}<br>Weight: {edge['weight']:.1f}<br>Books: {books_text}<br>Evidence: {evidence_text}<br>Raw relations: {edge['raw_relations']}",
             }
         )
 
     return node_items, edge_items
 
 
+def replace_template_section(template, start_marker, end_marker, content):
+    start = template.index(start_marker) + len(start_marker)
+    end = template.index(end_marker, start)
+    return template[:start] + "\n" + content.rstrip() + "\n" + template[end:]
+
+
 def generate_graph_html(node_items, edge_items):
+    template_path = os.path.join(os.path.dirname(__file__), "network_visualization.html")
+    with open(template_path, encoding="utf-8") as f:
+        html = f.read()
+
     nodes_json = json.dumps(node_items, ensure_ascii=False)
     edges_json = json.dumps(edge_items, ensure_ascii=False)
     relation_options = "\n".join(
@@ -614,289 +862,52 @@ def generate_graph_html(node_items, edge_items):
         f'      <div class="legend-item"><span class="legend-line" style="background:{color}"></span> {relation}</div>'
         for relation, color in sorted(EDGE_COLOR_BY_RELATION.items())
     )
-    html = """<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cleaned Graph Visualization</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <style>
-    body { margin: 0; font-family: Arial, sans-serif; color: #202124; background: #f7f7f5; }
-    #toolbar { display: grid; grid-template-columns: minmax(260px, 1fr) auto; gap: 14px; padding: 12px 14px; background: #fff; border-bottom: 1px solid #ddd; }
-    #controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
-    label { font-size: 13px; font-weight: 600; color: #333; }
-    select, input[type="search"] { height: 32px; border: 1px solid #bbb; border-radius: 6px; background: #fff; padding: 0 8px; font-size: 13px; }
-    input[type="search"] { min-width: 220px; }
-    input[type="range"] { width: 132px; accent-color: #4c72b0; }
-    button { height: 32px; border: 1px solid #888; border-radius: 6px; background: #f5f5f5; cursor: pointer; padding: 0 12px; }
-    button:hover { background: #eeeeee; }
-    .toggle { display: inline-flex; align-items: center; gap: 6px; height: 32px; font-size: 13px; font-weight: 600; }
-    .range-control { display: inline-flex; align-items: center; gap: 7px; height: 32px; }
-    #weight-value { min-width: 26px; font-size: 12px; color: #444; }
-    #legends { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px; }
-    .legend { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; max-width: 620px; font-size: 12px; }
-    .legend-title { font-weight: 700; color: #333; margin-right: 2px; }
-    .legend-item { display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; }
-    .legend-swatch { display: inline-block; width: 13px; height: 13px; border-radius: 3px; border: 1px solid rgba(0,0,0,0.18); }
-    .legend-line { display: inline-block; width: 22px; height: 3px; border-radius: 99px; }
-    #mynetwork { width: 100%; height: calc(100vh - 118px); background-color: #fff; }
-    #info { display: flex; justify-content: space-between; gap: 16px; padding: 9px 14px; background: #fff; border-top: 1px solid #ddd; font-size: 13px; color: #444; }
-    @media (max-width: 900px) {
-      #toolbar { grid-template-columns: 1fr; }
-      #legends { justify-content: flex-start; }
-      #mynetwork { height: calc(100vh - 220px); }
-    }
-  </style>
-</head>
-<body>
-  <div id="toolbar">
-    <div id="controls">
-      <label for="filter-type">Filter type</label>
-      <select id="filter-type">
-        <option value="ALL">All</option>
-        <option value="PERSON">Person</option>
-        <option value="GROUP">Group</option>
-        <option value="LOCATION">Location</option>
-        <option value="COMMODITY">Commodity</option>
-        <option value="CONCEPT">Concept</option>
-      </select>
-      <label for="filter-relation">Relation</label>
-      <select id="filter-relation">
-        <option value="ALL">All</option>
-__RELATION_OPTIONS__
-      </select>
-      <label for="search-node">Search node</label>
-      <input id="search-node" type="search" placeholder="Type a node label" />
-      <span class="range-control">
-        <label for="min-weight">Min weight</label>
-        <input id="min-weight" type="range" min="0" max="1" step="1" value="0" />
-        <span id="weight-value">0</span>
-      </span>
-      <label class="toggle"><input id="core-only" type="checkbox" /> Core graph</label>
-      <label class="toggle"><input id="show-edge-labels" type="checkbox" checked /> Edge names</label>
-      <label class="toggle"><input id="physics-toggle" type="checkbox" checked /> Physics</label>
-      <button id="focus-button">Focus search</button>
-      <button id="reset-button">Reset view</button>
-    </div>
-    <div id="legends">
-      <div class="legend">
-        <span class="legend-title">Entities</span>
-        <span class="legend-item"><span class="legend-swatch" style="background:#4c72b0"></span> Person</span>
-        <span class="legend-item"><span class="legend-swatch" style="background:#8172b2"></span> Group</span>
-        <span class="legend-item"><span class="legend-swatch" style="background:#55a868"></span> Location</span>
-        <span class="legend-item"><span class="legend-swatch" style="background:#c44e52"></span> Commodity</span>
-        <span class="legend-item"><span class="legend-swatch" style="background:#937860"></span> Concept</span>
-      </div>
-      <div class="legend">
-        <span class="legend-title">Relations</span>
-__RELATION_LEGEND__
-      </div>
-    </div>
-  </div>
-  <div id="mynetwork"></div>
-  <div id="info"><span>Click a node to center it. Hover nodes or edges for evidence and weights.</span><span id="counts"></span></div>
-  <script>
-    const nodesData = __NODES_JSON__;
-    const edgesData = __EDGES_JSON__;
-    const visibleEdgeLabels = new Map(edgesData.map(function(edge) { return [edge.id, edge.label]; }));
-    const maxEdgeWeight = Math.max(1, ...edgesData.map(function(edge) { return Number(edge.weight || 0); }));
-    const originalNodeStyles = new Map(nodesData.map(function(node) {
-      return [node.id, { color: node.color, borderWidth: node.borderWidth || 1.5, size: node.size }];
-    }));
-    const adjacency = new Map();
-    edgesData.forEach(function(edge) {
-      if (!adjacency.has(edge.from)) adjacency.set(edge.from, new Set());
-      if (!adjacency.has(edge.to)) adjacency.set(edge.to, new Set());
-      adjacency.get(edge.from).add(edge.to);
-      adjacency.get(edge.to).add(edge.from);
-    });
 
-    const nodes = new vis.DataSet(nodesData);
-    const edges = new vis.DataSet(edgesData);
-
-    const container = document.getElementById('mynetwork');
-    const data = { nodes: nodes, edges: edges };
-
-    const options = {
-      physics: {
-        enabled: true,
-        stabilization: { iterations: 900, fit: true },
-        barnesHut: {
-          gravitationalConstant: -42000,
-          centralGravity: 0.12,
-          springLength: 210,
-          springConstant: 0.035,
-          damping: 0.36,
-          avoidOverlap: 0.45
-        },
-      },
-      interaction: { hover: true, tooltipDelay: 100, dragNodes: true, multiselect: false },
-      edges: {
-        smooth: { enabled: true, type: 'continuous', roundness: 0.35 },
-        arrows: { to: { enabled: true, scaleFactor: 0.55 } },
-        font: { size: 10, align: 'middle', strokeWidth: 3, strokeColor: '#ffffff' },
-        selectionWidth: 2
-      },
-      nodes: {
-        font: { multi: 'html', size: 13 },
-        borderWidth: 1.5,
-        margin: 6,
-        chosen: { node: function(values) { values.borderColor = '#111111'; values.borderWidth = 3; } }
-      },
-      layout: { improvedLayout: true },
-      manipulation: false,
-    };
-
-    const network = new vis.Network(container, data, options);
-    const minWeightInput = document.getElementById('min-weight');
-    minWeightInput.max = String(Math.ceil(maxEdgeWeight));
-    document.getElementById('weight-value').textContent = minWeightInput.value;
-
-    function updateCounts() {
-      const visibleNodes = nodes.get().filter(function(node) { return !node.hidden; }).length;
-      const visibleEdges = edges.get().filter(function(edge) { return !edge.hidden; }).length;
-      const totalWeight = edges.get().reduce(function(sum, edge) {
-        return edge.hidden ? sum : sum + Number(edge.weight || 0);
-      }, 0);
-      document.getElementById('counts').textContent = visibleNodes + ' nodes, ' + visibleEdges + ' edges, weight ' + totalWeight.toFixed(1);
-    }
-
-    function applyFilters(fit) {
-      const type = document.getElementById('filter-type').value;
-      const relation = document.getElementById('filter-relation').value;
-      const query = document.getElementById('search-node').value.trim().toLowerCase();
-      const minWeight = Number(document.getElementById('min-weight').value || 0);
-      const coreOnly = document.getElementById('core-only').checked;
-      const showEdgeLabels = document.getElementById('show-edge-labels').checked;
-      document.getElementById('weight-value').textContent = String(minWeight);
-
-      nodes.forEach(function(node) {
-        const typeMatch = type === 'ALL' || node.type === type;
-        const queryMatch = !query || node.label.toLowerCase().includes(query);
-        const coreMatch = !coreOnly || node.core;
-        nodes.update({ id: node.id, hidden: !(typeMatch && queryMatch && coreMatch) });
-      });
-
-      edges.forEach(function(edge) {
-        const from = nodes.get(edge.from);
-        const to = nodes.get(edge.to);
-        const relationMatch = relation === 'ALL' || edge.relation === relation;
-        const weightMatch = Number(edge.weight || 0) >= minWeight;
-        const visible = from && to && !from.hidden && !to.hidden && relationMatch && weightMatch;
-        edges.update({
-          id: edge.id,
-          hidden: !visible,
-          label: showEdgeLabels ? visibleEdgeLabels.get(edge.id) : ''
-        });
-      });
-
-      updateCounts();
-      if (fit) {
-        network.fit({ animation: true });
-      }
-    }
-
-    function resetView() {
-      document.getElementById('filter-type').value = 'ALL';
-      document.getElementById('filter-relation').value = 'ALL';
-      document.getElementById('search-node').value = '';
-      document.getElementById('min-weight').value = '0';
-      document.getElementById('core-only').checked = false;
-      document.getElementById('show-edge-labels').checked = true;
-      document.getElementById('physics-toggle').checked = true;
-      network.setOptions({ physics: { enabled: true } });
-      clearHighlight();
-      applyFilters(true);
-    }
-
-    function clearHighlight() {
-      nodes.get().forEach(function(node) {
-        const original = originalNodeStyles.get(node.id) || {};
-        nodes.update({
-          id: node.id,
-          color: original.color,
-          borderWidth: original.borderWidth,
-          size: original.size
-        });
-      });
-    }
-
-    function highlightNeighborhood(nodeId) {
-      clearHighlight();
-      const neighbors = adjacency.get(nodeId) || new Set();
-      nodes.get().forEach(function(node) {
-        const original = originalNodeStyles.get(node.id) || {};
-        if (node.id === nodeId) {
-          nodes.update({ id: node.id, borderWidth: 5, size: Math.max((original.size || node.size), 34) });
-        } else if (neighbors.has(node.id)) {
-          nodes.update({ id: node.id, borderWidth: 3, size: Math.max((original.size || node.size), 24) });
-        } else {
-          nodes.update({ id: node.id, color: { background: '#e7e7e7', border: '#c6c6c6' }, borderWidth: 1 });
-        }
-      });
-    }
-
-    function focusSearch() {
-      const query = document.getElementById('search-node').value.trim().toLowerCase();
-      if (!query) {
-        network.fit({ animation: true });
-        return;
-      }
-      const match = nodes.get().find(function(node) {
-        return !node.hidden && node.label.toLowerCase().includes(query);
-      });
-      if (match) {
-        highlightNeighborhood(match.id);
-        network.focus(match.id, { scale: 1.15, animation: { duration: 350 } });
-      }
-    }
-
-    network.on('click', function(params) {
-      if (params.nodes.length === 1) {
-        highlightNeighborhood(params.nodes[0]);
-        network.focus(params.nodes[0], { scale: 1.05, animation: { duration: 350 } });
-      } else {
-        clearHighlight();
-        network.fit({ animation: true });
-      }
-    });
-
-    document.getElementById('focus-button').addEventListener('click', focusSearch);
-    document.getElementById('reset-button').addEventListener('click', resetView);
-    document.getElementById('filter-type').addEventListener('change', function() { applyFilters(true); });
-    document.getElementById('filter-relation').addEventListener('change', function() { applyFilters(true); });
-    document.getElementById('search-node').addEventListener('input', function() { clearHighlight(); applyFilters(true); });
-    document.getElementById('search-node').addEventListener('keydown', function(event) {
-      if (event.key === 'Enter') focusSearch();
-    });
-    document.getElementById('min-weight').addEventListener('input', function() { applyFilters(false); });
-    document.getElementById('core-only').addEventListener('change', function() { applyFilters(true); });
-    document.getElementById('show-edge-labels').addEventListener('change', function() { applyFilters(false); });
-    document.getElementById('physics-toggle').addEventListener('change', function(event) {
-      network.setOptions({ physics: { enabled: event.target.checked } });
-    });
-
-    network.once('stabilizationIterationsDone', function() {
-      applyFilters(true);
-    });
-    applyFilters(false);
-  </script>
-</body>
-</html>"""
-    return (
-        html.replace("__NODES_JSON__", nodes_json)
-        .replace("__EDGES_JSON__", edges_json)
-        .replace("__RELATION_OPTIONS__", relation_options)
-        .replace("__RELATION_LEGEND__", relation_legend)
+    html = replace_template_section(
+        html,
+        "<!-- RELATION_OPTIONS_START -->",
+        "<!-- RELATION_OPTIONS_END -->",
+        relation_options,
     )
+    html = replace_template_section(
+        html,
+        "<!-- RELATION_LEGEND_START -->",
+        "<!-- RELATION_LEGEND_END -->",
+        relation_legend,
+    )
+    html = replace_template_section(
+        html,
+        "<script type=\"application/json\" id=\"graph-nodes-data\">",
+        "</script><!-- GRAPH_NODES_END -->",
+        nodes_json,
+    )
+    html = replace_template_section(
+        html,
+        "<script type=\"application/json\" id=\"graph-edges-data\">",
+        "</script><!-- GRAPH_EDGES_END -->",
+        edges_json,
+    )
+    return html
 
 
 def save_graph_html(node_items, edge_items, path):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
+    output_dir = os.path.dirname(path)
+    os.makedirs(output_dir, exist_ok=True)
+    html = generate_graph_html(node_items, edge_items)
     with open(path, "w", encoding="utf-8") as f:
-        f.write(generate_graph_html(node_items, edge_items))
+        f.write(html)
+    source_css = os.path.join(os.path.dirname(__file__), "network_visualization.css")
+    output_css = os.path.join(output_dir, "network_visualization.css")
+    if os.path.abspath(source_css) != os.path.abspath(output_css):
+        shutil.copyfile(source_css, output_css)
+    source_vendor = os.path.join(os.path.dirname(__file__), "lib", "vis-9.1.2")
+    output_vendor = os.path.join(output_dir, "lib", "vis-9.1.2")
+    if os.path.abspath(source_vendor) != os.path.abspath(output_vendor):
+        os.makedirs(output_vendor, exist_ok=True)
+        shutil.copyfile(
+            os.path.join(source_vendor, "vis-network.min.js"),
+            os.path.join(output_vendor, "vis-network.min.js"),
+        )
 
 
 def save_metrics(metrics, path):
@@ -1031,7 +1042,7 @@ if __name__ == "__main__":
     weighted_files = find_weighted_csvs(RESULTS_ROOT)
     print("Found weighted graph files:", weighted_files)
     edges = load_edges(weighted_files)
-    aggregated, relation_attrs, source_paths = aggregate_edges(edges)
+    aggregated, relation_attrs, source_paths, evidence_by_edge = aggregate_edges(edges)
 
     G = build_graph(aggregated, relation_attrs)
     metrics = compute_metrics(G)
@@ -1042,7 +1053,7 @@ if __name__ == "__main__":
     )
 
     G_clean, entity_types, cleaned_edges = build_clean_graph(
-        aggregated, relation_attrs, source_paths
+        aggregated, relation_attrs, source_paths, evidence_by_edge
     )
     if cleaned_edges:
         cleaned_metrics = compute_metrics(G_clean)
@@ -1059,6 +1070,12 @@ if __name__ == "__main__":
         save_clean_edges_csv(
             cleaned_edges, os.path.join(OUTPUT_DIR, "cleaned_aggregated_edges.csv")
         )
+        save_relation_review_csv(
+            cleaned_edges, os.path.join(OUTPUT_DIR, "relation_review.csv")
+        )
+        save_entity_review_csv(
+            entity_types, cleaned_edges, os.path.join(OUTPUT_DIR, "entity_review_candidates.csv")
+        )
         save_incoming_nodes_report(
             weighted_files, os.path.join(OUTPUT_DIR, "incoming_nodes.csv")
         )
@@ -1072,7 +1089,7 @@ if __name__ == "__main__":
         save_graph_html(node_items, edge_items, root_vis_path)
         print("Saved HTML visualization to", output_vis_path)
         print("Also updated root visualization file at", root_vis_path)
-        print("Saved incoming-node report and island-component report.")
+        print("Saved incoming-node, island-component, and review reports.")
     else:
         print(
             "No cleaned edges matched PERSON/COMMODITY/LOCATION and allowed relation mapping."
