@@ -19,7 +19,6 @@ except Exception:
 from config import *
 
 
-
 def normalize(text):
     if text is None:
         return ""
@@ -117,7 +116,9 @@ def load_edges(files):
                 except ValueError:
                     row_confidence = 0.0
 
-                evidence_items = list(sidecar_evidence.get((source, target, relation), []))
+                evidence_items = list(
+                    sidecar_evidence.get((source, target, relation), [])
+                )
                 if row_evidence and not evidence_items:
                     evidence_items.append(
                         {
@@ -268,8 +269,6 @@ def is_too_noisy_entity(entity_text):
     return False
 
 
-
-
 def classify_node(node):
     node = normalize_entity(node)
     if not node or is_too_noisy_entity(node):
@@ -358,7 +357,9 @@ def should_flip_relation_direction(relation, source_type, target_type):
     return False
 
 
-def build_clean_graph(aggregated, relation_attrs, source_paths=None, evidence_by_edge=None):
+def build_clean_graph(
+    aggregated, relation_attrs, source_paths=None, evidence_by_edge=None
+):
     entity_types = {}
     cleaned_edges = []
     for (source, target), weight in aggregated.items():
@@ -454,7 +455,11 @@ def save_clean_relations(edges, path):
                 "relation": edge["relation"],
                 "object": edge["target"],
                 "confidence": round(min(edge["weight"] / 10.0, 1.0), 2),
-                "evidence": evidence_sentences[0] if evidence_sentences else edge["raw_relations"],
+                "evidence": (
+                    evidence_sentences[0]
+                    if evidence_sentences
+                    else edge["raw_relations"]
+                ),
                 "evidence_sentences": evidence_sentences[:5],
                 "raw_relations": edge["raw_relations"],
                 "document": "aggregated_csvs",
@@ -538,7 +543,9 @@ def save_relation_review_csv(edges, path):
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for edge in sorted(edges, key=lambda x: (-x["weight"], x["source"], x["target"])):
+        for edge in sorted(
+            edges, key=lambda x: (-x["weight"], x["source"], x["target"])
+        ):
             evidence_sentences = [
                 item.get("sentence", "")
                 for item in edge.get("evidence_items", [])
@@ -609,7 +616,9 @@ def cleaned_graph_for_file(path):
 
 def save_incoming_nodes_report(weighted_files, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    ordered_files = sorted(weighted_files, key=lambda item: (os.path.getmtime(item), item))
+    ordered_files = sorted(
+        weighted_files, key=lambda item: (os.path.getmtime(item), item)
+    )
     seen_nodes = set()
     rows = []
 
@@ -655,10 +664,7 @@ def save_incoming_nodes_report(weighted_files, path):
 
 def save_island_components_report(G_clean, cleaned_edges, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    edge_lookup = {
-        (edge["source"], edge["target"]): edge
-        for edge in cleaned_edges
-    }
+    edge_lookup = {(edge["source"], edge["target"]): edge for edge in cleaned_edges}
     undirected = G_clean.to_undirected()
     focus_component = set()
     if RESEARCH_FOCUS_NODE in undirected:
@@ -666,7 +672,8 @@ def save_island_components_report(G_clean, cleaned_edges, path):
 
     rows = []
     components = sorted(
-        nx.connected_components(undirected), key=lambda component: (-len(component), sorted(component))
+        nx.connected_components(undirected),
+        key=lambda component: (-len(component), sorted(component)),
     )
     for index, component in enumerate(components, start=1):
         component_edges = []
@@ -795,7 +802,11 @@ def build_visualization_data(entity_types, edges):
         if node == RESEARCH_FOCUS_NODE:
             item.update(
                 {
-                    "color": {"background": "#ffcc00", "border": "#d62728", "highlight": {"background": "#ffdf52", "border": "#b00020"}},
+                    "color": {
+                        "background": "#ffcc00",
+                        "border": "#d62728",
+                        "highlight": {"background": "#ffdf52", "border": "#b00020"},
+                    },
                     "font": {"size": 18, "face": "Arial", "bold": True},
                     "borderWidth": 4,
                     "mass": 8,
@@ -814,7 +825,11 @@ def build_visualization_data(entity_types, edges):
     for index, edge in enumerate(edges):
         edge_color = EDGE_COLOR_BY_RELATION.get(edge["relation"], "#777777")
         touches_focus = RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}
-        bidirectional = edge["relation"] in {"disputes", "negotiates_with", "trades_with"}
+        bidirectional = edge["relation"] in {
+            "disputes",
+            "negotiates_with",
+            "trades_with",
+        }
         support = edge_support(edge)
         edge_width = max(2.4, min(10.0, 1.8 + math.sqrt(edge["weight"]) * 2.2))
         if support == "strong":
@@ -830,7 +845,11 @@ def build_visualization_data(entity_types, edges):
             for item in edge.get("evidence_items", [])
             if item.get("sentence")
         ]
-        evidence_text = " | ".join(evidence_sentences[:3]) if evidence_sentences else edge["raw_relations"]
+        evidence_text = (
+            " | ".join(evidence_sentences[:3])
+            if evidence_sentences
+            else edge["raw_relations"]
+        )
         if touches_focus:
             edge_width = max(edge_width, 4.5)
         direction_symbol = "<->" if bidirectional else "->"
@@ -839,9 +858,7 @@ def build_visualization_data(entity_types, edges):
             edge["extracted_source"] != edge["source"]
             or edge.get("extracted_target") != edge["target"]
         ):
-            extracted_direction = (
-                f"<br>Extracted direction: {edge['extracted_source']} -> {edge['extracted_target']}"
-            )
+            extracted_direction = f"<br>Extracted direction: {edge['extracted_source']} -> {edge['extracted_target']}"
         edge_items.append(
             {
                 "id": f"e{index}",
@@ -859,7 +876,12 @@ def build_visualization_data(entity_types, edges):
                 "books": books,
                 "evidence": evidence_sentences[:5],
                 "arrows": "to, from" if bidirectional else "to",
-                "font": {"size": 10, "align": "middle", "strokeWidth": 3, "strokeColor": "#ffffff"},
+                "font": {
+                    "size": 10,
+                    "align": "middle",
+                    "strokeWidth": 3,
+                    "strokeColor": "#ffffff",
+                },
                 "title": f"{edge['source']} {direction_symbol} {edge['target']}<br>Relation: {edge['relation']}<br>Support: {edge_support_label(support)}<br>Weight: {edge['weight']:.1f}<br>Books: {books_text}<br>Evidence: {evidence_text}<br>Raw relations: {edge['raw_relations']}{extracted_direction}",
             }
         )
@@ -874,7 +896,9 @@ def replace_template_section(template, start_marker, end_marker, content):
 
 
 def generate_graph_html(node_items, edge_items):
-    template_path = os.path.join(os.path.dirname(__file__), "network_visualization.html")
+    template_path = os.path.join(
+        os.path.dirname(__file__), "network_visualization.html"
+    )
     with open(template_path, encoding="utf-8") as f:
         html = f.read()
 
@@ -903,13 +927,13 @@ def generate_graph_html(node_items, edge_items):
     )
     html = replace_template_section(
         html,
-        "<script type=\"application/json\" id=\"graph-nodes-data\">",
+        '<script type="application/json" id="graph-nodes-data">',
         "</script><!-- GRAPH_NODES_END -->",
         nodes_json,
     )
     html = replace_template_section(
         html,
-        "<script type=\"application/json\" id=\"graph-edges-data\">",
+        '<script type="application/json" id="graph-edges-data">',
         "</script><!-- GRAPH_EDGES_END -->",
         edges_json,
     )
@@ -1100,7 +1124,9 @@ if __name__ == "__main__":
             cleaned_edges, os.path.join(OUTPUT_DIR, "relation_review.csv")
         )
         save_entity_review_csv(
-            entity_types, cleaned_edges, os.path.join(OUTPUT_DIR, "entity_review_candidates.csv")
+            entity_types,
+            cleaned_edges,
+            os.path.join(OUTPUT_DIR, "entity_review_candidates.csv"),
         )
         save_incoming_nodes_report(
             weighted_files, os.path.join(OUTPUT_DIR, "incoming_nodes.csv")
@@ -1110,7 +1136,9 @@ if __name__ == "__main__":
         )
         node_items, edge_items = build_visualization_data(entity_types, cleaned_edges)
         output_vis_path = os.path.join(OUTPUT_DIR, "network_visualization.html")
-        root_vis_path = os.path.join(os.path.dirname(__file__), "network_visualization.html")
+        root_vis_path = os.path.join(
+            os.path.dirname(__file__), "network_visualization.html"
+        )
         save_graph_html(node_items, edge_items, output_vis_path)
         save_graph_html(node_items, edge_items, root_vis_path)
         print("Saved HTML visualization to", output_vis_path)
