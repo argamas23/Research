@@ -1,11 +1,11 @@
 ComponentId,Size,EdgeCount,TotalWeight,Books,Nodes,Edges,RelationSummary,Recommendation
-2,6,5,5.0,Ladakh|Salt_routes_and_barter_caravans_in_the_H,china|drogpa|frederic drew|ladakh|tea|tibetan horses,china -> tea|drogpa -> tea|frederic drew -> ladakh|ladakh -> tea|tibetan horses -> tea,governs:1|trades_with:3|transports_via:1,review_disconnected_theme
+2,6,5,5.0,Ladakh|Salt_routes_and_barter_caravans_in_the_H,china|drogpa|frederic drew|ladakh|tea|tibetan horses,china -> tea|frederic drew -> ladakh|ladakh -> tea|tea -> drogpa|tibetan horses -> tea,governs:1|trades_with:3|transports_via:1,review_disconnected_theme
 3,4,3,3.0,Becoming_India,basis|cash dues|hill state|revenue demand,hill state -> basis|hill state -> cash dues|hill state -> revenue demand,depends_on:1|taxes:1|trades_with:1,review_disconnected_theme
 4,4,3,3.0,Becoming_India,begar|europeans|khash-kanet peasants|peasant family,begar -> europeans|khash-kanet peasants -> begar|peasant family -> begar,controls:1|trades_with:1|transports_via:1,review_disconnected_theme
 5,4,3,3.0,Becoming_India|Salt_routes_and_barter_caravans_in_the_H|Santiago_Lazcano,caterpillar fungus|natural products|products|tibetans,tibetans -> caterpillar fungus|tibetans -> natural products|tibetans -> products,supplies:1|trades_with:2,review_disconnected_theme
 6,4,3,3.0,Becoming_India,dominant village community|ruler of the tract|servile groups|village deity,dominant village community -> servile groups|ruler of the tract -> servile groups|village deity -> servile groups,controls:3,review_disconnected_theme
-7,4,3,3.0,Ladakh,foodgrains|outer hills|peasant traders|tibetan herdspeople,outer hills -> foodgrains|peasant traders -> foodgrains|tibetan herdspeople -> foodgrains,supplies:1|trades_with:1|transports_via:1,review_disconnected_theme
-8,4,3,3.0,HUMLA_NEPAL|Santiago_Lazcano,himalayan peoples|indian salt|tibetan salt|traders from two villages,himalayan peoples -> tibetan salt|traders from two villages -> indian salt|traders from two villages -> tibetan salt,trades_with:1|transports_via:2,review_disconnected_theme
+7,4,3,3.0,Ladakh,foodgrains|outer hills|peasant traders|tibetan herdspeople,foodgrains -> peasant traders|outer hills -> foodgrains|tibetan herdspeople -> foodgrains,supplies:1|trades_with:1|transports_via:1,review_disconnected_theme
+8,4,3,3.0,HUMLA_NEPAL|Santiago_Lazcano,himalayan peoples|indian salt|tibetan salt|traders from two villages,himalayan peoples -> tibetan salt|indian salt -> traders from two villages|tibetan salt -> traders from two villages,trades_with:1|transports_via:2,review_disconnected_theme
 9,4,3,3.0,Becoming_India,peasants|poorzee|state forests|wazeers,peasants -> poorzee|peasants -> state forests|wazeers -> peasants,extracts_from:1|licenses:1|supplies:1,review_disconnected_theme
 10,3,2,2.0,Ladakh,aurangzeb|deldan|tibetan authorities,deldan -> aurangzeb|deldan -> tibetan authorities,negotiates_with:2,review_or_hide_small_island
 11,3,2,2.0,Becoming_India,baggage|demands|himalayan peasants,himalayan peasants -> baggage|himalayan peasants -> demands,negotiates_with:1|transports_via:1,review_or_hide_small_island
@@ -23,11 +23,11 @@ ComponentId,Size,EdgeCount,TotalWeight,Books,Nodes,Edges,RelationSummary,Recomme
 23,2,1,1.0,Becoming_India,area|the state,the state -> area,governs:1,review_or_hide_small_island
 24,2,1,1.0,Ladakh,baltistan|dried apricots,baltistan -> dried apricots,trades_with:1,review_or_hide_small_island
 25,2,1,1.0,Becoming_India,begar conscription|khash-kanet peasantry,khash-kanet peasantry -> begar conscription,disputes:1,review_or_hide_small_island
-26,2,1,1.0,Santiago_Lazcano,bhutanese|rice,bhutanese -> rice,transports_via:1,review_or_hide_small_island
+26,2,1,1.0,Santiago_Lazcano,bhutanese|rice,rice -> bhutanese,transports_via:1,review_or_hide_small_island
 27,2,1,1.0,Becoming_India,british|entire border with the sikh territories,british -> entire border with the sikh territories,controls:1,review_or_hide_small_island
 28,2,1,1.0,Becoming_India,british officers|the west himalayas,british officers -> the west himalayas,transports_via:1,review_or_hide_small_island
 29,2,1,1.0,Becoming_India,british rule|local habitations,british rule -> local habitations,negotiates_with:1,review_or_hide_small_island
-30,2,1,1.0,Santiago_Lazcano,buckets of salt water|tibetan women,tibetan women -> buckets of salt water,transports_via:1,review_or_hide_small_island
+30,2,1,1.0,Santiago_Lazcano,buckets of salt water|tibetan women,buckets of salt water -> tibetan women,transports_via:1,review_or_hide_small_island
 31,2,1,1.0,Becoming_India,cash instead of cloth|wool of the pastoralists,wool of the pastoralists -> cash instead of cloth,trades_with:1,review_or_hide_small_island
 32,2,1,1.0,Becoming_India,changes|land settlements,land settlements -> changes,transports_via:1,review_or_hide_small_island
 33,2,1,1.0,Becoming_India,"civilisational centres|marginal, oppressed people","civilisational centres -> marginal, oppressed people",controls:1,review_or_hide_small_island

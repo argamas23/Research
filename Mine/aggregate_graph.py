@@ -346,6 +346,18 @@ def classify_node(node):
     return None, 0.0
 
 
+def should_flip_relation_direction(relation, source_type, target_type):
+    if relation == "transports_via":
+        return target_type == "COMMODITY" and source_type != "COMMODITY"
+    if relation == "extracts_from":
+        return source_type == "LOCATION" and target_type == "COMMODITY"
+    if relation == "supplies":
+        return source_type == "COMMODITY" and target_type != "COMMODITY"
+    if relation in {"controls", "governs", "licenses", "monopolizes", "taxes"}:
+        return source_type == "COMMODITY" and target_type != "COMMODITY"
+    return False
+
+
 def build_clean_graph(aggregated, relation_attrs, source_paths=None, evidence_by_edge=None):
     entity_types = {}
     cleaned_edges = []
@@ -360,17 +372,29 @@ def build_clean_graph(aggregated, relation_attrs, source_paths=None, evidence_by
         if source_type not in KEEP_ENTITY_TYPES or target_type not in KEEP_ENTITY_TYPES:
             continue
 
+        edge_source = source
+        edge_target = target
+        edge_source_type = source_type
+        edge_target_type = target_type
+        if should_flip_relation_direction(mapped, source_type, target_type):
+            edge_source = target
+            edge_target = source
+            edge_source_type = target_type
+            edge_target_type = source_type
+
         entity_types[source] = {"type": source_type, "confidence": source_conf}
         entity_types[target] = {"type": target_type, "confidence": target_conf}
         cleaned_edges.append(
             {
-                "source": source,
-                "target": target,
+                "source": edge_source,
+                "target": edge_target,
                 "relation": mapped,
                 "weight": weight,
                 "raw_relations": raw_relations,
-                "source_type": source_type,
-                "target_type": target_type,
+                "source_type": edge_source_type,
+                "target_type": edge_target_type,
+                "extracted_source": source,
+                "extracted_target": target,
                 "books": sorted(
                     book_label(path)
                     for path in (source_paths or {}).get((source, target), [])
@@ -797,6 +821,7 @@ def build_visualization_data(entity_types, edges):
     for index, edge in enumerate(edges):
         edge_color = EDGE_COLOR_BY_RELATION.get(edge["relation"], "#777777")
         touches_focus = RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}
+        bidirectional = edge["relation"] in {"disputes", "negotiates_with", "trades_with"}
         support = edge_support(edge)
         has_sentence_evidence = support != "single_needs_evidence"
         edge_width = max(2.4, min(10.0, 1.8 + math.sqrt(edge["weight"]) * 2.2))
@@ -816,6 +841,15 @@ def build_visualization_data(entity_types, edges):
         evidence_text = " | ".join(evidence_sentences[:3]) if evidence_sentences else edge["raw_relations"]
         if touches_focus:
             edge_width = max(edge_width, 4.5)
+        direction_symbol = "<->" if bidirectional else "->"
+        extracted_direction = ""
+        if edge.get("extracted_source") and (
+            edge["extracted_source"] != edge["source"]
+            or edge.get("extracted_target") != edge["target"]
+        ):
+            extracted_direction = (
+                f"<br>Extracted direction: {edge['extracted_source']} -> {edge['extracted_target']}"
+            )
         edge_items.append(
             {
                 "id": f"e{index}",
@@ -832,9 +866,9 @@ def build_visualization_data(entity_types, edges):
                 "weight": edge["weight"],
                 "books": books,
                 "evidence": evidence_sentences[:5],
-                "arrows": "to",
+                "arrows": "to, from" if bidirectional else "to",
                 "font": {"size": 10, "align": "middle", "strokeWidth": 3, "strokeColor": "#ffffff"},
-                "title": f"{edge['source']} -> {edge['target']}<br>Relation: {edge['relation']}<br>Support: {edge_support_label(support)}<br>Weight: {edge['weight']:.1f}<br>Books: {books_text}<br>Evidence: {evidence_text}<br>Raw relations: {edge['raw_relations']}",
+                "title": f"{edge['source']} {direction_symbol} {edge['target']}<br>Relation: {edge['relation']}<br>Support: {edge_support_label(support)}<br>Weight: {edge['weight']:.1f}<br>Books: {books_text}<br>Evidence: {evidence_text}<br>Raw relations: {edge['raw_relations']}{extracted_direction}",
             }
         )
 

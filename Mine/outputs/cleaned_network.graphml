@@ -1149,19 +1149,39 @@
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
     </edge>
+    <edge source="salt" target="tibetan_changpas">
+      <data key="d0">1.0</data>
+      <data key="d1">transports_via</data>
+    </edge>
+    <edge source="salt" target="rupshu">
+      <data key="d0">2.0</data>
+      <data key="d1">extracts_from</data>
+    </edge>
     <edge source="salt" target="barley">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
+    </edge>
+    <edge source="salt" target="lakes_of_the_changthang">
+      <data key="d0">1.0</data>
+      <data key="d1">extracts_from</data>
+    </edge>
+    <edge source="salt" target="ladakhis">
+      <data key="d0">1.0</data>
+      <data key="d1">transports_via</data>
+    </edge>
+    <edge source="salt" target="dabusun_nor">
+      <data key="d0">1.0</data>
+      <data key="d1">transports_via</data>
     </edge>
     <edge source="consumers" target="grain_for_salt">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
     </edge>
-    <edge source="traders_from_two_villages" target="tibetan_salt">
+    <edge source="tibetan_salt" target="traders_from_two_villages">
       <data key="d0">1.0</data>
       <data key="d1">transports_via</data>
     </edge>
-    <edge source="traders_from_two_villages" target="indian_salt">
+    <edge source="indian_salt" target="traders_from_two_villages">
       <data key="d0">1.0</data>
       <data key="d1">transports_via</data>
     </edge>
@@ -1169,7 +1189,7 @@
       <data key="d0">1.0</data>
       <data key="d1">supplies</data>
     </edge>
-    <edge source="khaltse" target="barley">
+    <edge source="barley" target="khaltse">
       <data key="d0">1.0</data>
       <data key="d1">extracts_from</data>
     </edge>
@@ -1201,6 +1221,10 @@
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
     </edge>
+    <edge source="tea" target="drogpa">
+      <data key="d0">1.0</data>
+      <data key="d1">transports_via</data>
+    </edge>
     <edge source="salt_lakes" target="salt">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
@@ -1208,6 +1232,10 @@
     <edge source="outer_hills" target="foodgrains">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
+    </edge>
+    <edge source="foodgrains" target="peasant_traders">
+      <data key="d0">1.0</data>
+      <data key="d1">transports_via</data>
     </edge>
     <edge source="tibetan_herdspeople" target="foodgrains">
       <data key="d0">1.0</data>
@@ -1242,10 +1270,6 @@
       <data key="d1">extracts_from</data>
     </edge>
     <edge source="pack-horses" target="karakoram">
-      <data key="d0">1.0</data>
-      <data key="d1">transports_via</data>
-    </edge>
-    <edge source="peasant_traders" target="foodgrains">
       <data key="d0">1.0</data>
       <data key="d1">transports_via</data>
     </edge>
@@ -1293,25 +1317,13 @@
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
     </edge>
-    <edge source="rupshu" target="salt">
-      <data key="d0">2.0</data>
-      <data key="d1">extracts_from</data>
-    </edge>
     <edge source="rupshu" target="kharnak">
       <data key="d0">1.0</data>
       <data key="d1">supplies</data>
     </edge>
-    <edge source="tibetan_changpas" target="salt">
-      <data key="d0">1.0</data>
-      <data key="d1">transports_via</data>
-    </edge>
     <edge source="men" target="salt">
       <data key="d0">1.0</data>
       <data key="d1">extracts_from</data>
-    </edge>
-    <edge source="men" target="long_dagger">
-      <data key="d0">1.0</data>
-      <data key="d1">transports_via</data>
     </edge>
     <edge source="kharnak" target="ownership_of_tso_kar">
       <data key="d0">1.0</data>
@@ -1337,10 +1349,6 @@
       <data key="d0">1.0</data>
       <data key="d1">licenses</data>
     </edge>
-    <edge source="drogpa" target="tea">
-      <data key="d0">1.0</data>
-      <data key="d1">transports_via</data>
-    </edge>
     <edge source="tibetan_horses" target="tea">
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
@@ -1353,9 +1361,9 @@
       <data key="d0">1.0</data>
       <data key="d1">trades_with</data>
     </edge>
-    <edge source="lakes_of_the_changthang" target="salt">
+    <edge source="long_dagger" target="men">
       <data key="d0">1.0</data>
-      <data key="d1">extracts_from</data>
+      <data key="d1">transports_via</data>
     </edge>
     <edge source="nomads_or_drokpas" target="salt_from_the_lakes">
       <data key="d0">1.0</data>
@@ -1373,11 +1381,7 @@
       <data key="d0">1.0</data>
       <data key="d1">taxes</data>
     </edge>
-    <edge source="bhutanese" target="rice">
-      <data key="d0">1.0</data>
-      <data key="d1">transports_via</data>
-    </edge>
-    <edge source="ladakhis" target="salt">
+    <edge source="rice" target="bhutanese">
       <data key="d0">1.0</data>
       <data key="d1">transports_via</data>
     </edge>
@@ -1389,15 +1393,11 @@
       <data key="d0">1.0</data>
       <data key="d1">supplies</data>
     </edge>
-    <edge source="dabusun_nor" target="salt">
-      <data key="d0">1.0</data>
-      <data key="d1">transports_via</data>
-    </edge>
     <edge source="monasteries" target="storage_facilities">
       <data key="d0">1.0</data>
       <data key="d1">supplies</data>
     </edge>
-    <edge source="tibetan_women" target="buckets_of_salt_water">
+    <edge source="buckets_of_salt_water" target="tibetan_women">
       <data key="d0">1.0</data>
       <data key="d1">transports_via</data>
     </edge>
