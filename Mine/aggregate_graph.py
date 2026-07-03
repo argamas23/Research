@@ -730,25 +730,18 @@ def calculate_node_size(weight):
 
 
 def edge_support(edge):
-    has_evidence = any(
-        item.get("sentence")
-        for item in edge.get("evidence_items", [])
-    )
     if edge["weight"] >= 3:
         return "strong"
     if edge["weight"] >= 2:
-        return "repeated"
-    if has_evidence:
-        return "single_with_evidence"
-    return "single_needs_evidence"
+        return "medium"
+    return "weak"
 
 
 def edge_support_label(support):
     labels = {
-        "strong": "Strong repeated",
-        "repeated": "Repeated",
-        "single_with_evidence": "Single with evidence",
-        "single_needs_evidence": "Needs evidence",
+        "strong": "Strong connection",
+        "medium": "Medium connection",
+        "weak": "Weak connection",
     }
     return labels.get(support, support)
 
@@ -823,13 +816,12 @@ def build_visualization_data(entity_types, edges):
         touches_focus = RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}
         bidirectional = edge["relation"] in {"disputes", "negotiates_with", "trades_with"}
         support = edge_support(edge)
-        has_sentence_evidence = support != "single_needs_evidence"
         edge_width = max(2.4, min(10.0, 1.8 + math.sqrt(edge["weight"]) * 2.2))
         if support == "strong":
             edge_width = max(edge_width, 8.0)
-        elif support == "repeated":
-            edge_width = max(edge_width, 6.0)
-        elif support == "single_needs_evidence":
+        elif support == "medium":
+            edge_width = max(edge_width, 5.0)
+        elif support == "weak":
             edge_width = max(2.2, edge_width - 0.8)
         books = edge.get("books", [])
         books_text = ", ".join(books) if books else "Unknown"
@@ -861,8 +853,8 @@ def build_visualization_data(entity_types, edges):
                 "supportLabel": edge_support_label(support),
                 "color": {"color": edge_color, "highlight": edge_color},
                 "width": edge_width,
-                "dashes": not has_sentence_evidence,
-                "opacity": 1.0 if support in {"strong", "repeated"} else 0.72,
+                "dashes": False,
+                "opacity": 1.0 if support in {"strong", "medium"} else 0.72,
                 "weight": edge["weight"],
                 "books": books,
                 "evidence": evidence_sentences[:5],

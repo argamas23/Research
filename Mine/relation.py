@@ -122,7 +122,8 @@ def extract_triples_ollama(chunk, topics):
     3. evidence_sentence must be copied from the provided text and must justify the relation.
     4. confidence must be a number from 0.0 to 1.0.
     5. Do not infer relations from co-occurrence alone. If the text does not support a relation, omit it.
-    6. Output ONLY valid JSON:
+    6. Actively scan for and capture non-trade, political, administrative, and legal relations (such as 'taxes', 'licenses', 'controls', 'governs', 'disputes', 'negotiates_with', 'monopolizes', 'depends_on', 'supplies') when they are justified by the text. Do not default generic transport/trade interactions to 'trades_with' or 'transports_via' if a more specific dependency, control, regulatory, or tributary relation is present.
+    7. Output ONLY valid JSON:
        {{"triples": [{{"subject": "...", "relation": "trades_with", "object": "...", "evidence_sentence": "...", "confidence": 0.80}}]}}
     
     TEXT: {chunk}
