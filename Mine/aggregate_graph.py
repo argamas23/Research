@@ -736,12 +736,30 @@ def calculate_node_size(weight):
     return min(32, max(14, 10 + math.log1p(weight) * 8))
 
 
-def edge_support(edge):
-    if edge["weight"] >= 3:
-        return "strong"
-    if edge["weight"] >= 2:
-        return "medium"
-    return "weak"
+def assign_edge_supports(edges):
+    """Assign support labels using rank-based splits for a balanced distribution.
+
+    Edges are sorted by weight (descending). The top 20% get 'strong',
+    the next 30% get 'medium', and the bottom 50% get 'weak'. This ensures
+    all three categories are always populated regardless of how skewed the
+    weight distribution is.
+    """
+    if not edges:
+        return {}
+    # Stable sort by weight descending; ties preserve original list order
+    ranked = sorted(enumerate(edges), key=lambda x: x[1]["weight"], reverse=True)
+    n = len(ranked)
+    result = {}
+    for rank, (_, edge) in enumerate(ranked):
+        key = (edge["source"], edge["target"])
+        pct = rank / n  # 0.0 = heaviest, 1.0 = lightest
+        if pct < 0.20:
+            result[key] = "strong"
+        elif pct < 0.50:
+            result[key] = "medium"
+        else:
+            result[key] = "weak"
+    return result
 
 
 def edge_support_label(support):
@@ -822,6 +840,7 @@ def build_visualization_data(entity_types, edges):
         node_items.append(item)
 
     edge_items = []
+    support_map = assign_edge_supports(edges)
     for index, edge in enumerate(edges):
         edge_color = EDGE_COLOR_BY_RELATION.get(edge["relation"], "#777777")
         touches_focus = RESEARCH_FOCUS_NODE in {edge["source"], edge["target"]}
@@ -830,7 +849,7 @@ def build_visualization_data(entity_types, edges):
             "negotiates_with",
             "trades_with",
         }
-        support = edge_support(edge)
+        support = support_map.get((edge["source"], edge["target"]), "weak")
         edge_width = max(2.4, min(10.0, 1.8 + math.sqrt(edge["weight"]) * 2.2))
         if support == "strong":
             edge_width = max(edge_width, 8.0)
