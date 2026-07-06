@@ -1,31 +1,31 @@
 [
   {
     "entity": "a situation",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "a trade",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "agricultural cycle",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "agriculture",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "GROUP",
+    "confidence": 1.0,
+    "relevance": 0.767,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "amdowas",
@@ -43,17 +43,17 @@
   },
   {
     "entity": "area",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "at present",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "aurangzeb",
@@ -64,10 +64,10 @@
   },
   {
     "entity": "baggage",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "baltistan",
@@ -85,31 +85,31 @@
   },
   {
     "entity": "basis",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "begar",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "begar conscription",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "bethus",
     "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "confidence": 0.7,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "bhutanese",
@@ -127,17 +127,17 @@
   },
   {
     "entity": "british officers",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "british rule",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "CONCEPT",
+    "confidence": 0.8,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "buckets of salt water",
@@ -155,10 +155,10 @@
   },
   {
     "entity": "cash dues",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "cash instead of cloth",
@@ -197,17 +197,17 @@
   },
   {
     "entity": "changes",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "chasralu",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "china",
@@ -239,17 +239,17 @@
   },
   {
     "entity": "civilisational centres",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "clan deity",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "coarse wool",
@@ -260,31 +260,31 @@
   },
   {
     "entity": "consumers",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "dabusun nor",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "deities",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "deity",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "deldan",
@@ -295,17 +295,17 @@
   },
   {
     "entity": "demands",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "divine functionaries",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "dolpo",
@@ -323,10 +323,10 @@
   },
   {
     "entity": "donations",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "dried apricots",
@@ -344,10 +344,10 @@
   },
   {
     "entity": "drokpas",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "entire border with the sikh territories",
@@ -358,10 +358,10 @@
   },
   {
     "entity": "european plant",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "COMMODITY",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "europeans",
@@ -372,10 +372,10 @@
   },
   {
     "entity": "facts",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "foodgrains",
@@ -393,17 +393,17 @@
   },
   {
     "entity": "garu",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "LOCATION",
+    "confidence": 0.7,
+    "relevance": 0.2,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "government",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "GROUP",
+    "confidence": 0.7,
+    "relevance": 0.134,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "grain",
@@ -428,10 +428,10 @@
   },
   {
     "entity": "gurkhas",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "gurkhas of nepal",
@@ -449,10 +449,10 @@
   },
   {
     "entity": "having no credibility",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "hill state",
@@ -498,10 +498,10 @@
   },
   {
     "entity": "his patron god",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "humlis",
@@ -512,10 +512,10 @@
   },
   {
     "entity": "imprisoned",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "indian salt",
@@ -526,17 +526,17 @@
   },
   {
     "entity": "jada family",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "kanets",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "karakoram",
@@ -561,17 +561,17 @@
   },
   {
     "entity": "khash-kanet peasantry",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "khash-kanet peasants",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "king of ladakh",
@@ -610,10 +610,10 @@
   },
   {
     "entity": "ladakhis",
-    "type": "LOCATION",
-    "confidence": 0.8,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "GROUP",
+    "confidence": 0.9,
+    "relevance": 0.416,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "lakes of the changthang",
@@ -624,17 +624,17 @@
   },
   {
     "entity": "land revenue",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "CONCEPT",
+    "confidence": 0.8,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "land settlements",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "CONCEPT",
+    "confidence": 0.8,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "leh area merchants",
@@ -659,24 +659,24 @@
   },
   {
     "entity": "loaded men",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "local habitations",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "loggers",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "logs down the big rivers",
@@ -701,17 +701,17 @@
   },
   {
     "entity": "mahasu",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "LOCATION",
+    "confidence": 0.9,
+    "relevance": 0.131,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "mandi",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "LOCATION",
+    "confidence": 0.7,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "marginal, oppressed people",
@@ -722,10 +722,10 @@
   },
   {
     "entity": "marts",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "meat",
@@ -743,10 +743,10 @@
   },
   {
     "entity": "migratory strategy",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "milk",
@@ -757,10 +757,10 @@
   },
   {
     "entity": "monasteries",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "mountainous areas",
@@ -778,10 +778,10 @@
   },
   {
     "entity": "natural products",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "nepal",
@@ -792,10 +792,10 @@
   },
   {
     "entity": "new law",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "nomads",
@@ -813,10 +813,10 @@
   },
   {
     "entity": "obstacles",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "of the states",
@@ -834,10 +834,10 @@
   },
   {
     "entity": "outsiders",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "ownership of tso kar",
@@ -856,9 +856,9 @@
   {
     "entity": "padam dev gautam",
     "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "confidence": 0.7,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "pashm",
@@ -869,31 +869,31 @@
   },
   {
     "entity": "pastoral groups",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "pastoralists",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "pe customs house",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "peasant family",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "peasant traders",
@@ -904,17 +904,17 @@
   },
   {
     "entity": "peasantry",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "peasants",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "people",
@@ -933,9 +933,9 @@
   {
     "entity": "poorzee",
     "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "confidence": 0.7,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "porcelain cups",
@@ -946,38 +946,38 @@
   },
   {
     "entity": "prior interventions",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "produce",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "productive resources",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "products",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "rampur",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "rana",
@@ -995,10 +995,10 @@
   },
   {
     "entity": "revenue demand",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "revenue matters in a few hill states",
@@ -1037,10 +1037,10 @@
   },
   {
     "entity": "saffron",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "COMMODITY",
+    "confidence": 0.95,
+    "relevance": 0.255,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "salt",
@@ -1072,10 +1072,10 @@
   },
   {
     "entity": "servile groups",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "shamma",
@@ -1107,17 +1107,17 @@
   },
   {
     "entity": "special circumstances",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "specimens",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "state forests",
@@ -1149,31 +1149,31 @@
   },
   {
     "entity": "storage facilities",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "strachey",
     "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "confidence": 0.7,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "support",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "surplus",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "sutlej valley",
@@ -1191,17 +1191,17 @@
   },
   {
     "entity": "the bethus",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "the british",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "the british east india company",
@@ -1212,24 +1212,24 @@
   },
   {
     "entity": "the corn",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "the crown",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "the khumri",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "the narrow mountain paths",
@@ -1247,10 +1247,10 @@
   },
   {
     "entity": "the raja",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "the rulers of these hill states",
@@ -1268,10 +1268,10 @@
   },
   {
     "entity": "the subbas",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "GROUP",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "the west himalayas",
@@ -1289,10 +1289,10 @@
   },
   {
     "entity": "throughout the year",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "CONCEPT",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "tibet",
@@ -1388,9 +1388,9 @@
   {
     "entity": "tika ruder sen",
     "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "confidence": 0.7,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "to the borders of tibet",
@@ -1422,10 +1422,10 @@
   },
   {
     "entity": "tsakalho",
-    "type": "PERSON",
-    "confidence": 0.5,
+    "type": "LOCATION",
+    "confidence": 0.8,
     "relevance": 1.0,
-    "source": "aggregated_graph"
+    "source": "manual_rule"
   },
   {
     "entity": "tukuche",
@@ -1457,17 +1457,17 @@
   },
   {
     "entity": "wazeers",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "GROUP",
+    "confidence": 0.7,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "women",
-    "type": "PERSON",
-    "confidence": 0.5,
-    "relevance": 1.0,
-    "source": "aggregated_graph"
+    "type": "GROUP",
+    "confidence": 0.8,
+    "relevance": 0.0,
+    "source": "textrazor_corrected"
   },
   {
     "entity": "wool of the pastoralists",
