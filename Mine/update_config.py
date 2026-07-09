@@ -24,7 +24,7 @@ def load_existing_overrides():
 
 def main():
     if not os.path.exists(CLEANED_ENTITIES_PATH):
-        print("No cleaned_entities.json found. Run aggregate_graph.py first.")
+        print("No cleaned_entities.json found. Run the pipeline first.")
         return
 
     with open(CLEANED_ENTITIES_PATH, "r", encoding="utf-8") as f:

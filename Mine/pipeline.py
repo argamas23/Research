@@ -111,20 +111,16 @@ def main():
         "--workers", str(max(1, args.workers)),
     ])
 
-    # 7. Aggregate Graph (aggregate_graph.py)
-    print("\n--- Step 7: Generating Aggregate Graph (aggregate_graph.py) ---")
-    run_command(["python3", os.path.join(mine_dir, "aggregate_graph.py")])
-
-    # 8. Update Config (update_config.py)
-    print("\n--- Step 8: Updating Configuration (update_config.py) ---")
+    # 7. Update Config (update_config.py)
+    print("\n--- Step 7: Updating Configuration (update_config.py) ---")
     run_command(["python3", os.path.join(mine_dir, "update_config.py")])
 
-    # 9. Correct Entity Types using TextRazor NER (correct_entity_types.py)
-    print("\n--- Step 9: Correcting Entity Types via NER (correct_entity_types.py) ---")
+    # 8. Correct Entity Types using TextRazor NER (correct_entity_types.py)
+    print("\n--- Step 8: Correcting Entity Types via NER (correct_entity_types.py) ---")
     run_command(["python3", os.path.join(mine_dir, "correct_entity_types.py")])
 
-    # 10. Regenerate HTML Visualization (regenerate_html.py)
-    print("\n--- Step 10: Regenerating HTML Visualization (regenerate_html.py) ---")
+    # 9. Regenerate HTML Visualization (regenerate_html.py)
+    print("\n--- Step 9: Regenerating HTML Visualization (regenerate_html.py) ---")
     run_command(["python3", os.path.join(mine_dir, "regenerate_html.py")])
 
     print(f"\nPipeline completed successfully! Results are in: {results_dir}")

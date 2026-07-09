@@ -8,11 +8,19 @@ cleaned_entities.json and generates new ENTITY_TYPE_OVERRIDES for config.py.
 New books added to Results/ are automatically picked up — no hardcoded paths.
 """
 
+from __future__ import annotations
+
 import json
 import os
 import re
 import glob
+import shutil
+import logging
+import argparse
 from collections import defaultdict
+from datetime import datetime
+from math import exp
+from typing import Optional
 
 import sys
 sys.path.insert(0, os.path.dirname(__file__))
@@ -20,16 +28,19 @@ from config import RESULTS_ROOT, OUTPUT_DIR
 
 CLEANED_ENTITIES_PATH = os.path.join(OUTPUT_DIR, "cleaned_entities.json")
 
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+logger = logging.getLogger(__name__)
 
-def find_ner_files():
+
+def find_ner_files() -> list[str]:
     """Auto-discover all ner_results.txt files under RESULTS_ROOT."""
     pattern = os.path.join(RESULTS_ROOT, "**", "ner_results.txt")
     return sorted(glob.glob(pattern, recursive=True))
 
-# TextRazor Freebase category prefixes → graph entity types
-CATEGORY_TO_TYPE = {
-    # PERSON
-    "/people/person": "PERSON",
+
+# Mapping from Freebase category prefix → graph entity type.
+# Used as a fallback for categories NOT listed in Selected_Topics.txt.
+_EXTRA_CATEGORY_MAPPINGS = {
     "/people/deceased_person": "PERSON",
     "/film/actor": "PERSON",
     "/music/artist": "PERSON",
@@ -38,51 +49,107 @@ CATEGORY_TO_TYPE = {
     "/military/military_person": "PERSON",
     "/royalty/monarch": "PERSON",
     "/royalty/noble_person": "PERSON",
-    # LOCATION
-    "/location/location": "LOCATION",
-    "/location/country": "LOCATION",
-    "/location/citytown": "LOCATION",
-    "/location/administrative_division": "LOCATION",
-    "/geography/river": "LOCATION",
-    "/geography/lake": "LOCATION",
-    "/geography/mountain": "LOCATION",
-    "/geography/geographical_feature": "LOCATION",
-    "/travel/travel_destination": "LOCATION",
     "/location/statistical_region": "LOCATION",
     "/location/hud_county_place": "LOCATION",
     "/protected_sites/listed_site": "LOCATION",
-    "/architecture/building": "LOCATION",
-    "/architecture/structure": "LOCATION",
     "/architecture/venue": "LOCATION",
-    # GROUP
-    "/people/ethnicity": "GROUP",
     "/people/family": "GROUP",
     "/people/group": "GROUP",
-    "/organization/organization": "GROUP",
     "/government/government": "GROUP",
     "/military/military_unit": "GROUP",
-    "/religion/religion": "GROUP",
     "/business/business_operation": "GROUP",
-    # COMMODITY
-    "/food/food": "COMMODITY",
-    "/food/ingredient": "COMMODITY",
-    "/biology/animal": "COMMODITY",
     "/biology/domesticated_animal": "COMMODITY",
     "/biology/organism": "COMMODITY",
-    "/biology/plant": "COMMODITY",
     "/distilled_spirits/blended_spirit": "COMMODITY",
     "/chemistry/chemical_compound": "COMMODITY",
     "/medicine/drug": "COMMODITY",
-    "/textiles/fiber": "COMMODITY",
-    "/textiles/textile": "COMMODITY",
     "/award/award_discipline": "CONCEPT",
-    # CONCEPT
-    "/event/event": "CONCEPT",
     "/time/event": "CONCEPT",
     "/law/legal_subject": "CONCEPT",
     "/education/field_of_study": "CONCEPT",
-    "/religion/religious_practice": "CONCEPT",
 }
+
+# Rules to derive entity type from a Freebase category path.
+# Order matters — first match wins.
+_PREFIX_TYPE_RULES: list[tuple[tuple[str, ...], str]] = [
+    # PERSON
+    (("/people/person",), "PERSON"),
+    (("/religion/religious_leader",), "PERSON"),
+    # LOCATION
+    (("/location/", "/geography/", "/geology/",
+      "/architecture/building", "/architecture/structure",
+      "/meteorology/", "/metropolitan_transit/",
+      "/government/governmental_jurisdiction", "/government/political_district",
+      "/religion/monastery", "/religion/place_of_worship",
+      "/transportation/", "/rail/", "/travel/transport_terminus",
+      "/travel/travel_destination", "/business/business_location"), "LOCATION"),
+    # GROUP
+    (("/organization/", "/people/ethnicity",), "GROUP"),
+    # COMMODITY
+    (("/food/", "/biology/", "/fashion/", "/textiles/",
+      "/business/consumer_product", "/business/product_category",
+      "/business/product_ingredient", "/business/product_line",
+      "/economy/livestock", "/boats/ship_type"), "COMMODITY"),
+    # CONCEPT
+    (("/event/", "/people/profession", "/religion/religious_practice",
+      "/religion/religion", "/travel/transportation_mode"), "CONCEPT"),
+]
+
+
+def _infer_type_from_category(category: str) -> Optional[str]:
+    """Derive entity type from a single Freebase category path using prefix rules."""
+    for prefixes, entity_type in _PREFIX_TYPE_RULES:
+        for prefix in prefixes:
+            if category == prefix or category.startswith(prefix):
+                return entity_type
+    return None
+
+
+def load_selected_topics(path: Optional[str] = None) -> dict[str, str]:
+    """
+    Load Selected_Topics.txt and map each topic to an entity type.
+
+    Returns dict: category_path -> entity_type (e.g., "/food/food" -> "COMMODITY")
+    """
+    if path is None:
+        path = os.path.join(os.path.dirname(__file__), "Selected_Topics.txt")
+
+    topic_type_map: dict[str, str] = {}
+    if not os.path.exists(path):
+        logger.warning("Selected_Topics.txt not found at %s", path)
+        return topic_type_map
+
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            topic = line.strip()
+            if not topic or not topic.startswith("/"):
+                continue
+            inferred = _infer_type_from_category(topic)
+            if inferred:
+                topic_type_map[topic] = inferred
+            else:
+                logger.debug("Could not map topic to type: %s", topic)
+
+    return topic_type_map
+
+
+def build_category_to_type() -> dict[str, str]:
+    """
+    Build the unified category → type mapping by merging:
+      1. Selected_Topics.txt (domain-relevant, auto-mapped)
+      2. _EXTRA_CATEGORY_MAPPINGS (hardcoded extras for categories not in Selected_Topics)
+
+    This means adding a new topic to Selected_Topics.txt automatically extends
+    the entity classification without touching code.
+    """
+    mapping = load_selected_topics()
+    # Layer extras underneath (don't overwrite topics-derived mappings)
+    for cat, etype in _EXTRA_CATEGORY_MAPPINGS.items():
+        mapping.setdefault(cat, etype)
+    logger.info("  Category→Type mapping: %d entries (%d from Selected_Topics)",
+                len(mapping), len(mapping) - len(_EXTRA_CATEGORY_MAPPINGS))
+    return mapping
+
 
 # Priority order for type resolution when multiple categories match
 TYPE_PRIORITY = {"PERSON": 4, "LOCATION": 3, "GROUP": 2, "COMMODITY": 1, "CONCEPT": 0}
@@ -130,61 +197,67 @@ MANUAL_TYPE_RULES = {
 }
 
 
-def parse_ner_file(filepath):
+def parse_ner_file(filepath: str) -> dict[str, list[tuple[str, float, float]]]:
     """
     Parse a TextRazor ner_results.txt file.
     Returns dict: entity_name_lower -> list of (category, relevance, confidence)
     """
-    entity_records = defaultdict(list)
-    current_category = None
+    entity_records: dict[str, list[tuple[str, float, float]]] = defaultdict(list)
+    current_category: Optional[str] = None
 
-    with open(filepath, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if line.startswith("/"):
-                current_category = line
-            elif "Relevance" in line and current_category:
-                match = re.match(
-                    r"^(.*?)\s+\(Relevance ([\d.]+) \| Confidence ([\d.]+)\)", line
-                )
-                if match:
-                    entity_name = match.group(1).strip()
-                    relevance = float(match.group(2))
-                    confidence = float(match.group(3))
-                    entity_lower = entity_name.lower()
-                    # Remove disambiguation suffixes like " (actor)"
-                    entity_lower = re.sub(r"\s*\([^)]*\)\s*$", "", entity_lower).strip()
-                    entity_records[entity_lower].append(
-                        (current_category, relevance, confidence)
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("/"):
+                    current_category = line
+                elif "Relevance" in line and current_category:
+                    match = re.match(
+                        r"^(.*?)\s+\(Relevance ([\d.]+) \| Confidence ([\d.]+)\)", line
                     )
+                    if match:
+                        entity_name = match.group(1).strip()
+                        relevance = float(match.group(2))
+                        confidence = float(match.group(3))
+                        entity_lower = entity_name.lower()
+                        # Remove disambiguation suffixes like " (actor)"
+                        entity_lower = re.sub(r"\s*\([^)]*\)\s*$", "", entity_lower).strip()
+                        entity_records[entity_lower].append(
+                            (current_category, relevance, confidence)
+                        )
+    except OSError as e:
+        logger.warning("Could not read %s: %s", filepath, e)
+
     return entity_records
 
 
-def resolve_type(records):
+def resolve_type(
+    records: list[tuple[str, float, float]],
+    category_map: dict[str, str],
+) -> tuple[Optional[str], float, float]:
     """
     Given a list of (category, relevance, confidence) for an entity,
     determine the best type and aggregate scores.
+
+    Uses `category_map` (built from Selected_Topics + extras) for exact matches,
+    then falls back to prefix-based inference.
     """
-    type_scores = defaultdict(lambda: {"relevance": 0.0, "confidence": 0.0, "count": 0})
+    type_scores: dict[str, dict] = defaultdict(lambda: {"relevance": 0.0, "confidence": 0.0, "count": 0})
 
     for category, relevance, confidence in records:
-        # Match category to type using prefix matching
-        matched_type = None
-        for cat_prefix, entity_type in CATEGORY_TO_TYPE.items():
-            if category.startswith(cat_prefix) or category == cat_prefix:
-                matched_type = entity_type
-                break
+        # 1. Exact match in unified category map
+        matched_type = category_map.get(category)
 
-        # Broader prefix matching for categories not explicitly listed
+        # 2. Prefix match against the map keys
         if matched_type is None:
-            if category.startswith("/people"):
-                matched_type = "PERSON"
-            elif category.startswith("/location") or category.startswith("/geography"):
-                matched_type = "LOCATION"
-            elif category.startswith(("/organization", "/government", "/military")):
-                matched_type = "GROUP"
-            elif category.startswith(("/food", "/biology", "/textiles", "/chemistry")):
-                matched_type = "COMMODITY"
+            for cat_prefix, entity_type in category_map.items():
+                if category.startswith(cat_prefix):
+                    matched_type = entity_type
+                    break
+
+        # 3. Fallback: infer from prefix rules (catches categories not in map)
+        if matched_type is None:
+            matched_type = _infer_type_from_category(category)
 
         if matched_type:
             ts = type_scores[matched_type]
@@ -207,25 +280,30 @@ def resolve_type(records):
     return best_type, type_scores[best_type]["relevance"], type_scores[best_type]["confidence"]
 
 
-def build_ner_lookup():
+def build_ner_lookup() -> dict[str, dict]:
     """Parse all NER results files and build entity -> type lookup."""
-    all_records = defaultdict(list)
+    all_records: dict[str, list[tuple[str, float, float]]] = defaultdict(list)
     ner_files = find_ner_files()
 
     if not ner_files:
-        print(f"  WARNING: No ner_results.txt found under {RESULTS_ROOT}")
+        logger.warning("No ner_results.txt found under %s", RESULTS_ROOT)
         return {}
 
     for ner_path in ner_files:
-        print(f"  Parsing: {ner_path}")
+        logger.info("  Parsing: %s", ner_path)
         records = parse_ner_file(ner_path)
         for entity, recs in records.items():
-            all_records[entity].extend(recs)
+            # Deduplicate: skip records already accumulated for this entity
+            existing = set(all_records[entity])
+            all_records[entity].extend(r for r in recs if r not in existing)
+
+    # Build the category→type mapping from Selected_Topics + extras
+    category_map = build_category_to_type()
 
     # Resolve each entity to its best type
-    lookup = {}
+    lookup: dict[str, dict] = {}
     for entity, records in all_records.items():
-        best_type, relevance, confidence = resolve_type(records)
+        best_type, relevance, confidence = resolve_type(records, category_map)
         if best_type:
             lookup[entity] = {
                 "type": best_type,
@@ -235,53 +313,85 @@ def build_ner_lookup():
     return lookup
 
 
-def normalize_confidence(raw_confidence):
+def normalize_confidence(raw_confidence: float) -> float:
     """
     Normalize TextRazor confidence (which can be >1) to 0-1 range.
-    Uses a sigmoid-like mapping.
+    Uses sigmoid σ(k·x) with k=0.8, mapping 0→0.50, 1→0.69, 5→0.98.
     """
-    if raw_confidence >= 10:
-        return 1.0
-    elif raw_confidence >= 5:
-        return 0.95
-    elif raw_confidence >= 2:
-        return 0.9
-    elif raw_confidence >= 1:
-        return 0.85
-    elif raw_confidence >= 0.5:
-        return 0.7
-    else:
-        return 0.5
+    return round(1.0 / (1.0 + exp(-0.8 * raw_confidence)), 4)
 
 
-def main():
-    print("Building NER lookup from TextRazor results...")
+def _backup_file(path: str) -> Optional[str]:
+    """Create a timestamped backup of a file. Returns backup path or None on failure."""
+    if not os.path.exists(path):
+        return None
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    backup_path = f"{path}.{timestamp}.bak"
+    try:
+        shutil.copy2(path, backup_path)
+        logger.info("Backup created: %s", backup_path)
+        return backup_path
+    except OSError as e:
+        logger.warning("Could not create backup for %s: %s", path, e)
+        return None
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Correct entity types using TextRazor NER results."
+    )
+    parser.add_argument(
+        "--dry-run", action="store_true",
+        help="Preview corrections without writing any files.",
+    )
+    parser.add_argument(
+        "--verbose", action="store_true", help="Enable DEBUG-level logging."
+    )
+    args = parser.parse_args()
+
+    if args.verbose:
+        logging.getLogger().setLevel(logging.DEBUG)
+    if args.dry_run:
+        logger.info("DRY-RUN mode: no files will be written.")
+
+    logger.info("Building NER lookup from TextRazor results...")
     ner_lookup = build_ner_lookup()
-    print(f"  Found {len(ner_lookup)} entities in NER data.\n")
+    logger.info("Found %d entities in NER data.", len(ner_lookup))
 
     # Load current entities
-    with open(CLEANED_ENTITIES_PATH, "r", encoding="utf-8") as f:
-        entities = json.load(f)
+    try:
+        with open(CLEANED_ENTITIES_PATH, "r", encoding="utf-8") as f:
+            entities = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        logger.error("Failed to load %s: %s", CLEANED_ENTITIES_PATH, e)
+        sys.exit(1)
 
-    # Build reverse lookup from manual rules
-    manual_lookup = {}
-    for mtype, names in MANUAL_TYPE_RULES.items():
-        for n in names:
-            manual_lookup[n] = mtype
+    # Build case-insensitive reverse lookup from manual rules
+    manual_lookup: dict[str, str] = {
+        n.lower(): mtype
+        for mtype, names in MANUAL_TYPE_RULES.items()
+        for n in names
+    }
 
     corrections = []
     unchanged = []
     not_found_in_ner = []
 
     for ent in entities:
-        name = ent["entity"]
-        current_type = ent["type"]
-        current_conf = ent["confidence"]
+        name: str = ent.get("entity", "")
+        current_type: str = ent.get("type", "UNKNOWN")
+        current_conf: float = ent.get("confidence", 0.0)
+        name_lower = name.lower()
+
+        # Skip entities already corrected in a previous run (idempotency)
+        if ent.get("source") in ("manual_rule", "textrazor_corrected"):
+            unchanged.append(name)
+            continue
 
         # First check manual override rules (highest priority for known misclassifications)
-        if name in manual_lookup and current_conf <= 0.5:
-            new_type = manual_lookup[name]
-            new_conf = 0.8  # Manual rule confidence
+        if name_lower in manual_lookup and current_conf <= 0.5:
+            new_type = manual_lookup[name_lower]
+            new_conf = 0.8
             corrections.append({
                 "entity": name,
                 "old_type": current_type,
@@ -292,31 +402,27 @@ def main():
                 "ner_raw_confidence": 0.0,
                 "source": "manual_rule",
             })
-            ent["type"] = new_type
-            ent["confidence"] = new_conf
-            ent["source"] = "manual_rule"
+            if not args.dry_run:
+                ent["type"] = new_type
+                ent["confidence"] = new_conf
+                ent["source"] = "manual_rule"
             continue
 
-        if name in ner_lookup:
-            ner_info = ner_lookup[name]
+        if name_lower in ner_lookup:
+            ner_info = ner_lookup[name_lower]
             ner_type = ner_info["type"]
             ner_conf = normalize_confidence(ner_info["confidence"])
             ner_rel = ner_info["relevance"]
 
             # Apply manual override if NER gives a clearly wrong type
             # (e.g., "women" → LOCATION from NER is wrong)
-            if name in manual_lookup:
-                ner_type = manual_lookup[name]
+            if name_lower in manual_lookup:
+                ner_type = manual_lookup[name_lower]
                 ner_conf = max(ner_conf, 0.8)
 
-            # Only override if:
-            # 1. Current confidence is low (0.5 = default/unknown), or
-            # 2. NER gives a different type with higher confidence
-            should_correct = False
-            if current_conf <= 0.5 and ner_conf > current_conf:
-                should_correct = True
-            elif ner_type != current_type and ner_conf > current_conf:
-                should_correct = True
+            should_correct = (current_conf <= 0.5 and ner_conf > current_conf) or (
+                ner_type != current_type and ner_conf > current_conf
+            )
 
             if should_correct:
                 corrections.append({
@@ -329,69 +435,84 @@ def main():
                     "ner_raw_confidence": ner_info["confidence"],
                     "source": "textrazor",
                 })
-                ent["type"] = ner_type
-                ent["confidence"] = ner_conf
-                ent["relevance"] = ner_rel
-                ent["source"] = "textrazor_corrected"
+                if not args.dry_run:
+                    ent["type"] = ner_type
+                    ent["confidence"] = ner_conf
+                    ent["relevance"] = ner_rel
+                    ent["source"] = "textrazor_corrected"
             else:
                 unchanged.append(name)
         else:
             if current_conf <= 0.5:
                 not_found_in_ner.append(name)
 
-    # Save corrected entities
-    corrected_path = os.path.join(OUTPUT_DIR, "cleaned_entities.json")
-    with open(corrected_path, "w", encoding="utf-8") as f:
-        json.dump(entities, f, indent=2, ensure_ascii=False)
-    print(f"Updated {corrected_path}")
+    # --- Output ---
+    sep = "=" * 60
+    thin = "─" * 60
+    logger.info("\n%s", sep)
+    logger.info("CORRECTION SUMMARY")
+    logger.info(sep)
+    logger.info("  Total entities:        %d", len(entities))
+    logger.info("  Corrected:             %d", len(corrections))
+    logger.info("  Unchanged / skipped:   %d", len(unchanged))
+    logger.info("  Not in NER (low conf): %d", len(not_found_in_ner))
 
-    # Print summary
-    print(f"\n{'='*60}")
-    print(f"CORRECTION SUMMARY")
-    print(f"{'='*60}")
-    print(f"  Total entities:      {len(entities)}")
-    print(f"  Corrected:           {len(corrections)}")
-    print(f"  Unchanged:           {len(unchanged)}")
-    print(f"  Not in NER (low conf): {len(not_found_in_ner)}")
-
-    print(f"\n{'─'*60}")
-    print("CORRECTIONS APPLIED:")
-    print(f"{'─'*60}")
+    logger.info("\n%s", thin)
+    logger.info("CORRECTIONS APPLIED:")
+    logger.info(thin)
     for c in sorted(corrections, key=lambda x: x["entity"]):
-        print(
-            f"  {c['entity']:40s} {c['old_type']:10s} → {c['new_type']:10s} "
-            f"(conf: {c['old_confidence']:.2f} → {c['new_confidence']:.2f}, "
-            f"NER raw conf: {c['ner_raw_confidence']:.3f})"
+        logger.info(
+            "  %-40s %-10s → %-10s (conf: %.2f → %.2f, NER raw conf: %.3f)",
+            c["entity"], c["old_type"], c["new_type"],
+            c["old_confidence"], c["new_confidence"], c["ner_raw_confidence"],
         )
 
     if not_found_in_ner:
-        print(f"\n{'─'*60}")
-        print("NOT FOUND IN NER (still low confidence - need manual review):")
-        print(f"{'─'*60}")
-        for name in sorted(not_found_in_ner):
-            print(f"  {name}")
+        logger.info("\n%s", thin)
+        logger.info("NOT FOUND IN NER (still low confidence - need manual review):")
+        logger.info(thin)
+        for n in sorted(not_found_in_ner):
+            logger.info("  %s", n)
 
-    # Generate ENTITY_TYPE_OVERRIDES updates
-    print(f"\n{'─'*60}")
-    print("SUGGESTED config.py ENTITY_TYPE_OVERRIDES updates:")
-    print(f"{'─'*60}")
+    logger.info("\n%s", thin)
+    logger.info("SUGGESTED config.py ENTITY_TYPE_OVERRIDES updates:")
+    logger.info(thin)
     for c in sorted(corrections, key=lambda x: x["entity"]):
-        print(f'    "{c["entity"]}": ("{c["new_type"]}", {c["new_confidence"]}),')
+        logger.info('    "%s": ("%s", %s),', c["entity"], c["new_type"], c["new_confidence"])
+
+    if args.dry_run:
+        logger.info("\nDRY-RUN complete. No files were written.")
+        return
+
+    # Save corrected entities (backup first, then atomic write)
+    _backup_file(CLEANED_ENTITIES_PATH)
+    tmp_path = CLEANED_ENTITIES_PATH + ".tmp"
+    try:
+        with open(tmp_path, "w", encoding="utf-8") as f:
+            json.dump(entities, f, indent=2, ensure_ascii=False)
+        os.replace(tmp_path, CLEANED_ENTITIES_PATH)
+        logger.info("Updated %s", CLEANED_ENTITIES_PATH)
+    except OSError as e:
+        logger.error("Failed to write %s: %s", CLEANED_ENTITIES_PATH, e)
+        sys.exit(1)
 
     # Save corrections log
     log_path = os.path.join(OUTPUT_DIR, "entity_corrections_log.json")
-    with open(log_path, "w", encoding="utf-8") as f:
-        json.dump(
-            {
-                "corrections": corrections,
-                "not_found_in_ner": not_found_in_ner,
-                "total_entities": len(entities),
-            },
-            f,
-            indent=2,
-            ensure_ascii=False,
-        )
-    print(f"\nCorrections log saved to: {log_path}")
+    try:
+        with open(log_path, "w", encoding="utf-8") as f:
+            json.dump(
+                {
+                    "corrections": corrections,
+                    "not_found_in_ner": not_found_in_ner,
+                    "total_entities": len(entities),
+                },
+                f,
+                indent=2,
+                ensure_ascii=False,
+            )
+        logger.info("Corrections log saved to: %s", log_path)
+    except OSError as e:
+        logger.error("Failed to write corrections log: %s", e)
 
 
 if __name__ == "__main__":
