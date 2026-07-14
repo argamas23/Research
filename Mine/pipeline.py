@@ -129,9 +129,9 @@ def main():
     print("\n--- Step 8: Correcting Entity Types via NER (correct_entity_types.py) ---")
     run_command(["python3", os.path.join(mine_dir, "correct_entity_types.py")])
 
-    # 9. Regenerate HTML Visualization (regenerate_html.py)
-    print("\n--- Step 9: Regenerating HTML Visualization (regenerate_html.py) ---")
-    run_command(["python3", os.path.join(mine_dir, "regenerate_html.py")])
+    # 9. Rebuild HTML Visualization from all Mine/Results graph CSVs
+    print("\n--- Step 9: Rebuilding HTML Visualization (rebuild_graph.py) ---")
+    run_command(["python3", os.path.join(mine_dir, "rebuild_graph.py")])
 
     print(f"\nPipeline completed successfully! Results are in: {results_dir}")
 
