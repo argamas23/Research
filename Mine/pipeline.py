@@ -17,6 +17,8 @@ def run_command(command):
 def main():
     parser = argparse.ArgumentParser(description="Run NLP pipeline on a single book.")
     parser.add_argument("--book", required=True, help="Name of the PDF file in Research/Books directory (e.g., '1910.pdf').")
+    parser.add_argument("--delete", action="store_true", help="Delete this book and all generated pipeline data.")
+    parser.add_argument("--dry-run", action="store_true", help="With --delete, show what would be deleted.")
     parser.add_argument(
         "--workers",
         type=int,
@@ -25,6 +27,14 @@ def main():
     )
     args = parser.parse_args()
     book_name = args.book
+
+    if args.delete:
+        from delete_book import delete_book
+
+        delete_book(book_name, dry_run=args.dry_run)
+        if not args.dry_run:
+            print(f"Deleted '{book_name}' and rebuilt graph outputs.")
+        return
 
     # Base directories
     base_dir = "/home/samagra-bharti/Desktop/Research"
