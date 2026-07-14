@@ -81,6 +81,7 @@
 /award/ranked_item
 /award/ranked_list
 /award/ranked_list_compiler
+/award/recurring_competition
 /baseball/baseball_coaching_position
 /baseball/baseball_position
 /basketball/basketball_division
@@ -90,6 +91,7 @@
 /biology/animal_owner
 /biology/breed_coloring
 /biology/breed_origin
+/biology/deceased_organism
 /biology/domesticated_animal
 /biology/gene
 /biology/hybrid
@@ -215,6 +217,7 @@
 /comic_books/comic_book_genre
 /comic_books/comic_book_penciler
 /comic_books/comic_book_publisher
+/comic_books/comic_book_series
 /comic_strips/comic_strip_creator
 /comic_strips/comic_strip_creator_role
 /comic_strips/comic_strip_genre
