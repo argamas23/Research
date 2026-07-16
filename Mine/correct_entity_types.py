@@ -3,7 +3,7 @@ Correct entity types using TextRazor NER results.
 
 Parses all ner_results.txt files found under RESULTS_ROOT, builds a mapping
 of entity -> best type with confidence/relevance scores, then updates
-cleaned_entities.json and generates new ENTITY_TYPE_OVERRIDES for config.py.
+cleaned_entities.json and writes entity_type_review.csv.
 
 New books added to Results/ are automatically picked up — no hardcoded paths.
 """
@@ -17,16 +17,19 @@ import glob
 import shutil
 import logging
 import argparse
+import csv
 from collections import defaultdict
 from datetime import datetime
 from math import exp
 from typing import Optional
 
 import sys
-sys.path.insert(0, os.path.dirname(__file__))
-from config import RESULTS_ROOT, OUTPUT_DIR
 
+MINE_DIR = os.path.dirname(__file__)
+RESULTS_ROOT = os.path.join(MINE_DIR, "Results")
+OUTPUT_DIR = os.path.join(MINE_DIR, "outputs")
 CLEANED_ENTITIES_PATH = os.path.join(OUTPUT_DIR, "cleaned_entities.json")
+REVIEW_OUTPUT_PATH = os.path.join(OUTPUT_DIR, "entity_type_review.csv")
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
@@ -336,6 +339,43 @@ def _backup_file(path: str) -> Optional[str]:
         return None
 
 
+def write_entity_review(entities: list[dict]) -> None:
+    manual_names = {
+        name.lower()
+        for names in MANUAL_TYPE_RULES.values()
+        for name in names
+    }
+    rows = [
+        {
+            "ReviewStatus": "pending",
+            "Entity": ent.get("entity", ""),
+            "SuggestedType": ent.get("type", ""),
+            "Confidence": ent.get("confidence", ""),
+            "AddToEntityTypeOverrides": "",
+            "CorrectedType": "",
+            "CanonicalEntity": "",
+            "Notes": "",
+        }
+        for ent in entities
+        if ent.get("entity", "").lower() not in manual_names
+    ]
+    with open(REVIEW_OUTPUT_PATH, "w", newline="", encoding="utf-8") as f:
+        fieldnames = [
+            "ReviewStatus",
+            "Entity",
+            "SuggestedType",
+            "Confidence",
+            "AddToEntityTypeOverrides",
+            "CorrectedType",
+            "CanonicalEntity",
+            "Notes",
+        ]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+    logger.info("Entity review saved to: %s", REVIEW_OUTPUT_PATH)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Correct entity types using TextRazor NER results."
@@ -474,15 +514,11 @@ def main() -> None:
         for n in sorted(not_found_in_ner):
             logger.info("  %s", n)
 
-    logger.info("\n%s", thin)
-    logger.info("SUGGESTED config.py ENTITY_TYPE_OVERRIDES updates:")
-    logger.info(thin)
-    for c in sorted(corrections, key=lambda x: x["entity"]):
-        logger.info('    "%s": ("%s", %s),', c["entity"], c["new_type"], c["new_confidence"])
-
     if args.dry_run:
         logger.info("\nDRY-RUN complete. No files were written.")
         return
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     # Save corrected entities (backup first, then atomic write)
     _backup_file(CLEANED_ENTITIES_PATH)
@@ -513,6 +549,8 @@ def main() -> None:
         logger.info("Corrections log saved to: %s", log_path)
     except OSError as e:
         logger.error("Failed to write corrections log: %s", e)
+
+    write_entity_review(entities)
 
 
 if __name__ == "__main__":

@@ -9,7 +9,7 @@ import shutil
 from collections import defaultdict
 from pathlib import Path
 
-from config import (
+from graph_rules import (
     BAD_COMMODITY_TERMS,
     BAD_LOCATION_TERMS,
     BAD_PERSON_TOKENS,

@@ -204,28 +204,19 @@ def main():
         [relation_output_path],
     )
 
-    # 7. Update Config (update_config.py)
+    # 7. Correct Entity Types using TextRazor NER (correct_entity_types.py)
     run_step(
-        "step_7_update_config",
-        "Step 7: Updating Configuration (update_config.py)",
-        ["python3", os.path.join(mine_dir, "update_config.py")],
-        state_path,
-        state,
-    )
-
-    # 8. Correct Entity Types using TextRazor NER (correct_entity_types.py)
-    run_step(
-        "step_8_correct_entity_types",
-        "Step 8: Correcting Entity Types via NER (correct_entity_types.py)",
+        "step_7_correct_entity_types",
+        "Step 7: Correcting Entity Types via NER (correct_entity_types.py)",
         ["python3", os.path.join(mine_dir, "correct_entity_types.py")],
         state_path,
         state,
     )
 
-    # 9. Rebuild HTML Visualization from all Mine/Results graph CSVs
+    # 8. Rebuild HTML Visualization from all Mine/Results graph CSVs
     run_step(
-        "step_9_rebuild_graph",
-        "Step 9: Rebuilding HTML Visualization (rebuild_graph.py)",
+        "step_8_rebuild_graph",
+        "Step 8: Rebuilding HTML Visualization (rebuild_graph.py)",
         ["python3", os.path.join(mine_dir, "rebuild_graph.py")],
         state_path,
         state,

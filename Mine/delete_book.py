@@ -8,12 +8,12 @@ import shutil
 from collections import defaultdict
 from pathlib import Path
 
-from config import OUTPUT_DIR, RESULTS_ROOT
-
 MINE_DIR = Path(__file__).resolve().parent
+OUTPUT_DIR = MINE_DIR / "outputs"
+RESULTS_ROOT = MINE_DIR / "Results"
 HTML_PATHS = [
     MINE_DIR / "network_visualization.html",
-    Path(OUTPUT_DIR) / "network_visualization.html",
+    OUTPUT_DIR / "network_visualization.html",
 ]
 
 
@@ -25,7 +25,7 @@ def result_dirs_for(book: str) -> list[Path]:
     wanted = norm_key(book)
     return sorted(
         path
-        for path in Path(RESULTS_ROOT).iterdir()
+        for path in RESULTS_ROOT.iterdir()
         if path.is_dir()
         and (norm_key(path.name) == wanted or norm_key(path.name).startswith(wanted + "_"))
     )
@@ -94,7 +94,7 @@ def filter_graph_outputs(deleted_books: set[str]) -> None:
         html = replace_html_data(html, "graph-edges-data", kept_edges)
         html_path.write_text(html, encoding="utf-8")
 
-    with open(Path(OUTPUT_DIR) / "cleaned_entities.json", "w", encoding="utf-8") as f:
+    with open(OUTPUT_DIR / "cleaned_entities.json", "w", encoding="utf-8") as f:
         json.dump(
             [
                 {
@@ -109,7 +109,7 @@ def filter_graph_outputs(deleted_books: set[str]) -> None:
             ensure_ascii=False,
         )
 
-    with open(Path(OUTPUT_DIR) / "cleaned_aggregated_edges.csv", "w", newline="", encoding="utf-8") as f:
+    with open(OUTPUT_DIR / "cleaned_aggregated_edges.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["Source", "Target", "MappedRelation", "Weight", "RawRelations", "SourceType", "TargetType", "Books", "Evidence"])
         type_by_node = {node["id"]: node.get("type", "") for node in kept_nodes}
