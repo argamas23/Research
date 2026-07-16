@@ -18,6 +18,7 @@ run: check-book
 
 graph:
 	$(PYTHON) Mine/rebuild_graph.py
+	$(PYTHON) Mine/salt_recall_audit.py
 
 delete-preview: check-book
 	$(PYTHON) Mine/pipeline.py --book "$(BOOK)" --delete --dry-run

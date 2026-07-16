@@ -222,6 +222,16 @@ def main():
         state,
     )
 
+    # 9. Salt recall audit for the current visualization.
+    run_step(
+        "step_9_salt_recall_audit",
+        "Step 9: Auditing Salt Recall (salt_recall_audit.py)",
+        ["python3", os.path.join(mine_dir, "salt_recall_audit.py")],
+        state_path,
+        state,
+        [os.path.join(mine_dir, "outputs", "salt_recall_audit.csv")],
+    )
+
     print(f"\nPipeline completed successfully! Results are in: {results_dir}")
 
 if __name__ == "__main__":

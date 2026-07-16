@@ -3,6 +3,29 @@ import os
 RESULTS_ROOT = os.path.join(os.path.dirname(__file__), "Results")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "outputs")
 RESEARCH_FOCUS_NODE = "salt"
+CIRCUIT_COLORS = {
+    "Salt anchor": "#ffcc00",
+    "Commodity circuits": "#c44e52",
+    "Political economy": "#315f9f",
+    "Route/place circuits": "#55a868",
+    "Social actors": "#8172b2",
+    "Conceptual context": "#937860",
+}
+SALT_TERMS = {
+    "salt",
+    "rock salt",
+    "salt lake",
+    "salt lakes",
+    "salt pan",
+    "salt pans",
+    "saltwater",
+    "brine",
+    "saline",
+    "tsaka",
+    "tshwa",
+    "tsakalho",
+    "tsakhalho",
+}
 
 ALLOWED_RELATIONS = {
     "trades_with",
@@ -458,6 +481,69 @@ GROUP_KEYWORDS = {
     "traders",
     "tibetans",
     "villagers",
+}
+
+POLITICAL_ECONOMY_TERMS = {
+    "authority",
+    "authorities",
+    "british",
+    "capital",
+    "colonial",
+    "control",
+    "customs",
+    "duty",
+    "excise",
+    "fee",
+    "government",
+    "governments",
+    "license",
+    "licenses",
+    "monopoly",
+    "permit",
+    "political",
+    "raja",
+    "revenue",
+    "rule",
+    "state",
+    "tax",
+    "taxes",
+    "tribute",
+}
+
+ROUTE_PLACE_TERMS = {
+    "border",
+    "caravan",
+    "corridor",
+    "lake",
+    "market",
+    "pass",
+    "plateau",
+    "road",
+    "route",
+    "routes",
+    "trail",
+    "transport",
+    "valley",
+}
+
+SOCIAL_ACTOR_TERMS = {
+    "baqals",
+    "chang-pa",
+    "changpas",
+    "communities",
+    "community",
+    "herdspeople",
+    "humlis",
+    "merchants",
+    "nomads",
+    "officials",
+    "pastoralists",
+    "peasants",
+    "people",
+    "shepherds",
+    "traders",
+    "villagers",
+    "women",
 }
 
 EDGE_COLOR_BY_RELATION = {

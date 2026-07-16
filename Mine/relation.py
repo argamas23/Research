@@ -6,6 +6,8 @@ import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
 
+from graph_rules import SALT_TERMS
+
 # --- Configuration ---
 # Global defaults (can be overridden by args)
 MODEL_NAME = "llama3"
@@ -106,6 +108,42 @@ def safe_float(value, default=0.0):
     except (TypeError, ValueError):
         return default
 
+
+SALT_RE = re.compile(
+    r"\b(" + "|".join(re.escape(term) for term in sorted(SALT_TERMS, key=len, reverse=True)) + r")\b",
+    re.IGNORECASE,
+)
+
+
+def has_anchor_pair(sentence, anchor_pairs):
+    text = sentence.lower()
+    return any(pair[0] in text and pair[1] in text for pair in anchor_pairs)
+
+
+def build_relevant_chunks(sentences, anchor_pairs, max_chars=3000):
+    relevant_chunks = []
+    current_chunk = ""
+    anchor_sentences = 0
+    salt_sentences = 0
+
+    for sent in sentences:
+        anchor_hit = has_anchor_pair(sent, anchor_pairs)
+        salt_hit = bool(SALT_RE.search(sent))
+        if not (anchor_hit or salt_hit):
+            continue
+
+        anchor_sentences += int(anchor_hit)
+        salt_sentences += int(salt_hit)
+        if current_chunk and len(current_chunk) + len(sent) >= max_chars:
+            relevant_chunks.append(current_chunk.strip())
+            current_chunk = ""
+        current_chunk += sent + " "
+
+    if current_chunk.strip():
+        relevant_chunks.append(current_chunk.strip())
+
+    return relevant_chunks, anchor_sentences, salt_sentences
+
 # --- 2. Triple Extraction Logic ---
 
 def extract_triples_ollama(chunk, topics):
@@ -123,7 +161,8 @@ def extract_triples_ollama(chunk, topics):
     4. confidence must be a number from 0.0 to 1.0.
     5. Do not infer relations from co-occurrence alone. If the text does not support a relation, omit it.
     6. Actively scan for and capture non-trade, political, administrative, and legal relations (such as 'taxes', 'licenses', 'controls', 'governs', 'disputes', 'negotiates_with', 'monopolizes', 'depends_on', 'supplies') when they are justified by the text. Do not default generic transport/trade interactions to 'trades_with' or 'transports_via' if a more specific dependency, control, regulatory, or tributary relation is present.
-    7. Output ONLY valid JSON:
+    7. When the text mentions salt, rock salt, salt lakes, salt pans, brine, tsaka, tshwa, or Tsakalho, prefer extracting justified salt-related actors, places, routes, taxes, licenses, extraction, transport, and exchange relations.
+    8. Output ONLY valid JSON:
        {{"triples": [{{"subject": "...", "relation": "trades_with", "object": "...", "evidence_sentence": "...", "confidence": 0.80}}]}}
     
     TEXT: {chunk}
@@ -182,20 +221,12 @@ def main():
     with open(CORPUS_FILE, "r", encoding="utf-8") as f:
         corpus = f.read()
 
-    # Chunking corpus based on relevant anchor pairs to save context window
+    # Chunking corpus based on relevant anchor pairs, plus a salt recall lane.
     sentences = re.split(r'(?<=[.!?])\s+', corpus)
-    relevant_chunks = []
-    current_chunk = ""
-    for sent in sentences:
-        if any(p[0] in sent.lower() and p[1] in sent.lower() for p in anchor_pairs):
-            if len(current_chunk) + len(sent) < 3000:
-                current_chunk += sent + " "
-            else:
-                relevant_chunks.append(current_chunk)
-                current_chunk = sent + " "
-    if current_chunk: relevant_chunks.append(current_chunk)
+    relevant_chunks, anchor_sentences, salt_sentences = build_relevant_chunks(sentences, anchor_pairs)
 
     workers = max(1, args.workers)
+    print(f"Selected {anchor_sentences} co-occurrence sentence hits and {salt_sentences} salt sentence hits.")
     print(f"Step 2: Processing {len(relevant_chunks)} chunks via {MODEL_NAME} with {workers} worker(s)...")
     master_graph = defaultdict(int)
     evidence_by_triple = defaultdict(list)

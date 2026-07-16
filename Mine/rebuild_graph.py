@@ -13,6 +13,7 @@ from graph_rules import (
     BAD_COMMODITY_TERMS,
     BAD_LOCATION_TERMS,
     BAD_PERSON_TOKENS,
+    CIRCUIT_COLORS,
     COLOR_BY_TYPE,
     COMMODITY_KEYWORDS,
     DEFAULT_COLOR,
@@ -29,7 +30,11 @@ from graph_rules import (
     RELATION_PATTERNS,
     RESULTS_ROOT,
     RESEARCH_FOCUS_NODE,
+    ROUTE_PLACE_TERMS,
+    SALT_TERMS,
     SHAPE_BY_TYPE,
+    SOCIAL_ACTOR_TERMS,
+    POLITICAL_ECONOMY_TERMS,
 )
 
 MINE_DIR = Path(__file__).resolve().parent
@@ -57,6 +62,36 @@ def is_noise(entity: str) -> bool:
 
 def has_any(entity: str, terms: set[str]) -> bool:
     return any(term in entity for term in terms)
+
+
+def circuit_for_node(entity: str, node_type: str) -> str:
+    words = set(re.findall(r"[a-z]+", entity))
+    if has_any(entity, SALT_TERMS):
+        return "Salt anchor"
+    if has_any(entity, POLITICAL_ECONOMY_TERMS):
+        return "Political economy"
+    if node_type == "COMMODITY" or has_any(entity, COMMODITY_KEYWORDS):
+        return "Commodity circuits"
+    if node_type == "LOCATION" or has_any(entity, ROUTE_PLACE_TERMS):
+        return "Route/place circuits"
+    if node_type in {"GROUP", "PERSON"} or words & SOCIAL_ACTOR_TERMS:
+        return "Social actors"
+    return "Conceptual context"
+
+
+def circuit_for_edge(source: str, relation: str, target: str, evidence: list[str]) -> str:
+    text = " ".join([source, relation, target, *evidence])
+    if relation in {"taxes", "licenses", "controls", "governs", "monopolizes", "disputes", "negotiates_with"}:
+        return "Political economy"
+    if relation in {"trades_with", "supplies", "extracts_from", "depends_on"}:
+        return "Commodity circuits"
+    if relation == "transports_via":
+        return "Route/place circuits"
+    if has_any(text, SALT_TERMS):
+        return "Salt anchor"
+    if has_any(text, ROUTE_PLACE_TERMS):
+        return "Route/place circuits"
+    return "Conceptual context"
 
 
 def book_name(path: Path) -> str:
@@ -319,17 +354,22 @@ def main() -> None:
         node_degree = degree[node]
         is_focus = RESEARCH_FOCUS_NODE in node
         is_core = node in focus_component
+        circuit = circuit_for_node(node, node_type)
+        fill_color = "#ffcc00" if is_focus else COLOR_BY_TYPE.get(node_type, DEFAULT_COLOR)
+        border_color = CIRCUIT_COLORS.get(circuit, DEFAULT_COLOR)
         size = 10 + math.sqrt(max(node_weight, 1)) * 3 + math.sqrt(max(node_degree, 1)) * 2
         if is_core:
             size = max(size, 22)
-        title = f"<strong>{node}</strong><br>Type: {node_type}<br>Degree: {node_degree}<br>Weighted degree: {node_weight:.1f}"
+        title = f"<strong>{node}</strong><br>Type: {node_type}<br>Circuit: {circuit}<br>Degree: {node_degree}<br>Weighted degree: {node_weight:.1f}"
         if is_focus:
             title = title.replace("<br>Type:", "<br>Research focus<br>Type:")
         item = {
             "id": node,
             "label": node,
             "type": node_type,
-            "color": COLOR_BY_TYPE.get(node_type, DEFAULT_COLOR),
+            "circuit": circuit,
+            "color": {"background": fill_color, "border": border_color},
+            "borderWidth": 3 if circuit != "Conceptual context" else 1.5,
             "shape": SHAPE_BY_TYPE.get(node_type, DEFAULT_SHAPE),
             "size": size,
             "weight": node_weight,
@@ -340,7 +380,6 @@ def main() -> None:
         if is_core:
             item["mass"] = 2.6
         if is_focus:
-            item["color"] = "#ffcc00"
             item["font"] = {"color": "#d62728", "size": 14, "bold": True}
         nodes.append(item)
 
@@ -380,6 +419,7 @@ def main() -> None:
         books = sorted(item["books"])
         evidence = sorted(item["evidence"])
         raw = sorted(item["raw"])
+        circuit = circuit_for_edge(source, relation, target, evidence)
         edges.append(
             {
                 "id": f"e{index}",
@@ -387,6 +427,7 @@ def main() -> None:
                 "to": target,
                 "label": relation,
                 "relation": relation,
+                "circuit": circuit,
                 "support": support_key,
                 "supportLabel": support_label,
                 "color": {"color": color, "highlight": color},
@@ -402,6 +443,7 @@ def main() -> None:
                 "font": {"size": 10, "align": "middle", "strokeWidth": 3, "strokeColor": "#ffffff"},
                 "title": (
                     f"{source} -> {target}<br>Relation: {relation}<br>Support: {support_label}"
+                    f"<br>Circuit: {circuit}"
                     f"<br>Score: {score:.2f}<br>Weight: {weight:.1f}<br>Confidence: {confidence:.2f}<br>Books: {', '.join(books)}"
                     f"<br>Evidence: {'|'.join(evidence)}<br>Raw relations: {'|'.join(raw)}"
                 ),
@@ -430,7 +472,12 @@ def main() -> None:
     with ENTITIES_PATH.open("w", encoding="utf-8") as f:
         json.dump(
             [
-                {"entity": node["id"], "type": node["type"], "confidence": 1.0 if node["core"] else 0.8}
+                {
+                    "entity": node["id"],
+                    "type": node["type"],
+                    "circuit": node["circuit"],
+                    "confidence": 1.0 if node["core"] else 0.8,
+                }
                 for node in nodes
             ],
             f,
@@ -440,13 +487,14 @@ def main() -> None:
 
     with (Path(OUTPUT_DIR) / "cleaned_aggregated_edges.csv").open("w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["Source", "Target", "MappedRelation", "Weight", "Confidence", "Score", "RawRelations", "SourceType", "TargetType", "Books", "Evidence"])
+        writer.writerow(["Source", "Target", "MappedRelation", "Circuit", "Weight", "Confidence", "Score", "RawRelations", "SourceType", "TargetType", "Books", "Evidence"])
         type_by_node = {node["id"]: node["type"] for node in nodes}
         for edge in edges:
             writer.writerow([
                 edge["from"],
                 edge["to"],
                 edge["relation"],
+                edge["circuit"],
                 edge["weight"],
                 edge["confidence"],
                 edge["score"],
