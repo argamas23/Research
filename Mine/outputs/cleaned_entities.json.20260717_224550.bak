@@ -78,12 +78,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "barley, wooden wares and other basic necessities",
-    "type": "CONCEPT",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "bathang",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -361,8 +355,8 @@
   },
   {
     "entity": "cultivator",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -451,8 +445,8 @@
   },
   {
     "entity": "europe",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -559,8 +553,8 @@
   },
   {
     "entity": "gulab singh",
-    "type": "PERSON",
-    "circuit": "Social actors",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -690,12 +684,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "its subjects",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "jammu state",
     "type": "LOCATION",
     "circuit": "Political economy",
@@ -744,12 +732,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "kashmiri shawl industry",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "kashmiri subjects",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -772,12 +754,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "kharnak territory",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
   },
   {
     "entity": "khash-kanet peasants",
@@ -843,12 +819,6 @@
     "entity": "ladakhi buddhists",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "ladakhi nomads",
-    "type": "GROUP",
-    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -970,12 +940,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "meat from animals which have died of starvation), bone broth and roots",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
   },
   {
     "entity": "medical department of the state",
@@ -1542,12 +1506,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tatar shepherds",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "tawang district",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -1581,12 +1539,6 @@
     "entity": "the british government",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the chang-pa tribe",
-    "type": "GROUP",
-    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -1632,12 +1584,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "the rupshu people",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "the salt from this place",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
@@ -1677,12 +1623,6 @@
     "entity": "the western himalayas",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "their cattle, on their sheep and goats",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
     "confidence": 0.8
   },
   {
@@ -1851,12 +1791,6 @@
     "entity": "traders and others",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "traders from northern british india",
-    "type": "GROUP",
-    "circuit": "Political economy",
     "confidence": 0.8
   },
   {

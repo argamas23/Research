@@ -1,0 +1,18 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+ladakh,governs,its subjects,1,"Livestock farming, however, becomes apparent through the taxes in kind levied by Ladakhi kings from their subjects...",0.9
+king deleg namgyal,exchanges_for,"500 bags of rice and 18 piebald horses, 18 white yak tails, and 18 pods of musk",1,"He also presented one hundred ponies, one hundred yaks, one hundred heads of cattle, and one thousand sheep and goats to his spiritual advisor...",0.85
+portuguese jesuit,trades_with,salt from the lake,1,The salt from the lake is carried out of and grain is brought into the country on the backs of sheep;,0.8
+tatar shepherds,exchanges_for,"wheat, flour, tobacco, and any thing else that they may require",1,"They exchange their wool with the traders for wheat, flour, tobacco, and any thing else that they may require.",0.7
+tatar shepherds,supplies,"meat from animals which have died of starvation), bone broth and roots",1,"They eat meat from animals which have died of starvation), bone broth and roots.",0.6
+the chang-pa tribe,depends_on,large herds of yaks and ponies and immense flocks of sheep and goats,1,"They are exclusively pastoral people, and possess large herds of yaks and ponies and immense flocks of sheep and goats...",0.8
+the rupshu people,depends_on,"their cattle, on their sheep and goats",1,"they depend entirely on their cattle, on their sheep and goats for merchandise that is easily divisible...",0.8
+the chang-pa tribe,trades_with,traders from northern british india,1,...where they are met by traders from Northern British India...,0.8
+sheep caravans,exchanges_for,wheat and a few commodities,1,"...where they are shorn, and the wool and loads are exchanged for wheat and a few commodities with which they return.",0.8
+kharnak territory,governs,nomadic pastoralists,1,"While spending several days in the same camp, located within Kharnak territory...",0.8
+ladakhi nomads,depends_on,winter pastures,1,"They lost the benefit of this lucrative trade along with winter pastures, including large portions of Kagjung, the key winter reserve pasture for the whole of Changthang...",0.8
+rupshu nomads,trades_with,"barley, wooden wares and other basic necessities",1,"They brought salt and borax previously collected from the salt lakes of western Tibet, as well as wool to Zanskar, Spiti and Lahaul, where they exchanged them for barley, wooden wares and other basic necessities (Rizvi 1999).",0.8
+sheep,depends_on,caravans,1,"when wool and flocks were traded at a good price for grain, have seen their number decrease over the years to the benefit of goats",0.9
+kashmiri shawl industry,supplies,ladakhi nomads,1,the Kashmiri shawl industry had to get its raw material elsewhere. Quite naturally they turned to Ladakhi nomads,0.9
+nomads,migrates_through,highlands,1,"Nomads have not been immune to this trend. In spite of the great demand for livestock and livestock products (pashmina, meat), there are significant numbers of people leaving the highlands every year and joining the unskilled, casual labour force in the Indus valley.",0.8
+nuns,migrates_through,nepal,1,"Last year, even the nuns left their hermitage and spent the winter outside, some in Nepal...",0.75
+kangra valley,connects_to,ladakh,1,"Travels in Hindustan: Himalayan Provinces of Hindustan and the Panjab, in Ladakh and Kashmira.",0.9

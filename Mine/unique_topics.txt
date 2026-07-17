@@ -350,6 +350,7 @@
 /film/cinematographer
 /film/content_rating
 /film/director
+/film/editor
 /film/film
 /film/film_character
 /film/film_collection

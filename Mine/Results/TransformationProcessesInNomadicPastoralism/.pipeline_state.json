@@ -1,0 +1,12 @@
+{
+  "steps": {
+    "step_1_txt": "completed",
+    "step_3_ner": "completed",
+    "step_4_topics": "completed",
+    "step_5_cooccurrence": "completed",
+    "step_6_relations": "completed",
+    "step_7_correct_entity_types": "completed",
+    "step_8_rebuild_graph": "completed",
+    "step_9_salt_recall_audit": "completed"
+  }
+}
