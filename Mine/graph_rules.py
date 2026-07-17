@@ -42,6 +42,25 @@ ALLOWED_RELATIONS = {
     "negotiates_with",
 }
 
+LEGACY_RELATION_ALIASES = {
+    "barter": "trades_with",
+    "buy": "trades_with",
+    "exchange": "trades_with",
+    "sell": "trades_with",
+    "trade": "trades_with",
+    "bring": "transports_via",
+    "carry": "transports_via",
+    "transport": "transports_via",
+    "collect": "extracts_from",
+    "collect revenue": "taxes",
+    "harvest": "extracts_from",
+    "remove": "extracts_from",
+    "supply": "supplies",
+    "tax": "taxes",
+    "control": "controls",
+    "govern": "governs",
+}
+
 COMMODITY_KEYWORDS = {
     "salt",
     "barley",

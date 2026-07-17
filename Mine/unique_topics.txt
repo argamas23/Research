@@ -252,6 +252,8 @@
 /cricket/cricket_match_type
 /cricket/cricket_player
 /cricket/cricket_series
+/cricket/cricket_stadium
+/cvg/computer_game_engine_family
 /cvg/computer_game_rating_system
 /cvg/computer_game_region
 /cvg/computer_game_subject
@@ -420,6 +422,7 @@
 /government/form_of_government
 /government/government
 /government/government_agency
+/government/government_issued_permit
 /government/government_office_category
 /government/government_office_or_title
 /government/government_permit_type
@@ -479,6 +482,7 @@
 /law/inventor
 /law/judicial_title
 /law/legal_case
+/law/legal_party_role
 /law/legal_subject
 /law/litigant
 /law/patent_assignee
@@ -544,6 +548,7 @@
 /location/province
 /location/region
 /location/ru_federal_city
+/location/ru_republic
 /location/statistical_region
 /location/symbol_of_administrative_division
 /location/tw_direct_controlled_municipality
@@ -583,6 +588,7 @@
 /measurement_unit/power_unit
 /measurement_unit/pressure_unit
 /measurement_unit/resistance_unit
+/measurement_unit/speed_unit
 /measurement_unit/substance_unit
 /measurement_unit/temperature_unit
 /measurement_unit/time_unit
@@ -617,6 +623,7 @@
 /medicine/disease
 /medicine/disease_cause
 /medicine/drug
+/medicine/drug_administration_route
 /medicine/drug_brand
 /medicine/drug_class
 /medicine/drug_dosage_flavor
@@ -696,7 +703,9 @@
 /music/special_music_video_performance_type
 /music/voice
 /music/writer
+/olympics/olympic_athlete
 /olympics/olympic_bidding_city
+/olympics/olympic_event
 /olympics/olympic_host_city
 /olympics/olympic_participating_country
 /olympics/olympic_sport
@@ -801,6 +810,7 @@
 /soccer/football_player
 /soccer/football_position
 /soccer/football_team
+/soccer/football_team_manager
 /spaceflight/mission_destination
 /spaceflight/rocket_engine_fuel
 /spaceflight/rocket_engine_oxidizer
@@ -828,6 +838,7 @@
 /sports/sports_official
 /sports/sports_position
 /sports/sports_team
+/sports/sports_team_coach
 /sports/sports_team_location
 /sports/sports_team_owner
 /sports/tournament_event
@@ -916,4 +927,5 @@
 /wine/wine_color
 /wine/wine_producer
 /wine/wine_region
+/zoos/zoo_category
 /zoos/zoo_exhibit

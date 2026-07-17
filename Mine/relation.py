@@ -5,12 +5,14 @@ import re
 import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
+from threading import Lock
 
 from graph_rules import SALT_TERMS
 
 # --- Configuration ---
 # Global defaults (can be overridden by args)
 MODEL_NAME = "llama3"
+DEBUG_LOCK = Lock()
 ALLOWED_RELATIONS = {
     "trades_with",
     "exchanges_for",
@@ -146,7 +148,40 @@ def build_relevant_chunks(sentences, anchor_pairs, max_chars=3000):
 
 # --- 2. Triple Extraction Logic ---
 
-def extract_triples_ollama(chunk, topics):
+def parse_ollama_json(content):
+    decoder = json.JSONDecoder()
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", content.strip(), flags=re.IGNORECASE)
+    recovered_triples = []
+    for match in re.finditer(r"\{", text):
+        try:
+            parsed, _ = decoder.raw_decode(text[match.start():])
+        except json.JSONDecodeError:
+            continue
+        if isinstance(parsed, dict) and "triples" in parsed:
+            return parsed
+        if isinstance(parsed, dict) and {"subject", "relation", "object"} <= set(parsed):
+            recovered_triples.append(parsed)
+    if recovered_triples:
+        return {"triples": recovered_triples}
+    raise ValueError("No valid JSON object found in Ollama response")
+
+
+def log_ollama_error(debug_file, chunk_index, error, content):
+    if not debug_file:
+        return
+    # ponytail: one global lock is enough; use a queued writer if parse errors become high volume.
+    with DEBUG_LOCK, open(debug_file, "a", encoding="utf-8") as f:
+        f.write(json.dumps(
+            {
+                "chunk_index": chunk_index,
+                "error": str(error),
+                "response": content,
+            },
+            ensure_ascii=False,
+        ) + "\n")
+
+
+def extract_triples_ollama(chunk, topics, chunk_index=None, debug_file=None):
     """Extracts schema-constrained S-P-O triples using local Llama 3."""
     relation_list = ", ".join(sorted(ALLOWED_RELATIONS))
     prompt = f"""
@@ -167,23 +202,22 @@ def extract_triples_ollama(chunk, topics):
     
     TEXT: {chunk}
     """
+    content = ""
     try:
         # Use latest ollama chat method
         response = ollama.chat(model=MODEL_NAME, messages=[{'role': 'user', 'content': prompt}])
         content = response['message']['content']
-        
-        # Regex to find JSON block in case of conversational filler
-        json_match = re.search(r'\{.*\}', content, re.DOTALL)
-        if json_match:
-            return json.loads(json_match.group()).get("triples", [])
+
+        return parse_ollama_json(content).get("triples", [])
     except Exception as e:
+        log_ollama_error(debug_file, chunk_index, e, content)
         print(f"Ollama Error: {e}")
     return []
 
 
-def process_chunk(index, total, chunk, topics):
+def process_chunk(index, total, chunk, topics, debug_file=None):
     """Run one LLM extraction job and keep enough metadata for ordered logging."""
-    triples = extract_triples_ollama(chunk, topics)
+    triples = extract_triples_ollama(chunk, topics, index, debug_file)
     return index, total, triples
 
 
@@ -213,6 +247,9 @@ def main():
     COOCC_FILE = args.coocc_file
     TOPICS_FILE = args.topics_file
     OUTPUT_FILE = args.output_file
+    DEBUG_FILE = os.path.splitext(OUTPUT_FILE)[0] + ".ollama_errors.jsonl"
+    if os.path.exists(DEBUG_FILE):
+        os.remove(DEBUG_FILE)
 
     print("Step 1: Loading resources...")
     topics = load_topics(TOPICS_FILE)
@@ -235,18 +272,25 @@ def main():
     if workers == 1 or len(relevant_chunks) <= 1:
         for i, chunk in enumerate(relevant_chunks):
             print(f"Processing chunk {i+1}/{len(relevant_chunks)}...")
-            _, _, triples = process_chunk(i, len(relevant_chunks), chunk, topics)
+            _, _, triples = process_chunk(i, len(relevant_chunks), chunk, topics, DEBUG_FILE)
             chunk_results[i] = triples
     else:
         with ThreadPoolExecutor(max_workers=workers) as executor:
             futures = [
-                executor.submit(process_chunk, i, len(relevant_chunks), chunk, topics)
+                executor.submit(process_chunk, i, len(relevant_chunks), chunk, topics, DEBUG_FILE)
                 for i, chunk in enumerate(relevant_chunks)
             ]
             for future in as_completed(futures):
                 i, total, triples = future.result()
                 print(f"Finished chunk {i+1}/{total} ({len(triples)} triples).")
                 chunk_results[i] = triples
+
+    missing_chunks = sorted(set(range(len(relevant_chunks))) - set(chunk_results))
+    if missing_chunks:
+        raise RuntimeError(f"Missing relation extraction chunks: {missing_chunks}")
+    print(f"Collected {len(chunk_results)}/{len(relevant_chunks)} chunk results.")
+    if os.path.exists(DEBUG_FILE):
+        print(f"Saved Ollama parse failures to {DEBUG_FILE}")
 
     for i in sorted(chunk_results):
         for t in chunk_results[i]:

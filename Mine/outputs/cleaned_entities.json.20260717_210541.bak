@@ -12,12 +12,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "agricultural advances, chiefly seed-grain",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "amdo tibetans",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -46,12 +40,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "astor",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "at present",
@@ -132,12 +120,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "british official",
-    "type": "PERSON",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "british rule",
     "type": "CONCEPT",
     "circuit": "Political economy",
@@ -174,12 +156,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "buffaloes",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "butter",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -207,12 +183,6 @@
     "entity": "caterpillar fungus",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "central asia",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -306,12 +276,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "chinese turkistan and tibet",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "chinese world of gansu and northern sichuan",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -354,22 +318,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "cultivator",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "cumbersome system of administration",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "dal lake",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
   },
   {
     "entity": "dalai lama",
@@ -400,12 +352,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "dogra country",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
   },
   {
     "entity": "dolpo",
@@ -442,12 +388,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "europe",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
   },
   {
     "entity": "europeans",
@@ -489,12 +429,6 @@
     "entity": "garu",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "gg",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -549,12 +483,6 @@
     "entity": "grains",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "gulab singh",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -678,18 +606,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "irrigation",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "jammu state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "jumla and botechaur",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -706,42 +622,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "kashmir",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "kashmir state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "kashmiri goat",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "kashmiri shawl",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "kashmiri subjects",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "kashmiris",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "khaltse",
@@ -796,12 +676,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "labour",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
   },
   {
     "entity": "ladak",
@@ -900,21 +774,9 @@
     "confidence": 0.8
   },
   {
-    "entity": "mahzrzjz g u l ~ b singh",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "mandi",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "manufactured goods",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
     "confidence": 0.8
   },
   {
@@ -940,12 +802,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "medical department of the state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
   },
   {
     "entity": "men",
@@ -978,12 +834,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "monasteries",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "mongolia",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1000,18 +850,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "municipal committees in the state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "nagar and hunza",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "natural products",
@@ -1060,12 +898,6 @@
     "type": "GROUP",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "north-western railway",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "northerly direction, down past glacial lakelets",
@@ -1194,12 +1026,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "population",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "porcelain cups",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -1218,12 +1044,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "pravarasena",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "rampur",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -1240,12 +1060,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "reis system",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "relations between the state and its subjects",
@@ -1410,12 +1224,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "shawls and saffron",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "si-ning amban",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1450,12 +1258,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
   },
   {
     "entity": "state forests",
@@ -1548,34 +1350,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "the kashmir state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the king",
-    "type": "PERSON",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
     "entity": "the narrow mountain paths",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "the petty states",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the political power of the clans and their deities",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
   },
   {
     "entity": "the rulers of these hill states",
@@ -1602,12 +1380,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "the state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "the treaty",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1624,12 +1396,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "their home",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "their salt onward to leh",
@@ -1710,12 +1476,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tibetan mountains",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "tibetan officials",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -1777,8 +1537,8 @@
   },
   {
     "entity": "trade",
-    "type": "GROUP",
-    "circuit": "Social actors",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -1869,16 +1629,10 @@
     "entity": "village boundaries",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "village deity",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
     "confidence": 0.8
   },
   {
-    "entity": "village headmen, patwzris, and zaildzrs",
+    "entity": "village deity",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
@@ -1894,12 +1648,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "walnut oil revenue",
-    "type": "COMMODITY",
-    "circuit": "Political economy",
-    "confidence": 1.0
   },
   {
     "entity": "water of salt lakes",
@@ -1926,12 +1674,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "wheat",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "with the emergent indian nation",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -1941,7 +1683,7 @@
     "entity": "women",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "wooden tubes or buckets",

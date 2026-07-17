@@ -1,0 +1,144 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+kashmir,administers,maharaja physical,1,The territories of the Maharaja Physical of Kashmir and Jammu may be roughly described...,0.9
+the pir panjsl,connects_to,the valley of kashmir,1,"The steps of the Himalayan range known as the Pir Panjsl lead to the second storey, on which rests the exquisite valley of Kashmir...",0.9
+karakoram range,connects_to,the kuenlun mountains,1,...to the Karakoram range which merges in the Kuenlun mountains.,0.9
+the karakoram pass,connects_to,the northern angle above ka s h ~ w ~ r,1,"...At the Karakoram pass (I 8,3 I 7 feet) the wall zigzags...",0.9
+the hindu kush range,connects_to,the chinese dominions,1,"...along the Muztagh range past K 2 (Godwin Austen, 28,265 feet), Gasherbrum, and Masherbrum (28,100 and 25,660 feet respectively) to the Karakoram range ivhich merges in the Kuenlun mountains.",0.9
+the ravi river,connects_to,the bari dozb canal,1,"...From hlgdhopur, the head-works of the Bari DoZb Canal, the Ravi river ceases to be the boundary...",0.8
+the jhelum river,connects_to,the western boundary,1,"...From the south-west corner of the territories the Jhelum river forms an almost straight boundary on the west as far as its junction with the Kunhiir river, 14 miles north of Kohda.",0.8
+the indus,connects_to,riimghat under the hattu pir,1,"...then north-west, sweeping in Punid, Ussin, Ghizar, and Koh, the Mehtarjaos or chiefs of which claim the Tangir and Dare1 country, and linking on to the Hindu Kush and MuztZgh ranges which look north to Chinese territory and south to Hunza-Nagar and Gilgit.",0.9
+mahzrzjz g u l ~ b singh,governs,kashmir,1,"Speaking of the whole of his dominions, he might without exaggeration have described them as nothing but mountains.",0.8
+kashmir,regulates,water,1,"The Kashmiris regard Kokarngg as the best source of drinking-water, while Chashma Shghi above the Dal Lake stands high in order of merit.",0.8
+the kashmir state,governs,kashmiri subjects,1,conferred on the Kashmiri subjects of the MahBrgjg.,0.9
+srinagar,connects_to,leh,1,From Srinagar to Leh is 243 miles.,0.95
+baramiila,administers,kashmir,1,At Baramiila the road enters the valley of Kashmir...,0.9
+rashmir territory,connects_to,indus with its tributaries,1,"The Rashmir territory may be divided physically into two areas : the north-eastern, conlprising the area. drained by the Indus with its tributaries ; and the south-western, including the country drained by the Jhelunl with its. tributary the Kishangangs, and by the Chengb.",0.8
+jhelum,connects_to,chengb,1,"The country drained by the Jhelunl with its. tributary the Kishangangs, and by the Chengb.",0.8
+kashmir valley,connects_to,panjhl range,1,"Beyond these lower hills rise the spurs of a more mountainous district. Ilrew, has been somewhat extended, and includes the range which forms the southern boundary of the Kashmir Valley, knon-11 as the PanjHl range, and its continuation eastwards beyond the ChenBb.",0.8
+indus,connects_to,shyok,1,"Proceeding upstream, 80 miles farther east at the confluence of the Shyok and Indus...",0.9
+kashmir-tibet boundary,connects_to,indus,1,"...in the Kokzhung district the river runs at the great height of 13,800 feet above sea-level.",0.9
+kashmir,connects_to,indus,1,"From its main ridge lofty spurs extend into Kashmir, separating the various tributaries of the Indus...",0.9
+persia,disputes,northern india,1,"These disturbances occasionally give very stormy weather in Kashmir, with violent winds on the higher elevations and much snow.",0.8
+ram chand,governs,kashmir army,1,"With Rgm Chand were two soldiers of fortune, Rainchan Shah from Tibet and Shah Mirza from Swat.",0.8
+gulab singh,controls,dogra country,1,"Rapidly absorbing the power and possessions of the feudal chiefs around him, after ten years of laborious and consistent effort, he and his two brothers became masters of nearly all the country between Kashmir and the Punjah, save Rsjaori.",0.85
+gulab singh,regulates,order in dogra country,1,"The country was disturbed, each man plundered his neighbour, and Gulab Singh's energies were taxed to the utmost in restoring order.",0.8
+gulab singh,governs,jammu state,1,"It is interesting to notice that the Dogras did not pillage the rich monastery of Himis, which saved itself by allowing the army in ignorance of its locality to pass the gorge leading to the Hitnis valley, and by then sending a deputation with an order of free rations while in Ladakh territory.",0.85
+gulab singh,negotiates_with,sir henry lawrence,1,"In the winter of 1845 war broke out between the British Acquisition and the Sikhs. Gulab Singh contrived to hold himself aloof till the battle of Sobraon (1846), when he appeared as a useful mediator and the trusted adviser of Sir Henry Lawrence.",0.8
+present inhabitants,depends_on,ancient buildings,1,"These ancient buildings, though more or less injured by iconoclasts, vandal builders, earthquakes, and, as Cunningham thinks, by gunpowder...",0.8
+hindu temples,controls,karewa,1,"Msrtand, the temple of the Sun, stands on a sloping Karewa, about 3 miles east of Islamabad, over- looking the forest view in Kashmir.",0.8
+kashmiris,depends_on,buffaloes,1,"They sacrifice every consideration for their buffaloes, and even in their cultivation, chiefly maize, their first thought is for these animals.",0.95
+giijars,migrates_through,kashmir mountains,1,"They graze large flocks of sheep and goats, moving up the mountains as the summer draws on, and returning to the low country when the first snow falls.",0.85
+kashmiris,governs,their home,1,"The outside world was far, and from all accounts inferior to the pleasant valley, and at each of the gates of the valley were soldiers who demanded fees. So the Kashmiris lived their self-centred life, conceited, clever, and conservative.",0.8
+gulab singh,controls,old ward fights with slings and stones,1,"The effervescence of youth was checked by Gulab Singh, who sternly repressed the old ward fights with slings and stones.",0.8
+professional shikiris,trades_with,boatmen of kashmir,1,"The professional shikaris are often keen sportsmen; and the boatmen of Kashmir will, when challenged, paddle till they drop rather than be beaten by a rival crew.",0.9
+kashmiris,depends_on,irrigation,1,"Agriculture in the valley practically depends on irrigation, Thanks to the formation of the country...",0.8
+mountain streams,connects_to,main channels,1,"At convenient points on the mountain streams temporary weirs or projecting spurs are constructed ; and the water is taken off in main channels, ...",0.95
+villages,depends_on,weir,1,All villages which depend for their irrigation on a certain weir are obliged to assist in its construction and repair.,0.95
+state,regulates,irrigation,1,"In former days, when the State took a share of the crop, it was to the interest of the Darb3r to look after irrigation and to assist in repairs.",0.85
+villagers,supplies,labour,1,The mirZb--one of the villagers-whose duty was to see to repairs and to call out labour.,0.9
+mountain streams,supplies,fertilizing silt,1,"Spring water is always cold, and it does not carry with it the fertilizing silt brought down by the mountain streams, but bears a scum which is considered bad for rice.",0.95
+wheat,depends_on,irrigation,1,"The land is neither manured nor weeded, and as a rule no irrigation is given.",0.8
+saffron,trades_with,farmer,1,"The bags are never opened, and it has been found by experience that the cultivator never attempts to foist a bad bag on the farmer.",0.8
+saffron,extracts_from,flowers,1,When the flowers have been collected the real work of extracting saffron commences.,0.9
+dal lake,connects_to,gardens,1,The whole cultivation and vegetation of the lake is full of interest and of great importance to the people.,0.85
+dal lake,supplies,cultivator,1,"Around the demlb plot run little water-channels from the lake, so that moisture is always present ; and on the demb a great variety of crops is raised.",0.8
+cultivator,governs,demb plot,1,"The cultivator selects his site, and plants willows and sometimes poplars along its four sides.",0.9
+cultivators,exchanges_for,revenue,1,"the system is of importance, as it is not confined to the L)al Lake; all over Kashmir the people who live by the great swamps have begun to construct these curious oblong patches:",0.8
+local use,disputes,tobacco,1,"The local use of tobacco passed out of fashion at the great famine, and the narcotic is now chiefly taken in the form of snuff, which is imported from Pes hgwar.",0.8
+kashmir,governs,walnut oil revenue,1,In former times the State accepted walnut oil in payment of revenue...,0.9
+kashmiri,depends_on,willow leaves and the sweet dried leaves of the flag (iris),1,For winter fodder the Kashmiri depends on willow leaves and the sweet dried leaves of the flag (Iris).,0.9
+kashmir,regulates,forest management,1,"Before I 89 I there was no proper management of the forests, and much damage was done by allowing traders to cut in the forests on payment of royalty without any supervision...",0.8
+kashmir,trades_with,central asia,1,"The trade which passes through Kashmir between India, Chinese Turkistan, and Tibet via Leh is subject to considerable fluctuations owing to great physical difficulties, the keen rivalry of Russia, and the passive obstruction of Tibet.",0.7
+kashmir,trades_with,ladakh,1,"The imports from Central Asia into Ladskh amounted to 17.8 lakhs. Goods to the value of Ir.3 lakhs found their way to the Punjab via Kashmir, others passing via Kulii.",0.6
+jhelum valley road,connects_to,cart-road,1,The Jhelum valley road is now the cart-road and the main line of communication with the Punjab.,0.8
+kashmir,connects_to,jhelum valley route,1,"A line has been surveyed along the Jhelum valley route, and it is proposed to work this by electricity derived from the river.",0.8
+kashmir,administers,state posts,1,The State is included for postal purposes in the circle administered by the Postmaster-General of the Punjab and North-West Frontier Province.,0.9
+north-western railway,trades_with,kashmir,1,"It [the railway] has usually earned a net profit of I to 2 per cent., in addition to the rebate allowed from traffic exchanged with the North-Western Railway.",0.7
+kashmir,depends_on,irrigation,1,The crop is generally protected by irrigation. The greatest distress is due to the fall of rain or snow while the rice and maize are ready for harvest.,0.9
+rahbar,administers,state,1,Under the new arrangements the Rfahbar administers the State.,0.8
+postmaster-general of the punjab and north-west frontier province,administers,kashmir postal service,1,"A line has been surveyed along the Jhelum valley route, and it is proposed to work this by electricity derived from the river. administered by the Postmaster-General of the Punjab and North-West Frontier Province.",0.9
+the state,administers,the administration of the state,1,"On his accession to the gaddi in 1885, the present MahBrSjB Administra was entrusted with the administration of the State...",0.8
+the state,governs,the petty states,1,"At Gilgit a Political Agent exercises some degree of supervision over the Wazir WazBrat, and is directly responsible to the Government of India for the administration of the outlying petty States.",0.8
+the four chief executive officers,administers,the five districts,1,"In Jamnlu there are five districts, each in charge of a llrazir Waziirat...",0.8
+wazir waziirat,governs,tahsildzrs and sometimes subdivisional officers,1,Under the Wazir Waz2rat are tahsildZrs and sometimes sub-divisional officers.,0.8
+chief judge of jammu,regulates,appeals in civil and criminal judicial cases,1,In civil and criminal judicial cases the appeal lies to the Chief Judge of Jammu.,0.8
+accountant-general,controls,the finances of the state,1,"The finances of the State are immediately controlled by an accountant-general, who for some years has been lent by the British Government.",0.8
+the state,controls,land,1,Land was regarded as the absolute property of the State...,0.9
+state,regulates,drainage system of jammu town,1,Great improvements have lately been made in the drainage system of Jammu town.,0.8
+state,supplies,army,1,"The State has splendid materials for an army, as the Dogras are, in the opinion of competent authorities, second to none in martial qualities.",0.7
+state,taxes,"village headmen, patwzris, and zaildzrs",1,"A considerable income is derived from customs and octroi revenue, for the following objects : payments to lambardirs (village headmen), 5 per cent.",0.8
+state,governs,municipal committees in the state,1,"There are two municipal committees in the State, one at Monici- Srinagar, and the other at Jammu, presided over by the Chief palities.",0.7
+superintendents,controls,force,1,The force is controlled by two Superintendents for the chief provinces of Jammu and Kashmir.,0.8
+state,governs,colleges at lahore,1,"There being no State college, I 7 scholar-ships are annually granted by the Darbiir to students for prosecuting their studies at colleges at Lahore.",0.8
+state,controls,medical department of the state,1,The Medical department of the State is under the control of a Superintending Surgeon.,0.8
+great glaciers,connects_to,river,1,This inequality of slope has been connected with the changes that occurred in the glacial period from the damming of the river by great glaciers...,0.8
+indus,connects_to,punjab,1,The Indus forms the eastern border of the two frontier Districts of Dera Ismail Khan in the North-West Frontier Province and Dera Ghazi Khn in the Punjab...,0.9
+ladakh,depends_on,tibet,1,"The history of Ladakh, until its conquest by RZjZ Guliib Singh in the first half of the nineteenth century, is intimately connected with Tibet, with which country it still holds commercial and religious relations.",0.8
+wazir wazrat,administers,ladakh,1,"Ladakh is in the charge of a Wazir WazZrat, who is responsible for Baltistan and the three tahsilas of Ladakh, Kargil, and etc.",0.9
+wazir,administers,central asian trade,1,One of the chief functions of the Wazir is the supervision of the Central Asian trade which passes through Leh.,0.95
+villages,supplies,"baggage, ailinlals, and supplies",1,"The villages of each Kadir are made responsible for furnishing baggage, ailinlals, and supplies in turn, and according to the capacity of each village to the stages situated within the limits of the Ki~diri.",0.9
+british official,licenses,state,1,"A redistribution of the old assessments on a more equi-table principle, and a summary revision where the assessments were obviously too high or unnecessarily light, have recently been carried out by a British official lent to the State.",0.85
+monasteries,supplies,"agricultural advances, chiefly seed-grain",1,"Agricultural advances, chiefly seed-grain, are made for the most part not by the State, but by the monasteries,",0.8
+monastery,regulates,debtor,1,"The monastery will never sue a debtor, nor is land ever permanently alienated for debt.",0.75
+women,depends_on,irrigation,1,Cultivation depends on irrigation ; and where water is plentiful excellent crops are raised.,0.9
+baltistan,connects_to,kashmir,1,"Several routes connect Baltistan with Kashmir, LadBkh, and Astor...",0.9
+baltistan,connects_to,ladbkh,1,"Several routes connect Baltistan with Kashmir, LadBkh, and Astor...",0.9
+baltistan,connects_to,astor,1,"Several routes connect Baltistan with Kashmir, LadBkh, and Astor...",0.9
+iyazir wazgrat of laddch,administers,baltistan,1,Baltistan has recently been placed under the charge of Adminis- the IYazir Wazgrat of Laddch.,0.9
+gilgit,connects_to,rocky mountains,1,The summer it is hot owing to the radiation from the rocky mountains...,0.9
+astor,depends_on,irrigation,1,"Cultivation is carried on to an elevation of 9,000 feet. It depends entirely on irrigation by little channels known as KuL",0.8
+gilgit,connects_to,india,1,"There is a daily postal service with India by the Burzil pass and Kashmir, and the telegraph line follows the same route.",0.8
+gilgit,regulates,postal services,1,"Both services work well in spite of heavy snow and destructive avalanches, and are maintained by the Government of India.",0.85
+wazir wazbrat,supplies,garrison at gilgit,1,"The chief business of the Wazir is the provision of supplies to the garrison at Gilgit, now effected by an excellent system of transport from Kashmir.",0.8
+kashmir state,administers,"hunza-nagar, ashkuman, ygsin, and ghizar",1,"and is directly responsible to the Government of India for the administration of the outlying districts or petty States of Hunza-Nagar, Ashkuman, Ygsin, and Ghizar",0.9
+kashmir,governs,nagar and hunza,1,"The ruler of Nagar, with the assistance of the Kashmir Darbiir, successfully occupied the disputed tract;",0.9
+kashmir state,supplies,nagar and hunza,1,"Yearly subsidies were granted to them, besides the amount paid by the Kashmir State.",0.8
+agent,controls,chaprot and chalt,1,"The chiefs agreed to respect the control of the Agent, to allow free passage through their territory, and to stop raiding on the Ygrkand road and elsewhere;",0.8
+bsramiila,depends_on,boat traffic,1,"but in consequence of the opening of the cart-road from Bsraniila to Srinagar, the boat traffic, on which the inhabitants chiefly depend, may in time decrease.",0.9
+jammu,connects_to,water-works,1,"the construction of water-works, the opening of the cart-road to the Mandi, the suspension bridge over the Tswi, and the railway extension from Sialkot have improved the conditions of life in Jammu ;",0.8
+jammu,connects_to,cart-road to the mandi,1,"the construction of water-works, the opening of the cart-road to the Mandi, the suspension bridge over the Tswi, and the railway extension from Sialkot have improved the conditions of life in Jammu ;",0.8
+jammu,connects_to,railway extension from sialkot,1,"the construction of water-works, the opening of the cart-road to the Mandi, the suspension bridge over the Tswi, and the railway extension from Sialkot have improved the conditions of life in Jammu ;",0.8
+jammu,connects_to,kohala-srinagar cart-road,1,the construction of the Kohala-Srinagar cart-road has taken trade away from the Jammu-Banihsl route.,0.8
+jammu,connects_to,coal-mines to the north,1,"there are hopes of the development of coal-mines to the north, which might bring prosperity to the Dopa capital;",0.8
+jammu,connects_to,railway projected from jammu to srinagar,1,the railway projected from Jammu to Srinagar would restore much business.,0.8
+jammu,governs,jammu-banihsl route,1,the construction of the Kohala-Srinagar cart-road has taken trade away from the Jammu-Banihsl route.,0.8
+panch,supplies,water brought by channels from the neighbouring streams,1,Panch is well supplied with water brought by channels from the neighbouring streams.,0.9
+kashmiri shawl,trades_with,europe,1,"The first shawls which reached Europe were brought by Napoleon, at the time of the campaign in Egypt, as a present for the empress Josephine, and from that time shawls became fashionable.",0.8
+tibetan mountains,supplies,kashmiri goat,1,"The shawl was made of the finest wool (paskm), obtained from the goats of the Tibetan mountains, the best material coming from the Tian Shan (Celestial Mountains) and Ush Tarfan.",0.9
+shawl-weavers,depends_on,shawl trade,1,"The once famous shawl industry is now only a tradition. The trade received its death-blow in 1870, when war broke out between Germany and France, and the lingering hope of revival was shattered by the famine of 1877-9, when the poor weakly shawl-weavers died like flies.",0.85
+blramiila,connects_to,river port,1,town and important river port of Kashmir,0.9
+kashmir,regulates,land revenue levied,1,"on the land revenue levied, 77, for rural officials 5 per cent., roads 2$ per cent., education $ per cent., 77, in place of forced laboul-, 7 I.",0.9
+copper,trades_with,ware,1,"copper trays and enamels, I 2 1 ; imitation of old Tibetan and other copper ware, treated to give an appearance of age, I 2 I.",0.8
+finance of state,administers,revenue and expenditure,1,"74, chief items of revenue and expenditure, 74, 75, 84, 85",0.8
+gilgit,administers,scattered district of kashmir state,1,head-quarters of scattered district of Kashmir State,0.8
+srinagar,administers,different classes of houses,1,"I-Iouses, of different classes in Srinagar...",0.8
+jahzngir,governs,valley,1,his attachment to the Valley,0.9
+leh,trades_with,caravans from central asia and jntlia,1,"the trade terminus of caravans from Central Asia and Jntlia, 1 I ;",0.8
+leh,connects_to,route from leh to astor,1,"the route from Leh to Astor, I r ;",0.7
+leh,connects_to,"long, hard road from leh to yarkand",1,"the long, hard road from Leh to Yarkand, I r, 15, 71, 86, loo.",0.8
+church missionary society,administers,eper xsplum at srinngar,1,"managed for the State by the Church hIissionary Society, 80, I 23.",0.9
+church missionary society,administers,"hospitals, civil and military, and dispensaries",1,"the splendid work of the Church Missionary Society at Srinagar, So, 123 ;",0.9
+pir panjil,connects_to,punjab,1,"old imperial route to Punjab, 4, always a trade route,6g, 7 I ;",0.9
+banihll,connects_to,chenib valley,1,"between Chenib and Kashinir valleys, an old trade ronte, from Srinagar to Isliimlbid and Jammu, 3,4, 69, 71 ;",0.9
+raj ditngan,connects_to,gilgit,1,"between Srinagar and Gilgir, a trade road, 8, 71, rog ;",0.9
+burzil,connects_to,nanga parbat central chain,1,"over Nanga Parbat central chain, a trade road, 8,15, 7 I ;",0.9
+i<amri,connects_to,gilgit,1,"to Gilgit, a trade road, 71, post and tele- graph ronte, I I O ;",0.9
+haji,connects_to,kohlla and biiramtila,1,"between Kohlla and Biiramtila, 9 ;",0.9
+namika la,connects_to,fotu la,1,"10, Fotu La (13,400 feet), 10, Zoji La (11,300 feet), over the Nanga l'arbat chain, a trade ronte, 10, 13, I j, 71, Soniimarg (8,650 feet), out of the Sind valley, all four on the route between Srinagar and Leh, 10 ;",0.9
+fotu la,connects_to,zoji la,1,"10, Fotu La (13,400 feet), 10, Zoji La (11,300 feet), over the Nanga l'arbat chain, a trade ronte, 10, 13, I j, 71, Soniimarg (8,650 feet), out of the Sind valley, all four on the route between Srinagar and Leh, 10 ;",0.9
+zoji la,connects_to,nanga parbat central chain,1,"over the Nanga l'arbat chain, a trade ronte, 10, 13, I j, 71, Soniimarg (8,650 feet), out of the Sind valley, all four on the route between Srinagar and Leh, 10 ;",0.9
+pathpns in kashmir,connects_to,durrhnis,1,"...colonies of the DurrHnis and of Gullb Singh, 37 ;",0.8
+patta,supplies,woollen cloth,1,"...woven in Kash- mir, 69;",0.7
+pears,trades_with,apples,1,"...not so important as apples, but good and common, 61 ;",0.6
+pravarasena,governs,kashmir,1,"in the sixth century, 23, Pravarapnra, his magnificent capital on site of modem Srinagar, 2 3.",0.9
+railway,connects_to,jammu town,1,"16 miles of State, to Jammu town, 72, I 14;",0.9
+resident,administers,government of india,1,"an officer of the Political department of the Government of India, in direct relations with it and with the State of Kashmir, 73",0.8
+gg,trades_with,salt,1,"Salt, increasing importation of, Gg, 71...",0.8
+srinagar,connects_to,jhelum,1,on both sides of the Jhelum,0.8
+shah hamadan,regulates,mosque,1,the mosque of Shal Hamadan,0.8
+jama masjid,supplies,vicissitudes,1,the Jama Masjid and its many vicissituiles,0.8
+kashmir,taxes,population,1,"its population of I 22,618",0.8
+church missionary society,governs,hospitals,1,the State and zafar hospitals,0.8
+tibet,trades_with,ladakh,1,its intimate relations with LadHkh,0.8
+india,trades_with,chinese turkistan and tibet,1,the trade of India with Chinese Turkistan and Tibet via Leh through Kashmir,0.8
+ladakh,governs,reis system,1,"the reis system of making the several villages responsible for baggage animals and supplies, IOO",0.8

@@ -1,0 +1,54 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+tibet,trades_with,india,2,"...returns are kept and the trade is registered; but elsewhere no statistics are forthcoming... The inland trade of Tibet is focuesed at the great markets of Lhasa and Shigatse... | The annual value of the trade of Tibet with India is some thirty lakhs of rupees (J2,200,000)",0.7
+tibetan travellers,trades_with,india,1,TIBETAN TRAVELLERS... Trade with India -Trade with Ladak -Trade with China -Trade with Mongolia- Trade with Nepal...,0.9
+chang tang,connects_to,chinese turkestan,1,Beginning at the north-west corner of the country where the northern limits of the Chang Tang abut upon Chinese Turkestan...,0.9
+yung ling range,connects_to,min shan mountains,1,Crossing the river at this point a continuation of the same general direction eastwards through another degree of longitude brings the line to the extreme north-west of the great Han-Sun-Lin or Yung-Ling mountains.,0.9
+tibet,governs,yo-yul,1,"Yo-yul, although practically independent, is nominally subject to Ll~asa and must be included in Tibetau territory.",0.8
+kuen lun mountain,connects_to,pang-ng lake,1,After crossing the Pang(-ng Lake the Ladak-T~bet Frontier takes a north-cast junction until it reaches the crest of the Kuen Lun mountains...,0.9
+tengri nor,connects_to,nin-chen-tang-la mountain range,1,Further east to the south of Tengri Nor the range has been crossed in several places by native explorers and also by Mr. Littledale...,0.9
+ynng ling chain,connects_to,yangtse kiang,1,It appears to be an immense mountain mass running in two parallel chains from north to south amongst the northern feeders of the Yangtse Kiang...,0.8
+tile yalung river,connects_to,nag chn,1,"Tile Yalung river, known in its upper course as the Ja Chu and lower course as the Nag Chn...",0.9
+tile yalung river,connects_to,yangtse,1,...it joins the Yangtse on the left bank on the northern frontiers of Yun-nan.,0.95
+dza chu,connects_to,tile yalung river,1,"The principal feeders of the river are the Dze Chn, the Dza Chi, and the Nomu Cha...",0.85
+dze chu,connects_to,tachi gompa,1,"...it flows in a narrow, shut-in valley, which below Tachi Gompa becomes alpine.",0.8
+lan-tsnng-kiang,connects_to,mekong,1,...in its lower reach it is known as the Mekong.,0.9
+shigatse,controls,monastery of 'l'ashi lhunpo,1,"the residence of the Pellcheu Rinpoche, the second ecclesiastical dignitary of Tibet; and to the muth-west lies the ancient monastery of Sakya...",0.9
+china,controls,kam,1,during the last two centuries China has been continually encroaching upon this region and ever since she succeeded in establishing a paramount influence at Lhasa has been gradually absorbing as much as possible of the border country.,0.8
+lhnsa,administers,portions of kam,1,"portions of Kam, it is true, are directly administered by Lhsa, and portions by China ;",0.9
+goloks,trades_with,merchants of kan-su and se-chuan,1,"They are also carriers, and as such intermediaries between the merchants of Kan-su and Se-chuan and of eastern Tibet.",0.8
+tibetan tribes,trades_with,china,1,They pay tribute to China.,0.9
+chinese government,administers,39 hundreds (ruling hereditary chiefs or delas),1,"Of these we are told that the tribes of pastoral Tibetans along the course of the Dre Chu or Yangtse from its sources to aye-knn-do, or even a little further east, were organised By the Chinese Government in 1732 into 39 hundreds ruled by hereditary chiefs or delas...",0.4
+si-ning amban,controls,tibetan tribes,1,"...under the control of the Si-ning Amban, or in the case of tribes near the borders of Se-chuan, under the Governor General of that province.",0.3
+governor general of se-chuan,governs,tribes near the borders of se-chuan,1,...under the Governor General of that province.,0.2
+mar kam,administers,mang-kam te-ji,1,"The ruler is a high official appointed from Lhasa and termed the 'Mang-kam Te-ji,' He ranks equally with the Garpn of Gartok, or Governor of Teu, and has a number of Jongs or districts under his orders.",0.9
+tashi gompa,trades_with,dokpas,1,"This is 'l'Tachi or Tashi Gompa which is, so M. Dutreuil de Rhins tells us, a trade centre for the neighbouring Dokpas or herdsmen, whcre they assemble periodically in large numbers to exchange their produce and the various articles brought hither by Chinese merchants from I; ye-kun-do and elsewhere.",0.85
+china,governs,chamdo,1,Chamdo lower down the stream is a large district described as an ecclesiastical fief under the rule of a high dignitary of the Ovrlukpa sect of Buddhism who is termed the Fa-pa-lha. ('Chamdo appears to be a recognised dependency of China rather than of Lhasa.,0.95
+pa-pa-lha,regulates,monasterics of kam,1,The Pa-pa-lha is an important functionary in the politics of eastern Tibet. This influence is far reaching and he has jurisdiction over a large number of the monasteries of Kam.,0.9
+lhasa,governs,"districts of lharigo, shobado, and sho-ta-iho-sum",1,These are ruled by Jongpons appointed from the capital.,0.9
+lhara,governs,yun-nan dirlricts rubject to o lhara,1,"But it should be understood that China would probably claim wizerainty over the whole of these, and actual jurisdiction over all but a very few.",0.7
+lhasa,governs,takpo,1,All this country (with the exception of Po-yul) is under Lhasa rule and is governed by Jongpone in the different forts.,0.95
+tibet,governs,tawang district,1,The country is now governed in the recognized manner by Jongpons deputed from Lha~a.,0.8
+lhaban authorities,controls,tawang district,1,The Lhaban authorities are said to have asserted their influence and the country is now governed in the recognized manner by Jongpons deputed from Lha~a.,0.8
+pandit nain pingh,trades_with,lha-tse (janglache) and bhigatse,1,After remaining for the winter in Lbasa he retraced his steps up the great river following it to its source near the Marbm La and then passing round the north of the Manasarowar lakes he turned south-west and crossed into British territory near Milam.,0.8
+taidam,connects_to,nagchuka,1,Crossing from Tsaidam into the Tibetan plateau he travelled southwards to the l' n g La range of mountains and crossing these penetrated as far as Nagchuka.,0.8
+ribetan officials,administers,naqchuka,1,Here they were stopped by 'ribetan ollicials and turncd north-enst to Naqchuka.,0.9
+great assembly,administers,tibetan administration,1,This is the 'I'eoagdu ChemJo '' or Great Assembly which mects on occasion to discuss matters of grave national importance...,0.8
+tibetan government officials,administers,offices held by laymen or monks,1,"Each rank is distinguished by a different *'button' after the Chinese fashion, but tliese buttons are worn only by lay-officials.",0.8
+amham,connects_to,council of pour wau,1,At first the Amham were content to play the art simply of Reeitlents or Chinese Agents without in any way interfering with the management of the country...,0.8
+tibet,trades_with,neighbouring countries,1,"...in the case of India, it is true, returns are kept and the trade is registered; but elsewhere no statistics are forthcoming... The inland trade of Tibet is focuesed at the great markets of Lhasa and Shigatse...",0.6
+tibet,trades_with,china,1,...returns are kept and the trade is registered; but elsewhere no statistics are forthcoming... The inland trade of Tibet is focuesed at the great markets of Lhasa and Shigatse...,0.6
+ladak,trades_with,tibet,1,...merchants converge from all parts of the country during the winter months.,0.5
+koko nor,connects_to,tsidam,1,(2) That leading from Si-ning in Kansu past the Koko Nor into T~sidam and thence southwards acrosa the eastern Chang Tang to Lhasa,0.7
+kam,trades_with,western china,1,"From Kan-su, Se-Chuan, and Yun-nan Chinese commodities are passed into Tibet and the raw materials of Tibet are exported in exchange...",0.8
+lhasa,connects_to,chang tang and tsaidam,1,"the Chang Tang and Tsaidam, but since the great Muhammadan rehel- linll some !ears ago this rontc has fallco somewhat into d~suse",0.8
+lhasa,connects_to,ta-tien-lu,1,the road by Ta-tcien-lu.,0.9
+lhasa,connects_to,yan-nan,1,"I n Yan-nan the chief centres of Tibetan trade arcch the towns A trntse, Li-liiang, and Tali.",0.8
+gye-kun-do,trades_with,china,1,"Gye-kun-do, which is centrally situated at the junction of roads from Lhaea, Tsaidam, Ta-tsien-lu, Derge, and Sung-pan, does a thriving trade.",0.8
+derge,trades_with,china,1,Derge is the capital of one of the richest agricultural and manufacturing regions of Tibet and does a brisk trade with China.,0.8
+chamdo,trades_with,china,1,At Chamdo there are several Chinese merchants and all the Chinese officials trade freely on their own account.,0.8
+mongolia,trades_with,tibet,1,"This appears to consist entirely of a great caravan which travels yearly from Mongolia through Tmitlan to Lhasa, starting usually in the month of June.",0.8
+nepal,trades_with,tibet,1,A number of tracks lead up the valleys of the Nepal rivers and cross the Himalayan ranges into the Tibetan plateau by more or less difficult passes.,0.8
+loh mantang,exchanges_for,goods,1,On this road Loh Mantang is the trade depot and considerable quantities of goods are exchanged.,0.8
+salt mines,extracts_from,water of salt lakes,1,"Salt is found in great quantities on the Chang Tang, where it is obtained by the evaporation of the water of the numerous salt lakes of that region.",0.9
+planters,supplies,brick-tea,1,our planters ~hould be unable to manufacture a better form of brick-tea than the Chinese and to sell it at a less price in Lhasa and central and western Tibet.,0.8
+tibetans,disputes,northern frontier of sikkim,1,"This latter frontier, however, has never been acknowledged by the Tibetans and is still a matter of dispute.",0.95

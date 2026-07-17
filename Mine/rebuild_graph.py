@@ -24,6 +24,7 @@ from graph_rules import (
     ENTITY_TYPE_OVERRIDES,
     GROUP_KEYWORDS,
     KEEP_ENTITY_TYPES,
+    LEGACY_RELATION_ALIASES,
     LOCATION_KEYWORDS,
     NOISY_ENTITIES,
     OUTPUT_DIR,
@@ -108,6 +109,15 @@ def mapped_relation(raw: str) -> str:
         if re.search(pattern, raw_text):
             return mapped
     return ""
+
+
+def is_legacy_row(row: dict[str, str]) -> bool:
+    return not (row.get("Evidence") or "").strip() and not (row.get("Confidence") or "").strip()
+
+
+def mapped_legacy_relation(raw: str) -> str:
+    relation = clean(raw).replace("_", " ")
+    return LEGACY_RELATION_ALIASES.get(relation, "")
 
 
 def load_entity_types() -> dict[str, str]:
@@ -298,13 +308,28 @@ def graph_stats(edge_rows: dict[tuple[str, str, str], dict]) -> tuple[dict[str, 
 def main() -> None:
     entity_types = load_entity_types()
     edge_rows: dict[tuple[str, str, str], dict] = {}
+    strict_review = []
 
     for csv_path in sorted(Path(RESULTS_ROOT).glob("**/weighted_knowledge_graph.csv")):
         with csv_path.open(newline="", encoding="utf-8", errors="ignore") as f:
             for row in csv.DictReader(f):
                 source = clean_entity(row.get("Source", ""))
                 target = clean_entity(row.get("Target", ""))
-                relation = mapped_relation(row.get("Relation", ""))
+                raw_relation = row.get("Relation", "")
+                legacy = is_legacy_row(row)
+                relation = mapped_relation(raw_relation)
+                if legacy:
+                    strict_relation = mapped_legacy_relation(raw_relation)
+                    strict_review.append(
+                        [
+                            book_name(csv_path),
+                            source,
+                            raw_relation,
+                            target,
+                            "keep" if strict_relation else "drop",
+                            f"would map to {strict_relation}" if strict_relation else "legacy row without strict relation mapping",
+                        ]
+                    )
                 if (
                     not source
                     or not target
@@ -510,6 +535,11 @@ def main() -> None:
                 "|".join(edge["books"]),
                 "|".join(edge["evidence"]),
             ])
+
+    with (Path(OUTPUT_DIR) / "strict_legacy_edge_review.csv").open("w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Book", "Source", "RawRelation", "Target", "Action", "Reason"])
+        writer.writerows(strict_review)
 
     print(f"Rebuilt graph: {len(nodes)} nodes, {len(edges)} edges, {len(focus_component)} salt-core nodes")
 

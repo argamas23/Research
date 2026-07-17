@@ -1,5 +1,16 @@
 {
-  "corrections": [],
+  "corrections": [
+    {
+      "entity": "trade",
+      "old_type": "CONCEPT",
+      "new_type": "GROUP",
+      "old_confidence": 0.8,
+      "new_confidence": 0.9613,
+      "ner_relevance": 0.816,
+      "ner_raw_confidence": 4.016,
+      "source": "textrazor"
+    }
+  ],
   "not_found_in_ner": [],
-  "total_entities": 230
+  "total_entities": 288
 }
