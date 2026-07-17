@@ -7,8 +7,8 @@
   },
   {
     "entity": "agreement between kharnak and rupshu",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 0.8
   },
   {
@@ -198,12 +198,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "change",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "chasralu",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -213,7 +207,7 @@
     "entity": "china",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "china and tibet",
@@ -222,27 +216,9 @@
     "confidence": 0.8
   },
   {
-    "entity": "chineae government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "chinese",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "chinese authorities",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "chinese emperor kang-hi",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -270,12 +246,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "colonial state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "consumers",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -291,12 +261,6 @@
     "entity": "deldan",
     "type": "PERSON",
     "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "derge",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -321,7 +285,7 @@
     "entity": "drogpa",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "drokpas",
@@ -369,7 +333,7 @@
     "entity": "frederic drew",
     "type": "PERSON",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "garu",
@@ -420,12 +384,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "guori khan",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "gurkhas",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -436,12 +394,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "gyarong district",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "hair",
@@ -528,12 +480,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "india",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "indian salt",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
@@ -576,12 +522,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "kingdom of guge",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "kiraiya-kash; way of life of the kiraiyakash",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -615,7 +555,7 @@
     "entity": "ladakh",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "ladakhi buddhists",
@@ -639,12 +579,6 @@
     "entity": "leh area merchants",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "lhara",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -738,12 +672,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "merchants of kan-su and se-chuan",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
     "entity": "milk",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -762,22 +690,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "mountains",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "naxi women of lower tsakalho",
     "type": "GROUP",
     "circuit": "Salt anchor",
     "confidence": 0.8
-  },
-  {
-    "entity": "neighbouring countries",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "nepal",
@@ -813,12 +729,6 @@
     "entity": "of the states",
     "type": "LOCATION",
     "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "of this historical stage",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -966,12 +876,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "roads-from china, mongolia, lhasa, ta-tsien-111, derge, etc",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "ruler of the tract",
     "type": "PERSON",
     "circuit": "Political economy",
@@ -1081,15 +985,9 @@
   },
   {
     "entity": "sociological and historical literature on india under colonialism",
-    "type": "CONCEPT",
+    "type": "LOCATION",
     "circuit": "Political economy",
     "confidence": 0.8
-  },
-  {
-    "entity": "srong-tsan-gam-pol",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "state forests",
@@ -1131,19 +1029,13 @@
     "entity": "tea",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "tea, sugar, spices, rice, and other food products at dozum fair",
     "type": "CONCEPT",
     "circuit": "Commodity circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "the basin of the manasarowar lakes",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
   },
   {
     "entity": "the british",
@@ -1176,12 +1068,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "the northern frontier of sikkim",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "the rulers of these hill states",
     "type": "LOCATION",
     "circuit": "Political economy",
@@ -1201,12 +1087,6 @@
   },
   {
     "entity": "the social history of the western himalayas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the tsangpo or brahmaputra river",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
@@ -1293,7 +1173,7 @@
     "entity": "tibetan horses",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "tibetan partners",
@@ -1311,18 +1191,6 @@
     "entity": "tibetan salt",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "tibetan states",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "tibetan tribes",
-    "type": "GROUP",
-    "circuit": "Social actors",
     "confidence": 0.8
   },
   {

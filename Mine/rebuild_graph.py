@@ -16,6 +16,7 @@ from graph_rules import (
     CIRCUIT_COLORS,
     COLOR_BY_TYPE,
     COMMODITY_KEYWORDS,
+    CONCEPT_PHRASE_TERMS,
     DEFAULT_COLOR,
     DEFAULT_SHAPE,
     EDGE_COLOR_BY_RELATION,
@@ -154,6 +155,8 @@ def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
         return "GROUP"
     if entity in ENTITY_TYPE_OVERRIDES:
         return ENTITY_TYPE_OVERRIDES[entity][0]
+    if has_any(entity, CONCEPT_PHRASE_TERMS):
+        return "CONCEPT"
     known = entity_types.get(entity)
     if known in KEEP_ENTITY_TYPES and known != "CONCEPT":
         return known
@@ -335,7 +338,10 @@ def main() -> None:
     node_types = {node: classify_entity(node, entity_types) for node in degree}
     trimmed_nodes = {
         node for node, node_type in node_types.items()
-        if node_type == "CONCEPT" and node not in focus_component and degree[node] <= 1
+        if node_type == "CONCEPT"
+        and node not in focus_component
+        and degree[node] <= 1
+        and not has_any(node, CONCEPT_PHRASE_TERMS)
     }
     edge_rows = {
         key: item

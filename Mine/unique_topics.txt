@@ -228,6 +228,7 @@
 /computer/computer_manufacturer_brand
 /computer/computer_peripheral
 /computer/computer_peripheral_class
+/computer/computer_processor
 /computer/computing_platform
 /computer/content_license
 /computer/file_format
@@ -265,6 +266,7 @@
 /dataworld/information_source
 /dataworld/provenance
 /digicams/camera_compressed_format
+/digicams/camera_format
 /digicams/camera_sensor_type
 /digicams/camera_uncompressed_format
 /dining/cuisine
@@ -863,6 +865,7 @@
 /time/recurring_event
 /time/time_zone
 /time_series/unit
+/transportation/bridge
 /transportation/bridge_type
 /transportation/road
 /travel/accommodation

@@ -194,6 +194,14 @@ BAD_PERSON_TOKENS = {
 
 KEEP_ENTITY_TYPES = {"PERSON", "GROUP", "COMMODITY", "LOCATION", "CONCEPT"}
 
+CONCEPT_PHRASE_TERMS = {
+    "agreement",
+    "historical",
+    "history",
+    "literature",
+    "sociological",
+}
+
 ENTITY_ALIASES = {
     "pashm in leh": "pashm",
     "pashm (cashmere)": "pashm",

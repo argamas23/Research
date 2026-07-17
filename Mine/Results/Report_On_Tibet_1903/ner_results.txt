@@ -1,0 +1,5123 @@
+
+=== CHUNK 1 (189.95 KB) ===
+
+/architecture/architectural_structure_owner
+──────────
+Warren Hastings  (Relevance 0.137 | Confidence 4.778)
+
+/architecture/architectural_style
+──────────
+Suspension bridge  (Relevance 0.091 | Confidence 5.259)
+
+/architecture/building
+──────────
+Potala Palace  (Relevance 0.376 | Confidence 13.870)
+
+/architecture/building_complex
+──────────
+Sera Monastery  (Relevance 0.267 | Confidence 3.295)
+
+/architecture/building_function
+──────────
+Marketplace  (Relevance 0.058 | Confidence 1.666)
+Monastery  (Relevance 0.127 | Confidence 8.479)
+Temple  (Relevance 0.013 | Confidence 1.146)
+
+/architecture/lighthouse_construction_material
+──────────
+Granite  (Relevance 0.069 | Confidence 11.060)
+Iron  (Relevance 0.064 | Confidence 11.850)
+Lumber  (Relevance 0.015 | Confidence 1.149)
+Sandstone  (Relevance 0.067 | Confidence 11.350)
+
+/architecture/structure
+──────────
+Chain Bridge (Potomac River)  (Relevance 0.038 | Confidence 1.378)
+Potala Palace  (Relevance 0.376 | Confidence 13.870)
+Vera C. Rubin Observatory  (Relevance 0.016 | Confidence 1.943)
+
+/astronomy/telescope_platform
+──────────
+Sea  (Relevance 0.139 | Confidence 1.693)
+Summit  (Relevance 0.099 | Confidence 0.964)
+
+/astronomy/type_of_planetographic_feature
+──────────
+Escarpment  (Relevance 0.034 | Confidence 4.976)
+Mountain  (Relevance 0.564 | Confidence 6.129)
+Mountain range  (Relevance 0.547 | Confidence 5.559)
+Plain  (Relevance 0.000 | Confidence 4.380)
+Valley  (Relevance 0.169 | Confidence 5.170)
+
+/automotive/company
+──────────
+International Harvester  (Relevance 0.023 | Confidence 2.755)
+
+/aviation/airport_runway_surface
+──────────
+Soil  (Relevance 0.089 | Confidence 10.370)
+
+/award/award
+──────────
+Distinguished Service Order  (Relevance 0.000 | Confidence 1.693)
+
+/award/award_category
+──────────
+Distinguished Service Order  (Relevance 0.000 | Confidence 1.693)
+
+/award/award_discipline
+──────────
+Exploration  (Relevance 0.166 | Confidence 1.840)
+Geography  (Relevance 0.263 | Confidence 7.712)
+Maze  (Relevance 0.006 | Confidence 2.293)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/award/award_nominee
+──────────
+Kashmir  (Relevance 0.173 | Confidence 2.253)
+Mase  (Relevance 0.007 | Confidence 1.947)
+Sven Hedin  (Relevance 0.185 | Confidence 10.540)
+
+/award/award_presenting_organization
+──────────
+National Center for Atmospheric Research  (Relevance 0.006 | Confidence 2.750)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+
+/award/award_winner
+──────────
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+Edward Colborne Baber  (Relevance 0.021 | Confidence 1.158)
+European Union  (Relevance 0.029 | Confidence 7.971)
+Hamilton Bower  (Relevance 0.091 | Confidence 1.904)
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+Mase  (Relevance 0.007 | Confidence 1.947)
+Nain Singh  (Relevance 0.176 | Confidence 3.524)
+Nikolay Przhevalsky  (Relevance 0.154 | Confidence 1.101)
+Sven Hedin  (Relevance 0.185 | Confidence 10.540)
+
+/biology/amino_acid
+──────────
+Threonine  (Relevance 0.008 | Confidence 2.093)
+
+/biology/animal
+──────────
+Bat  (Relevance 0.026 | Confidence 3.478)
+Bee  (Relevance 0.015 | Confidence 4.222)
+Foal  (Relevance 0.023 | Confidence 2.278)
+Mule  (Relevance 0.046 | Confidence 2.713)
+Pony  (Relevance 0.016 | Confidence 1.368)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+Yak  (Relevance 0.145 | Confidence 2.343)
+
+/biology/breed_origin
+──────────
+Asia  (Relevance 0.389 | Confidence 14.760)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+Central Asia  (Relevance 0.102 | Confidence 2.476)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/biology/domesticated_animal
+──────────
+Pony  (Relevance 0.016 | Confidence 1.368)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+Yak  (Relevance 0.145 | Confidence 2.343)
+
+/biology/hybrid
+──────────
+Mule  (Relevance 0.046 | Confidence 2.713)
+
+/biology/hybrid_parent_classification
+──────────
+Pony  (Relevance 0.016 | Confidence 1.368)
+
+/biology/organism_classification
+──────────
+Barley  (Relevance 0.183 | Confidence 13.800)
+Bat  (Relevance 0.026 | Confidence 3.478)
+Bee  (Relevance 0.015 | Confidence 4.222)
+Buckwheat  (Relevance 0.124 | Confidence 4.766)
+Fir  (Relevance 0.082 | Confidence 3.212)
+Foal  (Relevance 0.023 | Confidence 2.278)
+Kiang  (Relevance 0.162 | Confidence 2.623)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Mule  (Relevance 0.046 | Confidence 2.713)
+Mustard plant  (Relevance 0.030 | Confidence 2.234)
+Pea  (Relevance 0.042 | Confidence 1.671)
+Pony  (Relevance 0.016 | Confidence 1.368)
+Rangea  (Relevance 0.059 | Confidence 2.989)
+Rice  (Relevance 0.132 | Confidence 12.690)
+Salmon  (Relevance 0.115 | Confidence 4.209)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+Species description  (Relevance 0.006 | Confidence 2.173)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+Yak  (Relevance 0.145 | Confidence 2.343)
+Yam (vegetable)  (Relevance 0.033 | Confidence 0.971)
+
+/biology/organism_classification_rank
+──────────
+Family (biology)  (Relevance 0.012 | Confidence 1.393)
+Genus  (Relevance 0.048 | Confidence 9.203)
+
+/biology/plant_disease_host
+──────────
+Barley  (Relevance 0.183 | Confidence 13.800)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+
+/biology/source_organism
+──────────
+Rice  (Relevance 0.132 | Confidence 12.690)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+
+/boats/hull_material
+──────────
+Iron  (Relevance 0.064 | Confidence 11.850)
+
+/boats/ship_class
+──────────
+Boat  (Relevance 0.076 | Confidence 1.030)
+Ferry  (Relevance 0.110 | Confidence 3.700)
+
+/boats/ship_type
+──────────
+Ferry  (Relevance 0.110 | Confidence 3.700)
+
+/book/author
+──────────
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+European Union  (Relevance 0.029 | Confidence 7.971)
+Gabriel Bonvalot  (Relevance 0.119 | Confidence 2.111)
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+Odoric of Pordenone  (Relevance 0.131 | Confidence 2.117)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+Sarat Chandra Das  (Relevance 0.181 | Confidence 1.244)
+Sven Hedin  (Relevance 0.185 | Confidence 10.540)
+Warren Hastings  (Relevance 0.137 | Confidence 4.778)
+
+/book/book_binding
+──────────
+Leather  (Relevance 0.046 | Confidence 4.134)
+
+/book/book_subject
+──────────
+Abbot  (Relevance 0.129 | Confidence 1.175)
+Asia  (Relevance 0.389 | Confidence 14.760)
+Bard  (Relevance 0.020 | Confidence 0.971)
+Barley  (Relevance 0.183 | Confidence 13.800)
+Bat  (Relevance 0.026 | Confidence 3.478)
+Bee  (Relevance 0.015 | Confidence 4.222)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+Boat  (Relevance 0.076 | Confidence 1.030)
+Bridge  (Relevance 0.114 | Confidence 3.030)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+Central Asia  (Relevance 0.102 | Confidence 2.476)
+Certainty  (Relevance 0.109 | Confidence 1.056)
+China  (Relevance 0.682 | Confidence 42.780)
+Chinese language  (Relevance 0.080 | Confidence 0.998)
+Climate  (Relevance 0.132 | Confidence 8.287)
+Compass  (Relevance 0.050 | Confidence 2.995)
+Country  (Relevance 0.043 | Confidence 1.100)
+Desert  (Relevance 0.067 | Confidence 7.184)
+Desire  (Relevance 0.107 | Confidence 1.033)
+Drainage basin  (Relevance 0.239 | Confidence 1.683)
+Elf  (Relevance 0.027 | Confidence 1.519)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+European Union  (Relevance 0.029 | Confidence 7.971)
+Evidence  (Relevance 0.147 | Confidence 0.954)
+Exchequer  (Relevance 0.034 | Confidence 0.989)
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Existence  (Relevance 0.044 | Confidence 1.377)
+Exploration  (Relevance 0.166 | Confidence 1.840)
+Ferry  (Relevance 0.110 | Confidence 3.700)
+Foot  (Relevance 0.015 | Confidence 0.970)
+France  (Relevance 0.108 | Confidence 2.643)
+Friar  (Relevance 0.017 | Confidence 4.911)
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Geographer  (Relevance 0.020 | Confidence 1.134)
+Geography  (Relevance 0.263 | Confidence 7.712)
+Glacier  (Relevance 0.105 | Confidence 6.215)
+Hat  (Relevance 0.173 | Confidence 1.648)
+Himalayas  (Relevance 0.221 | Confidence 11.690)
+Hindus  (Relevance 0.000 | Confidence 1.803)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Iron  (Relevance 0.064 | Confidence 11.850)
+Jealousy  (Relevance 0.069 | Confidence 1.134)
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Jurisdiction  (Relevance 0.039 | Confidence 4.935)
+Kashmir  (Relevance 0.173 | Confidence 2.253)
+Knowledge  (Relevance 0.191 | Confidence 1.306)
+Lake  (Relevance 0.070 | Confidence 1.104)
+Language  (Relevance 0.069 | Confidence 6.453)
+Latitude  (Relevance 0.116 | Confidence 10.020)
+Law  (Relevance 0.065 | Confidence 2.807)
+Longitude  (Relevance 0.046 | Confidence 4.059)
+Lumber  (Relevance 0.015 | Confidence 1.149)
+Magistrate  (Relevance 0.117 | Confidence 1.046)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Map  (Relevance 0.000 | Confidence 1.669)
+Maze  (Relevance 0.006 | Confidence 2.293)
+Medical doctor  (Relevance 0.000 | Confidence 0.996)
+Mekong  (Relevance 0.188 | Confidence 5.388)
+Missionary  (Relevance 0.118 | Confidence 6.011)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Monk  (Relevance 0.094 | Confidence 7.399)
+Monsoon  (Relevance 0.139 | Confidence 5.192)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Mountain  (Relevance 0.564 | Confidence 6.129)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Ocean  (Relevance 0.091 | Confidence 7.458)
+Official  (Relevance 0.446 | Confidence 1.289)
+Ore  (Relevance 0.019 | Confidence 1.121)
+Pandit  (Relevance 0.070 | Confidence 1.858)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Pasture  (Relevance 0.074 | Confidence 4.263)
+Pea  (Relevance 0.042 | Confidence 1.671)
+Pilgrimage  (Relevance 0.033 | Confidence 1.412)
+Planning  (Relevance 0.049 | Confidence 2.306)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Priest  (Relevance 0.024 | Confidence 6.721)
+Qing dynasty  (Relevance 0.130 | Confidence 1.569)
+Reason  (Relevance 0.129 | Confidence 1.860)
+Religion  (Relevance 0.150 | Confidence 8.095)
+Rice  (Relevance 0.132 | Confidence 12.690)
+River  (Relevance 0.000 | Confidence 2.288)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Saint  (Relevance 0.049 | Confidence 6.016)
+Salmon  (Relevance 0.115 | Confidence 4.209)
+Salt  (Relevance 0.000 | Confidence 6.140)
+Scientific method  (Relevance 0.240 | Confidence 1.042)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+Silver  (Relevance 0.030 | Confidence 6.899)
+Snow  (Relevance 0.153 | Confidence 6.069)
+Space  (Relevance 0.162 | Confidence 3.101)
+Statue  (Relevance 0.011 | Confidence 0.979)
+Surveying  (Relevance 0.099 | Confidence 1.076)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tang dynasty  (Relevance 0.000 | Confidence 2.288)
+Tea  (Relevance 0.076 | Confidence 1.334)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+Tile  (Relevance 0.027 | Confidence 3.073)
+Trade  (Relevance 0.073 | Confidence 1.712)
+Trade route  (Relevance 0.045 | Confidence 2.044)
+Tribe  (Relevance 0.029 | Confidence 1.170)
+Tribute  (Relevance 0.108 | Confidence 2.168)
+Trigonometry  (Relevance 0.029 | Confidence 2.961)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+Warren Hastings  (Relevance 0.137 | Confidence 4.778)
+Water  (Relevance 0.137 | Confidence 2.222)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+Wool  (Relevance 0.112 | Confidence 8.261)
+Xinjiang  (Relevance 0.080 | Confidence 10.150)
+Yarlung Tsangpo  (Relevance 0.208 | Confidence 4.977)
+
+/book/magazine_genre
+──────────
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/book/periodical_publisher
+──────────
+Informa  (Relevance 0.006 | Confidence 3.399)
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+
+/book/periodical_subject
+──────────
+Asia  (Relevance 0.389 | Confidence 14.760)
+China  (Relevance 0.682 | Confidence 42.780)
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Law  (Relevance 0.065 | Confidence 2.807)
+Ocean  (Relevance 0.091 | Confidence 7.458)
+Politics  (Relevance 0.017 | Confidence 1.208)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+
+/book/published_work
+──────────
+Chinese language  (Relevance 0.080 | Confidence 0.998)
+
+/book/translation
+──────────
+Chinese language  (Relevance 0.080 | Confidence 0.998)
+
+/book/translator
+──────────
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+
+/broadcast/artist
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/broadcast/broadcast
+──────────
+WERC (AM)  (Relevance 0.049 | Confidence 2.932)
+WLIO  (Relevance 0.008 | Confidence 1.651)
+
+/broadcast/content
+──────────
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/broadcast/genre
+──────────
+Language  (Relevance 0.069 | Confidence 6.453)
+Law  (Relevance 0.065 | Confidence 2.807)
+Politics  (Relevance 0.017 | Confidence 1.208)
+
+/broadcast/radio_format
+──────────
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/broadcast/radio_station
+──────────
+WERC (AM)  (Relevance 0.049 | Confidence 2.932)
+
+/broadcast/tv_station
+──────────
+WLIO  (Relevance 0.008 | Confidence 1.651)
+
+/business/asset_owner
+──────────
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/business/brand
+──────────
+English as a second or foreign language  (Relevance 0.052 | Confidence 1.162)
+
+/business/business_location
+──────────
+Beijing  (Relevance 0.098 | Confidence 10.910)
+India  (Relevance 0.393 | Confidence 15.050)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/business/business_operation
+──────────
+ANT1  (Relevance 0.032 | Confidence 5.394)
+Accor  (Relevance 0.014 | Confidence 2.158)
+DLE (company)  (Relevance 0.006 | Confidence 1.736)
+Informa  (Relevance 0.006 | Confidence 3.399)
+International Harvester  (Relevance 0.023 | Confidence 2.755)
+IonQ  (Relevance 0.000 | Confidence 1.862)
+Moorcroft  (Relevance 0.029 | Confidence 2.025)
+
+/business/consumer_company
+──────────
+Accor  (Relevance 0.014 | Confidence 2.158)
+
+/business/consumer_product
+──────────
+Hat  (Relevance 0.173 | Confidence 1.648)
+Jacket  (Relevance 0.017 | Confidence 0.958)
+
+/business/defunct_company
+──────────
+International Harvester  (Relevance 0.023 | Confidence 2.755)
+
+/business/employer
+──────────
+ANT1  (Relevance 0.032 | Confidence 5.394)
+Accor  (Relevance 0.014 | Confidence 2.158)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+DLE (company)  (Relevance 0.006 | Confidence 1.736)
+European Union  (Relevance 0.029 | Confidence 7.971)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Informa  (Relevance 0.006 | Confidence 3.399)
+International Harvester  (Relevance 0.023 | Confidence 2.755)
+IonQ  (Relevance 0.000 | Confidence 1.862)
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Louisiana High School Athletic Association  (Relevance 0.006 | Confidence 5.843)
+Manhattan Neighborhood Network  (Relevance 0.015 | Confidence 2.255)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Moorcroft  (Relevance 0.029 | Confidence 2.025)
+National Center for Atmospheric Research  (Relevance 0.006 | Confidence 2.750)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+Survey of India  (Relevance 0.044 | Confidence 1.557)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+The Liberals (Switzerland)  (Relevance 0.018 | Confidence 5.083)
+Tory  (Relevance 0.021 | Confidence 1.462)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/business/industry
+──────────
+Asia  (Relevance 0.389 | Confidence 14.760)
+Chinese language  (Relevance 0.080 | Confidence 0.998)
+English as a second or foreign language  (Relevance 0.052 | Confidence 1.162)
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Ferry  (Relevance 0.110 | Confidence 3.700)
+Hat  (Relevance 0.173 | Confidence 1.648)
+Law  (Relevance 0.065 | Confidence 2.807)
+Lumber  (Relevance 0.015 | Confidence 1.149)
+Silk  (Relevance 0.105 | Confidence 7.392)
+Surveying  (Relevance 0.099 | Confidence 1.076)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tea  (Relevance 0.076 | Confidence 1.334)
+
+/business/issuer
+──────────
+Accor  (Relevance 0.014 | Confidence 2.158)
+Informa  (Relevance 0.006 | Confidence 3.399)
+
+/business/job_title
+──────────
+Lieutenant  (Relevance 0.032 | Confidence 0.972)
+
+/business/product_category
+──────────
+Boat  (Relevance 0.076 | Confidence 1.030)
+Button  (Relevance 0.090 | Confidence 1.510)
+Cloak  (Relevance 0.091 | Confidence 1.476)
+Foot  (Relevance 0.015 | Confidence 0.970)
+Hat  (Relevance 0.173 | Confidence 1.648)
+Jacket  (Relevance 0.017 | Confidence 0.958)
+Map  (Relevance 0.000 | Confidence 1.669)
+Pager  (Relevance 0.011 | Confidence 2.381)
+Sand  (Relevance 0.044 | Confidence 1.616)
+
+/business/product_ingredient
+──────────
+Leather  (Relevance 0.046 | Confidence 4.134)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Salt  (Relevance 0.000 | Confidence 6.140)
+
+/business/sponsor
+──────────
+Accor  (Relevance 0.014 | Confidence 2.158)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+
+/chemistry/chemical_compound
+──────────
+Borax  (Relevance 0.062 | Confidence 4.429)
+Tetrahydrocannabinol  (Relevance 0.000 | Confidence 2.147)
+Threonine  (Relevance 0.008 | Confidence 2.093)
+Water  (Relevance 0.137 | Confidence 2.222)
+
+/chemistry/chemical_element
+──────────
+Iron  (Relevance 0.064 | Confidence 11.850)
+Silver  (Relevance 0.030 | Confidence 6.899)
+
+/chemistry/molecular_entity
+──────────
+Ion  (Relevance 0.015 | Confidence 9.152)
+Water  (Relevance 0.137 | Confidence 2.222)
+
+/comic_books/comic_book_genre
+──────────
+Politics  (Relevance 0.017 | Confidence 1.208)
+
+/comic_strips/comic_strip_genre
+──────────
+Politics  (Relevance 0.017 | Confidence 1.208)
+
+/computer/computer_processor
+──────────
+Reduced instruction set computer  (Relevance 0.038 | Confidence 2.798)
+
+/computer/programming_language
+──────────
+Tcl (programming language)  (Relevance 0.004 | Confidence 1.617)
+
+/computer/software_genre
+──────────
+Parsing  (Relevance 0.021 | Confidence 1.898)
+
+/conferences/conference_subject
+──────────
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/conferences/conference_venue
+──────────
+Paris  (Relevance 0.037 | Confidence 14.480)
+
+/cvg/computer_game_region
+──────────
+Europe  (Relevance 0.082 | Confidence 1.739)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/cvg/computer_game_subject
+──────────
+Water  (Relevance 0.137 | Confidence 2.222)
+
+/cvg/cvg_genre
+──────────
+Maze  (Relevance 0.006 | Confidence 2.293)
+
+/digicams/camera_format
+──────────
+Mirrorless camera  (Relevance 0.024 | Confidence 1.799)
+
+/distilled_spirits/blended_spirit
+──────────
+Tea  (Relevance 0.076 | Confidence 1.334)
+
+/distilled_spirits/distilled_spirit_type
+──────────
+Tea  (Relevance 0.076 | Confidence 1.334)
+
+/distilled_spirits/fermentation_base
+──────────
+Barley  (Relevance 0.183 | Confidence 13.800)
+Cereal  (Relevance 0.037 | Confidence 8.152)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Rice  (Relevance 0.132 | Confidence 12.690)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+
+/education/academic
+──────────
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+Law  (Relevance 0.065 | Confidence 2.807)
+
+/education/educational_degree
+──────────
+Bachelor of Arts  (Relevance 0.080 | Confidence 3.272)
+
+/education/educational_institution
+──────────
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+
+/education/field_of_study
+──────────
+Bengali language  (Relevance 0.088 | Confidence 5.856)
+China  (Relevance 0.682 | Confidence 42.780)
+Chinese language  (Relevance 0.080 | Confidence 0.998)
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Exploration  (Relevance 0.166 | Confidence 1.840)
+Geography  (Relevance 0.263 | Confidence 7.712)
+Hydrography  (Relevance 0.068 | Confidence 4.526)
+Information  (Relevance 0.068 | Confidence 1.807)
+Language  (Relevance 0.069 | Confidence 6.453)
+Law  (Relevance 0.065 | Confidence 2.807)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+Surveying  (Relevance 0.099 | Confidence 1.076)
+Topography  (Relevance 0.076 | Confidence 7.106)
+Trigonometry  (Relevance 0.029 | Confidence 2.961)
+
+/education/school_category
+──────────
+English as a second or foreign language  (Relevance 0.052 | Confidence 1.162)
+
+/education/school_mascot
+──────────
+Friar  (Relevance 0.017 | Confidence 4.911)
+
+/engineering/material
+──────────
+Granite  (Relevance 0.069 | Confidence 11.060)
+Iron  (Relevance 0.064 | Confidence 11.850)
+Leather  (Relevance 0.046 | Confidence 4.134)
+Sandstone  (Relevance 0.067 | Confidence 11.350)
+Silver  (Relevance 0.030 | Confidence 6.899)
+Soil  (Relevance 0.089 | Confidence 10.370)
+Tile  (Relevance 0.027 | Confidence 3.073)
+
+/event/speech_topic
+──────────
+England  (Relevance 0.248 | Confidence 1.361)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/exhibitions/exhibition_subject
+──────────
+Beijing  (Relevance 0.098 | Confidence 10.910)
+China  (Relevance 0.682 | Confidence 42.780)
+Ocean  (Relevance 0.091 | Confidence 7.458)
+Rice  (Relevance 0.132 | Confidence 12.690)
+United States  (Relevance 0.053 | Confidence 3.998)
+Water  (Relevance 0.137 | Confidence 2.222)
+
+/fashion/fiber
+──────────
+Silk  (Relevance 0.105 | Confidence 7.392)
+Wool  (Relevance 0.112 | Confidence 8.261)
+
+/fashion/garment
+──────────
+Hat  (Relevance 0.173 | Confidence 1.648)
+Jacket  (Relevance 0.017 | Confidence 0.958)
+
+/fictional_universe/character_occupation
+──────────
+Dairy  (Relevance 0.075 | Confidence 5.041)
+Friar  (Relevance 0.017 | Confidence 4.911)
+Lieutenant  (Relevance 0.032 | Confidence 0.972)
+Medical doctor  (Relevance 0.000 | Confidence 0.996)
+Monk  (Relevance 0.094 | Confidence 7.399)
+Officer (armed forces)  (Relevance 0.070 | Confidence 4.899)
+Official  (Relevance 0.446 | Confidence 1.289)
+Priest  (Relevance 0.024 | Confidence 6.721)
+Tribal chief  (Relevance 0.139 | Confidence 1.051)
+Viceroy  (Relevance 0.100 | Confidence 4.376)
+
+/fictional_universe/character_rank
+──────────
+Lieutenant  (Relevance 0.032 | Confidence 0.972)
+Priest  (Relevance 0.024 | Confidence 6.721)
+Tribal chief  (Relevance 0.139 | Confidence 1.051)
+Viceroy  (Relevance 0.100 | Confidence 4.376)
+
+/fictional_universe/character_species
+──────────
+Bat  (Relevance 0.026 | Confidence 3.478)
+Bee  (Relevance 0.015 | Confidence 4.222)
+Elf  (Relevance 0.027 | Confidence 1.519)
+Pony  (Relevance 0.016 | Confidence 1.368)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+
+/fictional_universe/fictional_job_title
+──────────
+Lieutenant  (Relevance 0.032 | Confidence 0.972)
+Monk  (Relevance 0.094 | Confidence 7.399)
+Officer (armed forces)  (Relevance 0.070 | Confidence 4.899)
+
+/fictional_universe/fictional_organization_type
+──────────
+Village  (Relevance 0.083 | Confidence 2.032)
+
+/fictional_universe/fictional_setting
+──────────
+Bengal  (Relevance 0.212 | Confidence 7.223)
+China  (Relevance 0.682 | Confidence 42.780)
+Desert  (Relevance 0.067 | Confidence 7.184)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Thrace  (Relevance 0.070 | Confidence 2.501)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/fictional_universe/fictional_substance
+──────────
+Iron  (Relevance 0.064 | Confidence 11.850)
+
+/fictional_universe/person_in_fiction
+──────────
+Brahma  (Relevance 0.018 | Confidence 3.686)
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+
+/fictional_universe/type_of_fictional_setting
+──────────
+Continent  (Relevance 0.336 | Confidence 5.043)
+Country  (Relevance 0.043 | Confidence 1.100)
+Desert  (Relevance 0.067 | Confidence 7.184)
+Mountain  (Relevance 0.564 | Confidence 6.129)
+Mountain range  (Relevance 0.547 | Confidence 5.559)
+
+/film/actor
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/film/film_festival_sponsor
+──────────
+European Union  (Relevance 0.029 | Confidence 7.971)
+
+/film/film_genre
+──────────
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+Saint  (Relevance 0.049 | Confidence 6.016)
+
+/film/film_location
+──────────
+Agra  (Relevance 0.043 | Confidence 4.098)
+Assam  (Relevance 0.108 | Confidence 8.992)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+France  (Relevance 0.108 | Confidence 2.643)
+Gansu  (Relevance 0.057 | Confidence 20.710)
+Himalayas  (Relevance 0.221 | Confidence 11.690)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Kashmir  (Relevance 0.173 | Confidence 2.253)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Ladakh  (Relevance 0.194 | Confidence 1.621)
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Sichuan  (Relevance 0.153 | Confidence 12.130)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+Turku  (Relevance 0.027 | Confidence 1.650)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/film/film_subject
+──────────
+Bat  (Relevance 0.026 | Confidence 3.478)
+Bee  (Relevance 0.015 | Confidence 4.222)
+China  (Relevance 0.682 | Confidence 42.780)
+Desire  (Relevance 0.107 | Confidence 1.033)
+England  (Relevance 0.248 | Confidence 1.361)
+Exploration  (Relevance 0.166 | Confidence 1.840)
+Himalayas  (Relevance 0.221 | Confidence 11.690)
+India  (Relevance 0.393 | Confidence 15.050)
+Jealousy  (Relevance 0.069 | Confidence 1.134)
+Law  (Relevance 0.065 | Confidence 2.807)
+Monsoon  (Relevance 0.139 | Confidence 5.192)
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Prom  (Relevance 0.013 | Confidence 1.487)
+Religion  (Relevance 0.150 | Confidence 8.095)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Rural area  (Relevance 0.586 | Confidence 2.023)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/finance/currency
+──────────
+Euro  (Relevance 0.062 | Confidence 3.875)
+
+/food/beer_country_region
+──────────
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/food/beer_style
+──────────
+Ale  (Relevance 0.094 | Confidence 2.100)
+
+/food/beverage
+──────────
+Tea  (Relevance 0.076 | Confidence 1.334)
+
+/food/beverage_type
+──────────
+Tea  (Relevance 0.076 | Confidence 1.334)
+
+/food/cheese_milk_source
+──────────
+Sheep  (Relevance 0.134 | Confidence 9.344)
+
+/food/culinary_measure
+──────────
+Pint  (Relevance 0.038 | Confidence 1.600)
+
+/food/dish
+──────────
+Bhang  (Relevance 0.014 | Confidence 3.699)
+Mead  (Relevance 0.019 | Confidence 1.719)
+
+/food/food
+──────────
+Ale  (Relevance 0.094 | Confidence 2.100)
+Barley  (Relevance 0.183 | Confidence 13.800)
+Bhang  (Relevance 0.014 | Confidence 3.699)
+Buckwheat  (Relevance 0.124 | Confidence 4.766)
+Cereal  (Relevance 0.037 | Confidence 8.152)
+Flour  (Relevance 0.072 | Confidence 5.124)
+Grain  (Relevance 0.041 | Confidence 5.888)
+Legume  (Relevance 0.094 | Confidence 4.665)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Mustard plant  (Relevance 0.030 | Confidence 2.234)
+Pea  (Relevance 0.042 | Confidence 1.671)
+Rice  (Relevance 0.132 | Confidence 12.690)
+Salmon  (Relevance 0.115 | Confidence 4.209)
+Salt  (Relevance 0.000 | Confidence 6.140)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+Tea  (Relevance 0.076 | Confidence 1.334)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+Yam (vegetable)  (Relevance 0.033 | Confidence 0.971)
+
+/food/ingredient
+──────────
+Ale  (Relevance 0.094 | Confidence 2.100)
+Barley  (Relevance 0.183 | Confidence 13.800)
+Buckwheat  (Relevance 0.124 | Confidence 4.766)
+Cereal  (Relevance 0.037 | Confidence 8.152)
+Flour  (Relevance 0.072 | Confidence 5.124)
+Legume  (Relevance 0.094 | Confidence 4.665)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Mustard plant  (Relevance 0.030 | Confidence 2.234)
+Pea  (Relevance 0.042 | Confidence 1.671)
+Rice  (Relevance 0.132 | Confidence 12.690)
+Salmon  (Relevance 0.115 | Confidence 4.209)
+Salt  (Relevance 0.000 | Confidence 6.140)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+Tea  (Relevance 0.076 | Confidence 1.334)
+Water  (Relevance 0.137 | Confidence 2.222)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+Yam (vegetable)  (Relevance 0.033 | Confidence 0.971)
+
+/food/nutrient
+──────────
+Iron  (Relevance 0.064 | Confidence 11.850)
+Threonine  (Relevance 0.008 | Confidence 2.093)
+Water  (Relevance 0.137 | Confidence 2.222)
+
+/geography/body_of_water
+──────────
+Arun River (China–Nepal)  (Relevance 0.255 | Confidence 1.934)
+Brahmaputra River  (Relevance 0.335 | Confidence 8.299)
+Chu (river)  (Relevance 0.026 | Confidence 1.566)
+Dudh Koshi  (Relevance 0.066 | Confidence 4.260)
+Gandaki River  (Relevance 0.278 | Confidence 8.193)
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Ghaghara  (Relevance 0.361 | Confidence 4.854)
+Gyaring Lake  (Relevance 0.058 | Confidence 1.029)
+Indus River  (Relevance 0.121 | Confidence 7.535)
+Kamala River  (Relevance 0.047 | Confidence 1.377)
+Kosi River  (Relevance 0.321 | Confidence 10.590)
+Kuri Chhu  (Relevance 0.089 | Confidence 1.543)
+Lake Manasarovar  (Relevance 0.119 | Confidence 5.338)
+Lohit River  (Relevance 0.192 | Confidence 2.299)
+Mekong  (Relevance 0.188 | Confidence 5.388)
+Namtso  (Relevance 0.146 | Confidence 2.390)
+Pangong Tso  (Relevance 0.147 | Confidence 1.850)
+Qinghai Lake  (Relevance 0.149 | Confidence 6.670)
+River source  (Relevance 0.098 | Confidence 1.528)
+Salween River  (Relevance 0.285 | Confidence 1.188)
+Sharda River  (Relevance 0.181 | Confidence 3.554)
+Shuga (lake)  (Relevance 0.035 | Confidence 1.518)
+Sutlej  (Relevance 0.207 | Confidence 5.748)
+Yamdrok Lake  (Relevance 0.121 | Confidence 1.609)
+Yangtze  (Relevance 0.200 | Confidence 25.460)
+Yarlung Tsangpo  (Relevance 0.208 | Confidence 4.977)
+
+/geography/geographical_feature
+──────────
+Altyn-Tagh  (Relevance 0.125 | Confidence 5.679)
+Arun River (China–Nepal)  (Relevance 0.255 | Confidence 1.934)
+Asia  (Relevance 0.389 | Confidence 14.760)
+Brahmaputra River  (Relevance 0.335 | Confidence 8.299)
+Chu (river)  (Relevance 0.026 | Confidence 1.566)
+Dudh Koshi  (Relevance 0.066 | Confidence 4.260)
+Gandaki River  (Relevance 0.278 | Confidence 8.193)
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Garhwal division  (Relevance 0.159 | Confidence 3.864)
+Ghaghara  (Relevance 0.361 | Confidence 4.854)
+Gipmochi  (Relevance 0.331 | Confidence 1.713)
+Gyaring Lake  (Relevance 0.058 | Confidence 1.029)
+Himalayas  (Relevance 0.221 | Confidence 11.690)
+Hindu Kush  (Relevance 0.191 | Confidence 16.180)
+Indus River  (Relevance 0.121 | Confidence 7.535)
+Jelep La  (Relevance 0.307 | Confidence 3.063)
+Kamala River  (Relevance 0.047 | Confidence 1.377)
+Kampa Island  (Relevance 0.020 | Confidence 1.153)
+Kosi River  (Relevance 0.321 | Confidence 10.590)
+Kunlun Mountains  (Relevance 0.172 | Confidence 6.867)
+Kuri Chhu  (Relevance 0.089 | Confidence 1.543)
+Lake Manasarovar  (Relevance 0.119 | Confidence 5.338)
+Lanak La  (Relevance 0.075 | Confidence 3.124)
+Lohit River  (Relevance 0.192 | Confidence 2.299)
+Medicine Bow Mountains  (Relevance 0.000 | Confidence 1.286)
+Mekong  (Relevance 0.188 | Confidence 5.388)
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Mount Kailash  (Relevance 0.212 | Confidence 4.900)
+Namtso  (Relevance 0.146 | Confidence 2.390)
+Pangong Tso  (Relevance 0.147 | Confidence 1.850)
+Pemba Island  (Relevance 0.044 | Confidence 2.529)
+Qinghai Lake  (Relevance 0.149 | Confidence 6.670)
+River source  (Relevance 0.098 | Confidence 1.528)
+Ruen (mountain)  (Relevance 0.011 | Confidence 1.136)
+Salween River  (Relevance 0.285 | Confidence 1.188)
+Sharda River  (Relevance 0.181 | Confidence 3.554)
+Shuga (lake)  (Relevance 0.035 | Confidence 1.518)
+Sutlej  (Relevance 0.207 | Confidence 5.748)
+Yamdrok Lake  (Relevance 0.121 | Confidence 1.609)
+Yangtze  (Relevance 0.200 | Confidence 25.460)
+Yarlung Tsangpo  (Relevance 0.208 | Confidence 4.977)
+Yun Range  (Relevance 0.076 | Confidence 1.021)
+
+/geography/geographical_feature_category
+──────────
+Canyon  (Relevance 0.025 | Confidence 2.781)
+Chine  (Relevance 0.000 | Confidence 1.262)
+Desert  (Relevance 0.067 | Confidence 7.184)
+Drainage basin  (Relevance 0.239 | Confidence 1.683)
+Drainage divide  (Relevance 0.128 | Confidence 1.019)
+Escarpment  (Relevance 0.034 | Confidence 4.976)
+Glacier  (Relevance 0.105 | Confidence 6.215)
+Hill  (Relevance 0.078 | Confidence 1.111)
+Lake  (Relevance 0.070 | Confidence 1.104)
+Marsh  (Relevance 0.102 | Confidence 3.896)
+Mountain  (Relevance 0.564 | Confidence 6.129)
+Mountain range  (Relevance 0.547 | Confidence 5.559)
+Ocean  (Relevance 0.091 | Confidence 7.458)
+Pasture  (Relevance 0.074 | Confidence 4.263)
+Plain  (Relevance 0.000 | Confidence 4.380)
+Plateau  (Relevance 0.122 | Confidence 5.757)
+Ridge  (Relevance 0.046 | Confidence 1.360)
+River  (Relevance 0.000 | Confidence 2.288)
+River mouth  (Relevance 0.033 | Confidence 1.664)
+Sea  (Relevance 0.139 | Confidence 1.693)
+Stream  (Relevance 0.195 | Confidence 0.988)
+Summit  (Relevance 0.099 | Confidence 0.964)
+Tributary  (Relevance 0.160 | Confidence 3.571)
+Valley  (Relevance 0.169 | Confidence 5.170)
+Waterfall  (Relevance 0.080 | Confidence 5.585)
+
+/geography/glacier_terminus
+──────────
+Ocean  (Relevance 0.091 | Confidence 7.458)
+River  (Relevance 0.000 | Confidence 2.288)
+
+/geography/island
+──────────
+Kampa Island  (Relevance 0.020 | Confidence 1.153)
+Pemba Island  (Relevance 0.044 | Confidence 2.529)
+
+/geography/lake
+──────────
+Gyaring Lake  (Relevance 0.058 | Confidence 1.029)
+Lake Manasarovar  (Relevance 0.119 | Confidence 5.338)
+Namtso  (Relevance 0.146 | Confidence 2.390)
+Pangong Tso  (Relevance 0.147 | Confidence 1.850)
+Qinghai Lake  (Relevance 0.149 | Confidence 6.670)
+Shuga (lake)  (Relevance 0.035 | Confidence 1.518)
+Yamdrok Lake  (Relevance 0.121 | Confidence 1.609)
+
+/geography/lake_type
+──────────
+Fresh water  (Relevance 0.134 | Confidence 6.415)
+Lake  (Relevance 0.070 | Confidence 1.104)
+
+/geography/mountain
+──────────
+Gipmochi  (Relevance 0.331 | Confidence 1.713)
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Mount Kailash  (Relevance 0.212 | Confidence 4.900)
+Ruen (mountain)  (Relevance 0.011 | Confidence 1.136)
+Sacred mountains  (Relevance 0.082 | Confidence 1.332)
+
+/geography/mountain_pass
+──────────
+Jelep La  (Relevance 0.307 | Confidence 3.063)
+Lanak La  (Relevance 0.075 | Confidence 3.124)
+
+/geography/mountain_range
+──────────
+Altyn-Tagh  (Relevance 0.125 | Confidence 5.679)
+Himalayas  (Relevance 0.221 | Confidence 11.690)
+Hindu Kush  (Relevance 0.191 | Confidence 16.180)
+Kunlun Mountains  (Relevance 0.172 | Confidence 6.867)
+Medicine Bow Mountains  (Relevance 0.000 | Confidence 1.286)
+Yun Range  (Relevance 0.076 | Confidence 1.021)
+
+/geography/mountain_type
+──────────
+Granite  (Relevance 0.069 | Confidence 11.060)
+Plateau  (Relevance 0.122 | Confidence 5.757)
+Porphyry (geology)  (Relevance 0.019 | Confidence 3.049)
+Sandstone  (Relevance 0.067 | Confidence 11.350)
+Summit  (Relevance 0.099 | Confidence 0.964)
+
+/geography/river
+──────────
+Arun River (China–Nepal)  (Relevance 0.255 | Confidence 1.934)
+Brahmaputra River  (Relevance 0.335 | Confidence 8.299)
+Chu (river)  (Relevance 0.026 | Confidence 1.566)
+Dudh Koshi  (Relevance 0.066 | Confidence 4.260)
+Gandaki River  (Relevance 0.278 | Confidence 8.193)
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Ghaghara  (Relevance 0.361 | Confidence 4.854)
+Indus River  (Relevance 0.121 | Confidence 7.535)
+Kamala River  (Relevance 0.047 | Confidence 1.377)
+Kosi River  (Relevance 0.321 | Confidence 10.590)
+Kuri Chhu  (Relevance 0.089 | Confidence 1.543)
+Lohit River  (Relevance 0.192 | Confidence 2.299)
+Mekong  (Relevance 0.188 | Confidence 5.388)
+River source  (Relevance 0.098 | Confidence 1.528)
+Salween River  (Relevance 0.285 | Confidence 1.188)
+Sharda River  (Relevance 0.181 | Confidence 3.554)
+Sutlej  (Relevance 0.207 | Confidence 5.748)
+Yangtze  (Relevance 0.200 | Confidence 25.460)
+Yarlung Tsangpo  (Relevance 0.208 | Confidence 4.977)
+
+/geology/rock_type
+──────────
+Granite  (Relevance 0.069 | Confidence 11.060)
+Porphyry (geology)  (Relevance 0.019 | Confidence 3.049)
+Sandstone  (Relevance 0.067 | Confidence 11.350)
+
+/government/government
+──────────
+India  (Relevance 0.393 | Confidence 15.050)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/government/government_office_category
+──────────
+Emir  (Relevance 0.130 | Confidence 1.127)
+
+/government/government_office_or_title
+──────────
+Chancellor of the Exchequer  (Relevance 0.058 | Confidence 6.392)
+Emperor of China  (Relevance 0.067 | Confidence 3.962)
+Governor-General of India  (Relevance 0.058 | Confidence 3.490)
+Master of the Household  (Relevance 0.035 | Confidence 1.888)
+Viceroy  (Relevance 0.100 | Confidence 4.376)
+
+/government/governmental_body
+──────────
+National Assembly (France)  (Relevance 0.029 | Confidence 1.022)
+
+/government/governmental_jurisdiction
+──────────
+Assam  (Relevance 0.108 | Confidence 8.992)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bengal  (Relevance 0.212 | Confidence 7.223)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tang dynasty  (Relevance 0.000 | Confidence 2.288)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/government/political_district
+──────────
+Montana  (Relevance 0.055 | Confidence 6.361)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+
+/government/political_party
+──────────
+The Liberals (Switzerland)  (Relevance 0.018 | Confidence 5.083)
+
+/government/politician
+──────────
+Warren Hastings  (Relevance 0.137 | Confidence 4.778)
+
+/influence/influence_node
+──────────
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+
+/interests/collection_category
+──────────
+Button  (Relevance 0.090 | Confidence 1.510)
+Hat  (Relevance 0.173 | Confidence 1.648)
+Sand  (Relevance 0.044 | Confidence 1.616)
+
+/interests/collector
+──────────
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+
+/interests/hobby
+──────────
+Exercise  (Relevance 0.049 | Confidence 0.985)
+
+/interests/interest
+──────────
+British Empire  (Relevance 0.242 | Confidence 2.171)
+Exercise  (Relevance 0.049 | Confidence 0.985)
+
+/internet/website_category
+──────────
+Data  (Relevance 0.028 | Confidence 1.128)
+Information  (Relevance 0.068 | Confidence 1.807)
+Language  (Relevance 0.069 | Confidence 6.453)
+Politics  (Relevance 0.017 | Confidence 1.208)
+
+/internet/website_owner
+──────────
+DLE (company)  (Relevance 0.006 | Confidence 1.736)
+European Union  (Relevance 0.029 | Confidence 7.971)
+Informa  (Relevance 0.006 | Confidence 3.399)
+
+/kp_lw/common/topic
+──────────
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+
+/language/human_language
+──────────
+Assamese language  (Relevance 0.055 | Confidence 3.008)
+Bengali language  (Relevance 0.088 | Confidence 5.856)
+Chinese language  (Relevance 0.080 | Confidence 0.998)
+English as a second or foreign language  (Relevance 0.052 | Confidence 1.162)
+Horpa language  (Relevance 0.061 | Confidence 1.289)
+Thao language  (Relevance 0.008 | Confidence 1.014)
+
+/language/language_writing_system
+──────────
+Runes  (Relevance 0.018 | Confidence 1.013)
+
+/language/languoid
+──────────
+Bengali language  (Relevance 0.088 | Confidence 5.856)
+Chinese language  (Relevance 0.080 | Confidence 0.998)
+
+/law/court_jurisdiction_area
+──────────
+England  (Relevance 0.248 | Confidence 1.361)
+France  (Relevance 0.108 | Confidence 2.643)
+India  (Relevance 0.393 | Confidence 15.050)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/law/invention
+──────────
+Bullet  (Relevance 0.036 | Confidence 1.300)
+Button  (Relevance 0.090 | Confidence 1.510)
+Compass  (Relevance 0.050 | Confidence 2.995)
+Map  (Relevance 0.000 | Confidence 1.669)
+Suspension bridge  (Relevance 0.091 | Confidence 5.259)
+
+/law/legal_subject
+──────────
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/location/administrative_division
+──────────
+Assam  (Relevance 0.108 | Confidence 8.992)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bengal  (Relevance 0.212 | Confidence 7.223)
+Bima  (Relevance 0.044 | Confidence 2.186)
+Chamdo  (Relevance 0.101 | Confidence 10.830)
+England  (Relevance 0.248 | Confidence 1.361)
+Gansu  (Relevance 0.057 | Confidence 20.710)
+Hillah  (Relevance 0.042 | Confidence 1.486)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+Kashmir  (Relevance 0.173 | Confidence 2.253)
+Kumaon division  (Relevance 0.293 | Confidence 10.070)
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+Litang County  (Relevance 0.195 | Confidence 3.289)
+Lohit district  (Relevance 0.100 | Confidence 2.026)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Nagqu  (Relevance 0.167 | Confidence 1.243)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Ngari Prefecture  (Relevance 0.404 | Confidence 11.130)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Shannan, Tibet  (Relevance 0.248 | Confidence 5.248)
+Shigatse  (Relevance 0.219 | Confidence 23.810)
+Sichuan  (Relevance 0.153 | Confidence 12.130)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+Tawang district  (Relevance 0.329 | Confidence 8.903)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+Turku  (Relevance 0.027 | Confidence 1.650)
+Udalguri district  (Relevance 0.178 | Confidence 1.078)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+Xinjiang  (Relevance 0.080 | Confidence 10.150)
+Yunnan  (Relevance 0.104 | Confidence 8.726)
+
+/location/capital_of_administrative_division
+──────────
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+
+/location/citytown
+──────────
+Acre, Israel  (Relevance 0.027 | Confidence 3.164)
+Agra  (Relevance 0.043 | Confidence 4.098)
+Alang  (Relevance 0.010 | Confidence 4.246)
+Auce  (Relevance 0.024 | Confidence 1.390)
+Badrinath  (Relevance 0.035 | Confidence 2.618)
+Batang, Sichuan  (Relevance 0.221 | Confidence 1.886)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bima  (Relevance 0.044 | Confidence 2.186)
+Bota  (Relevance 0.012 | Confidence 1.088)
+Chilas  (Relevance 0.013 | Confidence 4.668)
+Darjeeling  (Relevance 0.176 | Confidence 9.201)
+Demchok, Ladakh  (Relevance 0.197 | Confidence 4.373)
+Derge  (Relevance 0.114 | Confidence 3.982)
+Great Bend, Kansas  (Relevance 0.037 | Confidence 1.087)
+Gyantse  (Relevance 0.279 | Confidence 7.791)
+Hamlet (place)  (Relevance 0.057 | Confidence 2.323)
+Hillah  (Relevance 0.042 | Confidence 1.486)
+Hotan  (Relevance 0.127 | Confidence 14.680)
+Jeddo, Pennsylvania  (Relevance 0.028 | Confidence 1.193)
+Kagbeni, Mustang  (Relevance 0.037 | Confidence 1.926)
+Kalimpong  (Relevance 0.205 | Confidence 10.620)
+Kathmandu  (Relevance 0.137 | Confidence 10.240)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Leh  (Relevance 0.110 | Confidence 6.581)
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+Litang County  (Relevance 0.195 | Confidence 3.289)
+Léré, Chad  (Relevance 0.017 | Confidence 1.399)
+Miri  (Relevance 0.050 | Confidence 1.489)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Phari  (Relevance 0.131 | Confidence 5.073)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Rudok  (Relevance 0.130 | Confidence 5.329)
+Sadiya  (Relevance 0.194 | Confidence 5.709)
+Tain  (Relevance 0.014 | Confidence 1.587)
+Tawang  (Relevance 0.317 | Confidence 7.543)
+Tendō, Yamagata  (Relevance 0.035 | Confidence 1.224)
+Tinn  (Relevance 0.031 | Confidence 2.707)
+Tsetang  (Relevance 0.173 | Confidence 5.791)
+Turkistan (city)  (Relevance 0.222 | Confidence 1.542)
+Turku  (Relevance 0.027 | Confidence 1.650)
+
+/location/cn_autonomous_region
+──────────
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+Xinjiang  (Relevance 0.080 | Confidence 10.150)
+
+/location/cn_county_level_city
+──────────
+Litang County  (Relevance 0.195 | Confidence 3.289)
+
+/location/cn_municipality
+──────────
+Beijing  (Relevance 0.098 | Confidence 10.910)
+
+/location/cn_prefecture
+──────────
+Chamdo  (Relevance 0.101 | Confidence 10.830)
+Nagqu  (Relevance 0.167 | Confidence 1.243)
+Ngari Prefecture  (Relevance 0.404 | Confidence 11.130)
+Shannan, Tibet  (Relevance 0.248 | Confidence 5.248)
+Shigatse  (Relevance 0.219 | Confidence 23.810)
+
+/location/cn_prefecture_level_city
+──────────
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+
+/location/cn_province
+──────────
+Gansu  (Relevance 0.057 | Confidence 20.710)
+Sichuan  (Relevance 0.153 | Confidence 12.130)
+Yunnan  (Relevance 0.104 | Confidence 8.726)
+
+/location/continent
+──────────
+Asia  (Relevance 0.389 | Confidence 14.760)
+Europe  (Relevance 0.082 | Confidence 1.739)
+
+/location/country
+──────────
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+China  (Relevance 0.682 | Confidence 42.780)
+Chu (state)  (Relevance 0.127 | Confidence 3.129)
+England  (Relevance 0.248 | Confidence 1.361)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Kingdom of Kush  (Relevance 0.000 | Confidence 2.728)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tibet (1912–1951)  (Relevance 0.649 | Confidence 1.218)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/location/dated_location
+──────────
+Acre, Israel  (Relevance 0.027 | Confidence 3.164)
+Agra  (Relevance 0.043 | Confidence 4.098)
+Alang  (Relevance 0.010 | Confidence 4.246)
+Assam  (Relevance 0.108 | Confidence 8.992)
+Auce  (Relevance 0.024 | Confidence 1.390)
+Badrinath  (Relevance 0.035 | Confidence 2.618)
+Batang, Sichuan  (Relevance 0.221 | Confidence 1.886)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bengal  (Relevance 0.212 | Confidence 7.223)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+Bima  (Relevance 0.044 | Confidence 2.186)
+Bota  (Relevance 0.012 | Confidence 1.088)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+Chamdo  (Relevance 0.101 | Confidence 10.830)
+Chilas  (Relevance 0.013 | Confidence 4.668)
+China  (Relevance 0.682 | Confidence 42.780)
+Chu (state)  (Relevance 0.127 | Confidence 3.129)
+Darjeeling  (Relevance 0.176 | Confidence 9.201)
+Demchok, Ladakh  (Relevance 0.197 | Confidence 4.373)
+Derge  (Relevance 0.114 | Confidence 3.982)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Gandaki River  (Relevance 0.278 | Confidence 8.193)
+Gansu  (Relevance 0.057 | Confidence 20.710)
+Gmina Liw  (Relevance 0.017 | Confidence 1.232)
+Great Bend, Kansas  (Relevance 0.037 | Confidence 1.087)
+Gyantse  (Relevance 0.279 | Confidence 7.791)
+Hamlet (place)  (Relevance 0.057 | Confidence 2.323)
+Hillah  (Relevance 0.042 | Confidence 1.486)
+Hotan  (Relevance 0.127 | Confidence 14.680)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Jeddo, Pennsylvania  (Relevance 0.028 | Confidence 1.193)
+Kagbeni, Mustang  (Relevance 0.037 | Confidence 1.926)
+Kalimpong  (Relevance 0.205 | Confidence 10.620)
+Kashmir  (Relevance 0.173 | Confidence 2.253)
+Kathmandu  (Relevance 0.137 | Confidence 10.240)
+Kingdom of Kush  (Relevance 0.000 | Confidence 2.728)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Kumaon division  (Relevance 0.293 | Confidence 10.070)
+Leh  (Relevance 0.110 | Confidence 6.581)
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+Litang County  (Relevance 0.195 | Confidence 3.289)
+Lohit district  (Relevance 0.100 | Confidence 2.026)
+Léré, Chad  (Relevance 0.017 | Confidence 1.399)
+Ma Chu  (Relevance 0.000 | Confidence 2.280)
+Miri  (Relevance 0.050 | Confidence 1.489)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nagqu  (Relevance 0.167 | Confidence 1.243)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Ngari Prefecture  (Relevance 0.404 | Confidence 11.130)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Phari  (Relevance 0.131 | Confidence 5.073)
+Purang County  (Relevance 0.195 | Confidence 3.709)
+Qiemo Town  (Relevance 0.044 | Confidence 3.158)
+Qinghai Lake  (Relevance 0.149 | Confidence 6.670)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Rudok  (Relevance 0.130 | Confidence 5.329)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sadiya  (Relevance 0.194 | Confidence 5.709)
+Shannan, Tibet  (Relevance 0.248 | Confidence 5.248)
+Shigatse  (Relevance 0.219 | Confidence 23.810)
+Sichuan  (Relevance 0.153 | Confidence 12.130)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tain  (Relevance 0.014 | Confidence 1.587)
+Tawang  (Relevance 0.317 | Confidence 7.543)
+Tawang district  (Relevance 0.329 | Confidence 8.903)
+Tendō, Yamagata  (Relevance 0.035 | Confidence 1.224)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+Tibet (1912–1951)  (Relevance 0.649 | Confidence 1.218)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+Tinn  (Relevance 0.031 | Confidence 2.707)
+Tsetang  (Relevance 0.173 | Confidence 5.791)
+Turkistan (city)  (Relevance 0.222 | Confidence 1.542)
+Turku  (Relevance 0.027 | Confidence 1.650)
+Udalguri district  (Relevance 0.178 | Confidence 1.078)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+Xinjiang  (Relevance 0.080 | Confidence 10.150)
+Yunnan  (Relevance 0.104 | Confidence 8.726)
+
+/location/fr_department
+──────────
+Paris  (Relevance 0.037 | Confidence 14.480)
+
+/location/hud_county_place
+──────────
+Great Bend, Kansas  (Relevance 0.037 | Confidence 1.087)
+Jeddo, Pennsylvania  (Relevance 0.028 | Confidence 1.193)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+
+/location/hud_foreclosure_area
+──────────
+Great Bend, Kansas  (Relevance 0.037 | Confidence 1.087)
+Jeddo, Pennsylvania  (Relevance 0.028 | Confidence 1.193)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+
+/location/id_city
+──────────
+Bima  (Relevance 0.044 | Confidence 2.186)
+
+/location/in_city
+──────────
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+
+/location/in_district
+──────────
+Lohit district  (Relevance 0.100 | Confidence 2.026)
+Tawang district  (Relevance 0.329 | Confidence 8.903)
+Udalguri district  (Relevance 0.178 | Confidence 1.078)
+
+/location/in_state
+──────────
+Assam  (Relevance 0.108 | Confidence 8.992)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+
+/location/it_comune
+──────────
+Rome  (Relevance 0.044 | Confidence 15.900)
+
+/location/location
+──────────
+' Polu  (Relevance 0.000 | Confidence 0.500)
+' l ' awang  (Relevance 0.000 | Confidence 0.500)
+' l ' eu  (Relevance 0.000 | Confidence 0.500)
+3yade  (Relevance 0.000 | Confidence 0.500)
+A n n  (Relevance 0.000 | Confidence 0.500)
+Abors  (Relevance 0.000 | Confidence 0.500)
+Acre, Israel  (Relevance 0.027 | Confidence 3.164)
+Agra  (Relevance 0.043 | Confidence 4.098)
+Akah  (Relevance 0.000 | Confidence 0.500)
+Akahs  (Relevance 0.000 | Confidence 0.500)
+Akka Tagh  (Relevance 0.000 | Confidence 0.500)
+Aksai Chin  (Relevance 0.243 | Confidence 12.090)
+Aksh  (Relevance 0.000 | Confidence 0.500)
+Alabhan  (Relevance 0.000 | Confidence 0.500)
+Alak Nor Go1  (Relevance 0.000 | Confidence 0.500)
+Alang  (Relevance 0.010 | Confidence 4.246)
+Alek  (Relevance 0.000 | Confidence 0.500)
+Alt  (Relevance 0.000 | Confidence 0.500)
+Altka  (Relevance 0.000 | Confidence 0.500)
+Altyn-Tagh  (Relevance 0.125 | Confidence 5.679)
+Amdo  (Relevance 0.180 | Confidence 8.932)
+Amdowa  (Relevance 0.000 | Confidence 0.500)
+American  (Relevance 0.000 | Confidence 0.500)
+Amnemachin  (Relevance 0.000 | Confidence 0.500)
+Anclklioi  (Relevance 0.000 | Confidence 0.500)
+Anglo-Scottish border  (Relevance 0.079 | Confidence 0.996)
+Arks Tagh  (Relevance 0.000 | Confidence 0.500)
+Arnne Macliin  (Relevance 0.000 | Confidence 0.500)
+Arun River (China–Nepal)  (Relevance 0.255 | Confidence 1.934)
+Ashi  (Relevance 0.000 | Confidence 0.500)
+Asia  (Relevance 0.389 | Confidence 14.760)
+Assam  (Relevance 0.108 | Confidence 8.992)
+Atentse  (Relevance 0.000 | Confidence 0.500)
+Auce  (Relevance 0.024 | Confidence 1.390)
+Ba La  (Relevance 0.000 | Confidence 0.500)
+Ba-tang  (Relevance 0.000 | Confidence 0.500)
+Badrinath  (Relevance 0.035 | Confidence 2.618)
+Baian-kara-ula  (Relevance 0.000 | Confidence 0.500)
+Baknag  (Relevance 0.000 | Confidence 0.500)
+Baltistan  (Relevance 0.116 | Confidence 4.756)
+Bashalu  (Relevance 0.000 | Confidence 0.500)
+Batang, Sichuan  (Relevance 0.221 | Confidence 1.886)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bengal  (Relevance 0.212 | Confidence 7.223)
+Berim  (Relevance 0.000 | Confidence 0.500)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+Bima  (Relevance 0.044 | Confidence 2.186)
+Blii~ian  (Relevance 0.000 | Confidence 0.500)
+Bnrkban Bud  (Relevance 0.000 | Confidence 0.500)
+Bnrlihar  (Relevance 0.000 | Confidence 0.500)
+Bonvalot  (Relevance 0.000 | Confidence 0.500)
+Bostantograk  (Relevance 0.000 | Confidence 0.500)
+Bota  (Relevance 0.012 | Confidence 1.088)
+Brahmaputra River  (Relevance 0.335 | Confidence 8.299)
+British  (Relevance 0.000 | Confidence 0.500)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+British-Assam  (Relevance 0.000 | Confidence 0.500)
+Br~rma  (Relevance 0.000 | Confidence 0.500)
+Budda  (Relevance 0.000 | Confidence 0.500)
+Burkhan  (Relevance 0.000 | Confidence 0.500)
+Burkhan Budda  (Relevance 0.000 | Confidence 0.500)
+Burkhan ButIda  (Relevance 0.000 | Confidence 0.500)
+Burmah  (Relevance 0.000 | Confidence 0.500)
+Bushahr  (Relevance 0.006 | Confidence 2.865)
+CHI  (Relevance 0.000 | Confidence 0.500)
+Cbang Tang  (Relevance 0.000 | Confidence 0.500)
+Cbu-Mar  (Relevance 0.000 | Confidence 0.500)
+Ccnlral Asia  (Relevance 0.000 | Confidence 0.500)
+Ccntml Tibet  (Relevance 0.000 | Confidence 0.500)
+Central  (Relevance 0.000 | Confidence 0.500)
+Central Asia  (Relevance 0.102 | Confidence 2.476)
+Central Himalayan  (Relevance 0.000 | Confidence 0.500)
+Central Tibct  (Relevance 0.000 | Confidence 0.500)
+Chachu Tsangpo  (Relevance 0.000 | Confidence 0.500)
+Chain Bridge (Potomac River)  (Relevance 0.038 | Confidence 1.378)
+Chak-Sam  (Relevance 0.000 | Confidence 0.500)
+Chak-am-chori  (Relevance 0.000 | Confidence 0.500)
+Chaklik  (Relevance 0.000 | Confidence 0.500)
+Chala  (Relevance 0.022 | Confidence 2.340)
+Chamdo  (Relevance 0.101 | Confidence 10.830)
+Chang  (Relevance 0.000 | Confidence 0.500)
+Changtang  (Relevance 0.368 | Confidence 2.191)
+CherchenBk  (Relevance 0.000 | Confidence 0.500)
+Chilas  (Relevance 0.013 | Confidence 4.668)
+China  (Relevance 0.682 | Confidence 42.780)
+China proper  (Relevance 0.180 | Confidence 2.388)
+Chineac province  (Relevance 0.000 | Confidence 0.500)
+Chineno  (Relevance 0.000 | Confidence 0.500)
+Chinese Central Asia  (Relevance 0.241 | Confidence 0.500)
+Chinese border  (Relevance 0.000 | Confidence 0.500)
+Chinest  (Relevance 0.000 | Confidence 0.500)
+Chinew Provinces  (Relevance 0.000 | Confidence 0.500)
+Chitisho  (Relevance 0.000 | Confidence 0.500)
+Chn  (Relevance 0.000 | Confidence 0.500)
+Chokola  (Relevance 0.000 | Confidence 0.500)
+Chsla  (Relevance 0.000 | Confidence 0.500)
+Chu (river)  (Relevance 0.026 | Confidence 1.566)
+Chu (state)  (Relevance 0.127 | Confidence 3.129)
+Chumbi Valley  (Relevance 0.391 | Confidence 12.230)
+Chumo1h  (Relevance 0.000 | Confidence 0.500)
+Chumolhari  (Relevance 0.000 | Confidence 0.500)
+Chuwo  (Relevance 0.000 | Confidence 0.500)
+Ch~lmdo  (Relevance 0.000 | Confidence 0.500)
+Circles of latitude between the 30th parallel north and the 35th parallel north  (Relevance 0.157 | Confidence 2.894)
+Circles of latitude between the 35th parallel north and the 40th parallel north  (Relevance 0.194 | Confidence 3.046)
+Clergy house  (Relevance 0.006 | Confidence 1.307)
+Cliir~csc  (Relevance 0.000 | Confidence 0.500)
+Cliu  (Relevance 0.000 | Confidence 0.500)
+Clli~~a  (Relevance 0.000 | Confidence 0.500)
+Cl~ala  (Relevance 0.000 | Confidence 0.500)
+Colo  (Relevance 0.000 | Confidence 0.500)
+Dah~suil Lake  (Relevance 0.000 | Confidence 0.500)
+Dang La  (Relevance 0.000 | Confidence 0.500)
+Daphla  (Relevance 0.000 | Confidence 0.500)
+Darjeeling  (Relevance 0.176 | Confidence 9.201)
+Dcrge  (Relevance 0.000 | Confidence 0.500)
+De-bung  (Relevance 0.000 | Confidence 0.500)
+Demangiri  (Relevance 0.000 | Confidence 0.500)
+Demchok, Ladakh  (Relevance 0.197 | Confidence 4.373)
+Derge  (Relevance 0.114 | Confidence 3.982)
+Derqe  (Relevance 0.000 | Confidence 0.500)
+Di-chn-rab-den  (Relevance 0.000 | Confidence 0.500)
+Di-hang  (Relevance 0.000 | Confidence 0.500)
+Dingri  (Relevance 0.000 | Confidence 0.500)
+Do Kam  (Relevance 0.000 | Confidence 0.500)
+Dokpas  (Relevance 0.000 | Confidence 0.500)
+Drc Chu  (Relevance 0.000 | Confidence 0.500)
+Dre Chu  (Relevance 0.000 | Confidence 0.500)
+Dre-chu-rab-den  (Relevance 0.000 | Confidence 0.500)
+Dsngra  (Relevance 0.000 | Confidence 0.500)
+Dudh Koshi  (Relevance 0.066 | Confidence 4.260)
+Dutreuil de Rhins  (Relevance 0.000 | Confidence 0.500)
+Dvkela  (Relevance 0.000 | Confidence 0.500)
+Dza Cliu  (Relevance 0.000 | Confidence 0.500)
+Dzo-kang Jong  (Relevance 0.000 | Confidence 0.500)
+Eastc  (Relevance 0.000 | Confidence 0.500)
+Eastern Tibetan States  (Relevance 0.000 | Confidence 0.500)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Ga-den  (Relevance 0.000 | Confidence 0.500)
+Ganda river  (Relevance 0.000 | Confidence 0.500)
+Gandaki River  (Relevance 0.278 | Confidence 8.193)
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Gansu  (Relevance 0.057 | Confidence 20.710)
+Garhwal division  (Relevance 0.159 | Confidence 3.864)
+Gartok  (Relevance 0.249 | Confidence 6.176)
+Geneml  (Relevance 0.000 | Confidence 0.500)
+Ghaghara  (Relevance 0.361 | Confidence 4.854)
+Giama Ngn Cliu  (Relevance 0.000 | Confidence 0.500)
+Giama Ngu Chu  (Relevance 0.000 | Confidence 0.500)
+Gipmochi  (Relevance 0.331 | Confidence 1.713)
+Gmina Liw  (Relevance 0.017 | Confidence 1.232)
+Gnodak  (Relevance 0.000 | Confidence 0.500)
+Gompa  (Relevance 0.038 | Confidence 2.756)
+Goring La  (Relevance 0.000 | Confidence 0.500)
+Great Bend, Kansas  (Relevance 0.037 | Confidence 1.087)
+Guge  (Relevance 0.162 | Confidence 9.603)
+GwLok  (Relevance 0.000 | Confidence 0.500)
+Gya-rong  (Relevance 0.000 | Confidence 0.500)
+Gyade  (Relevance 0.000 | Confidence 0.500)
+Gyala  (Relevance 0.000 | Confidence 0.500)
+Gyala Sindong  (Relevance 0.000 | Confidence 0.500)
+Gyantse  (Relevance 0.279 | Confidence 7.791)
+Gyaring Lake  (Relevance 0.058 | Confidence 1.029)
+Gyaring Tao  (Relevance 0.000 | Confidence 0.500)
+Gyaring Tso  (Relevance 0.000 | Confidence 0.500)
+Gyarong  (Relevance 0.000 | Confidence 0.500)
+Gyekundo  (Relevance 0.000 | Confidence 0.500)
+Gyeliundo  (Relevance 0.000 | Confidence 0.500)
+Gyp-kun  (Relevance 0.000 | Confidence 0.500)
+HEPORT  (Relevance 0.000 | Confidence 0.500)
+Hamlet (place)  (Relevance 0.057 | Confidence 2.323)
+Han-Sun-Lin  (Relevance 0.000 | Confidence 0.500)
+Her-Chyolc  (Relevance 0.000 | Confidence 0.500)
+Hillah  (Relevance 0.042 | Confidence 1.486)
+HimaJyan  (Relevance 0.000 | Confidence 0.500)
+Himalayas  (Relevance 0.221 | Confidence 11.690)
+Hindu Kush  (Relevance 0.191 | Confidence 16.180)
+Ho-ang  (Relevance 0.000 | Confidence 0.500)
+Ho-ang-ho  (Relevance 0.000 | Confidence 0.500)
+Honga  (Relevance 0.000 | Confidence 0.500)
+Hor chjok  (Relevance 0.000 | Confidence 0.500)
+Hor-Chyok States  (Relevance 0.000 | Confidence 0.500)
+Hor-chyok  (Relevance 0.000 | Confidence 0.500)
+Hotan  (Relevance 0.127 | Confidence 14.680)
+Hrahmaku~ld  (Relevance 0.000 | Confidence 0.500)
+Hudok  (Relevance 0.000 | Confidence 0.500)
+Hung Shan  (Relevance 0.000 | Confidence 0.500)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+Hussian  (Relevance 0.000 | Confidence 0.500)
+I3atang  (Relevance 0.000 | Confidence 0.500)
+IIIle  (Relevance 0.000 | Confidence 0.500)
+IIimalayan  (Relevance 0.000 | Confidence 0.500)
+IJhama  (Relevance 0.000 | Confidence 0.500)
+ITur~d~s  (Relevance 0.000 | Confidence 0.500)
+Ihe  (Relevance 0.000 | Confidence 0.500)
+Ijhuten  (Relevance 0.000 | Confidence 0.500)
+Ilimalayan  (Relevance 0.000 | Confidence 0.500)
+Ilimalayas  (Relevance 0.000 | Confidence 0.500)
+Inclus  (Relevance 0.000 | Confidence 0.500)
+Indi  (Relevance 0.000 | Confidence 0.500)
+India  (Relevance 0.393 | Confidence 15.050)
+Indue  (Relevance 0.000 | Confidence 0.500)
+Indus River  (Relevance 0.121 | Confidence 7.535)
+Irrtitnde  (Relevance 0.000 | Confidence 0.500)
+J : t Chu river  (Relevance 0.000 | Confidence 0.500)
+J a Chu  (Relevance 0.000 | Confidence 0.500)
+Ja Chu  (Relevance 0.000 | Confidence 0.500)
+Ja-chu-ka  (Relevance 0.000 | Confidence 0.500)
+Janglache  (Relevance 0.000 | Confidence 0.500)
+Jeddo Range  (Relevance 0.000 | Confidence 0.500)
+Jeddo, Pennsylvania  (Relevance 0.028 | Confidence 1.193)
+Jelep La  (Relevance 0.307 | Confidence 3.063)
+Jiangnan  (Relevance 0.097 | Confidence 1.004)
+Jnne  (Relevance 0.000 | Confidence 0.500)
+Jongs  (Relevance 0.000 | Confidence 0.500)
+Jongsong La.  (Relevance 0.000 | Confidence 0.500)
+Jourt~nl  (Relevance 0.000 | Confidence 0.500)
+Kagbeni, Mustang  (Relevance 0.037 | Confidence 1.926)
+Kalamba La  (Relevance 0.000 | Confidence 0.500)
+Kalimpong  (Relevance 0.205 | Confidence 10.620)
+Kam  (Relevance 0.000 | Confidence 0.500)
+Kam proper  (Relevance 0.000 | Confidence 0.500)
+Kam xather  (Relevance 0.000 | Confidence 0.500)
+Kamala River  (Relevance 0.047 | Confidence 1.377)
+Kampa Island  (Relevance 0.020 | Confidence 1.153)
+Kangsar  (Relevance 0.000 | Confidence 0.500)
+Kanlali river  (Relevance 0.000 | Confidence 0.500)
+Kansn  (Relevance 0.000 | Confidence 0.500)
+Kara-muren  (Relevance 0.000 | Confidence 0.500)
+Karlu  (Relevance 0.000 | Confidence 0.500)
+Karn  (Relevance 0.000 | Confidence 0.500)
+Kashmir  (Relevance 0.173 | Confidence 2.253)
+Kashmir district  (Relevance 0.000 | Confidence 0.500)
+Kathmandu  (Relevance 0.137 | Confidence 10.240)
+Katn  (Relevance 0.000 | Confidence 0.500)
+Keria river  (Relevance 0.000 | Confidence 0.500)
+Kham  (Relevance 0.215 | Confidence 4.670)
+Ki Chu  (Relevance 0.000 | Confidence 0.500)
+Ki-Chu  (Relevance 0.000 | Confidence 0.500)
+Kin chuan  (Relevance 0.000 | Confidence 0.500)
+Kin-slrn-liinng  (Relevance 0.000 | Confidence 0.500)
+Kingdom of Kush  (Relevance 0.000 | Confidence 2.728)
+Kirong  (Relevance 0.000 | Confidence 0.500)
+Kirong iuto Nepal  (Relevance 0.000 | Confidence 0.500)
+Kl~otan  (Relevance 0.000 | Confidence 0.500)
+Kncn Lun  (Relevance 0.000 | Confidence 0.500)
+Koko-shili  (Relevance 0.000 | Confidence 0.500)
+Koko-shili mountains  (Relevance 0.000 | Confidence 0.500)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Kong-bo Ah  (Relevance 0.000 | Confidence 0.500)
+Kongbo  (Relevance 0.000 | Confidence 0.500)
+Kongho  (Relevance 0.000 | Confidence 0.500)
+Kopa  (Relevance 0.000 | Confidence 0.500)
+Korsurn  (Relevance 0.000 | Confidence 0.500)
+Kosi River  (Relevance 0.321 | Confidence 10.590)
+Kucbt  (Relevance 0.000 | Confidence 0.500)
+Kucn Lun  (Relevance 0.000 | Confidence 0.500)
+Kuen Ilun  (Relevance 0.000 | Confidence 0.500)
+Kumaon division  (Relevance 0.293 | Confidence 10.070)
+Kunlun Mountains  (Relevance 0.172 | Confidence 6.867)
+Kuri Chhu  (Relevance 0.089 | Confidence 1.543)
+Kya Kya  (Relevance 0.000 | Confidence 0.500)
+Labrang Monastery  (Relevance 0.114 | Confidence 3.629)
+Laclak  (Relevance 0.000 | Confidence 0.500)
+Ladak-T~bet  (Relevance 0.000 | Confidence 0.500)
+Ladakh  (Relevance 0.194 | Confidence 1.621)
+Lake Manasarovar  (Relevance 0.119 | Confidence 5.338)
+Lake Oring  (Relevance 0.000 | Confidence 0.500)
+Lan-Tmng Kiang  (Relevance 0.000 | Confidence 0.500)
+Lan-tmn  (Relevance 0.000 | Confidence 0.500)
+Lan-tsang  (Relevance 0.000 | Confidence 0.500)
+Lanak La  (Relevance 0.075 | Confidence 3.124)
+Lbasa  (Relevance 0.000 | Confidence 0.500)
+Leh  (Relevance 0.110 | Confidence 6.581)
+Lha-tse  (Relevance 0.000 | Confidence 0.500)
+Lhaaa  (Relevance 0.000 | Confidence 0.500)
+Lhaaa river  (Relevance 0.000 | Confidence 0.500)
+Lhaao Nang  (Relevance 0.000 | Confidence 0.500)
+Lhaban  (Relevance 0.000 | Confidence 0.500)
+Lhaea  (Relevance 0.000 | Confidence 0.500)
+Lham  (Relevance 0.000 | Confidence 0.500)
+Lharigo  (Relevance 0.000 | Confidence 0.500)
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+Lhase  (Relevance 0.000 | Confidence 0.500)
+Lhasn  (Relevance 0.000 | Confidence 0.500)
+Lhasra  (Relevance 0.000 | Confidence 0.500)
+Lhass  (Relevance 0.000 | Confidence 0.500)
+Lha~a  (Relevance 0.000 | Confidence 0.500)
+Lhma  (Relevance 0.000 | Confidence 0.500)
+Lho-ka  (Relevance 0.000 | Confidence 0.500)
+Lho-kang  (Relevance 0.000 | Confidence 0.500)
+Lhobrsk district  (Relevance 0.000 | Confidence 0.500)
+Litang County  (Relevance 0.195 | Confidence 3.289)
+Lllasa  (Relevance 0.000 | Confidence 0.500)
+Lllo  (Relevance 0.000 | Confidence 0.500)
+Lnh Montang  (Relevance 0.000 | Confidence 0.500)
+Lo-pas  (Relevance 0.000 | Confidence 0.500)
+Lob  (Relevance 0.000 | Confidence 0.500)
+Lob Nor  (Relevance 0.000 | Confidence 0.500)
+Lohit Brahmaputra  (Relevance 0.000 | Confidence 0.500)
+Lohit River  (Relevance 0.192 | Confidence 2.299)
+Lohit district  (Relevance 0.100 | Confidence 2.026)
+Lou-tse-Kiaw  (Relevance 0.000 | Confidence 0.500)
+Lsdnk  (Relevance 0.000 | Confidence 0.500)
+Léré, Chad  (Relevance 0.017 | Confidence 1.399)
+Ma Chu  (Relevance 0.000 | Confidence 2.280)
+Manasamwar  (Relevance 0.000 | Confidence 0.500)
+Manascsrawar lakes  (Relevance 0.000 | Confidence 0.500)
+Manaserowar lakes  (Relevance 0.000 | Confidence 0.500)
+Mana~arowar lake  (Relevance 0.000 | Confidence 0.500)
+Mapham  (Relevance 0.000 | Confidence 0.500)
+Mar Kam  (Relevance 0.000 | Confidence 0.500)
+Mar-Kam  (Relevance 0.000 | Confidence 0.500)
+Marbm La  (Relevance 0.000 | Confidence 0.500)
+Mariam  (Relevance 0.000 | Confidence 0.500)
+Mariam La  (Relevance 0.000 | Confidence 0.500)
+Markam  (Relevance 0.000 | Confidence 0.500)
+Mazur  (Relevance 0.000 | Confidence 0.500)
+Ma~lkam  (Relevance 0.000 | Confidence 0.500)
+Mckong  (Relevance 0.000 | Confidence 0.500)
+Medicine Bow Mountains  (Relevance 0.000 | Confidence 1.286)
+Mekong  (Relevance 0.188 | Confidence 5.388)
+Mi-li  (Relevance 0.000 | Confidence 0.500)
+Miin-Yul  (Relevance 0.000 | Confidence 0.500)
+Milam  (Relevance 0.000 | Confidence 0.500)
+Min Shan  (Relevance 0.000 | Confidence 0.500)
+Miri  (Relevance 0.050 | Confidence 1.489)
+Mnhiagli  (Relevance 0.000 | Confidence 0.500)
+Mnktinath  (Relevance 0.000 | Confidence 0.500)
+Mnno  (Relevance 0.000 | Confidence 0.500)
+Moldja  (Relevance 0.000 | Confidence 0.500)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Monl~olia  (Relevance 0.000 | Confidence 0.500)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Mount  (Relevance 0.000 | Confidence 0.500)
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Mount Kailash  (Relevance 0.212 | Confidence 4.900)
+Mupin  (Relevance 0.000 | Confidence 0.500)
+Mustagh  (Relevance 0.134 | Confidence 0.500)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nag  (Relevance 0.000 | Confidence 0.500)
+Nag Chn  (Relevance 0.000 | Confidence 0.500)
+Nagchubo  (Relevance 0.000 | Confidence 0.500)
+Nagong  (Relevance 0.000 | Confidence 0.500)
+Nagqu  (Relevance 0.167 | Confidence 1.243)
+Nagrhnka  (Relevance 0.000 | Confidence 0.500)
+Naichi  (Relevance 0.000 | Confidence 0.500)
+Namoran  (Relevance 0.000 | Confidence 0.500)
+Namtso  (Relevance 0.146 | Confidence 2.390)
+Nan 61ian  (Relevance 0.000 | Confidence 0.500)
+Nan Shan  (Relevance 0.000 | Confidence 0.500)
+Naqchuka  (Relevance 0.000 | Confidence 0.500)
+National Center for Atmospheric Research  (Relevance 0.006 | Confidence 2.750)
+National Research Universal reactor  (Relevance 0.010 | Confidence 0.969)
+Native Statee  (Relevance 0.000 | Confidence 0.500)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Ngari Korsnm  (Relevance 0.000 | Confidence 0.500)
+Ngari Korsum  (Relevance 0.000 | Confidence 0.500)
+Ngari Kor~iim  (Relevance 0.000 | Confidence 0.500)
+Ngari Prefecture  (Relevance 0.404 | Confidence 11.130)
+Ngu Chu  (Relevance 0.000 | Confidence 0.500)
+Nia  (Relevance 0.000 | Confidence 0.500)
+Nin  (Relevance 0.000 | Confidence 0.500)
+Nin-chen-tang-la  (Relevance 0.000 | Confidence 0.500)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Nomu Cha  (Relevance 0.000 | Confidence 0.500)
+North Latitude  (Relevance 0.000 | Confidence 0.500)
+North-West Bhutan  (Relevance 0.000 | Confidence 0.500)
+Northern Himalayau  (Relevance 0.000 | Confidence 0.500)
+Nya-chu-ka  (Relevance 0.000 | Confidence 0.500)
+Nya-rong  (Relevance 0.000 | Confidence 0.500)
+Nyang  (Relevance 0.000 | Confidence 0.500)
+Nyang Chu  (Relevance 0.000 | Confidence 0.500)
+Nyarong  (Relevance 0.110 | Confidence 3.163)
+Oartok  (Relevance 0.000 | Confidence 0.500)
+Odalgnri  (Relevance 0.000 | Confidence 0.500)
+Odon-Tala  (Relevance 0.000 | Confidence 0.500)
+Onlet  (Relevance 0.000 | Confidence 0.500)
+Oring  (Relevance 0.000 | Confidence 0.500)
+Oring Nor  (Relevance 0.000 | Confidence 0.500)
+Oring lake  (Relevance 0.000 | Confidence 0.500)
+Oring lakes  (Relevance 0.000 | Confidence 0.500)
+Paina Chu  (Relevance 0.000 | Confidence 0.500)
+Palace of Potala  (Relevance 0.000 | Confidence 0.500)
+Panaburn  (Relevance 0.000 | Confidence 0.500)
+Pang  (Relevance 0.000 | Confidence 0.500)
+Pango Ida  (Relevance 0.000 | Confidence 0.500)
+Pangong Tso  (Relevance 0.147 | Confidence 1.850)
+Pangong lnke  (Relevance 0.000 | Confidence 0.500)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Pashu  (Relevance 0.000 | Confidence 0.500)
+Passinq Gyala Jong  (Relevance 0.000 | Confidence 0.500)
+Pc~nakoichen  (Relevance 0.000 | Confidence 0.500)
+Pebiuary  (Relevance 0.000 | Confidence 0.500)
+Pemba Island  (Relevance 0.044 | Confidence 2.529)
+Pernakoichen  (Relevance 0.000 | Confidence 0.500)
+Petticoeta  (Relevance 0.000 | Confidence 0.500)
+Phari  (Relevance 0.131 | Confidence 5.073)
+Photu La  (Relevance 0.000 | Confidence 0.500)
+Pigtail  (Relevance 0.000 | Confidence 0.500)
+Ping  (Relevance 0.000 | Confidence 0.500)
+Pjevaluky  (Relevance 0.000 | Confidence 0.500)
+Po-me  (Relevance 0.000 | Confidence 0.500)
+Po-pas  (Relevance 0.000 | Confidence 0.500)
+Po-yl11  (Relevance 0.000 | Confidence 0.500)
+Po-yul  (Relevance 0.000 | Confidence 0.500)
+Polu  (Relevance 0.000 | Confidence 0.500)
+Potala Palace  (Relevance 0.376 | Confidence 13.870)
+Purang County  (Relevance 0.195 | Confidence 3.709)
+Purthcr  (Relevance 0.000 | Confidence 0.500)
+Qaidam Basin  (Relevance 0.169 | Confidence 3.537)
+Qf China  (Relevance 0.000 | Confidence 0.500)
+Qiemo Town  (Relevance 0.044 | Confidence 3.158)
+Qinghai Lake  (Relevance 0.149 | Confidence 6.670)
+R. U. S.  (Relevance 0.000 | Confidence 0.500)
+Raka T~angpo  (Relevance 0.000 | Confidence 0.500)
+Rcport  (Relevance 0.000 | Confidence 0.500)
+Rea  (Relevance 0.000 | Confidence 0.500)
+Rhe  (Relevance 0.000 | Confidence 0.500)
+Rhins  (Relevance 0.000 | Confidence 0.500)
+Rijnbsrt  (Relevance 0.000 | Confidence 0.500)
+Rima  (Relevance 0.000 | Confidence 0.500)
+Rndok  (Relevance 0.000 | Confidence 0.500)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+Rsbden  (Relevance 0.000 | Confidence 0.500)
+Rudok  (Relevance 0.130 | Confidence 5.329)
+Ruen (mountain)  (Relevance 0.011 | Confidence 1.136)
+Ruen Lun  (Relevance 0.000 | Confidence 0.500)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Rusthorn  (Relevance 0.000 | Confidence 0.500)
+S. S.  (Relevance 0.000 | Confidence 0.500)
+Sadiya  (Relevance 0.194 | Confidence 5.709)
+Saitu  (Relevance 0.000 | Confidence 0.500)
+Salween River  (Relevance 0.285 | Confidence 1.188)
+Salwen basin  (Relevance 0.000 | Confidence 0.500)
+Same  (Relevance 0.000 | Confidence 0.500)
+Samye  (Relevance 0.160 | Confidence 6.331)
+Sang-nga  (Relevance 0.000 | Confidence 0.500)
+Sangi  (Relevance 0.000 | Confidence 0.500)
+Satong  (Relevance 0.000 | Confidence 0.500)
+Se chuan  (Relevance 0.000 | Confidence 0.500)
+Se-chuan  (Relevance 0.004 | Confidence 0.500)
+Se-chusn  (Relevance 0.000 | Confidence 0.500)
+Se-ohm  (Relevance 0.000 | Confidence 0.500)
+Sera Monastery  (Relevance 0.267 | Confidence 3.295)
+Shang  (Relevance 0.000 | Confidence 0.500)
+Shang Chu  (Relevance 0.000 | Confidence 0.500)
+Shannan, Tibet  (Relevance 0.248 | Confidence 5.248)
+Sharda River  (Relevance 0.181 | Confidence 3.554)
+Shbtw  (Relevance 0.000 | Confidence 0.500)
+Shigatse  (Relevance 0.219 | Confidence 23.810)
+Sho  (Relevance 0.000 | Confidence 0.500)
+Shobado  (Relevance 0.000 | Confidence 0.500)
+Shuga (lake)  (Relevance 0.035 | Confidence 1.518)
+Shuga Gol  (Relevance 0.000 | Confidence 0.500)
+Si-fan-tu  (Relevance 0.000 | Confidence 0.500)
+Si-iiiug  (Relevance 0.000 | Confidence 0.500)
+Si-ning  (Relevance 0.000 | Confidence 0.500)
+Si-ning Amban  (Relevance 0.000 | Confidence 0.500)
+Si-shan mountains  (Relevance 0.000 | Confidence 0.500)
+Sichuan  (Relevance 0.153 | Confidence 12.130)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+Slopes  (Relevance 0.000 | Confidence 0.500)
+Snlmen  (Relevance 0.000 | Confidence 0.500)
+Sosani  (Relevance 0.000 | Confidence 0.500)
+Spiti  (Relevance 0.086 | Confidence 3.387)
+States  (Relevance 0.000 | Confidence 0.500)
+Sui  (Relevance 0.000 | Confidence 0.500)
+Sung Lin  (Relevance 0.000 | Confidence 0.500)
+Sutlej  (Relevance 0.207 | Confidence 5.748)
+Swat  (Relevance 0.000 | Confidence 0.500)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Ta kin-ho  (Relevance 0.000 | Confidence 0.500)
+Ta-teien  (Relevance 0.000 | Confidence 0.500)
+Ta-tsien lu  (Relevance 0.000 | Confidence 0.500)
+Ta-tsien-111  (Relevance 0.000 | Confidence 0.500)
+Ta-tsien-1u  (Relevance 0.000 | Confidence 0.500)
+Ta-tsien-In  (Relevance 0.000 | Confidence 0.500)
+Ta-tsien-lu  (Relevance 0.000 | Confidence 0.500)
+Ta-tsien-lu norlhwarda  (Relevance 0.000 | Confidence 0.500)
+Ta-t~ien-lu  (Relevance 0.000 | Confidence 0.500)
+Taa-rong  (Relevance 0.000 | Confidence 0.500)
+Taarong  (Relevance 0.000 | Confidence 0.500)
+Tadum  (Relevance 0.000 | Confidence 0.500)
+Tadurn  (Relevance 0.000 | Confidence 0.500)
+Tag-tu-kha  (Relevance 0.000 | Confidence 0.500)
+Tain  (Relevance 0.014 | Confidence 1.587)
+Taklakhar  (Relevance 0.000 | Confidence 0.500)
+Taklamakan Desert  (Relevance 0.051 | Confidence 7.009)
+Takpo  (Relevance 0.000 | Confidence 0.500)
+Tale Lawn  (Relevance 0.000 | Confidence 0.500)
+Tale Lowla  (Relevance 0.000 | Confidence 0.500)
+Tamhur valley  (Relevance 0.000 | Confidence 0.500)
+Tan-tsieu-lu  (Relevance 0.000 | Confidence 0.500)
+Tang La  (Relevance 0.000 | Confidence 0.500)
+Tang dynasty  (Relevance 0.000 | Confidence 2.288)
+Tao-Ho  (Relevance 0.000 | Confidence 0.500)
+Targot Gyakllarma  (Relevance 0.000 | Confidence 0.500)
+Tasbi-l~hunpo  (Relevance 0.000 | Confidence 0.500)
+Tatu  (Relevance 0.000 | Confidence 0.500)
+Tawang  (Relevance 0.317 | Confidence 7.543)
+Tawang district  (Relevance 0.329 | Confidence 8.903)
+Tawsng  (Relevance 0.000 | Confidence 0.500)
+Tcndo  (Relevance 0.000 | Confidence 0.500)
+Te-tsien-lu  (Relevance 0.000 | Confidence 0.500)
+Teaidam  (Relevance 0.000 | Confidence 0.500)
+Teangp  (Relevance 0.000 | Confidence 0.500)
+Tearing  (Relevance 0.000 | Confidence 0.500)
+Tendō, Yamagata  (Relevance 0.035 | Confidence 1.224)
+Teng1  (Relevance 0.000 | Confidence 0.500)
+Tengri Nor the P.  (Relevance 0.000 | Confidence 0.500)
+Tent  (Relevance 0.000 | Confidence 0.500)
+Teo Lanak  (Relevance 0.000 | Confidence 0.500)
+Te~lgri Nor  (Relevance 0.000 | Confidence 0.500)
+Te~nple  (Relevance 0.000 | Confidence 0.500)
+Thian Shan  (Relevance 0.314 | Confidence 0.500)
+Thok Jalung  (Relevance 0.094 | Confidence 2.505)
+Tholi Ja111n  (Relevance 0.000 | Confidence 0.500)
+Thrace  (Relevance 0.070 | Confidence 2.501)
+Thung-lung  (Relevance 0.000 | Confidence 0.500)
+Tibct  (Relevance 0.611 | Confidence 0.500)
+Tibctan mountain  (Relevance 0.000 | Confidence 0.500)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+Tibet (1912–1951)  (Relevance 0.649 | Confidence 1.218)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+Tibetail State  (Relevance 0.000 | Confidence 0.500)
+Tibetan Plateau  (Relevance 0.159 | Confidence 27.200)
+Tibetan territories  (Relevance 0.000 | Confidence 0.500)
+Tigu lakes  (Relevance 0.000 | Confidence 0.500)
+Tile Yalung river  (Relevance 0.000 | Confidence 0.500)
+Tillet  (Relevance 0.000 | Confidence 0.500)
+Tilwt  (Relevance 0.000 | Confidence 0.500)
+Tinn  (Relevance 0.031 | Confidence 2.707)
+Tipti La  (Relevance 0.000 | Confidence 0.500)
+Tllese  (Relevance 0.000 | Confidence 0.500)
+Tmngpo  (Relevance 0.000 | Confidence 0.500)
+Tmri  (Relevance 0.000 | Confidence 0.500)
+Tnchi  (Relevance 0.000 | Confidence 0.500)
+Todurn  (Relevance 0.000 | Confidence 0.500)
+Tokus Davan  (Relevance 0.000 | Confidence 0.500)
+Tolan Khoja  (Relevance 0.000 | Confidence 0.500)
+Toso lakes  (Relevance 0.000 | Confidence 0.500)
+Totling  (Relevance 0.000 | Confidence 0.500)
+Trebeni  (Relevance 0.000 | Confidence 0.500)
+Tsai-pl-chn  (Relevance 0.000 | Confidence 0.500)
+Tsaiilam  (Relevance 0.000 | Confidence 0.500)
+Tsaligpo afler  (Relevance 0.000 | Confidence 0.500)
+Tsang-po  (Relevance 0.000 | Confidence 0.500)
+Tsanla  (Relevance 0.000 | Confidence 0.500)
+Tsaring  (Relevance 0.000 | Confidence 0.500)
+Tsaring Nor  (Relevance 0.000 | Confidence 0.500)
+Tsa~gpo  (Relevance 0.000 | Confidence 0.500)
+Tse-tang  (Relevance 0.000 | Confidence 0.500)
+Tseidam fa  (Relevance 0.000 | Confidence 0.500)
+Tsetang  (Relevance 0.173 | Confidence 5.791)
+Tsnidam  (Relevance 0.000 | Confidence 0.500)
+Tsnkar  (Relevance 0.000 | Confidence 0.500)
+Tso-mo-tel-tung  (Relevance 0.000 | Confidence 0.500)
+Tsong-tien  (Relevance 0.000 | Confidence 0.500)
+Tsonga-ks  (Relevance 0.000 | Confidence 0.500)
+Tswang  (Relevance 0.000 | Confidence 0.500)
+Tung river  (Relevance 0.000 | Confidence 0.500)
+Tung-po-ho  (Relevance 0.000 | Confidence 0.500)
+Turkestan  (Relevance 0.056 | Confidence 3.619)
+Turkistan (city)  (Relevance 0.222 | Confidence 1.542)
+Turku  (Relevance 0.027 | Confidence 1.650)
+Tze-ta-ti  (Relevance 0.000 | Confidence 0.500)
+T~aidam  (Relevance 0.000 | Confidence 0.500)
+T~etang  (Relevance 0.000 | Confidence 0.500)
+U. G.  (Relevance 0.000 | Confidence 0.500)
+Udalguri district  (Relevance 0.178 | Confidence 1.078)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+Upper  (Relevance 0.000 | Confidence 0.500)
+Upper Amn  (Relevance 0.000 | Confidence 0.500)
+Upper Indus  (Relevance 0.000 | Confidence 0.500)
+Vera C. Rubin Observatory  (Relevance 0.016 | Confidence 1.943)
+Vicus  (Relevance 0.010 | Confidence 1.986)
+Vie Ou-kio  (Relevance 0.000 | Confidence 0.500)
+Vurthcr  (Relevance 0.000 | Confidence 0.500)
+Weett  (Relevance 0.000 | Confidence 0.500)
+Wei-si  (Relevance 0.000 | Confidence 0.500)
+Western China  (Relevance 0.025 | Confidence 1.694)
+Woodville Rockhill  (Relevance 0.000 | Confidence 0.500)
+Xinjiang  (Relevance 0.080 | Confidence 10.150)
+Y alurlg aud Tung rivers  (Relevance 0.000 | Confidence 0.500)
+Y anxtse  (Relevance 0.000 | Confidence 0.500)
+Y oung-ning  (Relevance 0.000 | Confidence 0.500)
+Yalgu Tso  (Relevance 0.000 | Confidence 0.500)
+Yalulig Chu  (Relevance 0.000 | Confidence 0.500)
+Yalung  (Relevance 0.000 | Confidence 0.500)
+Yalung river  (Relevance 0.000 | Confidence 0.500)
+Yamdrok Lake  (Relevance 0.121 | Confidence 1.609)
+Yan6-tse  (Relevance 0.000 | Confidence 0.500)
+Yang-tse  (Relevance 0.000 | Confidence 0.500)
+Yang-tseKiang  (Relevance 0.000 | Confidence 0.500)
+Yangsa  (Relevance 0.000 | Confidence 0.500)
+Yangtgc Kimq  (Relevance 0.000 | Confidence 0.500)
+Yangtze  (Relevance 0.200 | Confidence 25.460)
+Yarlung Tsangpo  (Relevance 0.208 | Confidence 4.977)
+Yarlung Valley  (Relevance 0.175 | Confidence 2.721)
+Yerkalo  (Relevance 0.000 | Confidence 0.500)
+Yomdok Tw  (Relevance 0.000 | Confidence 0.500)
+Yun Range  (Relevance 0.076 | Confidence 1.021)
+Yun-iiau  (Relevance 0.000 | Confidence 0.500)
+Yun-nan aud  (Relevance 0.000 | Confidence 0.500)
+Yung-Ling  (Relevance 0.000 | Confidence 0.500)
+Yung-ning  (Relevance 0.000 | Confidence 0.500)
+Yunnan  (Relevance 0.104 | Confidence 8.726)
+Yuu-nan  (Relevance 0.000 | Confidence 0.500)
+Za -  (Relevance 0.000 | Confidence 0.500)
+Za-yiil  (Relevance 0.000 | Confidence 0.500)
+Za-yul Chu  (Relevance 0.000 | Confidence 0.500)
+aha-shoba  (Relevance 0.000 | Confidence 0.500)
+ahout  (Relevance 0.000 | Confidence 0.500)
+ains-Rivers  (Relevance 0.000 | Confidence 0.500)
+carosscs  (Relevance 0.000 | Confidence 0.500)
+chu Jong  (Relevance 0.000 | Confidence 0.500)
+cirravan-route  (Relevance 0.000 | Confidence 0.500)
+clrtta  (Relevance 0.000 | Confidence 0.500)
+countrg  (Relevance 0.000 | Confidence 0.500)
+cstrrll Tibet  (Relevance 0.000 | Confidence 0.500)
+eahtern  (Relevance 0.000 | Confidence 0.500)
+eome  (Relevance 0.000 | Confidence 0.500)
+golclrll  (Relevance 0.000 | Confidence 0.500)
+grmt  (Relevance 0.000 | Confidence 0.500)
+hil1  (Relevance 0.000 | Confidence 0.500)
+l ' olai  (Relevance 0.000 | Confidence 0.500)
+l ' sosoneh  (Relevance 0.000 | Confidence 0.500)
+lIu~ldes  (Relevance 0.000 | Confidence 0.500)
+lake Gas  (Relevance 0.000 | Confidence 0.500)
+lligh  (Relevance 0.000 | Confidence 0.500)
+lnnrsliy  (Relevance 0.000 | Confidence 0.500)
+lo Kagheni  (Relevance 0.000 | Confidence 0.500)
+muth-west  (Relevance 0.000 | Confidence 0.500)
+n Kuen Iluil  (Relevance 0.000 | Confidence 0.500)
+nlountain  (Relevance 0.000 | Confidence 0.500)
+noith latitude  (Relevance 0.000 | Confidence 0.500)
+north-enst  (Relevance 0.000 | Confidence 0.500)
+principality of Meli  (Relevance 0.000 | Confidence 0.500)
+riues  (Relevance 0.000 | Confidence 0.500)
+river  (Relevance 0.000 | Confidence 0.500)
+sion  (Relevance 0.000 | Confidence 0.500)
+sonth  (Relevance 0.000 | Confidence 0.500)
+south  (Relevance 0.000 | Confidence 0.500)
+st.  (Relevance 0.000 | Confidence 0.500)
+t+arhwal  (Relevance 0.000 | Confidence 0.500)
+the Himalaya  (Relevance 0.000 | Confidence 0.500)
+thia  (Relevance 0.000 | Confidence 0.500)
+tlie Gurtang Chu  (Relevance 0.000 | Confidence 0.500)
+tliu  (Relevance 0.000 | Confidence 0.500)
+tllc Raian-tuknill  (Relevance 0.000 | Confidence 0.500)
+tlle~ice  (Relevance 0.000 | Confidence 0.500)
+umdok  (Relevance 0.000 | Confidence 0.500)
+Ü-Tsang  (Relevance 0.154 | Confidence 5.415)
+
+/location/place_with_neighborhoods
+──────────
+Paris  (Relevance 0.037 | Confidence 14.480)
+
+/location/region
+──────────
+Asia  (Relevance 0.389 | Confidence 14.760)
+Europe  (Relevance 0.082 | Confidence 1.739)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Yunnan  (Relevance 0.104 | Confidence 8.726)
+
+/location/statistical_region
+──────────
+Acre, Israel  (Relevance 0.027 | Confidence 3.164)
+Agra  (Relevance 0.043 | Confidence 4.098)
+Alang  (Relevance 0.010 | Confidence 4.246)
+Asia  (Relevance 0.389 | Confidence 14.760)
+Assam  (Relevance 0.108 | Confidence 8.992)
+Auce  (Relevance 0.024 | Confidence 1.390)
+Badrinath  (Relevance 0.035 | Confidence 2.618)
+Baltistan  (Relevance 0.116 | Confidence 4.756)
+Batang, Sichuan  (Relevance 0.221 | Confidence 1.886)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bengal  (Relevance 0.212 | Confidence 7.223)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+Bima  (Relevance 0.044 | Confidence 2.186)
+Bota  (Relevance 0.012 | Confidence 1.088)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+Chamdo  (Relevance 0.101 | Confidence 10.830)
+Chilas  (Relevance 0.013 | Confidence 4.668)
+China  (Relevance 0.682 | Confidence 42.780)
+Chu (state)  (Relevance 0.127 | Confidence 3.129)
+Darjeeling  (Relevance 0.176 | Confidence 9.201)
+Demchok, Ladakh  (Relevance 0.197 | Confidence 4.373)
+Derge  (Relevance 0.114 | Confidence 3.982)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Gansu  (Relevance 0.057 | Confidence 20.710)
+Gmina Liw  (Relevance 0.017 | Confidence 1.232)
+Great Bend, Kansas  (Relevance 0.037 | Confidence 1.087)
+Gyantse  (Relevance 0.279 | Confidence 7.791)
+Hamlet (place)  (Relevance 0.057 | Confidence 2.323)
+Hillah  (Relevance 0.042 | Confidence 1.486)
+Hotan  (Relevance 0.127 | Confidence 14.680)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Jeddo, Pennsylvania  (Relevance 0.028 | Confidence 1.193)
+Kagbeni, Mustang  (Relevance 0.037 | Confidence 1.926)
+Kalimpong  (Relevance 0.205 | Confidence 10.620)
+Kashmir  (Relevance 0.173 | Confidence 2.253)
+Kathmandu  (Relevance 0.137 | Confidence 10.240)
+Kingdom of Kush  (Relevance 0.000 | Confidence 2.728)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Kumaon division  (Relevance 0.293 | Confidence 10.070)
+Ladakh  (Relevance 0.194 | Confidence 1.621)
+Leh  (Relevance 0.110 | Confidence 6.581)
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+Litang County  (Relevance 0.195 | Confidence 3.289)
+Lohit district  (Relevance 0.100 | Confidence 2.026)
+Léré, Chad  (Relevance 0.017 | Confidence 1.399)
+Miri  (Relevance 0.050 | Confidence 1.489)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nagqu  (Relevance 0.167 | Confidence 1.243)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Ngari Prefecture  (Relevance 0.404 | Confidence 11.130)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Nyarong  (Relevance 0.110 | Confidence 3.163)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Pemba Island  (Relevance 0.044 | Confidence 2.529)
+Phari  (Relevance 0.131 | Confidence 5.073)
+Purang County  (Relevance 0.195 | Confidence 3.709)
+Qiemo Town  (Relevance 0.044 | Confidence 3.158)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Rudok  (Relevance 0.130 | Confidence 5.329)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sadiya  (Relevance 0.194 | Confidence 5.709)
+Shannan, Tibet  (Relevance 0.248 | Confidence 5.248)
+Shigatse  (Relevance 0.219 | Confidence 23.810)
+Sichuan  (Relevance 0.153 | Confidence 12.130)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tain  (Relevance 0.014 | Confidence 1.587)
+Tawang  (Relevance 0.317 | Confidence 7.543)
+Tawang district  (Relevance 0.329 | Confidence 8.903)
+Tendō, Yamagata  (Relevance 0.035 | Confidence 1.224)
+Thrace  (Relevance 0.070 | Confidence 2.501)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+Tibet (1912–1951)  (Relevance 0.649 | Confidence 1.218)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+Tinn  (Relevance 0.031 | Confidence 2.707)
+Tsetang  (Relevance 0.173 | Confidence 5.791)
+Turkistan (city)  (Relevance 0.222 | Confidence 1.542)
+Turku  (Relevance 0.027 | Confidence 1.650)
+Udalguri district  (Relevance 0.178 | Confidence 1.078)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+Xinjiang  (Relevance 0.080 | Confidence 10.150)
+Yunnan  (Relevance 0.104 | Confidence 8.726)
+
+/location/uk_constituent_country
+──────────
+England  (Relevance 0.248 | Confidence 1.361)
+
+/location/uk_statistical_location
+──────────
+England  (Relevance 0.248 | Confidence 1.361)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+
+/location/us_state
+──────────
+Montana  (Relevance 0.055 | Confidence 6.361)
+
+/martial_arts/martial_art
+──────────
+Kenpō  (Relevance 0.013 | Confidence 2.344)
+
+/measurement_unit/common_dimension
+──────────
+Angle  (Relevance 0.120 | Confidence 2.890)
+Length  (Relevance 0.074 | Confidence 2.512)
+Mass  (Relevance 0.070 | Confidence 1.369)
+
+/measurement_unit/dimension
+──────────
+Angle  (Relevance 0.120 | Confidence 2.890)
+Length  (Relevance 0.074 | Confidence 2.512)
+Mass  (Relevance 0.070 | Confidence 1.369)
+
+/measurement_unit/distance_unit
+──────────
+Mile  (Relevance 0.153 | Confidence 2.574)
+
+/measurement_unit/time_unit
+──────────
+Second  (Relevance 0.020 | Confidence 1.871)
+
+/measurement_unit/unit_of_cargo_capacity
+──────────
+Twenty-foot equivalent unit  (Relevance 0.025 | Confidence 3.515)
+
+/measurement_unit/volume_unit
+──────────
+Pint  (Relevance 0.038 | Confidence 1.600)
+
+/media_common/literary_genre
+──────────
+Geography  (Relevance 0.263 | Confidence 7.712)
+Law  (Relevance 0.065 | Confidence 2.807)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/media_common/media_genre
+──────────
+Geography  (Relevance 0.263 | Confidence 7.712)
+Law  (Relevance 0.065 | Confidence 2.807)
+Maze  (Relevance 0.006 | Confidence 2.293)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+Saint  (Relevance 0.049 | Confidence 6.016)
+
+/media_common/media_genre_equivalent_topic
+──────────
+Law  (Relevance 0.065 | Confidence 2.807)
+
+/media_common/netflix_genre
+──────────
+Bengali language  (Relevance 0.088 | Confidence 5.856)
+China  (Relevance 0.682 | Confidence 42.780)
+France  (Relevance 0.108 | Confidence 2.643)
+India  (Relevance 0.393 | Confidence 15.050)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+
+/media_common/quotation
+──────────
+India  (Relevance 0.393 | Confidence 15.050)
+
+/media_common/quotation_addressee
+──────────
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/media_common/quotation_subject
+──────────
+Certainty  (Relevance 0.109 | Confidence 1.056)
+Country  (Relevance 0.043 | Confidence 1.100)
+Desert  (Relevance 0.067 | Confidence 7.184)
+Desire  (Relevance 0.107 | Confidence 1.033)
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Existence  (Relevance 0.044 | Confidence 1.377)
+Exploration  (Relevance 0.166 | Confidence 1.840)
+Generation  (Relevance 0.000 | Confidence 1.411)
+Information  (Relevance 0.068 | Confidence 1.807)
+Jealousy  (Relevance 0.069 | Confidence 1.134)
+Knowledge  (Relevance 0.191 | Confidence 1.306)
+Language  (Relevance 0.069 | Confidence 6.453)
+Law  (Relevance 0.065 | Confidence 2.807)
+Medical doctor  (Relevance 0.000 | Confidence 0.996)
+Missionary  (Relevance 0.118 | Confidence 6.011)
+Mountain  (Relevance 0.564 | Confidence 6.129)
+Observation  (Relevance 0.006 | Confidence 1.033)
+Ocean  (Relevance 0.091 | Confidence 7.458)
+People  (Relevance 0.019 | Confidence 1.000)
+Planning  (Relevance 0.049 | Confidence 2.306)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Reason  (Relevance 0.129 | Confidence 1.860)
+Religion  (Relevance 0.150 | Confidence 8.095)
+Saint  (Relevance 0.049 | Confidence 6.016)
+Sea  (Relevance 0.139 | Confidence 1.693)
+Space  (Relevance 0.162 | Confidence 3.101)
+Tea  (Relevance 0.076 | Confidence 1.334)
+Trade  (Relevance 0.073 | Confidence 1.712)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/medicine/anatomical_structure
+──────────
+Chin  (Relevance 0.062 | Confidence 1.158)
+Ear  (Relevance 0.022 | Confidence 0.990)
+Elbow  (Relevance 0.039 | Confidence 1.652)
+Foot  (Relevance 0.015 | Confidence 0.970)
+Lip  (Relevance 0.040 | Confidence 1.029)
+Stomach  (Relevance 0.004 | Confidence 0.965)
+
+/medicine/condition_prevention_factors
+──────────
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Iron  (Relevance 0.064 | Confidence 11.850)
+
+/medicine/disease
+──────────
+Tic  (Relevance 0.015 | Confidence 0.958)
+
+/medicine/drug
+──────────
+Iron  (Relevance 0.064 | Confidence 11.850)
+Musk  (Relevance 0.049 | Confidence 1.759)
+Silver  (Relevance 0.030 | Confidence 6.899)
+Tetrahydrocannabinol  (Relevance 0.000 | Confidence 2.147)
+
+/medicine/drug_ingredient
+──────────
+Barley  (Relevance 0.183 | Confidence 13.800)
+Borax  (Relevance 0.062 | Confidence 4.429)
+Buckwheat  (Relevance 0.124 | Confidence 4.766)
+Iron  (Relevance 0.064 | Confidence 11.850)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Millet  (Relevance 0.129 | Confidence 9.269)
+Rice  (Relevance 0.132 | Confidence 12.690)
+Silver  (Relevance 0.030 | Confidence 6.899)
+Tetrahydrocannabinol  (Relevance 0.000 | Confidence 2.147)
+Threonine  (Relevance 0.008 | Confidence 2.093)
+Water  (Relevance 0.137 | Confidence 2.222)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+
+/medicine/icd_9_cm_classification
+──────────
+Tic  (Relevance 0.015 | Confidence 0.958)
+
+/medicine/medical_treatment
+──────────
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Iron  (Relevance 0.064 | Confidence 11.850)
+Tetrahydrocannabinol  (Relevance 0.000 | Confidence 2.147)
+
+/medicine/symptom
+──────────
+Tic  (Relevance 0.015 | Confidence 0.958)
+
+/medicine/vector_of_disease
+──────────
+Bat  (Relevance 0.026 | Confidence 3.478)
+
+/meteorology/cyclone_affected_area
+──────────
+China  (Relevance 0.682 | Confidence 42.780)
+Europe  (Relevance 0.082 | Confidence 1.739)
+India  (Relevance 0.393 | Confidence 15.050)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Russia  (Relevance 0.099 | Confidence 2.577)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/meteorology/forecast_zone
+──────────
+Europe  (Relevance 0.082 | Confidence 1.739)
+
+/metropolitan_transit/transit_service_type
+──────────
+Ferry  (Relevance 0.110 | Confidence 3.700)
+
+/metropolitan_transit/transit_vehicle
+──────────
+Ferry  (Relevance 0.110 | Confidence 3.700)
+
+/military/armed_force
+──────────
+Garrison  (Relevance 0.071 | Confidence 3.065)
+
+/military/military_combatant
+──────────
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Qing dynasty  (Relevance 0.130 | Confidence 1.569)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/military/military_post
+──────────
+England  (Relevance 0.248 | Confidence 1.361)
+
+/military/military_service
+──────────
+Lieutenant  (Relevance 0.032 | Confidence 0.972)
+
+/military/military_unit
+──────────
+Indian Staff Corps  (Relevance 0.000 | Confidence 2.983)
+Strategic Rocket Forces  (Relevance 0.033 | Confidence 1.508)
+
+/military/military_unit_place_of_origin
+──────────
+France  (Relevance 0.108 | Confidence 2.643)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/military/military_unit_size
+──────────
+Corps  (Relevance 0.049 | Confidence 0.995)
+
+/military/rank
+──────────
+Lieutenant  (Relevance 0.032 | Confidence 0.972)
+Officer (armed forces)  (Relevance 0.070 | Confidence 4.899)
+
+/music/artist
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/music/composer
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/music/featured_artist
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/music/group_member
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/music/lyricist
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/music/producer
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/music/writer
+──────────
+Mase  (Relevance 0.007 | Confidence 1.947)
+
+/olympics/olympic_bidding_city
+──────────
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+
+/olympics/olympic_host_city
+──────────
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+
+/olympics/olympic_participating_country
+──────────
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/organization/club_interest
+──────────
+Exercise  (Relevance 0.049 | Confidence 0.985)
+
+/organization/contact_category
+──────────
+China  (Relevance 0.682 | Confidence 42.780)
+English as a second or foreign language  (Relevance 0.052 | Confidence 1.162)
+Information  (Relevance 0.068 | Confidence 1.807)
+Law  (Relevance 0.065 | Confidence 2.807)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/organization/membership_organization
+──────────
+European Union  (Relevance 0.029 | Confidence 7.971)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+
+/organization/organization
+──────────
+8re  (Relevance 0.010 | Confidence 1.212)
+ANT1  (Relevance 0.032 | Confidence 5.394)
+Accor  (Relevance 0.014 | Confidence 2.158)
+Aeia  (Relevance 0.000 | Confidence 1.014)
+Astyn  (Relevance 0.000 | Confidence 0.500)
+Atcnthe  (Relevance 0.000 | Confidence 0.500)
+Bengd Government  (Relevance 0.000 | Confidence 0.500)
+Benpl Civil Service  (Relevance 0.000 | Confidence 0.500)
+Brahnl~putrs  (Relevance 0.000 | Confidence 0.500)
+Brtitncr  (Relevance 0.000 | Confidence 0.500)
+CUBBBNCY  (Relevance 0.000 | Confidence 0.500)
+Catholic  (Relevance 0.000 | Confidence 0.500)
+Central Government  (Relevance 0.000 | Confidence 0.500)
+Ceutral Goverumeut  (Relevance 0.000 | Confidence 0.500)
+Chemdo  (Relevance 0.000 | Confidence 0.500)
+Chicf  (Relevance 0.000 | Confidence 0.500)
+Chills  (Relevance 0.000 | Confidence 0.500)
+Chinese soldiers  (Relevance 0.000 | Confidence 0.500)
+Chinese troops  (Relevance 0.000 | Confidence 0.500)
+Clln  (Relevance 0.000 | Confidence 1.093)
+Council  (Relevance 0.151 | Confidence 0.500)
+Council Chamber  (Relevance 0.000 | Confidence 0.500)
+Council of Four  (Relevance 0.000 | Confidence 0.500)
+Council of State-the  (Relevance 0.000 | Confidence 0.500)
+Court of the Terrhu J~nma  (Relevance 0.000 | Confidence 0.500)
+DLE (company)  (Relevance 0.006 | Confidence 1.736)
+De-pung  (Relevance 0.000 | Confidence 0.500)
+Dseti  (Relevance 0.000 | Confidence 0.500)
+Dza Chu  (Relevance 0.000 | Confidence 0.500)
+E LAMA 'S  (Relevance 0.000 | Confidence 0.500)
+Gabct  (Relevance 0.000 | Confidence 0.500)
+Garpn  (Relevance 0.000 | Confidence 0.500)
+GeographicalJ  (Relevance 0.000 | Confidence 0.500)
+Giama N  (Relevance 0.000 | Confidence 0.500)
+Go1  (Relevance 0.000 | Confidence 0.500)
+Govc  (Relevance 0.000 | Confidence 0.500)
+Government  (Relevance 0.000 | Confidence 0.500)
+Gyan  (Relevance 0.000 | Confidence 0.500)
+HIIC  (Relevance 0.000 | Confidence 0.500)
+Hegellent  (Relevance 0.000 | Confidence 0.500)
+Hinpnche  (Relevance 0.000 | Confidence 0.500)
+Hnrl  (Relevance 0.000 | Confidence 0.500)
+IICI  (Relevance 0.000 | Confidence 0.500)
+IIRI  (Relevance 0.000 | Confidence 0.500)
+IJndcr  (Relevance 0.000 | Confidence 0.500)
+IVe  (Relevance 0.000 | Confidence 0.500)
+Iborc  (Relevance 0.000 | Confidence 0.500)
+IfTretoe  (Relevance 0.000 | Confidence 0.500)
+Ilinesc  (Relevance 0.000 | Confidence 0.500)
+Imtl  (Relevance 0.000 | Confidence 1.046)
+IndL  (Relevance 0.000 | Confidence 1.406)
+Indian Staff Corps  (Relevance 0.000 | Confidence 2.983)
+Indian Survey Department  (Relevance 0.000 | Confidence 0.500)
+Informa  (Relevance 0.006 | Confidence 3.399)
+International Harvester  (Relevance 0.023 | Confidence 2.755)
+IonQ  (Relevance 0.000 | Confidence 1.862)
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Jorr  (Relevance 0.000 | Confidence 0.500)
+Journalm  (Relevance 0.000 | Confidence 0.500)
+Journeo  (Relevance 0.000 | Confidence 0.500)
+Keria  (Relevance 0.000 | Confidence 2.469)
+Lba~a  (Relevance 0.000 | Confidence 0.500)
+Lha-tw  (Relevance 0.000 | Confidence 0.500)
+Lhasa Govern  (Relevance 0.000 | Confidence 0.500)
+Lhnsa  (Relevance 0.000 | Confidence 0.500)
+Lhu  (Relevance 0.000 | Confidence 0.500)
+Louisiana High School Athletic Association  (Relevance 0.006 | Confidence 5.843)
+MILlTARY  (Relevance 0.000 | Confidence 0.500)
+Manhattan Neighborhood Network  (Relevance 0.015 | Confidence 2.255)
+Meliong  (Relevance 0.000 | Confidence 0.500)
+Monas  (Relevance 0.000 | Confidence 0.500)
+Moorcroft  (Relevance 0.029 | Confidence 2.025)
+National Assembly (France)  (Relevance 0.029 | Confidence 1.022)
+National Center for Atmospheric Research  (Relevance 0.006 | Confidence 2.750)
+Nepnl  (Relevance 0.238 | Confidence 0.500)
+Ngari Korsum  (Relevance 0.000 | Confidence 0.500)
+Ngnri Kors~lm  (Relevance 0.000 | Confidence 0.500)
+OX TIBET  (Relevance 0.000 | Confidence 0.500)
+Office of the Superintendent of Government  (Relevance 0.205 | Confidence 0.500)
+Order of Friars Minor Capuchin  (Relevance 0.106 | Confidence 4.081)
+Orolraphicnl  (Relevance 0.000 | Confidence 0.500)
+Ovlukpa  (Relevance 0.000 | Confidence 0.500)
+Oyaka  (Relevance 0.000 | Confidence 0.500)
+PAOES  (Relevance 0.035 | Confidence 0.500)
+Pamug  (Relevance 0.000 | Confidence 0.500)
+Pemnkoichen  (Relevance 0.000 | Confidence 0.500)
+Pionerr of Commerce  (Relevance 0.000 | Confidence 0.500)
+Pitron  (Relevance 0.000 | Confidence 1.605)
+Ponpo  (Relevance 0.000 | Confidence 0.500)
+Qoverlllnent Offices  (Relevance 0.261 | Confidence 0.500)
+R , O. S.  (Relevance 0.000 | Confidence 0.500)
+R O. S  (Relevance 0.000 | Confidence 0.500)
+REI  (Relevance 0.000 | Confidence 0.500)
+Revue franfsiae  (Relevance 0.000 | Confidence 0.500)
+Rillecoq  (Relevance 0.000 | Confidence 0.500)
+Rocl  (Relevance 0.010 | Confidence 1.075)
+Royal  (Relevance 0.000 | Confidence 0.500)
+Royal Geographical Society  (Relevance 0.099 | Confidence 8.986)
+Rrprtr  (Relevance 0.000 | Confidence 0.500)
+S. Journal  (Relevance 0.000 | Confidence 0.500)
+SIOPCS  (Relevance 0.000 | Confidence 0.500)
+SRop~a  (Relevance 0.000 | Confidence 0.500)
+Sakya  (Relevance 0.203 | Confidence 9.850)
+Shnp  (Relevance 0.000 | Confidence 1.406)
+Sl~igatsc  (Relevance 0.000 | Confidence 0.500)
+State  (Relevance 0.000 | Confidence 0.500)
+Strategic Rocket Forces  (Relevance 0.033 | Confidence 1.508)
+Survey Depart  (Relevance 0.000 | Confidence 0.500)
+Survey of India  (Relevance 0.044 | Confidence 1.557)
+T. S. Reports  (Relevance 0.000 | Confidence 0.500)
+TAL  (Relevance 0.000 | Confidence 0.500)
+THE T'UNG 'S  (Relevance 0.000 | Confidence 0.500)
+TIRET  (Relevance 0.000 | Confidence 0.500)
+Taa-La  (Relevance 0.000 | Confidence 0.500)
+Tcli  (Relevance 0.000 | Confidence 0.500)
+The Liberals (Switzerland)  (Relevance 0.018 | Confidence 5.083)
+TiLetnn  (Relevance 0.000 | Confidence 0.500)
+Tibet Ins  (Relevance 0.000 | Confidence 0.500)
+Tibetan troops  (Relevance 0.000 | Confidence 0.500)
+Tibrt  (Relevance 0.000 | Confidence 0.500)
+Tile Southern Himalayan  (Relevance 0.000 | Confidence 0.500)
+Tlre Council of Pour Slrupe  (Relevance 0.000 | Confidence 0.500)
+Tory  (Relevance 0.021 | Confidence 1.462)
+Trea  (Relevance 0.000 | Confidence 0.500)
+Treasury Oficers  (Relevance 0.000 | Confidence 0.500)
+Tsaring and Oring  (Relevance 0.000 | Confidence 0.500)
+Tsngut  (Relevance 0.000 | Confidence 0.500)
+T~bet  (Relevance 0.000 | Confidence 0.500)
+U G.  (Relevance 0.000 | Confidence 0.500)
+U. T. S  (Relevance 0.000 | Confidence 0.500)
+Uengal Educational Department  (Relevance 0.000 | Confidence 0.500)
+WERC (AM)  (Relevance 0.049 | Confidence 2.932)
+WLIO  (Relevance 0.008 | Confidence 1.651)
+WWhi  (Relevance 0.000 | Confidence 0.500)
+Xam  (Relevance 0.000 | Confidence 0.500)
+YOBT  (Relevance 0.000 | Confidence 0.500)
+Yallgtee  (Relevance 0.000 | Confidence 0.500)
+Yetzchet  (Relevance 0.000 | Confidence 0.500)
+Ynng Ling  (Relevance 0.000 | Confidence 0.500)
+Yntok Kenpo  (Relevance 0.000 | Confidence 0.500)
+Y~ltok  (Relevance 0.000 | Confidence 0.500)
+a. T. s. Reports  (Relevance 0.000 | Confidence 0.500)
+antl  (Relevance 0.008 | Confidence 1.043)
+avellcrs  (Relevance 0.000 | Confidence 0.500)
+capitals  (Relevance 0.000 | Confidence 0.500)
+clthsc  (Relevance 0.000 | Confidence 0.500)
+couvenient  (Relevance 0.000 | Confidence 0.500)
+de Ilhins  (Relevance 0.000 | Confidence 0.500)
+gtse  (Relevance 0.000 | Confidence 0.500)
+ill  (Relevance 0.000 | Confidence 0.500)
+jndicaiatJ  (Relevance 0.000 | Confidence 0.500)
+mestel  (Relevance 0.000 | Confidence 0.500)
+monntnins  (Relevance 0.000 | Confidence 0.500)
+nnnry  (Relevance 0.000 | Confidence 0.500)
+occc  (Relevance 0.000 | Confidence 0.500)
+ondefined  (Relevance 0.000 | Confidence 0.500)
+rcscarch  (Relevance 0.000 | Confidence 0.500)
+rdC  (Relevance 0.000 | Confidence 0.500)
+receivr  (Relevance 0.000 | Confidence 0.500)
+rnd  (Relevance 0.000 | Confidence 0.500)
+roac  (Relevance 0.000 | Confidence 1.011)
+snncrn  (Relevance 0.000 | Confidence 0.500)
+snrl  (Relevance 0.000 | Confidence 1.406)
+somc  (Relevance 0.034 | Confidence 1.576)
+somc in  (Relevance 0.000 | Confidence 1.542)
+tIIC  (Relevance 0.000 | Confidence 1.038)
+tIimalay  (Relevance 0.000 | Confidence 0.500)
+tIley  (Relevance 0.000 | Confidence 0.500)
+tlie  (Relevance 0.011 | Confidence 1.917)
+tllc Pa-pa-lha  (Relevance 0.000 | Confidence 0.500)
+trict  (Relevance 0.000 | Confidence 0.500)
+
+/organization/organization_founder
+──────────
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+China  (Relevance 0.682 | Confidence 42.780)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/organization/organization_member
+──────────
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+China  (Relevance 0.682 | Confidence 42.780)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/organization/organization_scope
+──────────
+Asia  (Relevance 0.389 | Confidence 14.760)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+Central Asia  (Relevance 0.102 | Confidence 2.476)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Himalayas  (Relevance 0.221 | Confidence 11.690)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Ocean  (Relevance 0.091 | Confidence 7.458)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+Western China  (Relevance 0.025 | Confidence 1.694)
+
+/organization/organization_sector
+──────────
+English as a second or foreign language  (Relevance 0.052 | Confidence 1.162)
+Exercise  (Relevance 0.049 | Confidence 0.985)
+Export  (Relevance 0.048 | Confidence 2.301)
+Geography  (Relevance 0.263 | Confidence 7.712)
+India  (Relevance 0.393 | Confidence 15.050)
+Jacket  (Relevance 0.017 | Confidence 0.958)
+Law  (Relevance 0.065 | Confidence 2.807)
+Lumber  (Relevance 0.015 | Confidence 1.149)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Tile  (Relevance 0.027 | Confidence 3.073)
+Trade  (Relevance 0.073 | Confidence 1.712)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/organization/organization_type
+──────────
+Clan  (Relevance 0.051 | Confidence 1.011)
+Family (biology)  (Relevance 0.012 | Confidence 1.393)
+Marketplace  (Relevance 0.058 | Confidence 1.666)
+
+/people/american_indian_group
+──────────
+Ute people  (Relevance 0.034 | Confidence 0.960)
+
+/people/cause_of_death
+──────────
+Hail  (Relevance 0.035 | Confidence 3.217)
+
+/people/chinese_ethnic_group
+──────────
+Tibetans  (Relevance 0.212 | Confidence 5.361)
+
+/people/deceased_person
+──────────
+Arthur Douglas Carey  (Relevance 0.237 | Confidence 1.282)
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+Edward Colborne Baber  (Relevance 0.021 | Confidence 1.158)
+Gabriel Bonvalot  (Relevance 0.119 | Confidence 2.111)
+Hamilton Bower  (Relevance 0.091 | Confidence 1.904)
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+Joseph Gabet  (Relevance 0.159 | Confidence 1.330)
+Nain Singh  (Relevance 0.176 | Confidence 3.524)
+Nikolay Przhevalsky  (Relevance 0.154 | Confidence 1.101)
+Odoric of Pordenone  (Relevance 0.131 | Confidence 2.117)
+Samuel Turner (diplomat)  (Relevance 0.222 | Confidence 1.836)
+Sarat Chandra Das  (Relevance 0.181 | Confidence 1.244)
+Sven Hedin  (Relevance 0.185 | Confidence 10.540)
+Thomas Manning (sinologist)  (Relevance 0.258 | Confidence 1.981)
+Warren Hastings  (Relevance 0.137 | Confidence 4.778)
+William Gill (explorer)  (Relevance 0.162 | Confidence 1.204)
+
+/people/ethnicity
+──────────
+Hindus  (Relevance 0.000 | Confidence 1.803)
+Kamba people  (Relevance 0.051 | Confidence 2.749)
+Kaw people  (Relevance 0.057 | Confidence 1.137)
+Mishmi people  (Relevance 0.116 | Confidence 2.032)
+Nomad  (Relevance 0.126 | Confidence 7.448)
+Pandit  (Relevance 0.070 | Confidence 1.858)
+Tamang people  (Relevance 0.044 | Confidence 3.671)
+Tibetans  (Relevance 0.212 | Confidence 5.361)
+Ute people  (Relevance 0.034 | Confidence 0.960)
+
+/people/family
+──────────
+Qing dynasty  (Relevance 0.130 | Confidence 1.569)
+Tang dynasty  (Relevance 0.000 | Confidence 2.288)
+
+/people/group
+──────────
+Law  (Relevance 0.065 | Confidence 2.807)
+
+/people/measured_body_part
+──────────
+Height  (Relevance 0.032 | Confidence 1.282)
+
+/people/person
+──────────
+' R C. S. J  (Relevance 0.000 | Confidence 0.500)
+A. K.  (Relevance 0.000 | Confidence 0.500)
+Abbi Desgodins  (Relevance 0.000 | Confidence 0.500)
+Abbk Krick  (Relevance 0.000 | Confidence 0.500)
+Ahen-gye--conFisting  (Relevance 0.000 | Confidence 0.500)
+Akka Tagh  (Relevance 0.000 | Confidence 0.500)
+Amitahha  (Relevance 0.000 | Confidence 0.500)
+Angirtaksbia  (Relevance 0.000 | Confidence 0.500)
+Antonio Andrada  (Relevance 0.000 | Confidence 0.500)
+Arnold Pike  (Relevance 0.000 | Confidence 0.500)
+Arthur Douglas Carey  (Relevance 0.237 | Confidence 1.282)
+Aurel Stein  (Relevance 0.137 | Confidence 1.341)
+Babu  (Relevance 0.000 | Confidence 0.500)
+Batygantu  (Relevance 0.000 | Confidence 0.500)
+Bela Szcchenyi  (Relevance 0.000 | Confidence 0.500)
+Berep Gyetsho  (Relevance 0.000 | Confidence 0.500)
+Bnria Gandak  (Relevance 0.000 | Confidence 0.500)
+Bogdanovitch  (Relevance 0.000 | Confidence 0.500)
+Bogle  (Relevance 0.000 | Confidence 0.500)
+Brian Hods011  (Relevance 0.000 | Confidence 0.500)
+C ' nptnin S. Tnmcr  (Relevance 0.000 | Confidence 0.500)
+C.B.  (Relevance 0.000 | Confidence 0.500)
+Captaill  (Relevance 0.000 | Confidence 0.500)
+Captnin W.  (Relevance 0.000 | Confidence 0.500)
+Cartok  (Relevance 0.000 | Confidence 0.500)
+Cathy  (Relevance 0.000 | Confidence 0.500)
+Ceptai  (Relevance 0.000 | Confidence 0.500)
+Chamdo Chu  (Relevance 0.000 | Confidence 0.500)
+Chany  (Relevance 0.000 | Confidence 0.500)
+Charta Tsangpo  (Relevance 0.000 | Confidence 0.500)
+Chetang  (Relevance 0.000 | Confidence 0.500)
+Chinene  (Relevance 0.000 | Confidence 0.500)
+Cho-piin Eenpo  (Relevance 0.000 | Confidence 0.500)
+Choktei  (Relevance 0.000 | Confidence 0.500)
+Chong-dzii-pa  (Relevance 0.000 | Confidence 0.500)
+Chrmho  (Relevance 0.000 | Confidence 0.500)
+Chuonl Jong  (Relevance 0.000 | Confidence 0.500)
+Chzrpon  (Relevance 0.000 | Confidence 0.500)
+Ciurtang Chu  (Relevance 0.000 | Confidence 0.500)
+Clement Markhamys  (Relevance 0.000 | Confidence 0.500)
+Cl~ili  (Relevance 0.000 | Confidence 0.500)
+Colonel  (Relevance 0.000 | Confidence 0.500)
+Csvtnin H. Bower  (Relevance 0.000 | Confidence 0.500)
+Dalgleish  (Relevance 0.000 | Confidence 0.500)
+Dang Chu  (Relevance 0.000 | Confidence 0.500)
+Das  (Relevance 0.000 | Confidence 0.500)
+De-buug-are  (Relevance 0.000 | Confidence 0.500)
+Deasy  (Relevance 0.000 | Confidence 0.500)
+Dejen Jong  (Relevance 0.000 | Confidence 0.500)
+Dengodine  (Relevance 0.000 | Confidence 0.500)
+Dergc  (Relevance 0.000 | Confidence 0.500)
+Desideri  (Relevance 0.000 | Confidence 0.500)
+Dingpiilr  (Relevance 0.000 | Confidence 0.500)
+Donkhya La  (Relevance 0.000 | Confidence 0.500)
+Donyer Chembo  (Relevance 0.000 | Confidence 0.500)
+Dorville  (Relevance 0.000 | Confidence 0.500)
+Dre Chu  (Relevance 0.000 | Confidence 0.500)
+Dung-kors  (Relevance 0.000 | Confidence 0.500)
+Dze Chu  (Relevance 0.000 | Confidence 0.500)
+E. C. Ryall  (Relevance 0.000 | Confidence 0.500)
+E. Colbornc  (Relevance 0.000 | Confidence 0.500)
+Edmund Amundsen  (Relevance 0.000 | Confidence 0.500)
+Edward Colborne Baber  (Relevance 0.021 | Confidence 1.158)
+Elom China  (Relevance 0.000 | Confidence 0.500)
+Fa-pa-lha  (Relevance 0.000 | Confidence 0.500)
+Francisco Horace della Penna  (Relevance 0.000 | Confidence 0.500)
+Freyre  (Relevance 0.000 | Confidence 0.500)
+G E O G R A P H Y  (Relevance 0.000 | Confidence 0.500)
+G S.  (Relevance 0.000 | Confidence 0.500)
+G.M.N. neverthclw  (Relevance 0.000 | Confidence 0.500)
+Ga-den ara  (Relevance 0.000 | Confidence 0.500)
+Gabriel Bonvalot  (Relevance 0.119 | Confidence 2.111)
+Garpoll  (Relevance 0.000 | Confidence 0.500)
+George Rogle  (Relevance 0.000 | Confidence 0.500)
+Giama Ngu Chu  (Relevance 0.000 | Confidence 0.500)
+Giarnda Chu  (Relevance 0.000 | Confidence 0.500)
+Great Aserrn1  (Relevance 0.114 | Confidence 0.500)
+Grombchevsky  (Relevance 0.000 | Confidence 0.500)
+Grueber  (Relevance 0.000 | Confidence 0.500)
+Gurtang  (Relevance 0.000 | Confidence 0.500)
+Gyatso Jong  (Relevance 0.000 | Confidence 0.500)
+Gyelrnndo  (Relevance 0.000 | Confidence 0.500)
+Gynngtse  (Relevance 0.000 | Confidence 0.500)
+H. H P. Deasy  (Relevance 0.000 | Confidence 0.500)
+H. H. P. Denny  (Relevance 0.000 | Confidence 0.500)
+H. P. Deasy  (Relevance 0.000 | Confidence 0.500)
+Hamilton Bower  (Relevance 0.091 | Confidence 1.904)
+Hanks  (Relevance 0.000 | Confidence 0.500)
+Hanyung  (Relevance 0.000 | Confidence 0.500)
+Henri dJOrleans  (Relevance 0.000 | Confidence 0.500)
+Heurg Yule  (Relevance 0.000 | Confidence 0.500)
+Hiinhart  (Relevance 0.000 | Confidence 0.500)
+Hirhn~d  (Relevance 0.000 | Confidence 0.500)
+Hoang-ho  (Relevance 0.000 | Confidence 0.500)
+Hockhill  (Relevance 0.000 | Confidence 0.500)
+Hor-tsi-gya-pe-ka  (Relevance 0.000 | Confidence 0.500)
+IJha  (Relevance 0.000 | Confidence 0.500)
+IJnder  (Relevance 0.000 | Confidence 0.500)
+Iby  (Relevance 0.000 | Confidence 0.500)
+Ihlddl~i  (Relevance 0.000 | Confidence 0.500)
+Ihle Lama  (Relevance 0.000 | Confidence 0.500)
+Ile  (Relevance 0.000 | Confidence 0.500)
+Ile-@a  (Relevance 0.000 | Confidence 0.500)
+Ilerc  (Relevance 0.000 | Confidence 0.500)
+Ilia I-Inliness  (Relevance 0.000 | Confidence 0.500)
+Ire Chu  (Relevance 0.000 | Confidence 0.500)
+Iris  (Relevance 0.000 | Confidence 0.500)
+J. F. Needham  (Relevance 0.000 | Confidence 0.500)
+Jnma  (Relevance 0.000 | Confidence 0.500)
+Jnna  (Relevance 0.000 | Confidence 0.500)
+Jong  (Relevance 0.000 | Confidence 0.500)
+Jongku Jong  (Relevance 0.000 | Confidence 0.500)
+Jongpon  (Relevance 0.000 | Confidence 0.500)
+Jongpone  (Relevance 0.000 | Confidence 0.500)
+Jongpons  (Relevance 0.000 | Confidence 0.500)
+Jonkha Jong  (Relevance 0.000 | Confidence 0.500)
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+Joseph Gabet  (Relevance 0.159 | Confidence 1.330)
+Ju-chu-ka-wa  (Relevance 0.000 | Confidence 0.500)
+K nzloff  (Relevance 0.000 | Confidence 0.500)
+K. P.  (Relevance 0.000 | Confidence 0.500)
+KAMBA JONCJ  (Relevance 0.124 | Confidence 0.500)
+Kamba Jong  (Relevance 0.000 | Confidence 0.500)
+Kan-su  (Relevance 0.000 | Confidence 0.500)
+Karl Futterer  (Relevance 0.000 | Confidence 0.500)
+Karnba Jong  (Relevance 0.000 | Confidence 0.500)
+Kel~orts  (Relevance 0.000 | Confidence 0.500)
+Kimba Jong  (Relevance 0.000 | Confidence 0.500)
+Kirong Jong  (Relevance 0.000 | Confidence 0.500)
+Knwg  (Relevance 0.000 | Confidence 0.500)
+Koko Nor Lakc  (Relevance 0.000 | Confidence 0.500)
+Kongkar Jong  (Relevance 0.000 | Confidence 0.500)
+Kozloff  (Relevance 0.000 | Confidence 0.500)
+Kuei-te  (Relevance 0.000 | Confidence 0.500)
+Kuite  (Relevance 0.000 | Confidence 0.500)
+Kundu Ling  (Relevance 0.000 | Confidence 0.500)
+Kuti  (Relevance 0.000 | Confidence 0.500)
+K~rong Jong  (Relevance 0.000 | Confidence 0.500)
+Lagulung La.  (Relevance 0.000 | Confidence 0.500)
+Lam  (Relevance 0.000 | Confidence 0.500)
+Lama Srrnll  (Relevance 0.000 | Confidence 0.500)
+Lan-Chau  (Relevance 0.000 | Confidence 0.500)
+Leinr  (Relevance 0.000 | Confidence 0.500)
+Lha-tse Jong  (Relevance 0.000 | Confidence 0.500)
+Lhabnk Jong  (Relevance 0.000 | Confidence 0.500)
+Lho Jong  (Relevance 0.000 | Confidence 0.500)
+Lho Jong ere  (Relevance 0.000 | Confidence 0.500)
+Lhundub  (Relevance 0.000 | Confidence 0.500)
+Lhundub Jong  (Relevance 0.000 | Confidence 0.500)
+Lhunpo  (Relevance 0.000 | Confidence 0.500)
+Ling  (Relevance 0.000 | Confidence 0.500)
+Littleclale  (Relevance 0.000 | Confidence 0.500)
+Littledale  (Relevance 0.000 | Confidence 0.500)
+Lnma  (Relevance 0.000 | Confidence 0.500)
+Loh Mantang  (Relevance 0.000 | Confidence 0.500)
+Loh Nor  (Relevance 0.000 | Confidence 0.500)
+Lu-tee-kiang  (Relevance 0.000 | Confidence 0.500)
+M. Boniu  (Relevance 0.000 | Confidence 0.500)
+M. Boury  (Relevance 0.000 | Confidence 0.500)
+M. C. Bonin  (Relevance 0.000 | Confidence 0.500)
+M. Dutrcr~il  (Relevance 0.000 | Confidence 0.500)
+M. Dutreuil  (Relevance 0.000 | Confidence 0.500)
+M. Dutreuil Ze Hhins  (Relevance 0.000 | Confidence 0.500)
+M. Dutreuil de Hhins  (Relevance 0.000 | Confidence 0.500)
+M. Dutreuil de R  (Relevance 0.000 | Confidence 0.500)
+M. Dutreuil de Rhins  (Relevance 0.000 | Confidence 0.500)
+M. Grenard  (Relevance 0.000 | Confidence 0.500)
+M. H.  (Relevance 0.000 | Confidence 0.500)
+M. Hl~c  (Relevance 0.000 | Confidence 0.500)
+M. I ' ebM Krick  (Relevance 0.000 | Confidence 0.500)
+M. N.  (Relevance 0.000 | Confidence 0.500)
+M. P.  (Relevance 0.000 | Confidence 0.500)
+M. P. Grcnard  (Relevance 0.000 | Confidence 0.500)
+M. S. Wellby  (Relevance 0.000 | Confidence 0.500)
+M. V. Pyevtsoff  (Relevance 0.000 | Confidence 0.500)
+Machang Tsangpo  (Relevance 0.000 | Confidence 0.500)
+Malcolm  (Relevance 0.000 | Confidence 0.500)
+Mang-kam  (Relevance 0.000 | Confidence 0.500)
+Manning  (Relevance 0.000 | Confidence 0.500)
+Mantzu  (Relevance 0.000 | Confidence 0.500)
+Mapharn  (Relevance 0.000 | Confidence 0.500)
+Markham  (Relevance 0.000 | Confidence 0.500)
+Mase  (Relevance 0.007 | Confidence 1.947)
+Mcniak  (Relevance 0.000 | Confidence 0.500)
+Mcssrs  (Relevance 0.000 | Confidence 0.500)
+Menia  (Relevance 0.000 | Confidence 0.500)
+Merkam  (Relevance 0.000 | Confidence 0.500)
+Miin~s  (Relevance 0.000 | Confidence 0.500)
+Mol~~olin  (Relevance 0.000 | Confidence 0.500)
+Monya  (Relevance 0.000 | Confidence 0.500)
+Morgnn  (Relevance 0.000 | Confidence 0.500)
+Msrkham  (Relevance 0.000 | Confidence 0.500)
+N. I ' rjevnleky  (Relevance 0.000 | Confidence 0.500)
+N. Potanin  (Relevance 0.000 | Confidence 0.500)
+N. of Chala  (Relevance 0.000 | Confidence 0.500)
+Nabring Jong  (Relevance 0.000 | Confidence 0.500)
+Nag-Chu-Ka  (Relevance 0.000 | Confidence 0.500)
+Nag-wan Lobzang Tubden Gyatso  (Relevance 0.000 | Confidence 0.500)
+Nain Pingh  (Relevance 0.000 | Confidence 0.500)
+Nain Singh  (Relevance 0.176 | Confidence 3.524)
+Namling Jong  (Relevance 0.000 | Confidence 0.500)
+Namru  (Relevance 0.000 | Confidence 0.500)
+Namru Tso  (Relevance 0.000 | Confidence 0.500)
+Namtao  (Relevance 0.000 | Confidence 0.500)
+Nangartec Jong  (Relevance 0.000 | Confidence 0.500)
+Ngari Korv~~m  (Relevance 0.000 | Confidence 0.500)
+Ngari-chu-Tsangpo  (Relevance 0.000 | Confidence 0.500)
+Nikolay Przhevalsky  (Relevance 0.154 | Confidence 1.101)
+Nils La  (Relevance 0.000 | Confidence 0.500)
+Nogong  (Relevance 0.000 | Confidence 0.500)
+Novemher  (Relevance 0.000 | Confidence 0.500)
+Nya Chu  (Relevance 0.000 | Confidence 0.500)
+Nyanam Jong  (Relevance 0.000 | Confidence 0.500)
+Nyang Chu  (Relevance 0.000 | Confidence 0.500)
+Nyannm Jong  (Relevance 0.000 | Confidence 0.500)
+Nyansm  (Relevance 0.000 | Confidence 0.500)
+Nyansm Jong  (Relevance 0.000 | Confidence 0.500)
+Odoric of Pordenone  (Relevance 0.131 | Confidence 2.117)
+Oi Chu  (Relevance 0.000 | Confidence 0.500)
+Oill  (Relevance 0.000 | Confidence 0.500)
+Otto Nairin Gol  (Relevance 0.000 | Confidence 0.500)
+Ou Kio  (Relevance 0.000 | Confidence 0.500)
+Oyangtee Jong  (Relevance 0.000 | Confidence 0.500)
+P. K. Kozloff  (Relevance 0.000 | Confidence 0.500)
+Pa-chen  (Relevance 0.000 | Confidence 0.500)
+Padma Pani  (Relevance 0.000 | Confidence 0.500)
+Padrna Pani  (Relevance 0.000 | Confidence 0.500)
+Paehu  (Relevance 0.000 | Confidence 0.500)
+Panakasum  (Relevance 0.000 | Confidence 0.500)
+Pe-de Jong  (Relevance 0.000 | Confidence 0.500)
+Pellcheu  (Relevance 0.000 | Confidence 0.500)
+Penem Jong  (Relevance 0.000 | Confidence 0.500)
+Pernba  (Relevance 0.000 | Confidence 0.500)
+Popas  (Relevance 0.000 | Confidence 0.500)
+Prince  (Relevance 0.000 | Confidence 0.500)
+Pun-tmo-linp  (Relevance 0.000 | Confidence 0.500)
+R O. S. Jonrnnl  (Relevance 0.000 | Confidence 0.500)
+R. E  (Relevance 0.000 | Confidence 0.500)
+R. Q. S.  (Relevance 0.000 | Confidence 0.500)
+R. Strachey  (Relevance 0.000 | Confidence 0.500)
+RIekur  (Relevance 0.000 | Confidence 0.500)
+Raka Tsangpo  (Relevance 0.000 | Confidence 0.500)
+Ram  (Relevance 0.000 | Confidence 0.500)
+Rebden  (Relevance 0.000 | Confidence 0.500)
+Riirkhan Budrla  (Relevance 0.000 | Confidence 0.500)
+Rijnhart  (Relevance 0.000 | Confidence 0.500)
+Rinpung Jong  (Relevance 0.000 | Confidence 0.500)
+Rlekong  (Relevance 0.000 | Confidence 0.500)
+Rlle Chu  (Relevance 0.000 | Confidence 0.500)
+Robber  (Relevance 0.000 | Confidence 0.500)
+Roborovsky  (Relevance 0.000 | Confidence 0.500)
+Rockhill  (Relevance 0.000 | Confidence 0.500)
+Romo  (Relevance 0.000 | Confidence 0.500)
+Rong Chn  (Relevance 0.000 | Confidence 0.500)
+Rven Hedin  (Relevance 0.000 | Confidence 0.500)
+S. Journ111  (Relevance 0.000 | Confidence 0.500)
+Sadiys  (Relevance 0.000 | Confidence 0.500)
+Salrkosi  (Relevance 0.000 | Confidence 0.500)
+Samuel  (Relevance 0.000 | Confidence 0.500)
+Samuel Turner (diplomat)  (Relevance 0.222 | Confidence 1.836)
+Sarat  (Relevance 0.000 | Confidence 0.500)
+Sarat Chandra Das  (Relevance 0.181 | Confidence 1.244)
+Savage Landor  (Relevance 0.000 | Confidence 0.500)
+Sco ' Mitkilnngel  (Relevance 0.000 | Confidence 0.500)
+Sco a. T. S. Reparto  (Relevance 0.000 | Confidence 0.500)
+Shega Jong  (Relevance 0.000 | Confidence 0.500)
+Shigtse Jong  (Relevance 0.000 | Confidence 0.500)
+Sho-ta  (Relevance 0.000 | Confidence 0.500)
+Shobndo  (Relevance 0.000 | Confidence 0.500)
+Shobsdo  (Relevance 0.000 | Confidence 0.500)
+Sihn  (Relevance 0.000 | Confidence 0.500)
+Sing-gi Chu  (Relevance 0.000 | Confidence 0.500)
+Sni  (Relevance 0.000 | Confidence 0.500)
+Sok Chu  (Relevance 0.000 | Confidence 0.500)
+Somomn  (Relevance 0.000 | Confidence 0.500)
+Sskar Jong  (Relevance 0.000 | Confidence 0.500)
+Stewa~d  (Relevance 0.000 | Confidence 0.500)
+Strachey  (Relevance 0.000 | Confidence 0.500)
+Strechry  (Relevance 0.000 | Confidence 0.500)
+Surie C  (Relevance 0.000 | Confidence 0.500)
+Sven Hedin  (Relevance 0.185 | Confidence 10.540)
+T. S. Reporta  (Relevance 0.000 | Confidence 0.500)
+T. T. Cooper  (Relevance 0.000 | Confidence 0.500)
+T. T. Coopnr  (Relevance 0.000 | Confidence 0.500)
+Ta-kin-ho  (Relevance 0.000 | Confidence 0.500)
+Ta-thien-lu  (Relevance 0.000 | Confidence 0.500)
+Tagh  (Relevance 0.000 | Confidence 0.500)
+Tale Jarno  (Relevance 0.000 | Confidence 0.500)
+Tale Lama  (Relevance 0.301 | Confidence 0.500)
+Tale Lanla  (Relevance 0.000 | Confidence 0.500)
+Tangye Ling  (Relevance 0.000 | Confidence 0.500)
+Tashi  (Relevance 0.000 | Confidence 0.500)
+Tcngri  (Relevance 0.000 | Confidence 0.500)
+Te-ji  (Relevance 0.000 | Confidence 0.500)
+Teopri  (Relevance 0.000 | Confidence 0.500)
+Thomas Manning (sinologist)  (Relevance 0.258 | Confidence 1.981)
+Thomm Manning  (Relevance 0.000 | Confidence 0.500)
+Thoy  (Relevance 0.000 | Confidence 0.500)
+Tingri Jong  (Relevance 0.000 | Confidence 0.500)
+Tinki Jong  (Relevance 0.000 | Confidence 0.500)
+Tjhasa  (Relevance 0.000 | Confidence 0.500)
+Tliey  (Relevance 0.000 | Confidence 0.500)
+Tmvrle  (Relevance 0.000 | Confidence 0.500)
+Travclu  (Relevance 0.000 | Confidence 0.500)
+Tr~rsuli Gandak  (Relevance 0.000 | Confidence 0.500)
+Tsaitlam  (Relevance 0.000 | Confidence 0.500)
+Tsangpo Ly  (Relevance 0.000 | Confidence 0.500)
+Tsanle  (Relevance 0.000 | Confidence 0.500)
+Tse  (Relevance 0.000 | Confidence 0.500)
+Tse-dungs  (Relevance 0.000 | Confidence 0.500)
+Tso  (Relevance 0.000 | Confidence 0.500)
+Tsomo Lin  (Relevance 0.000 | Confidence 0.500)
+Tsona Jong  (Relevance 0.000 | Confidence 0.500)
+Tsong Kapa  (Relevance 0.000 | Confidence 0.500)
+Tsong-du-Chenlbo  (Relevance 0.218 | Confidence 0.500)
+Tssrong  (Relevance 0.000 | Confidence 0.500)
+Turner  (Relevance 0.000 | Confidence 0.500)
+U. G  (Relevance 0.000 | Confidence 0.500)
+Udalg~ri  (Relevance 0.000 | Confidence 0.500)
+W. F. O `` CONNOR  (Relevance 0.720 | Confidence 1.840)
+W. F. O `` Connor  (Relevance 0.720 | Confidence 1.840)
+W. L. Flctcher  (Relevance 0.000 | Confidence 0.500)
+W. Rockhill  (Relevance 0.000 | Confidence 0.500)
+W. Snvagn Lanilor  (Relevance 0.000 | Confidence 0.500)
+W. W. Hockhill  (Relevance 0.000 | Confidence 0.500)
+W. W. Rockl~ill  (Relevance 0.000 | Confidence 0.500)
+Warren Hasting0  (Relevance 0.000 | Confidence 0.500)
+Warren Hastings  (Relevance 0.137 | Confidence 4.778)
+William Gill (explorer)  (Relevance 0.162 | Confidence 1.204)
+Y un  (Relevance 0.000 | Confidence 0.500)
+Yalluug Kiang  (Relevance 0.000 | Confidence 0.500)
+Yamdok Teo  (Relevance 0.000 | Confidence 0.500)
+Yangtee Kian  (Relevance 0.000 | Confidence 0.500)
+Yangtse Kian  (Relevance 0.000 | Confidence 0.500)
+Yaru ' l  (Relevance 0.000 | Confidence 0.500)
+Yea ' Mongc~lia  (Relevance 0.000 | Confidence 0.500)
+Yenchelt  (Relevance 0.000 | Confidence 0.500)
+Yeu Gyalpo  (Relevance 0.000 | Confidence 0.500)
+Yrjcval~kg  (Relevance 0.000 | Confidence 0.500)
+Yum Tso  (Relevance 0.000 | Confidence 1.376)
+Yun-ka Rinpoche  (Relevance 0.000 | Confidence 0.500)
+Za-yul Chu  (Relevance 0.000 | Confidence 0.500)
+b Ope  (Relevance 0.000 | Confidence 0.500)
+chog Ling  (Relevance 0.000 | Confidence 0.500)
+chori  (Relevance 0.000 | Confidence 0.500)
+clebatc  (Relevance 0.000 | Confidence 0.500)
+courli  (Relevance 0.000 | Confidence 0.500)
+dings  (Relevance 0.000 | Confidence 0.500)
+follomt  (Relevance 0.000 | Confidence 0.500)
+hfarkham  (Relevance 0.000 | Confidence 0.500)
+htay  (Relevance 0.000 | Confidence 0.500)
+ibei1  (Relevance 0.000 | Confidence 0.500)
+ing  (Relevance 0.000 | Confidence 0.500)
+ing Tale Lama  (Relevance 0.000 | Confidence 0.500)
+ings  (Relevance 0.000 | Confidence 0.500)
+ltij~~hart  (Relevance 0.000 | Confidence 0.500)
+l~nn Rudda  (Relevance 0.000 | Confidence 0.500)
+mant  (Relevance 0.000 | Confidence 0.500)
+mcagre  (Relevance 0.000 | Confidence 0.500)
+mith Indin-Trade  (Relevance 0.301 | Confidence 0.500)
+naber  (Relevance 0.000 | Confidence 0.500)
+ni~mher  (Relevance 0.000 | Confidence 0.500)
+numbel  (Relevance 0.000 | Confidence 0.500)
+sod Trcbeck  (Relevance 0.000 | Confidence 0.500)
+tIis  (Relevance 0.000 | Confidence 0.500)
+tan  (Relevance 0.000 | Confidence 0.500)
+ted  (Relevance 0.000 | Confidence 0.500)
+tn Shigatse  (Relevance 0.000 | Confidence 0.500)
+tude  (Relevance 0.000 | Confidence 0.500)
+v Sciltrnlnoi Azii  (Relevance 0.000 | Confidence 0.500)
+van de Putte  (Relevance 0.000 | Confidence 0.500)
+vince  (Relevance 0.000 | Confidence 0.500)
+yab  (Relevance 0.000 | Confidence 0.500)
+
+/people/place_of_interment
+──────────
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Potala Palace  (Relevance 0.376 | Confidence 13.870)
+Rome  (Relevance 0.044 | Confidence 15.900)
+
+/people/profession
+──────────
+Abbot  (Relevance 0.129 | Confidence 1.175)
+Bard  (Relevance 0.020 | Confidence 0.971)
+Dairy  (Relevance 0.075 | Confidence 5.041)
+Friar  (Relevance 0.017 | Confidence 4.911)
+Geographer  (Relevance 0.020 | Confidence 1.134)
+Laity  (Relevance 0.100 | Confidence 3.892)
+Lama  (Relevance 0.000 | Confidence 4.342)
+Magistrate  (Relevance 0.117 | Confidence 1.046)
+Medical doctor  (Relevance 0.000 | Confidence 0.996)
+Missionary  (Relevance 0.118 | Confidence 6.011)
+Monk  (Relevance 0.094 | Confidence 7.399)
+Officer (armed forces)  (Relevance 0.070 | Confidence 4.899)
+Official  (Relevance 0.446 | Confidence 1.289)
+Priest  (Relevance 0.024 | Confidence 6.721)
+Private secretary  (Relevance 0.098 | Confidence 1.089)
+Regent  (Relevance 0.120 | Confidence 1.655)
+Surveying  (Relevance 0.099 | Confidence 1.076)
+Tribal chief  (Relevance 0.139 | Confidence 1.051)
+
+/people/professional_field
+──────────
+Law  (Relevance 0.065 | Confidence 2.807)
+Politics  (Relevance 0.017 | Confidence 1.208)
+
+/periodicals/newspaper_circulation_area
+──────────
+Asia  (Relevance 0.389 | Confidence 14.760)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bengal  (Relevance 0.212 | Confidence 7.223)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+British Empire  (Relevance 0.242 | Confidence 2.171)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Kathmandu  (Relevance 0.137 | Confidence 10.240)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Nome, Alaska  (Relevance 0.104 | Confidence 1.783)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Turku  (Relevance 0.027 | Confidence 1.650)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+Xinjiang  (Relevance 0.080 | Confidence 10.150)
+
+/projects/project
+──────────
+Great Trigonometrical Survey  (Relevance 0.047 | Confidence 3.212)
+
+/projects/project_focus
+──────────
+Chain Bridge (Potomac River)  (Relevance 0.038 | Confidence 1.378)
+Potala Palace  (Relevance 0.376 | Confidence 13.870)
+Sera Monastery  (Relevance 0.267 | Confidence 3.295)
+Vera C. Rubin Observatory  (Relevance 0.016 | Confidence 1.943)
+
+/projects/project_participant
+──────────
+European Union  (Relevance 0.029 | Confidence 7.971)
+
+/projects/project_role
+──────────
+Surveying  (Relevance 0.099 | Confidence 1.076)
+
+/protected_sites/listed_site
+──────────
+Acre, Israel  (Relevance 0.027 | Confidence 3.164)
+Potala Palace  (Relevance 0.376 | Confidence 13.870)
+Rome  (Relevance 0.044 | Confidence 15.900)
+
+/protected_sites/protected_site
+──────────
+Gandaki River  (Relevance 0.278 | Confidence 8.193)
+
+/radio/radio_subject
+──────────
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/religion/adherents
+──────────
+Hindus  (Relevance 0.000 | Confidence 1.803)
+
+/religion/deity
+──────────
+Brahma  (Relevance 0.018 | Confidence 3.686)
+Genius (mythology)  (Relevance 0.034 | Confidence 1.705)
+Kali  (Relevance 0.042 | Confidence 1.030)
+Tengri  (Relevance 0.041 | Confidence 3.000)
+
+/religion/monastery
+──────────
+Sera Monastery  (Relevance 0.267 | Confidence 3.295)
+
+/religion/place_of_worship
+──────────
+Samye  (Relevance 0.160 | Confidence 6.331)
+Sera Monastery  (Relevance 0.267 | Confidence 3.295)
+
+/religion/religion
+──────────
+Hindus  (Relevance 0.000 | Confidence 1.803)
+Nyingma  (Relevance 0.201 | Confidence 17.200)
+Sakya  (Relevance 0.203 | Confidence 9.850)
+
+/religion/religious_leadership_jurisdiction
+──────────
+England  (Relevance 0.248 | Confidence 1.361)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/religion/religious_leadership_role
+──────────
+Abbot  (Relevance 0.129 | Confidence 1.175)
+
+/religion/religious_leadership_title
+──────────
+Friar  (Relevance 0.017 | Confidence 4.911)
+Priest  (Relevance 0.024 | Confidence 6.721)
+
+/religion/religious_order
+──────────
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Order of Friars Minor Capuchin  (Relevance 0.106 | Confidence 4.081)
+
+/religion/religious_organization
+──────────
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Order of Friars Minor Capuchin  (Relevance 0.106 | Confidence 4.081)
+
+/religion/type_of_place_of_worship
+──────────
+Monastery  (Relevance 0.127 | Confidence 8.479)
+Temple  (Relevance 0.013 | Confidence 1.146)
+
+/royalty/chivalric_order_member
+──────────
+Joseph Dalton Hooker  (Relevance 0.138 | Confidence 1.615)
+
+/royalty/kingdom
+──────────
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+China  (Relevance 0.682 | Confidence 42.780)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Sikkim  (Relevance 0.036 | Confidence 10.630)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+
+/royalty/noble_rank
+──────────
+Emir  (Relevance 0.130 | Confidence 1.127)
+Esquire  (Relevance 0.123 | Confidence 1.422)
+Tribal chief  (Relevance 0.139 | Confidence 1.051)
+Viceroy  (Relevance 0.100 | Confidence 4.376)
+
+/royalty/noble_title
+──────────
+Emperor of China  (Relevance 0.067 | Confidence 3.962)
+
+/royalty/order_of_chivalry
+──────────
+Distinguished Service Order  (Relevance 0.000 | Confidence 1.693)
+
+/royalty/royal_line
+──────────
+Qing dynasty  (Relevance 0.130 | Confidence 1.569)
+Tang dynasty  (Relevance 0.000 | Confidence 2.288)
+
+/royalty/system_of_nobility
+──────────
+China  (Relevance 0.682 | Confidence 42.780)
+
+/sports/sport_country
+──────────
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/sports/sports_equipment
+──────────
+Bullet  (Relevance 0.036 | Confidence 1.300)
+Compass  (Relevance 0.050 | Confidence 2.995)
+Foot  (Relevance 0.015 | Confidence 0.970)
+Map  (Relevance 0.000 | Confidence 1.669)
+
+/sports/sports_team_location
+──────────
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Kathmandu  (Relevance 0.137 | Confidence 10.240)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Turku  (Relevance 0.027 | Confidence 1.650)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/symbols/coat_of_arms_bearer
+──────────
+Hungary  (Relevance 0.046 | Confidence 8.478)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+
+/symbols/flag_referent
+──────────
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+European Union  (Relevance 0.029 | Confidence 7.971)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/symbols/name_source
+──────────
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+France  (Relevance 0.108 | Confidence 2.643)
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Maize  (Relevance 0.085 | Confidence 17.230)
+Netherlands  (Relevance 0.034 | Confidence 2.017)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Sven Hedin  (Relevance 0.185 | Confidence 10.540)
+Turku  (Relevance 0.027 | Confidence 1.650)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/symbols/namesake
+──────────
+Cereal  (Relevance 0.037 | Confidence 8.152)
+Europe  (Relevance 0.082 | Confidence 1.739)
+Jesuits  (Relevance 0.105 | Confidence 5.563)
+Mount Everest  (Relevance 0.113 | Confidence 4.201)
+Ocean  (Relevance 0.091 | Confidence 7.458)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+
+/theater/theater_genre
+──────────
+Politics  (Relevance 0.017 | Confidence 1.208)
+
+/time/holiday
+──────────
+Yule  (Relevance 0.022 | Confidence 1.356)
+
+/time/holiday_category
+──────────
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/time_series/unit
+──────────
+Mile  (Relevance 0.153 | Confidence 2.574)
+PH  (Relevance 0.000 | Confidence 1.661)
+Pint  (Relevance 0.038 | Confidence 1.600)
+Second  (Relevance 0.020 | Confidence 1.871)
+Twenty-foot equivalent unit  (Relevance 0.025 | Confidence 3.515)
+
+/transportation/bridge
+──────────
+Chain Bridge (Potomac River)  (Relevance 0.038 | Confidence 1.378)
+
+/transportation/bridge_type
+──────────
+Suspension bridge  (Relevance 0.091 | Confidence 5.259)
+
+/travel/hotel_brand_owner
+──────────
+Accor  (Relevance 0.014 | Confidence 2.158)
+
+/travel/hotel_operator
+──────────
+Accor  (Relevance 0.014 | Confidence 2.158)
+
+/travel/tourist_attraction
+──────────
+Ganges  (Relevance 0.226 | Confidence 9.584)
+Ladakh  (Relevance 0.194 | Confidence 1.621)
+Pemba Island  (Relevance 0.044 | Confidence 2.529)
+Potala Palace  (Relevance 0.376 | Confidence 13.870)
+
+/travel/transport_terminus
+──────────
+Beijing  (Relevance 0.098 | Confidence 10.910)
+
+/travel/transportation_mode
+──────────
+Ferry  (Relevance 0.110 | Confidence 3.700)
+
+/travel/travel_destination
+──────────
+Acre, Israel  (Relevance 0.027 | Confidence 3.164)
+Agra  (Relevance 0.043 | Confidence 4.098)
+Asia  (Relevance 0.389 | Confidence 14.760)
+Beijing  (Relevance 0.098 | Confidence 10.910)
+Bhutan  (Relevance 0.467 | Confidence 7.093)
+China  (Relevance 0.682 | Confidence 42.780)
+Darjeeling  (Relevance 0.176 | Confidence 9.201)
+England  (Relevance 0.248 | Confidence 1.361)
+Europe  (Relevance 0.082 | Confidence 1.739)
+France  (Relevance 0.108 | Confidence 2.643)
+Hungary  (Relevance 0.046 | Confidence 8.478)
+India  (Relevance 0.393 | Confidence 15.050)
+Kathmandu  (Relevance 0.137 | Confidence 10.240)
+Kolkata  (Relevance 0.067 | Confidence 9.222)
+Ladakh  (Relevance 0.194 | Confidence 1.621)
+Leh  (Relevance 0.110 | Confidence 6.581)
+Lhasa  (Relevance 0.303 | Confidence 13.370)
+Mekong  (Relevance 0.188 | Confidence 5.388)
+Miri  (Relevance 0.050 | Confidence 1.489)
+Mongolia  (Relevance 0.192 | Confidence 1.947)
+Montana  (Relevance 0.055 | Confidence 6.361)
+Myanmar  (Relevance 0.117 | Confidence 2.711)
+Nepal  (Relevance 0.521 | Confidence 1.673)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Rome  (Relevance 0.044 | Confidence 15.900)
+Russia  (Relevance 0.099 | Confidence 2.577)
+Sichuan  (Relevance 0.153 | Confidence 12.130)
+Sweden  (Relevance 0.067 | Confidence 2.815)
+Tibet  (Relevance 0.940 | Confidence 61.760)
+Tibet Autonomous Region  (Relevance 0.283 | Confidence 1.245)
+Turku  (Relevance 0.027 | Confidence 1.650)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/tv/tv_genre
+──────────
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/tv/tv_location
+──────────
+China  (Relevance 0.682 | Confidence 42.780)
+England  (Relevance 0.248 | Confidence 1.361)
+India  (Relevance 0.393 | Confidence 15.050)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Russia  (Relevance 0.099 | Confidence 2.577)
+United Kingdom  (Relevance 0.081 | Confidence 3.143)
+United States  (Relevance 0.053 | Confidence 3.998)
+
+/tv/tv_network
+──────────
+ANT1  (Relevance 0.032 | Confidence 5.394)
+
+/tv/tv_program_creator
+──────────
+ANT1  (Relevance 0.032 | Confidence 5.394)
+
+/tv/tv_subject
+──────────
+Geography  (Relevance 0.263 | Confidence 7.712)
+Jealousy  (Relevance 0.069 | Confidence 1.134)
+Missionary  (Relevance 0.118 | Confidence 6.011)
+Politics  (Relevance 0.017 | Confidence 1.208)
+Religion  (Relevance 0.150 | Confidence 8.095)
+
+/type/unit
+──────────
+Mile  (Relevance 0.153 | Confidence 2.574)
+PH  (Relevance 0.000 | Confidence 1.661)
+Pint  (Relevance 0.038 | Confidence 1.600)
+Second  (Relevance 0.020 | Confidence 1.871)
+Twenty-foot equivalent unit  (Relevance 0.025 | Confidence 3.515)
+
+/visual_art/art_subject
+──────────
+Foot  (Relevance 0.015 | Confidence 0.970)
+France  (Relevance 0.108 | Confidence 2.643)
+Geographer  (Relevance 0.020 | Confidence 1.134)
+Hat  (Relevance 0.173 | Confidence 1.648)
+Medical doctor  (Relevance 0.000 | Confidence 0.996)
+Mountain  (Relevance 0.564 | Confidence 6.129)
+Paris  (Relevance 0.037 | Confidence 14.480)
+Priesthood in the Catholic Church  (Relevance 0.019 | Confidence 4.185)
+River  (Relevance 0.000 | Confidence 2.288)
+Rural area  (Relevance 0.586 | Confidence 2.023)
+Sea  (Relevance 0.139 | Confidence 1.693)
+Sheep  (Relevance 0.134 | Confidence 9.344)
+Wheat  (Relevance 0.125 | Confidence 14.100)
+
+/visual_art/visual_art_form
+──────────
+Statue  (Relevance 0.011 | Confidence 0.979)
+
+/visual_art/visual_art_medium
+──────────
+Clay  (Relevance 0.004 | Confidence 1.632)
+Granite  (Relevance 0.069 | Confidence 11.060)
+Iron  (Relevance 0.064 | Confidence 11.850)
+Leather  (Relevance 0.046 | Confidence 4.134)
+Sand  (Relevance 0.044 | Confidence 1.616)
+Sandstone  (Relevance 0.067 | Confidence 11.350)
+Silk  (Relevance 0.105 | Confidence 7.392)
+Silver  (Relevance 0.030 | Confidence 6.899)
+Tile  (Relevance 0.027 | Confidence 3.073)
+Water  (Relevance 0.137 | Confidence 2.222)
+Wool  (Relevance 0.112 | Confidence 8.261)
+
+/visual_art/visual_art_support
+──────────
+Clay  (Relevance 0.004 | Confidence 1.632)
+
+Topics
+──────
+Tibet  (Score 1.000)
+China  (Score 1.000)
+Tibet (1912–1951)  (Score 1.000)
+Mountain  (Score 1.000)
+Nepal  (Score 1.000)
+Mountain range  (Score 1.000)
+Bhutan  (Score 1.000)
+Earth sciences  (Score 1.000)
+India  (Score 0.995)
+Rural area  (Score 0.939)
+Changtang  (Score 0.911)
+Lhasa  (Score 0.903)
+Asia  (Score 0.870)
+Geomorphology  (Score 0.826)
+Physical geography  (Score 0.776)
+Official  (Score 0.715)
+Ngari Prefecture  (Score 0.713)
+Physiographic divisions  (Score 0.656)
+Potala Palace  (Score 0.656)
+Brahmaputra River  (Score 0.639)
+Drainage basin  (Score 0.629)
+Tawang  (Score 0.616)
+Salween River  (Score 0.615)
+Chumbi Valley  (Score 0.584)
+Landscape  (Score 0.583)
+Yarlung Tsangpo  (Score 0.568)
+Himalayas  (Score 0.553)
+Mountains  (Score 0.543)
+Continent  (Score 0.538)
+Shigatse  (Score 0.522)
+Tibetans  (Score 0.516)
+Geography of Tibet  (Score 0.511)
+Gandaki River  (Score 0.485)
+Yangtze  (Score 0.483)
+Provinces of China  (Score 0.475)
+Tibet Autonomous Region  (Score 0.468)
+Gartok  (Score 0.462)
+Kumaon division  (Score 0.448)
+Arun River (China–Nepal)  (Score 0.445)
+Sutlej  (Score 0.443)
+Presidencies and provinces of British India  (Score 0.441)
+Geography  (Score 0.422)
+Amban  (Score 0.406)
+Circle of latitude  (Score 0.405)
+Ganden Phodrang  (Score 0.399)
+England  (Score 0.398)
+Ganges  (Score 0.395)
+Topography  (Score 0.393)
+Gyantse  (Score 0.392)
+Ghaghara  (Score 0.385)
+Sera Monastery  (Score 0.376)
+Golok people  (Score 0.365)
+Natural sciences  (Score 0.357)
+Gipmochi  (Score 0.353)
+Tawang district  (Score 0.351)
+Aksai Chin  (Score 0.342)
+Mount Kailash  (Score 0.340)
+British Empire  (Score 0.340)
+Jelep La  (Score 0.328)
+Batang, Sichuan  (Score 0.311)
+Kosi River  (Score 0.303)
+Sakya  (Score 0.286)
+Thomas Manning (sinologist)  (Score 0.276)
+Geographical areas  (Score 0.266)
+Shannan, Tibet  (Score 0.265)
+Scientific method  (Score 0.256)
+Arthur Douglas Carey  (Score 0.253)
+Fluvial landforms  (Score 0.247)
+Kham  (Score 0.245)
+Samuel Turner (diplomat)  (Score 0.237)
+Bodies of water  (Score 0.229)
+Bengal  (Score 0.226)
+History of Tibet  (Score 0.225)
+Kalimpong  (Score 0.218)
+Nyingma  (Score 0.215)
+Aquatic biomes  (Score 0.204)
+Hydrology  (Score 0.196)
+Water streams  (Score 0.190)
+Freshwater ecology  (Score 0.185)
+Turkistan (city)  (Score 0.175)
+Geology  (Score 0.170)
+Inner Asia  (Score 0.170)
+Geophysics  (Score 0.148)
+East Asia  (Score 0.147)
+Lithosphere  (Score 0.144)
+Water  (Score 0.140)
+Lands inhabited  (Score 0.137)
+Terrestrial planets  (Score 0.133)
+Limnology  (Score 0.132)
+Planets of the Solar System  (Score 0.129)
+Hydrography  (Score 0.128)
+Forms of water  (Score 0.124)
+Structure of the Earth  (Score 0.115)
+Earth's crust  (Score 0.112)
+Indigenous land rights  (Score 0.105)
+Environmental science  (Score 0.097)
+Cultural regions  (Score 0.091)
+Aquatic ecology  (Score 0.078)
+Mountain ranges  (Score 0.067)
+Morphology  (Score 0.061)
+Religion  (Score 0.059)
+Mountain geomorphology  (Score 0.054)
+Water and the environment  (Score 0.052)
+
+=== CHUNK 2 (19.70 KB) ===
+
+/architecture/architectural_structure_owner
+──────────
+Warren Hastings  (Relevance 0.095 | Confidence 3.304)
+
+/architecture/building
+──────────
+Potala Palace  (Relevance 0.379 | Confidence 9.233)
+
+/architecture/building_function
+──────────
+Monastery  (Relevance 0.148 | Confidence 6.961)
+
+/architecture/structure
+──────────
+Potala Palace  (Relevance 0.379 | Confidence 9.233)
+
+/astronomy/telescope_platform
+──────────
+Sea  (Relevance 0.055 | Confidence 0.971)
+
+/aviation/aircraft_owner
+──────────
+People's Liberation Army  (Relevance 0.096 | Confidence 1.154)
+
+/award/award_discipline
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/award/award_winner
+──────────
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+
+/biology/breed_origin
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+
+/book/author
+──────────
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+Warren Hastings  (Relevance 0.095 | Confidence 3.304)
+Évariste Régis Huc  (Relevance 0.241 | Confidence 1.426)
+
+/book/book_binding
+──────────
+Leather  (Relevance 0.038 | Confidence 2.563)
+
+/book/book_subject
+──────────
+Artillery  (Relevance 0.075 | Confidence 7.714)
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+China  (Relevance 0.521 | Confidence 40.250)
+Civilization  (Relevance 0.345 | Confidence 1.925)
+Coin  (Relevance 0.000 | Confidence 1.349)
+Copper  (Relevance 0.000 | Confidence 10.520)
+Dalai Lama  (Relevance 0.320 | Confidence 1.754)
+Desert  (Relevance 0.000 | Confidence 1.031)
+Drainage basin  (Relevance 0.055 | Confidence 1.404)
+Fen  (Relevance 0.045 | Confidence 1.442)
+Foot  (Relevance 0.022 | Confidence 1.060)
+Grilling  (Relevance 0.107 | Confidence 1.405)
+India  (Relevance 0.388 | Confidence 14.330)
+Manuscript  (Relevance 0.330 | Confidence 1.123)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Mongols  (Relevance 0.234 | Confidence 19.500)
+Monk  (Relevance 0.005 | Confidence 1.417)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Ocean  (Relevance 0.026 | Confidence 1.056)
+People's Liberation Army  (Relevance 0.096 | Confidence 1.154)
+Pope  (Relevance 0.146 | Confidence 8.784)
+Prelate  (Relevance 0.114 | Confidence 1.586)
+Reincarnation  (Relevance 0.097 | Confidence 1.045)
+Relief  (Relevance 0.045 | Confidence 1.057)
+Religion  (Relevance 0.060 | Confidence 6.523)
+Religious text  (Relevance 0.153 | Confidence 1.094)
+Saint  (Relevance 0.076 | Confidence 1.246)
+Silver  (Relevance 0.032 | Confidence 10.450)
+Skirmisher  (Relevance 0.097 | Confidence 1.012)
+Subsidy  (Relevance 0.066 | Confidence 2.613)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+Tile  (Relevance 0.017 | Confidence 1.192)
+Trade  (Relevance 0.050 | Confidence 1.663)
+Treaty  (Relevance 0.140 | Confidence 4.106)
+Tribute  (Relevance 0.112 | Confidence 1.188)
+War  (Relevance 0.073 | Confidence 1.799)
+Warren Hastings  (Relevance 0.095 | Confidence 3.304)
+World War II  (Relevance 0.144 | Confidence 1.808)
+Xinjiang  (Relevance 0.308 | Confidence 12.620)
+
+/book/magazine_genre
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/book/periodical_subject
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+China  (Relevance 0.521 | Confidence 40.250)
+Ocean  (Relevance 0.026 | Confidence 1.056)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/book/translator
+──────────
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+
+/book/written_work
+──────────
+Manuscript  (Relevance 0.330 | Confidence 1.123)
+
+/broadcast/broadcast
+──────────
+WHCN  (Relevance 0.000 | Confidence 2.889)
+
+/broadcast/content
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/broadcast/genre
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+
+/broadcast/radio_format
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/broadcast/radio_station
+──────────
+WHCN  (Relevance 0.000 | Confidence 2.889)
+
+/broadcast/radio_station_owner
+──────────
+People's Liberation Army  (Relevance 0.096 | Confidence 1.154)
+
+/business/business_location
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/business/business_operation
+──────────
+ANT1  (Relevance 0.000 | Confidence 4.763)
+Cvent  (Relevance 0.000 | Confidence 2.649)
+
+/business/employer
+──────────
+ANT1  (Relevance 0.000 | Confidence 4.763)
+Beijing  (Relevance 0.068 | Confidence 13.100)
+India  (Relevance 0.388 | Confidence 14.330)
+WHCN  (Relevance 0.000 | Confidence 2.889)
+
+/business/industry
+──────────
+Coin  (Relevance 0.000 | Confidence 1.349)
+
+/business/job_title
+──────────
+Skirmisher  (Relevance 0.097 | Confidence 1.012)
+
+/business/product_category
+──────────
+Cannon  (Relevance 0.072 | Confidence 1.491)
+Coin  (Relevance 0.000 | Confidence 1.349)
+Foot  (Relevance 0.022 | Confidence 1.060)
+Grilling  (Relevance 0.107 | Confidence 1.405)
+
+/business/product_ingredient
+──────────
+Leather  (Relevance 0.038 | Confidence 2.563)
+
+/business/product_theme
+──────────
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/chemistry/chemical_compound
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+Tetrahydrocannabinol  (Relevance 0.160 | Confidence 2.229)
+
+/chemistry/chemical_element
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+Silver  (Relevance 0.032 | Confidence 10.450)
+
+/chemistry/molecular_entity
+──────────
+Ion  (Relevance 0.000 | Confidence 5.150)
+
+/conferences/conference_subject
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/cvg/computer_game_subject
+──────────
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/education/academic
+──────────
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+
+/education/field_of_study
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+China  (Relevance 0.521 | Confidence 40.250)
+Civilization  (Relevance 0.345 | Confidence 1.925)
+Coin  (Relevance 0.000 | Confidence 1.349)
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/engineering/material
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+Leather  (Relevance 0.038 | Confidence 2.563)
+Silver  (Relevance 0.032 | Confidence 10.450)
+Tile  (Relevance 0.017 | Confidence 1.192)
+
+/event/speech_topic
+──────────
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/exhibitions/exhibition_subject
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+China  (Relevance 0.521 | Confidence 40.250)
+Ocean  (Relevance 0.026 | Confidence 1.056)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/fictional_universe/character_occupation
+──────────
+Monk  (Relevance 0.005 | Confidence 1.417)
+Skirmisher  (Relevance 0.097 | Confidence 1.012)
+
+/fictional_universe/character_rank
+──────────
+Skirmisher  (Relevance 0.097 | Confidence 1.012)
+
+/fictional_universe/fictional_job_title
+──────────
+Monk  (Relevance 0.005 | Confidence 1.417)
+Skirmisher  (Relevance 0.097 | Confidence 1.012)
+
+/fictional_universe/fictional_organization_type
+──────────
+Skirmisher  (Relevance 0.097 | Confidence 1.012)
+
+/fictional_universe/fictional_setting
+──────────
+Bengal  (Relevance 0.079 | Confidence 7.725)
+China  (Relevance 0.521 | Confidence 40.250)
+Desert  (Relevance 0.000 | Confidence 1.031)
+India  (Relevance 0.388 | Confidence 14.330)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+
+/fictional_universe/person_in_fiction
+──────────
+Kublai Khan  (Relevance 0.552 | Confidence 24.360)
+
+/fictional_universe/type_of_fictional_setting
+──────────
+Desert  (Relevance 0.000 | Confidence 1.031)
+
+/film/film_genre
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+Saint  (Relevance 0.076 | Confidence 1.246)
+War  (Relevance 0.073 | Confidence 1.799)
+
+/film/film_location
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Ladakh  (Relevance 0.249 | Confidence 14.150)
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+
+/film/film_subject
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+China  (Relevance 0.521 | Confidence 40.250)
+Genghis Khan  (Relevance 0.406 | Confidence 2.085)
+India  (Relevance 0.388 | Confidence 14.330)
+Pope  (Relevance 0.146 | Confidence 8.784)
+Reincarnation  (Relevance 0.097 | Confidence 1.045)
+Religion  (Relevance 0.060 | Confidence 6.523)
+Tibetan Buddhism  (Relevance 0.679 | Confidence 8.966)
+War  (Relevance 0.073 | Confidence 1.799)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/film/person_or_entity_appearing_in_film
+──────────
+Dalai Lama  (Relevance 0.320 | Confidence 1.754)
+
+/finance/currency
+──────────
+Indian rupee  (Relevance 0.764 | Confidence 5.060)
+Paisa  (Relevance 0.048 | Confidence 5.266)
+Penny  (Relevance 0.096 | Confidence 1.821)
+
+/food/beer_country_region
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/food/beer_style
+──────────
+Ale  (Relevance 0.016 | Confidence 1.209)
+
+/food/culinary_technique
+──────────
+Grilling  (Relevance 0.107 | Confidence 1.405)
+
+/food/food
+──────────
+Ale  (Relevance 0.016 | Confidence 1.209)
+
+/food/ingredient
+──────────
+Ale  (Relevance 0.016 | Confidence 1.209)
+
+/food/nutrient
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+
+/geography/body_of_water
+──────────
+Sutlej  (Relevance 0.129 | Confidence 6.520)
+Teesta River  (Relevance 0.124 | Confidence 10.490)
+
+/geography/geographical_feature
+──────────
+Jelep La  (Relevance 0.332 | Confidence 9.222)
+Kathmandu Valley  (Relevance 0.091 | Confidence 1.928)
+Sutlej  (Relevance 0.129 | Confidence 6.520)
+Teesta River  (Relevance 0.124 | Confidence 10.490)
+
+/geography/geographical_feature_category
+──────────
+Desert  (Relevance 0.000 | Confidence 1.031)
+Drainage basin  (Relevance 0.055 | Confidence 1.404)
+Fen  (Relevance 0.045 | Confidence 1.442)
+Ocean  (Relevance 0.026 | Confidence 1.056)
+Sea  (Relevance 0.055 | Confidence 0.971)
+
+/geography/glacier_terminus
+──────────
+Ocean  (Relevance 0.026 | Confidence 1.056)
+
+/geography/mountain_pass
+──────────
+Jelep La  (Relevance 0.332 | Confidence 9.222)
+
+/geography/river
+──────────
+Sutlej  (Relevance 0.129 | Confidence 6.520)
+Teesta River  (Relevance 0.124 | Confidence 10.490)
+
+/government/government
+──────────
+Government of Nepal  (Relevance 0.077 | Confidence 2.647)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/government/government_office_category
+──────────
+Governor-general  (Relevance 0.027 | Confidence 1.007)
+Prince  (Relevance 0.103 | Confidence 0.960)
+
+/government/government_office_or_title
+──────────
+Emperor of China  (Relevance 0.154 | Confidence 0.974)
+
+/government/governmental_jurisdiction
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Bengal  (Relevance 0.079 | Confidence 7.725)
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+
+/government/political_district
+──────────
+Boundary commissions (United Kingdom)  (Relevance 0.023 | Confidence 1.942)
+
+/government/politician
+──────────
+Warren Hastings  (Relevance 0.095 | Confidence 3.304)
+
+/influence/influence_node
+──────────
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+
+/interests/collection_category
+──────────
+Cannon  (Relevance 0.072 | Confidence 1.491)
+Coin  (Relevance 0.000 | Confidence 1.349)
+
+/interests/hobby
+──────────
+Grilling  (Relevance 0.107 | Confidence 1.405)
+
+/interests/interest
+──────────
+Grilling  (Relevance 0.107 | Confidence 1.405)
+
+/language/language_writing_system
+──────────
+Devanagari  (Relevance 0.253 | Confidence 13.340)
+
+/law/court_jurisdiction_area
+──────────
+India  (Relevance 0.388 | Confidence 14.330)
+
+/law/legal_subject
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/location/administrative_division
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Bengal  (Relevance 0.079 | Confidence 7.725)
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+Litang County  (Relevance 0.192 | Confidence 3.966)
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+Xinjiang  (Relevance 0.308 | Confidence 12.620)
+
+/location/capital_of_administrative_division
+──────────
+Jammu  (Relevance 0.107 | Confidence 4.382)
+
+/location/citytown
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Chalon-sur-Saône  (Relevance 0.055 | Confidence 0.969)
+Darjeeling  (Relevance 0.242 | Confidence 7.259)
+Derge  (Relevance 0.106 | Confidence 3.824)
+Hanle (village)  (Relevance 0.140 | Confidence 2.940)
+Hotan  (Relevance 0.083 | Confidence 13.880)
+Jammu  (Relevance 0.107 | Confidence 4.382)
+Kathmandu  (Relevance 0.175 | Confidence 13.710)
+Leh  (Relevance 0.132 | Confidence 4.804)
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+Litang County  (Relevance 0.192 | Confidence 3.966)
+Rudok  (Relevance 0.171 | Confidence 4.933)
+Turkistan (city)  (Relevance 0.115 | Confidence 1.583)
+Yatung  (Relevance 0.245 | Confidence 6.287)
+
+/location/cn_autonomous_region
+──────────
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+Xinjiang  (Relevance 0.308 | Confidence 12.620)
+
+/location/cn_county_level_city
+──────────
+Litang County  (Relevance 0.192 | Confidence 3.966)
+
+/location/cn_municipality
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+
+/location/cn_prefecture_level_city
+──────────
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+
+/location/country
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+Tibetan Empire  (Relevance 0.510 | Confidence 1.052)
+
+/location/dated_location
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Bengal  (Relevance 0.079 | Confidence 7.725)
+Chalon-sur-Saône  (Relevance 0.055 | Confidence 0.969)
+China  (Relevance 0.521 | Confidence 40.250)
+Darjeeling  (Relevance 0.242 | Confidence 7.259)
+Derge  (Relevance 0.106 | Confidence 3.824)
+Hanle (village)  (Relevance 0.140 | Confidence 2.940)
+Hotan  (Relevance 0.083 | Confidence 13.880)
+India  (Relevance 0.388 | Confidence 14.330)
+Jammu  (Relevance 0.107 | Confidence 4.382)
+Kathmandu  (Relevance 0.175 | Confidence 13.710)
+Kathmandu Valley  (Relevance 0.091 | Confidence 1.928)
+Leh  (Relevance 0.132 | Confidence 4.804)
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+Litang County  (Relevance 0.192 | Confidence 3.966)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Rudok  (Relevance 0.171 | Confidence 4.933)
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+Turkistan (city)  (Relevance 0.115 | Confidence 1.583)
+Xinjiang  (Relevance 0.308 | Confidence 12.620)
+Yatung  (Relevance 0.245 | Confidence 6.287)
+
+/location/in_city
+──────────
+Jammu  (Relevance 0.107 | Confidence 4.382)
+
+/location/in_state
+──────────
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+
+/location/location
+──────────
+Amdo  (Relevance 0.145 | Confidence 1.417)
+Anglo-Scottish border  (Relevance 0.037 | Confidence 1.832)
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Bengal  (Relevance 0.079 | Confidence 7.725)
+Burmah  (Relevance 0.000 | Confidence 0.500)
+Central  (Relevance 0.000 | Confidence 0.500)
+Chalon-sur-Saône  (Relevance 0.055 | Confidence 0.969)
+China  (Relevance 0.521 | Confidence 40.250)
+Chinew  (Relevance 0.347 | Confidence 0.500)
+Chumbi Valley  (Relevance 0.560 | Confidence 3.788)
+Darjeeling  (Relevance 0.242 | Confidence 7.259)
+De-bung  (Relevance 0.000 | Confidence 0.500)
+Derge  (Relevance 0.106 | Confidence 3.824)
+Dingli Jlaitlan  (Relevance 0.000 | Confidence 0.500)
+Dzungaria  (Relevance 0.099 | Confidence 7.085)
+Ga-den  (Relevance 0.170 | Confidence 0.500)
+Gya  (Relevance 0.000 | Confidence 0.500)
+Gya-de  (Relevance 0.000 | Confidence 0.500)
+Hanle (village)  (Relevance 0.140 | Confidence 2.940)
+Hotan  (Relevance 0.083 | Confidence 13.880)
+India  (Relevance 0.388 | Confidence 14.330)
+Jammu  (Relevance 0.107 | Confidence 4.382)
+Jelep La  (Relevance 0.332 | Confidence 9.222)
+Jong  (Relevance 0.000 | Confidence 0.500)
+Jonkha Jong  (Relevance 0.000 | Confidence 0.500)
+Joukha  (Relevance 0.000 | Confidence 0.500)
+Kan-su  (Relevance 0.000 | Confidence 0.500)
+Kathmandu  (Relevance 0.175 | Confidence 13.710)
+Kathmandu Valley  (Relevance 0.091 | Confidence 1.928)
+Kham  (Relevance 0.271 | Confidence 4.098)
+Kirong  (Relevance 0.000 | Confidence 0.500)
+Kirong tllcy  (Relevance 0.000 | Confidence 0.500)
+Ladakh  (Relevance 0.249 | Confidence 14.150)
+Leh  (Relevance 0.132 | Confidence 4.804)
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+Litang County  (Relevance 0.192 | Confidence 3.966)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Nsrayan  (Relevance 0.000 | Confidence 0.500)
+Nya-nam  (Relevance 0.000 | Confidence 0.500)
+Nya-rong  (Relevance 0.000 | Confidence 0.500)
+Nyanam  (Relevance 0.000 | Confidence 0.500)
+Nyauam  (Relevance 0.000 | Confidence 0.500)
+Pebio  (Relevance 0.000 | Confidence 0.500)
+Potala Palace  (Relevance 0.379 | Confidence 9.233)
+Potala aud  (Relevance 0.000 | Confidence 0.500)
+Pricst  (Relevance 0.000 | Confidence 0.500)
+Rudok  (Relevance 0.171 | Confidence 4.933)
+Se-chuan  (Relevance 0.000 | Confidence 0.500)
+Si-ning  (Relevance 0.000 | Confidence 0.500)
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+Sikkim-Tibet  (Relevance 0.000 | Confidence 0.500)
+Sutlej  (Relevance 0.129 | Confidence 6.520)
+Takhi-Lhunpo  (Relevance 0.000 | Confidence 0.500)
+Takla Malian  (Relevance 0.188 | Confidence 0.500)
+Tashi Lhunpo Monastery  (Relevance 0.263 | Confidence 3.160)
+Tashi-Lhuopo  (Relevance 0.000 | Confidence 0.500)
+Teesta River  (Relevance 0.124 | Confidence 10.490)
+Teugri Nor  (Relevance 0.000 | Confidence 0.500)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+Tibet--a  (Relevance 0.417 | Confidence 0.500)
+Turkistan (city)  (Relevance 0.115 | Confidence 1.583)
+Ua-tang  (Relevance 0.000 | Confidence 0.500)
+Xinjiang  (Relevance 0.308 | Confidence 12.620)
+Xlanasarowar  (Relevance 0.000 | Confidence 0.500)
+Yatung  (Relevance 0.245 | Confidence 6.287)
+hina  (Relevance 0.070 | Confidence 0.500)
+pacific  (Relevance 0.000 | Confidence 0.500)
+palgn  (Relevance 0.000 | Confidence 0.500)
+rong  (Relevance 0.000 | Confidence 0.500)
+states  (Relevance 0.000 | Confidence 0.500)
+
+/location/statistical_region
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Bengal  (Relevance 0.079 | Confidence 7.725)
+Chalon-sur-Saône  (Relevance 0.055 | Confidence 0.969)
+China  (Relevance 0.521 | Confidence 40.250)
+Darjeeling  (Relevance 0.242 | Confidence 7.259)
+Derge  (Relevance 0.106 | Confidence 3.824)
+Hanle (village)  (Relevance 0.140 | Confidence 2.940)
+Hotan  (Relevance 0.083 | Confidence 13.880)
+India  (Relevance 0.388 | Confidence 14.330)
+Jammu  (Relevance 0.107 | Confidence 4.382)
+Kathmandu  (Relevance 0.175 | Confidence 13.710)
+Kathmandu Valley  (Relevance 0.091 | Confidence 1.928)
+Ladakh  (Relevance 0.249 | Confidence 14.150)
+Leh  (Relevance 0.132 | Confidence 4.804)
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+Litang County  (Relevance 0.192 | Confidence 3.966)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Rudok  (Relevance 0.171 | Confidence 4.933)
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+Turkistan (city)  (Relevance 0.115 | Confidence 1.583)
+Xinjiang  (Relevance 0.308 | Confidence 12.620)
+Yatung  (Relevance 0.245 | Confidence 6.287)
+
+/measurement_unit/area_unit
+──────────
+Hectare  (Relevance 0.009 | Confidence 1.367)
+
+/measurement_unit/time_unit
+──────────
+Second  (Relevance 0.066 | Confidence 1.207)
+
+/media_common/literary_genre
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+Religion  (Relevance 0.060 | Confidence 6.523)
+Religious text  (Relevance 0.153 | Confidence 1.094)
+Treatise  (Relevance 0.268 | Confidence 2.116)
+War  (Relevance 0.073 | Confidence 1.799)
+
+/media_common/media_genre
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+Religion  (Relevance 0.060 | Confidence 6.523)
+Religious text  (Relevance 0.153 | Confidence 1.094)
+Saint  (Relevance 0.076 | Confidence 1.246)
+Treatise  (Relevance 0.268 | Confidence 2.116)
+War  (Relevance 0.073 | Confidence 1.799)
+
+/media_common/media_genre_equivalent_topic
+──────────
+War  (Relevance 0.073 | Confidence 1.799)
+
+/media_common/netflix_genre
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/media_common/quotation
+──────────
+India  (Relevance 0.388 | Confidence 14.330)
+
+/media_common/quotation_subject
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+Cash  (Relevance 0.000 | Confidence 1.480)
+Civilization  (Relevance 0.345 | Confidence 1.925)
+Desert  (Relevance 0.000 | Confidence 1.031)
+Ocean  (Relevance 0.026 | Confidence 1.056)
+Pope  (Relevance 0.146 | Confidence 8.784)
+Reincarnation  (Relevance 0.097 | Confidence 1.045)
+Religion  (Relevance 0.060 | Confidence 6.523)
+Saint  (Relevance 0.076 | Confidence 1.246)
+Sea  (Relevance 0.055 | Confidence 0.971)
+Trade  (Relevance 0.050 | Confidence 1.663)
+Treason  (Relevance 0.051 | Confidence 3.601)
+War  (Relevance 0.073 | Confidence 1.799)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/medicine/anatomical_structure
+──────────
+Foot  (Relevance 0.022 | Confidence 1.060)
+
+/medicine/drug
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+Silver  (Relevance 0.032 | Confidence 10.450)
+Tetrahydrocannabinol  (Relevance 0.160 | Confidence 2.229)
+
+/medicine/drug_ingredient
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+Silver  (Relevance 0.032 | Confidence 10.450)
+Tetrahydrocannabinol  (Relevance 0.160 | Confidence 2.229)
+
+/medicine/medical_treatment
+──────────
+Tetrahydrocannabinol  (Relevance 0.160 | Confidence 2.229)
+
+/meteorology/cyclone_affected_area
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/military/armed_force
+──────────
+Garrison  (Relevance 0.044 | Confidence 3.851)
+People's Liberation Army  (Relevance 0.096 | Confidence 1.154)
+
+/military/military_combatant
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+
+/military/military_conflict
+──────────
+Anglo-Nepalese War  (Relevance 0.195 | Confidence 1.472)
+British expedition to Tibet  (Relevance 0.281 | Confidence 1.048)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/military/military_resource
+──────────
+Artillery  (Relevance 0.075 | Confidence 7.714)
+Mortar (weapon)  (Relevance 0.049 | Confidence 5.195)
+
+/military/rank
+──────────
+Skirmisher  (Relevance 0.097 | Confidence 1.012)
+
+/military/war
+──────────
+Anglo-Nepalese War  (Relevance 0.195 | Confidence 1.472)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/olympics/olympic_bidding_city
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+
+/olympics/olympic_host_city
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+
+/olympics/olympic_participating_country
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+
+/organization/contact_category
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+
+/organization/organization
+──────────
+ANT1  (Relevance 0.000 | Confidence 4.763)
+Chiuese Ambans  (Relevance 0.000 | Confidence 0.500)
+Cliincsc  (Relevance 0.000 | Confidence 0.500)
+Cvent  (Relevance 0.000 | Confidence 2.649)
+Dogas  (Relevance 0.000 | Confidence 0.500)
+Easkrn Tibet  (Relevance 0.000 | Confidence 0.500)
+Government of Nepal  (Relevance 0.077 | Confidence 2.647)
+Hengal Ciiil Service  (Relevance 0.000 | Confidence 0.500)
+Indian Government  (Relevance 0.000 | Confidence 0.500)
+Lamaisnl  (Relevance 0.306 | Confidence 0.500)
+Nying-ma-pa  (Relevance 0.216 | Confidence 0.500)
+OUO  (Relevance 0.000 | Confidence 0.500)
+People's Liberation Army  (Relevance 0.096 | Confidence 1.154)
+Sera  (Relevance 0.000 | Confidence 0.500)
+TVarreu  (Relevance 0.000 | Confidence 0.500)
+U O U  (Relevance 0.000 | Confidence 0.500)
+WBI  (Relevance 0.000 | Confidence 0.500)
+WHCN  (Relevance 0.000 | Confidence 2.889)
+bcen  (Relevance 0.000 | Confidence 0.500)
+lgoa  (Relevance 0.000 | Confidence 0.500)
+rven  (Relevance 0.000 | Confidence 1.406)
+
+/organization/organization_founder
+──────────
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/organization/organization_member
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+
+/organization/organization_scope
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Ocean  (Relevance 0.026 | Confidence 1.056)
+
+/organization/organization_sector
+──────────
+Coin  (Relevance 0.000 | Confidence 1.349)
+India  (Relevance 0.388 | Confidence 14.330)
+Tile  (Relevance 0.017 | Confidence 1.192)
+Trade  (Relevance 0.050 | Confidence 1.663)
+
+/organization/role
+──────────
+Governor-general  (Relevance 0.027 | Confidence 1.007)
+
+/people/cause_of_death
+──────────
+War  (Relevance 0.073 | Confidence 1.799)
+
+/people/chinese_ethnic_group
+──────────
+Tibetans  (Relevance 0.243 | Confidence 8.971)
+
+/people/deceased_person
+──────────
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+Genghis Khan  (Relevance 0.406 | Confidence 2.085)
+Kublai Khan  (Relevance 0.552 | Confidence 24.360)
+Warren Hastings  (Relevance 0.095 | Confidence 3.304)
+Zorawar Singh (Dogra general)  (Relevance 0.268 | Confidence 6.955)
+Évariste Régis Huc  (Relevance 0.241 | Confidence 1.426)
+
+/people/ethnicity
+──────────
+Garo people  (Relevance 0.049 | Confidence 1.141)
+Gurkha  (Relevance 0.230 | Confidence 7.609)
+Khas people  (Relevance 0.060 | Confidence 1.496)
+Mongols  (Relevance 0.234 | Confidence 19.500)
+Tibetans  (Relevance 0.243 | Confidence 8.971)
+
+/people/family
+──────────
+Dogra dynasty  (Relevance 0.253 | Confidence 4.252)
+
+/people/family_member
+──────────
+Genghis Khan  (Relevance 0.406 | Confidence 2.085)
+Kublai Khan  (Relevance 0.552 | Confidence 24.360)
+
+/people/person
+──────────
+Amitābha  (Relevance 0.171 | Confidence 8.987)
+Aurel Stein  (Relevance 0.330 | Confidence 1.790)
+Barn Bahadur  (Relevance 0.000 | Confidence 0.500)
+Buddhisatwa P d m a Pani  (Relevance 0.222 | Confidence 0.500)
+Chuan  (Relevance 0.000 | Confidence 0.500)
+Colman  (Relevance 0.000 | Confidence 0.500)
+Dingri  (Relevance 0.000 | Confidence 0.500)
+Geden-tub-pa  (Relevance 0.383 | Confidence 0.500)
+Gencral Sund  (Relevance 0.000 | Confidence 0.500)
+Genela1 Dikar  (Relevance 0.000 | Confidence 0.500)
+Genghis Khan  (Relevance 0.406 | Confidence 2.085)
+Gueri Khan  (Relevance 0.000 | Confidence 0.500)
+Gyalpo  (Relevance 0.000 | Confidence 0.500)
+Himdayas  (Relevance 0.201 | Confidence 0.500)
+Ickong  (Relevance 0.000 | Confidence 0.500)
+Jelep  (Relevance 0.000 | Confidence 0.500)
+Jonkha Jo  (Relevance 0.000 | Confidence 0.500)
+Ka-lon  (Relevance 0.000 | Confidence 0.500)
+Kang-hi  (Relevance 0.000 | Confidence 0.500)
+King Srong-tsan-gam-po  (Relevance 0.348 | Confidence 0.500)
+Kublai Khan  (Relevance 0.552 | Confidence 24.360)
+L. D. Barnett  (Relevance 0.405 | Confidence 0.500)
+Llerge  (Relevance 0.000 | Confidence 0.500)
+Macaulay  (Relevance 0.000 | Confidence 0.500)
+Ngag-wang Lo-Zang  (Relevance 0.000 | Confidence 0.500)
+Pe-chi  (Relevance 0.000 | Confidence 0.500)
+Pelrill  (Relevance 0.000 | Confidence 0.500)
+Peu Gyalpo  (Relevance 0.000 | Confidence 0.500)
+Pi Fan  (Relevance 0.000 | Confidence 0.500)
+Prithi  (Relevance 0.000 | Confidence 0.500)
+Repent  (Relevance 0.000 | Confidence 0.500)
+Sercng Dondul  (Relevance 0.000 | Confidence 0.500)
+Shamsher  (Relevance 0.000 | Confidence 0.500)
+Si-Fan  (Relevance 0.000 | Confidence 0.500)
+Silikim  (Relevance 0.000 | Confidence 0.500)
+Singh  (Relevance 0.000 | Confidence 0.500)
+Snnd E ' o  (Relevance 0.000 | Confidence 0.500)
+Srong-tsan-gam-pol  (Relevance 0.420 | Confidence 0.500)
+Stein  (Relevance 0.172 | Confidence 0.500)
+Tale  (Relevance 0.000 | Confidence 0.500)
+Tale Lama  (Relevance 0.000 | Confidence 0.500)
+Tashigong  (Relevance 0.000 | Confidence 0.500)
+Thon-mi Sam-bhota  (Relevance 0.222 | Confidence 0.500)
+Tsong-Kapa  (Relevance 0.594 | Confidence 0.500)
+Warren Hastings  (Relevance 0.095 | Confidence 3.304)
+Zora  (Relevance 0.000 | Confidence 0.500)
+Zorawar  (Relevance 0.000 | Confidence 0.500)
+Zorawar Singh (Dogra general)  (Relevance 0.268 | Confidence 6.955)
+dab Singh  (Relevance 0.000 | Confidence 0.500)
+hattle  (Relevance 0.000 | Confidence 0.500)
+ment  (Relevance 0.000 | Confidence 0.500)
+r. miserrry  (Relevance 0.000 | Confidence 0.500)
+Évariste Régis Huc  (Relevance 0.241 | Confidence 1.426)
+
+/people/place_of_interment
+──────────
+Potala Palace  (Relevance 0.379 | Confidence 9.233)
+
+/people/profession
+──────────
+Lama  (Relevance 0.224 | Confidence 5.843)
+Monk  (Relevance 0.005 | Confidence 1.417)
+Prelate  (Relevance 0.114 | Confidence 1.586)
+Regent  (Relevance 0.029 | Confidence 4.768)
+
+/periodicals/newspaper_circulation_area
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+Bengal  (Relevance 0.079 | Confidence 7.725)
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Jammu  (Relevance 0.107 | Confidence 4.382)
+Kathmandu  (Relevance 0.175 | Confidence 13.710)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Xinjiang  (Relevance 0.308 | Confidence 12.620)
+
+/projects/project_focus
+──────────
+Potala Palace  (Relevance 0.379 | Confidence 9.233)
+
+/protected_sites/listed_site
+──────────
+Potala Palace  (Relevance 0.379 | Confidence 9.233)
+
+/radio/radio_subject
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+War  (Relevance 0.073 | Confidence 1.799)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/religion/belief
+──────────
+Reincarnation  (Relevance 0.097 | Confidence 1.045)
+
+/religion/deity
+──────────
+Amitābha  (Relevance 0.171 | Confidence 8.987)
+Avalokiteśvara  (Relevance 0.113 | Confidence 1.470)
+
+/religion/place_of_worship
+──────────
+Tashi Lhunpo Monastery  (Relevance 0.263 | Confidence 3.160)
+
+/religion/religion
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+Tibetan Buddhism  (Relevance 0.679 | Confidence 8.966)
+
+/religion/religious_leadership_title
+──────────
+Dalai Lama  (Relevance 0.320 | Confidence 1.754)
+Pope  (Relevance 0.146 | Confidence 8.784)
+Prelate  (Relevance 0.114 | Confidence 1.586)
+
+/religion/religious_order
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+Tibetan Buddhism  (Relevance 0.679 | Confidence 8.966)
+
+/religion/religious_organization
+──────────
+Buddhism  (Relevance 0.698 | Confidence 31.020)
+Tibetan Buddhism  (Relevance 0.679 | Confidence 8.966)
+
+/religion/type_of_place_of_worship
+──────────
+Monastery  (Relevance 0.148 | Confidence 6.961)
+
+/royalty/kingdom
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+Sikkim  (Relevance 0.197 | Confidence 10.550)
+Tibetan Empire  (Relevance 0.510 | Confidence 1.052)
+
+/royalty/monarch
+──────────
+Genghis Khan  (Relevance 0.406 | Confidence 2.085)
+Kublai Khan  (Relevance 0.552 | Confidence 24.360)
+
+/royalty/noble_person
+──────────
+Genghis Khan  (Relevance 0.406 | Confidence 2.085)
+Kublai Khan  (Relevance 0.552 | Confidence 24.360)
+
+/royalty/noble_title
+──────────
+Emperor of China  (Relevance 0.154 | Confidence 0.974)
+Prince  (Relevance 0.103 | Confidence 0.960)
+
+/royalty/royal_line
+──────────
+Dogra dynasty  (Relevance 0.253 | Confidence 4.252)
+
+/royalty/system_of_nobility
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+
+/sports/sport_country
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/sports/sports_equipment
+──────────
+Foot  (Relevance 0.022 | Confidence 1.060)
+
+/sports/sports_team_location
+──────────
+Chalon-sur-Saône  (Relevance 0.055 | Confidence 0.969)
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Kathmandu  (Relevance 0.175 | Confidence 13.710)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+
+/symbols/flag_referent
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+
+/symbols/namesake
+──────────
+Ocean  (Relevance 0.026 | Confidence 1.056)
+
+/time/event
+──────────
+Anglo-Nepalese War  (Relevance 0.195 | Confidence 1.472)
+British expedition to Tibet  (Relevance 0.281 | Confidence 1.048)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/time/holiday_category
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/time_series/unit
+──────────
+Hectare  (Relevance 0.009 | Confidence 1.367)
+Second  (Relevance 0.066 | Confidence 1.207)
+
+/travel/tourist_attraction
+──────────
+Ladakh  (Relevance 0.249 | Confidence 14.150)
+Potala Palace  (Relevance 0.379 | Confidence 9.233)
+
+/travel/transport_terminus
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+
+/travel/travel_destination
+──────────
+Beijing  (Relevance 0.068 | Confidence 13.100)
+China  (Relevance 0.521 | Confidence 40.250)
+Darjeeling  (Relevance 0.242 | Confidence 7.259)
+India  (Relevance 0.388 | Confidence 14.330)
+Kathmandu  (Relevance 0.175 | Confidence 13.710)
+Ladakh  (Relevance 0.249 | Confidence 14.150)
+Leh  (Relevance 0.132 | Confidence 4.804)
+Lhasa  (Relevance 0.289 | Confidence 19.080)
+Mongolia  (Relevance 0.529 | Confidence 19.110)
+Nepal  (Relevance 0.307 | Confidence 9.492)
+Tibet  (Relevance 0.958 | Confidence 26.170)
+Tibet Autonomous Region  (Relevance 0.005 | Confidence 3.750)
+
+/tv/tv_genre
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+
+/tv/tv_location
+──────────
+China  (Relevance 0.521 | Confidence 40.250)
+India  (Relevance 0.388 | Confidence 14.330)
+
+/tv/tv_network
+──────────
+ANT1  (Relevance 0.000 | Confidence 4.763)
+
+/tv/tv_program_creator
+──────────
+ANT1  (Relevance 0.000 | Confidence 4.763)
+
+/tv/tv_subject
+──────────
+Religion  (Relevance 0.060 | Confidence 6.523)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/type/unit
+──────────
+Hectare  (Relevance 0.009 | Confidence 1.367)
+Second  (Relevance 0.066 | Confidence 1.207)
+
+/visual_art/art_subject
+──────────
+Foot  (Relevance 0.022 | Confidence 1.060)
+Sea  (Relevance 0.055 | Confidence 0.971)
+War  (Relevance 0.073 | Confidence 1.799)
+World War II  (Relevance 0.144 | Confidence 1.808)
+
+/visual_art/visual_art_form
+──────────
+Relief  (Relevance 0.045 | Confidence 1.057)
+
+/visual_art/visual_art_medium
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+Leather  (Relevance 0.038 | Confidence 2.563)
+Relief  (Relevance 0.045 | Confidence 1.057)
+Silver  (Relevance 0.032 | Confidence 10.450)
+Tile  (Relevance 0.017 | Confidence 1.192)
+
+/visual_art/visual_art_support
+──────────
+Copper  (Relevance 0.000 | Confidence 10.520)
+
+Topics
+──────
+Tibet  (Score 1.000)
+Tibetan Buddhism  (Score 1.000)
+China  (Score 1.000)
+Buddhism  (Score 1.000)
+Tibetan Empire  (Score 1.000)
+Indian rupee  (Score 1.000)
+Mongolia  (Score 0.962)
+Ingot  (Score 0.902)
+Inner Asia  (Score 0.739)
+Chumbi Valley  (Score 0.730)
+India  (Score 0.663)
+Lhasa  (Score 0.646)
+Rupee  (Score 0.632)
+Nepal  (Score 0.626)
+History of Tibet  (Score 0.620)
+Nāstika  (Score 0.591)
+Kublai Khan  (Score 0.577)
+Genghis Khan  (Score 0.560)
+Tibetan philosophy  (Score 0.545)
+Civilization  (Score 0.543)
+Panchen Lama  (Score 0.538)
+Transtheism  (Score 0.531)
+Vajrayana  (Score 0.525)
+Indigenous land rights  (Score 0.512)
+Buddhist practices  (Score 0.496)
+Indian philosophy  (Score 0.491)
+Religion  (Score 0.479)
+Jelep La  (Score 0.458)
+Lands inhabited  (Score 0.456)
+Weight  (Score 0.456)
+Manuscript  (Score 0.455)
+Lama  (Score 0.443)
+Dalai Lama  (Score 0.441)
+Gurkha  (Score 0.435)
+Mahayana  (Score 0.422)
+Cultural regions  (Score 0.421)
+Tashi Lhunpo Monastery  (Score 0.414)
+Tibetan literature  (Score 0.400)
+Tibetans  (Score 0.397)
+Potala Palace  (Score 0.396)
+Religious philosophy  (Score 0.382)
+Asian philosophy  (Score 0.379)
+Indian religions  (Score 0.376)
+Spirituality  (Score 0.370)
+Tantra  (Score 0.359)
+Esoteric Buddhism  (Score 0.358)
+Religious faiths, traditions, and movements  (Score 0.346)
+Schools of Buddhism  (Score 0.345)
+Aurel Stein  (Score 0.345)
+Ladakh  (Score 0.344)
+Asian nomads  (Score 0.338)
+East Asia  (Score 0.337)
+Nontheism  (Score 0.327)
+Mongols  (Score 0.323)
+Xinjiang  (Score 0.322)
+Currencies of India  (Score 0.313)
+Polytheism  (Score 0.298)
+British expedition to Tibet  (Score 0.294)
+Currencies of Africa  (Score 0.285)
+Kham  (Score 0.283)
+Treatise  (Score 0.281)
+Zorawar Singh (Dogra general)  (Score 0.280)
+Buddhist saints  (Score 0.273)
+East Asian people  (Score 0.273)
+Culture of Asia  (Score 0.272)
+Currencies of Asia  (Score 0.270)
+Yoga  (Score 0.266)
+Devanagari  (Score 0.265)
+Dogra dynasty  (Score 0.265)
+Modern nomads  (Score 0.264)
+Buddhist belief and doctrine  (Score 0.263)
+Yatung  (Score 0.256)
+Darjeeling  (Score 0.253)
+Évariste Régis Huc  (Score 0.252)
+Tibetan people  (Score 0.252)
+Currency  (Score 0.244)
+Currencies of the British Empire  (Score 0.242)
+Nonduality  (Score 0.242)
+Buddhists  (Score 0.234)
+Buddhas  (Score 0.230)
+Buddhist mysticism  (Score 0.229)
+Numismatics  (Score 0.227)
+Economy of Asia  (Score 0.226)
+Coin collecting  (Score 0.223)
+God in Buddhism  (Score 0.208)
+Foreign exchange market  (Score 0.208)
+Chinese philosophy  (Score 0.207)
+East Asian religions  (Score 0.197)
+Seven Buddhas of the Past  (Score 0.192)
+Economy of Africa  (Score 0.187)
+Buddhist theology  (Score 0.175)
+Spiritual teachers  (Score 0.174)
+East Asian philosophy  (Score 0.174)
+Culture  (Score 0.171)
+Tibetan Buddhist titles  (Score 0.167)
+Economy of India  (Score 0.163)
+Shakyas  (Score 0.162)
+Eastern philosophy  (Score 0.161)
+British Empire  (Score 0.160)
+Spiritual philosophy  (Score 0.155)
+Tibetan Buddhists  (Score 0.150)
+Eastern esotericism  (Score 0.147)
+Mongol peoples  (Score 0.145)
+People considered avatars  (Score 0.140)
+Society of Mongolia  (Score 0.132)
+Culture of East Asia  (Score 0.130)
+Buddhist titles  (Score 0.130)
+East Asian literature  (Score 0.130)
+Tibetan Buddhist spiritual teachers  (Score 0.129)
+Esoteric schools of thought  (Score 0.128)
+Gautama Buddha  (Score 0.128)
+South Asian philosophy  (Score 0.127)
+Casting (manufacturing)  (Score 0.124)
+Great Khans of the Mongol Empire  (Score 0.122)
+Chinese literature  (Score 0.122)
+Modern currencies  (Score 0.121)
+Mongol Empire  (Score 0.116)
+Indology  (Score 0.115)
+Circulating currencies  (Score 0.113)
+Metal forming  (Score 0.113)
+Central Asia  (Score 0.109)
+Mongol Empire people  (Score 0.108)
+Indian yogis  (Score 0.107)
+Forming processes  (Score 0.103)
+Ancient peoples of Nepal  (Score 0.103)
+Gurkhas  (Score 0.102)
+Metals  (Score 0.102)
+Gaṇa saṅghas  (Score 0.099)
+Military of Nepal  (Score 0.099)
+Nepalese military personnel  (Score 0.098)
+Mongolian people  (Score 0.094)
+Crystals  (Score 0.093)
+Khans of the Mongol Empire  (Score 0.093)
+Lamas  (Score 0.092)
+Politics of Tibet  (Score 0.089)
+Eastern philosophers  (Score 0.088)
+Currencies of Zimbabwe  (Score 0.088)
+Asia  (Score 0.087)
+Religious belief and doctrine  (Score 0.086)
+Vajrayana Buddhists  (Score 0.086)
+Deified men  (Score 0.086)
+Colonial troops  (Score 0.082)
+Ancient peoples of India  (Score 0.082)
+Warriors of Asia  (Score 0.081)
+Dogra  (Score 0.080)
+Nepal–United Kingdom military relations  (Score 0.078)
+Borjigin  (Score 0.075)
+Expatriate military units and formations  (Score 0.072)
+Asceticism  (Score 0.068)
+Ascetics  (Score 0.066)
+Economy of Zimbabwe  (Score 0.066)
+Conceptions of God  (Score 0.066)
+Hindu philosophical concepts  (Score 0.065)
+Mongol khans  (Score 0.065)
+Government of Nepal  (Score 0.063)
+Writing  (Score 0.062)
+Founders of religions  (Score 0.062)
+Asian philosophers  (Score 0.060)
+International finance  (Score 0.059)
+Indigenous peoples of East Asia  (Score 0.059)
+Ancient India  (Score 0.058)
+Culture of India  (Score 0.056)
+Gelug tulkus  (Score 0.056)
+Ethnic groups officially recognized  (Score 0.054)
+Coins of the Maldives  (Score 0.054)
+International trade  (Score 0.053)
+Tibetan politicians  (Score 0.053)
+Sino-Tibetan-speaking people  (Score 0.052)
+Economy of the United Kingdom  (Score 0.050)
+Indian philosophers  (Score 0.050)

@@ -3320,7 +3320,7 @@ Becoming_India,5019,Political economy|Social actors,no,yes,peasants -[depends_on
 deeper integration with the colonial economy and the markets of the
 local towns, desired a similar integration at the social and cultural
 levels."
-Becoming_India,5021,Political economy,no,no,,"On
+Becoming_India,5021,Political economy,no,yes,colonial state -[governs/Political economy]-> of this historical stage,"On
 the other hand, the sizeable sections of Indians from the plains, both
 in the trades and professions, were not alien, since there were regular
 channels of communication and social interaction, but contestants and
@@ -4992,7 +4992,7 @@ agricultural scientists; students of music, folklore and linguistics,
 and more, have flocked to document a land and a people whose 
 unique traits, not yet eroded by contact with the modern world, 
 had been unavailable for study for the previous quarter century."
-Ladakh,120,Salt anchor|Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[trades_with/Commodity circuits]-> tea,"Situated at the south
+Ladakh,120,Salt anchor|Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[disputes/Political economy]-> kingdom of guge,"Situated at the south
 end of the Bazaar, it was demolished in the 1950s 
 79
 In sketches by a Ladakhi artist, a brigand threatens a 
@@ -5015,7 +5015,7 @@ subsistence goods carried on partly by occasional trading expedi­
 tions undertaken by the villagers themselves, and pardy by the 
 exertions of a semi-professional class of traders known as Shamma, 
 from the Sham Ilaqa, the Indus valley between Leh and Khaltse."
-Ladakh,231,Commodity circuits|Route/place circuits,no,yes,khaltse -[extracts_from/Commodity circuits]-> barley | king of ladakh -[licenses/Political economy]-> tibet | livestock -[supplies/Commodity circuits]-> butter | shamma -[trades_with/Commodity circuits]-> barley | tibet -[trades_with/Commodity circuits]-> pashm,"The staples of the diet of all the peoples 
+Ladakh,231,Commodity circuits|Route/place circuits,no,yes,khaltse -[extracts_from/Commodity circuits]-> barley | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[governs/Political economy]-> change | livestock -[supplies/Commodity circuits]-> butter | shamma -[trades_with/Commodity circuits]-> barley,"The staples of the diet of all the peoples 
 of the Tibetan cultural area are the same: tsampa, or parched 
 barley flour, and change a mildly alcoholic drink made from 
 fermented barley, both of them derived from the main crop of 
@@ -5026,7 +5026,7 @@ Ladakh,232,Commodity circuits|Route/place circuits,no,yes,china -[trades_with/Co
 dampened and compressed tea-leaves, must have been obtained 
 through imports from China along established trade routes from 
 a very early period."
-Ladakh,234,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | shamma -[trades_with/Commodity circuits]-> barley,"Water-mills for grinding barley, 
+Ladakh,234,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"Water-mills for grinding barley, 
 seemingly identical to those in common use in Ladakh today are 
 described by George Bogle, the first Briton to make an extended 
 stay in Tibet, as early as 1774-5; the amazingly sophisticated 
@@ -5044,7 +5044,7 @@ refusing access to all outsiders except those traders and pilgrims
 whose journeys were sanctioned by ancient and uninterrupted 
 usage, until the modern world forced its way in with the Young- 
 husband Expedition in 1904."
-Ladakh,288,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm | traders -[trades_with/Commodity circuits]-> salt and wool,"Ladakh on the other hand welcomed 
+Ladakh,288,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Ladakh on the other hand welcomed 
 whoever wanted to come, which for most of its history meant 
 traders from Kashmir, the Punjab, central Asia and Tibet."
 Ladakh,299,Route/place circuits|Social actors,no,yes,traders -[trades_with/Commodity circuits]-> salt and wool,"That year 
@@ -5066,7 +5066,7 @@ manner of architecture; the houses with their small windows are
 constructed from adobe bricks or stone cemented with mud, often 
 whitewashed, and with flat roofs for storing winter forage for the 
 livestock."
-Ladakh,343,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"In the days of the traffic in grain and wool between Kulu and 
+Ladakh,343,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"In the days of the traffic in grain and wool between Kulu and 
 the high-altitude pastures of Ladakh and Tibet, the Lahul people 
 profited from their situation mid-way between the two end-points 
 of the trade by acting as carriers."
@@ -5093,7 +5093,7 @@ metres ahead, will be the occasional tea-stalls and rudimentary
 and a few crude constructions put up by the Army and the 
 paramilitary Border Roads Organization which is responsible for 
 maintaining the road."
-Ladakh,357,Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The sole permanent inhabitants of the desolate region known
+Ladakh,357,Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"The sole permanent inhabitants of the desolate region known
 
 
 14
@@ -5149,12 +5149,12 @@ Zanskar."
 Ladakh,539,Commodity circuits|Route/place circuits,no,no,,"Although no doubt some supplies can 
 now be trucked in, horses are still bred for local transport —  also 
 perhaps for hiring to trekking groups."
-Ladakh,542,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Today, essential commodities and 
+Ladakh,542,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Today, essential commodities and 
 consumer goods which were formerly transported laboriously over 
 the passes by horse caravan, can be brought in easily by truck; the 
 Government has opened a chain of ration shops here as elsewhere 
 in Ladakh."
-Ladakh,578,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"This was an important consideration over the cen­
+Ladakh,578,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"This was an important consideration over the cen­
 turies when thousands of horses traversed Nubra every year as the 
 trade caravans wended their way between Ladakh and central Asia."
 Ladakh,592,Route/place circuits,no,no,,"Yet, over the centuries, such were the compulsions of com­
@@ -5171,7 +5171,7 @@ stay in summer to cultivate a scanty crop of barley, taking to
 their tents in winter (a surprising reversal of the normal practice 
 of transhumance) to graze their flocks of sheep and pashmina 
 goats on high-altitude pastures."
-Ladakh,609,Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Rupshu, south of the Indus and lying athwart the chaotic 
+Ladakh,609,Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"Rupshu, south of the Indus and lying athwart the chaotic 
 outflying ridges of the Ladakh and Zanskar ranges, have a similar 
 topography, but lower rainfall; here too the Chang-pa take their 
 flocks of sheep and goats from pasture to pasture in a centuries-old 
@@ -5196,7 +5196,7 @@ or cultivated vegetation; and wherever water is relatively abundant,
 the ubiquitous greys and browns of a parched landscape are 
 relieved by the green of the growing crops, or in autumn by the 
 gold of harvest and the crimson leaves of the apricot trees."
-Ladakh,655,Commodity circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | khaltse -[extracts_from/Commodity circuits]-> buckwheat, turnips, or other vegetables | ladakh -[trades_with/Commodity circuits]-> tea | shamma -[trades_with/Commodity circuits]-> barley","This refers to the Leh area, at about 3500 
+Ladakh,655,Commodity circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | khaltse -[extracts_from/Commodity circuits]-> buckwheat, turnips, or other vegetables | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change","This refers to the Leh area, at about 3500 
 metres; 100 kilometres down the Indus, and 400 metres lower, at 
 Khaltse, the harvest of grim (naked barley, the staple crop all over 
 Ladakh) is gathered in by mid-July, and there is still time for 
@@ -5218,7 +5218,7 @@ with wonder and respect that one contemplates the merchant
 travellers of past centuries who, without the resources of modern 
 surveying techniques and transport, worked out the hard way 
 the best possible routes across this unpromising terrain."
-Ladakh,669,Commodity circuits|Route/place circuits|Social actors,no,yes,"chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | villages -[controls/Political economy]-> ordinary goats, sheep, and cows","Despite the scanty vegetation of the mountain slopes, giving 
+Ladakh,669,Commodity circuits|Route/place circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"Despite the scanty vegetation of the mountain slopes, giving 
 subsistence to sparse populations of wild sheep and goats; despite 
 the alpine pastures of Dras and Rangdum, the summer destination 
 of the transhumant Bakarwals; despite the fact that the Chang-pa
@@ -5248,7 +5248,7 @@ Ladakh,685,Commodity circuits,no,no,,"The robuster beauty of green or golden fie
 orchards, the branches heavy with ruddy fruit or crimson with the 
 leaves of autumn, gains too in the imagination by its nearness to 
 the wilderness."
-Ladakh,742,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"Even so, it is reported that as late as 
+Ladakh,742,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Even so, it is reported that as late as 
 1958 there were sizeable flocks of shapu (the Ladakh urial) and 
 bharal, the so-called blue sheep, and even a few goa, or Tibetan 
 gazelle."
@@ -5259,21 +5259,21 @@ deployed in strength on India’s remote borders with Tibet and
 China, there was indiscriminate shooting of wild animals to supply 
 fresh meat to the forward pickets —  also perhaps to relieve the 
 monotony of life in such lonely and remote outposts."
-Ladakh,748,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"Of the various wild goats and sheep that frequent the world’s 
+Ladakh,748,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"Of the various wild goats and sheep that frequent the world’s 
 high mountains, four are represented in Ladakh: the Himalayan 
 ibex, which is a true goat; the bharal, which appears to be inter­
 mediate between a goat and a sheep; and two species of true sheep: 
 the shapu and, most magnificent of all, the argali or nayan with 
 its enormous curved horns, a close relation of the Marco Polo 
 sheep found in the Pamirs and parts of the western Karakoram."
-Ladakh,753,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter,"More recently, it has suffered in Ladakh not 
+Ladakh,753,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter,"More recently, it has suffered in Ladakh not 
 only from indiscriminate shooting by modern ‘sportsmen’, but 
 also as a result of competition from domestic livestock."
-Ladakh,756,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"It is 
+Ladakh,756,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"It is 
 one of the rarest of all the mountain sheep, and is now found only 
 in small isolated populations; its numbers in Ladakh are estimated 
 at about one thousand."
-Ladakh,762,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"Pashm, the raw material of the ‘cashmere* shawl, is produced 
+Ladakh,762,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Pashm, the raw material of the ‘cashmere* shawl, is produced 
 from a particular kind of goat domesticated by the nomadic 
 herdspeople of western Tibet and south-east Ladakh; but some of 
 the different species of wild ungulates produce a similar kind of 
@@ -5314,7 +5314,7 @@ supply of food reduced, forcing them to range more widely in
 search of subsistence, but when they try to make up the deficiency 
 by forays into the herds of domestic livestock, the human popula­
 tion in retaliation goes after them with trap and gun."
-Ladakh,790,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Although its beautiful pelt, whose pattern of 
+Ladakh,790,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Although its beautiful pelt, whose pattern of 
 white, grey and black blends almost to invisibility into the moun­
 tain landscape of rock and snow, commands a high price in the 
 illegal fur market, it is too elusive to be the target of systematic 
@@ -5330,7 +5330,7 @@ occasion it may raid domestic livestock as well as crops and fruit
 trees, its shy disposition makes it on the whole less of a nuisance 
 to the human population than the wolf, and it is not much subject 
 to persecution."
-Ladakh,807,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"63
+Ladakh,807,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"63
 
 
 52
@@ -5384,7 +5384,7 @@ T
 he history of Ladakh was first researched and reconstruc­
 ted by the German scholars Emil and Hermann von 
 Schlagintweit, Karl Marx and A.H."
-Ladakh,824,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The process must 
+Ladakh,824,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The process must 
 have continued down the centuries, since Ladakh was criss-crossed 
 by trade routes, along which journeyed caravans composed of 
 representatives of many of the ethnic groups of south and central 
@@ -5399,11 +5399,11 @@ Sengge, in his pique at this defeat, closed the trade route from
 Kashmir, and forbade any person to enter his dominion from that 
 direction, the embargo lasting up to the time of Bernier’s visit in 
 1663."
-Ladakh,981,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"It surely indicates a total failure to grasp economic 
+Ladakh,981,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"It surely indicates a total failure to grasp economic 
 realities, for to close any one important route obviously cost 
 Ladakh its position at the centre of a network of routes, and so a 
 large part of its revenue."
-Ladakh,992,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The shift in the balance of importance 
+Ladakh,992,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The shift in the balance of importance 
 towards Leh may perhaps have been the outcome of a more
 
 
@@ -5418,18 +5418,18 @@ parently never paid, was stipulated as 18 piebald horses, 18 pods
 of musk and 18 white yak tails every three years; while in return 
 500 bags of rice were to come annually from an estate granted to 
 the king in Kashmir."
-Ladakh,1034,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"The most substantial 
+Ladakh,1034,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The most substantial 
 concession was that which gave Kashmir a monopoly of the 
 purchase of pashm, the raw material of Kashmir’s shawl industry, 
 including the entire production of western Tibet, as well as 
 whatever was produced in Ladakh itself."
-Ladakh,1047,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"On the other hand, Ladakh got certain 
+Ladakh,1047,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"On the other hand, Ladakh got certain 
 concessions in respect of the trade in tea; as well as confirmation 
 of the privileges granted to Kashmir in respect of the pashm trade."
 Ladakh,1050,Route/place circuits,no,no,,"Impoverishment was completed by the closure of the Kashmir 
 trade route from 1639 to 1663, which must have played havoc 
 with the economy."
-Ladakh,1055,Commodity circuits|Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The old institutional links between the monasteries of the two 
+Ladakh,1055,Commodity circuits|Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The old institutional links between the monasteries of the two 
 countries remained as strong as ever; and the existing ties were 
 reinforced by the triennial Lo-pchak mission from Ladakh to 
 Lhasa, and the annual government caravan coming from Lhasa
@@ -5440,7 +5440,7 @@ THE OLD KINGDOM
 (also established under the Tingmosgang Treaty), carrying mairily 
 tea, from which it came to be popularly known as the cha-pa 
 caravan."
-Ladakh,1061,Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"Relations with Tibet were extended 
+Ladakh,1061,Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Relations with Tibet were extended 
 after the establishment of a form of Chinese suzerainty over that 
 country about 1720, to an exchange of courtesies with the Chinese 
 Emperor in Peking; and until Chinese control was established 
@@ -5450,7 +5450,7 @@ of the Dsungar Mongols in the Yarkand area."
 Ladakh,1073,Political economy,no,no,,"He replaced arbitrary taxation by a system 
 ‘that henceforth taxes should be raised only in accordance with 
 income, great or little proportionately’."
-Ladakh,1099,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Moorcroft was a veterinary surgeon
+Ladakh,1099,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Moorcroft was a veterinary surgeon
 —  the first Englishman to qualify as such —  and had come to 
 Ladakh in the course of a journey to central Asia in search of 
 horses for the East India Company’s military stud, of which he 
@@ -5467,7 +5467,7 @@ In this reasoning, we see the classic impulse of early British im­
 perialism, the expansion of trade, combined with political motives 
 that later came to dominate imperial strategy under the wry 
 designation of the Great Game."
-Ladakh,1120,Commodity circuits|Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"The attraction of Ladakh’s bleak 
+Ladakh,1120,Commodity circuits|Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The attraction of Ladakh’s bleak 
 mountainous terrain lay in its position athwart important trade 
 routes, and in particular in its monopoly, guaranteed by the Treaty 
 of Tingmosgang, of the trade in pashm, including that produced 
@@ -5480,7 +5480,7 @@ impoverishing its traditional industry."
 Ladakh,1124,Commodity circuits|Political economy|Route/place circuits,no,no,,"The development of this 
 trade in smuggled wool was encouraged by the British, through 
 whose territory it must pass."
-Ladakh,1125,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm | traders -[trades_with/Commodity circuits]-> salt and wool,"They repaired the tracks used by the 
+Ladakh,1125,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"They repaired the tracks used by the 
 traders in Kinnaur, and offered the nomadic herdspeople of 
 western Tibet higher prices than those fixed by the Ladakhi and 
 Kashmiri monopolists."
@@ -5494,12 +5494,12 @@ Ladakh,1130,Commodity circuits|Political economy,no,yes,ladakhi traders -[trades
 he aimed at getting control over the entire pashm-producing area
 —  in the name of his overlord Ranjit Singh, of course, but 
 effectively for himself."
-Ladakh,1133,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Although in the course of the next few 
+Ladakh,1133,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Although in the course of the next few 
 years the Ladakhi king sent repeated appeals to the British agents 
 at various places on their north-western border, along with 
 renewed offers of allegiance, there seemed to be nothing in them 
 to tempt the British to break their treaty obligations to Ranjit."
-Ladakh,1137,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[trades_with/Commodity circuits]-> tea | shamma -[trades_with/Commodity circuits]-> barley,"The only preparation for defence in 
+Ladakh,1137,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The only preparation for defence in 
 time of trouble was that a matchlock was supplied to every
 
 
@@ -5510,10 +5510,10 @@ it was to be answered by one man from each house, armed with
 this primitive weapon, and carrying on his back bedding for the 
 cold winter nights, and enough provisions —  mosdy in the form 
 of tsampa, parched barley flour —  to last him a month."
-Ladakh,1157,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"The occupation of Ladakh had not 
+Ladakh,1157,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"The occupation of Ladakh had not 
 had the desired effect of plugging the leakage of pashm to the 
 plains."
-Ladakh,1158,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"On the contrary, the disturbed conditions resulting from 
+Ladakh,1158,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"On the contrary, the disturbed conditions resulting from 
 it had disrupted traditional patterns of commerce, to the extent 
 that an important wool mart had developed at Rampur on the 
 Sudej, bypassing Ladakh altogether, where the value of the pashm 
@@ -5537,29 +5537,29 @@ shape of the Chinese empire which, whatever its problems with
 the British oil its eastern seaboard, was by no means going to sit 
 back and watch the loss of several provinces of a country over 
 which it claimed suzerainty."
-Ladakh,1199,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"As regards trade, the Dogras 
+Ladakh,1199,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"As regards trade, the Dogras 
 gained their main objective with the Tibetans undertaking to 
 ‘allow the annual export of wool, shawls1 and tea by way of Ladakh 
 according to old-established custom’."
-Ladakh,1200,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> best-quality pashm | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"Both Ladakhi traders in 
+Ladakh,1200,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Both Ladakhi traders in 
 Tibet and Tibetan traders in Ladakh could take advantage of the 
 privilege of free porterage —  i.e."
-Ladakh,1209,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Even so, the Ladakhi 
+Ladakh,1209,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Even so, the Ladakhi 
 peasantry were subject to unwelcome cesses in the name of land 
 revenue, which had to be paid partly in cash, and partly in the 
 form of grain and firewood which were stored in state-run supply 
 depots and later sold to the trade caravans."
-Ladakh,1214,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"The religious life of the country was 
+Ladakh,1214,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"The religious life of the country was 
 still directed from Lhasa, and the caravans still crossed and re- 
 crossed Ladakh with their loads of pashm and tea, indigo, brocade, 
 silk yarn, silver ingots and narcotics."
-Ladakh,1220,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"A longer stay was made by Frederic 
+Ladakh,1220,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"A longer stay was made by Frederic 
 Drew who, attached in 1862 to the Geological Service of the 
 Maharaja of Jammu and Kashmir’s Government, travelled the 
 whole state, including the farthest plateaux of Ladakh, prospecting 
 for minerals; and who completed his ten years in the Maharaja’s 
 service with a year’s term as Governor of Ladakh."
-Ladakh,1226,Commodity circuits,no,no,,"As well as a 
+Ladakh,1226,Commodity circuits,no,yes,ladakh -[governs/Political economy]-> change,"As well as a 
 new religion, the missionaries introduced such useful skills as 
 knitting and baking, and also the cultivation of exotic vegetables 
 like potatoes, spinach, cauliflower, radish and tomato; the system 
@@ -5570,33 +5570,33 @@ chambers, so that they are available for the greater part of the
 A CHANGE OF DIRECTION
 89
 winter, is also credited to them."
-Ladakh,1229,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The cumulative effect of all these things must have been to 
+Ladakh,1229,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The cumulative effect of all these things must have been to 
 create the sense of a world outside Ladakh: not merely a physical 
 world, the idea of which had been made familiar to the Ladakhis 
 long since by the caravan trade; but a world of new values, and 
 achievements in the material sphere hitherto undreamt of."
-Ladakh,1269,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"In 1949 the frontier between 
+Ladakh,1269,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"In 1949 the frontier between 
 central Asia and Ladakh was closed, putting full stop to the trade, 
 perhaps of a thousand years’ standing, across the Karakoram, and 
 depriving Ladakh of its traditional economic base as the central 
 mart on a network of important trade routes."
-Ladakh,1271,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"Even so, the trans-border 
+Ladakh,1271,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Even so, the trans-border 
 trade in pashm and other commodities continued till the end of 
 the decade, and young monks from Ladakh continued to go for 
 their higher studies to the great monasteries of central Tibet, 
 travelling now via the Indian trade mart at Kalimpong rather than 
 taking the old direct Leh-Lhasa caravan route."
-Ladakh,1278,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Nevertheless, the economic setback caused by the cessation of 
+Ladakh,1278,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Nevertheless, the economic setback caused by the cessation of 
 the caravan trade has been recouped, and in good measure, largely 
 as a result of three new factors in the situation: the large-scale 
 military presence; the opening up of Ladakh to Indian and foreign 
 tourists in the mid-1970s; and the extension to Ladakh of India’s 
 ambitious programme of economic development."
-Ladakh,1279,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Ladakhis today 
+Ladakh,1279,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Ladakhis today 
 are at least as prosperous as at any time during the heyday of 
 the caravan trade, and much more so than the people in most 
 districts of Gangetic or Peninsular India."
-Ladakh,1298,Political economy|Social actors,no,no,,"In principle this should give the people of Leh district a degree of
+Ladakh,1298,Political economy|Social actors,no,yes,ladakh -[governs/Political economy]-> change,"In principle this should give the people of Leh district a degree of
 
 
 A CHANGE OF DIRECTION
@@ -5632,7 +5632,7 @@ bridge over the Indus at Khaltse are the ruins of an ancient fortified
 customs house, identified as such by an inscription referring to 
 the ‘lord of the trade in the lower valley’ —  a high-sounding tide 
 for a prosaic customs officer."
-Ladakh,1320,Commodity circuits,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | china -[trades_with/Commodity circuits]-> tea | frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea,"Willy-nilly, the caravans had to toil up Ladakh’s high passes and 
+Ladakh,1320,Commodity circuits,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | china -[trades_with/Commodity circuits]-> tea | frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge,"Willy-nilly, the caravans had to toil up Ladakh’s high passes and 
 traverse its dusty valleys in order to effect the perennial exchange 
 of textiles, dyestuffs and spices from Hindustan, shawls and saffron 
 from Kashmir, dried apricots from Baltistan and latterly a range 
@@ -5663,7 +5663,7 @@ of sheep grazing the Tibetan plateaux, were the staples of what
 was essentially a subsistence trade conducted on the basis of barter."
 Ladakh,1330,Commodity circuits,no,yes,ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm | tibet baqals -[trades_with/Commodity circuits]-> pashm,"This was 
 pashm, the raw material of the Kashmir shawl industry."
-Ladakh,1331,Commodity circuits|Route/place circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea,"No doubt 
+Ladakh,1331,Commodity circuits|Route/place circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge,"No doubt 
 pashm can be produced anywhere on Tibet’s immense northern 
 plateau land of Chang-thang, where the nomadic herdspeople, the
 
@@ -5675,14 +5675,14 @@ Ladakh,1332,Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Com
 late twentieth century, the Chang-pa all over Tibet are increasing 
 their stocks of goats vis-h-vis sheep, to meet the world-wide de­
 mand for ‘cashmere’."
-Ladakh,1334,Salt anchor|Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | outer hills -[trades_with/Commodity circuits]-> foodgrains | peasant traders -[transports_via/Route/place circuits]-> foodgrains | tibetan herdspeople -[supplies/Commodity circuits]-> foodgrains,"Like the trading communities of the east and central 
+Ladakh,1334,Salt anchor|Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | outer hills -[trades_with/Commodity circuits]-> foodgrains,"Like the trading communities of the east and central 
 Himalaya, the Ladakhi subsistence traders too dealt primarily in 
 salt, sheep’s wool and foodgrains."
 Ladakh,1335,Commodity circuits,no,yes,ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm | tibet baqals -[trades_with/Commodity circuits]-> pashm,"But they also dealt in pashm, a 
 high-value luxury item, for which on resale they were paid in cash."
-Ladakh,1337,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"The importanceof the pashm trade was such as to have a 
+Ladakh,1337,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"The importanceof the pashm trade was such as to have a 
 decisive effect on Ladakh’s political destiny."
-Ladakh,1338,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"Among the most 
+Ladakh,1338,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Among the most 
 important clauses of the 1684 tripartite Treaty of Tingmosgang, 
 between Ladakh, Tibet and Kashmir, was the one regulating the 
 trade, and giving Kashmir a virtual monopoly of the precious 
@@ -5694,7 +5694,7 @@ there are Muslim families of Kashmiri origin in Leh and Chushot,
 who were dealing in pashm right up to I960, when the Tibet 
 border was closed, and some of whom enjoyed special privileges 
 in Tibet, presumably a vestige of their former semi-official status."
-Ladakh,1343,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"And in Srinagar there are still merchants known as Tibet Baqals, 
+Ladakh,1343,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"And in Srinagar there are still merchants known as Tibet Baqals, 
 dealing in pashm from Ladakh, the successors of the small group 
 that for close on three centuries monopolized the trade in pashm 
 between Ladakh and Kashmir."
@@ -5726,7 +5726,7 @@ Kashmiri Muslim monopoly remained: the Shamma apparendy
 had to travel much farther than the Leh area merchants, many of 
 them to a district called Gertse, a 20-day march beyond the Tibet 
 border."
-Ladakh,1351,Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | shamma -[trades_with/Commodity circuits]-> barley,"Probably they were not formally prohibited from doing 
+Ladakh,1351,Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"Probably they were not formally prohibited from doing 
 business in the district of Rudok immediately adjoining Ladakh; 
 but by the time they broke into the trade, the Leh merchants must 
 have established a network of business relationships with the 
@@ -5736,7 +5736,7 @@ latter, accordingly, had to undertake a trek of iVi months out
 and 1 Vi months back, carrying their trade goods on strings of 
 donkeys, and often driving a flock of chang-luky the big-boned 
 sheep of Chang-thang, in front of them on their return."
-Ladakh,1353,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"Their 
+Ladakh,1353,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Their 
 first halt once they got back to Ladakh was at Leh, to meet the 
 Tibet Baqals, and sell their pashm for cash."
 Ladakh,1355,Commodity circuits|Social actors,no,yes,ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> barley | shamma -[trades_with/Commodity circuits]-> chang-thang sheep's wool | shamma -[trades_with/Commodity circuits]-> grain or dried apricots | shamma -[trades_with/Commodity circuits]-> in srinagar or leh,"The trade in pashm no doubt benefited not only the Shamma 
@@ -5745,7 +5745,7 @@ communities of their villages as well."
 Ladakh,1357,Salt anchor|Commodity circuits,no,yes,king of ladakh -[licenses/Political economy]-> tibet | livestock -[supplies/Commodity circuits]-> butter | tibet -[trades_with/Commodity circuits]-> pashm,"The product of 
 Tibet that was crucial was salt, which was necessary to feed to the 
 livestock, as well as to season human food and tea."
-Ladakh,1358,Salt anchor|Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | salt lakes -[trades_with/Commodity circuits]-> salt,"Most of the 
+Ladakh,1358,Salt anchor|Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"Most of the 
 salt that came into Ladakh was brought down not by the Shamma,
 
 
@@ -5754,7 +5754,7 @@ LADAKH
 but by the Chang-pa themselves, who collected it from the salt 
 lakes, and carried it on the backs of thousands and thousands of 
 sheep."
-Ladakh,1360,Commodity circuits|Social actors,no,yes,"baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | merchants from central asia, kashmir and the punjab -[negotiates_with/Political economy]-> in leh","There 
+Ladakh,1360,Commodity circuits|Social actors,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"There 
 they met and did business not only with the Shamma —  who 
 after selling their pashm in Leh, and depositing their purchase of 
 Chang-thang sheep’s wool at their village homes had retraced their 
@@ -5781,7 +5781,7 @@ yearly trips almost as far as Padum continued till well into the
 Ladakh,1371,Salt anchor|Commodity circuits|Route/place circuits,no,yes,salt -[trades_with/Commodity circuits]-> semi-luxuries like tea and rice,"Some of this salt found its way, by barter and re-barter, to 
 the Suru valley, and even over the Great Himalaya to Kashmir 
 and Kishtwar, where it paid for semi-luxuries like tea and rice."
-Ladakh,1372,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"HAZARDOUS TRAILS
+Ladakh,1372,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"HAZARDOUS TRAILS
 1 0 1
 Thus, quite apart from pashm, even the subsistence trades of 
 Ladakh were carried on according to an amazingly complex pat­
@@ -5794,7 +5794,7 @@ Ladakh,1377,Political economy|Route/place circuits,no,yes,deldan -[negotiates_wi
 pchak was permitted to carry 200 animal-loads of trade goods, for 
 which free porterage was provided by the Tibetan authorities from 
 Demchok on the border right up to Lhasa."
-Ladakh,1379,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Interest­
+Ladakh,1379,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Interest­
 ingly, there was no stipulation that these should be Buddhists, and 
 after the loss of Ladakh’s independence, when the responsibility of 
 sending it was taken on by the Government of Jammu and Kash­
@@ -5811,7 +5811,7 @@ was derived from their extensive properties, including thousands
 of head of livestock kept for them by Chang-pa in western Tibet."
 Ladakh,1384,Route/place circuits,no,no,,"They conducted the Lo-pchak a couple of times, and even took 
 the occasional private caravan to Lhasa."
-Ladakh,1385,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"1 0 2
+Ladakh,1385,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"1 0 2
 LADAKH
 In the other direction, an annual trade mission came from Lhasa 
 to Leh, authorized by the Government of Tibet, and carrying 
@@ -5821,7 +5821,7 @@ Ladakh,1386,Route/place circuits,no,no,,"For this reason it came to be known
 as the Cha-pa caravan."
 Ladakh,1387,Commodity circuits,no,no,,"The tea was carried in the easily portable 
 form of ‘bricks’ of dampened and compressed tea-leaves."
-Ladakh,1388,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"As any­
+Ladakh,1388,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"As any­
 one who has lived in Ladakh may guess, the greater part of the 
 Cha-pa’s 200 loads of tea was not re-exported, but kept for 
 consumption within the country; nevertheless, till well into the 
@@ -5867,7 +5867,7 @@ century, via Kalimpong and Sikkim."
 Ladakh,1409,Route/place circuits,no,yes,"merchants from central asia, kashmir and the punjab -[negotiates_with/Political economy]-> in leh","Where it did make an impact was in the demand it created 
 for transport and services, all along the routes, but especially in 
 Leh and its hinterland, Nubra, and the Dras-Kargil belt."
-Ladakh,1411,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | traders -[trades_with/Commodity circuits]-> salt and wool,"In the 
+Ladakh,1411,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | traders -[trades_with/Commodity circuits]-> salt and wool,"In the 
 early years of this century, Leh became one of the headquarters 
 of a community of traders from Hoshiarpur —  the first town in
 
@@ -5882,7 +5882,7 @@ and cooking pots of exquisite workmanship, and other artefacts
 in the great tradition of Islamic design, which have surely arrived 
 there as part of the baggage of some caravan from Srinagar or 
 Yarkand."
-Ladakh,1416,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"The great dish of Ladakhi haute cuisine (which otherwise 
+Ladakh,1416,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The great dish of Ladakhi haute cuisine (which otherwise 
 shows traces of Chinese influence derived from the Tibetan con­
 nection, relying largely on noodles and meat-filled dumplings or 
 mok-mok) is Yarkandi pulatc rice richly cooked with meat and 
@@ -5892,7 +5892,7 @@ east, the Tibetan authorities were paranoid about keeping out all
 foreigners; while the high plateaux of Aksai Chin and Lingzithang 
 were uninhabited and totally lacking in any kind of facility for 
 caravans, or even grass for the horses."
-Ladakh,1425,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"On his own 
+Ladakh,1425,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"On his own 
 responsibility, acting ‘on behalf of the British merchants of Cal­
 cutta’, he even concluded a commercial agreement with the 
 Ladakhi authorities, who granted the former freedom to trade 
@@ -5905,7 +5905,7 @@ Was not only the Company’s apathy that was against the expan­
 sion of trade on such a vast scale, but also the incredible severity 
 of the Karakoram route, something of which he seems to have 
 had no realistic conception."
-Ladakh,1431,Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Foremost among these was Robert Shaw, the first British person
+Ladakh,1431,Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Foremost among these was Robert Shaw, the first British person
 
 
 106
@@ -5925,7 +5925,7 @@ Ladakh,1445,Political economy|Route/place circuits|Social actors,no,yes,traders 
 look after the interests of the traders, both Indian and foreign; he 
 also toured extensively overseeing the maintenance of the trade 
 routes."
-Ladakh,1446,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"From the late 1890s, the Srinagar-Leh-Karakoram route
+Ladakh,1446,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"From the late 1890s, the Srinagar-Leh-Karakoram route
 
 
 HAZARDOUS TRAILS
@@ -5942,16 +5942,16 @@ goods, leather and skins, Western medicines, spices, and dyestuffs,
 including indigo, for the south Sinkiang carpet industry; and from 
 central Asia, woven and felt carpets, mosdy bound for Srinagar, 
 assorted European textiles, tea, pashm, precious stone?"
-Ladakh,1452,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"and jewel­
+Ladakh,1452,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"and jewel­
 lery, and coarse cotton cloth for consumption in Ladakh itself."
-Ladakh,1453,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"For 
+Ladakh,1453,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"For 
 about a hundred years, the Punjabi merchants made enormous 
 profits from the import of charas, this was the only commodity 
 that the Government took an active interest in, monitoring its 
 movement from the moment it entered Ladakh till it was dis­
 tributed to the retailers from special warehouses in Hoshiarpur and 
 Rawalpindi, and taking their cut via duties."
-Ladakh,1456,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"There was no wheeled traffic in Ladakh until the 1960s; most of 
+Ladakh,1456,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram,"There was no wheeled traffic in Ladakh until the 1960s; most of 
 the transport across the Karakoram was on pack-horses, especially
 
 
@@ -5963,7 +5963,7 @@ Ladakh,1459,Route/place circuits,no,yes,"merchants from central asia, kashmir an
 in Leh on the rare occasions when a camel caravan entered the 
 bazaar; school children played truant in order to run to the serai 
 to see this marvel."
-Ladakh,1460,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | traders -[trades_with/Commodity circuits]-> salt and wool,"A few enterprising traders in central Ladakh 
+Ladakh,1460,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | traders -[trades_with/Commodity circuits]-> salt and wool,"A few enterprising traders in central Ladakh 
 and Nubra acquired camels for local use; they failed to thrive in 
 the Leh area, but conditions in Nubra seem to suit them and a 
 small population survives there, proving their worth as pack- 
@@ -6039,7 +6039,7 @@ drawn from a wide area of north India and central Asia, there
 were also professional ponymen known as kiraiyakash in Leh, 
 Nubra and Yarkand, who might have traversed the Karakoram 
 route, or parts of it, dozens of times."
-Ladakh,1518,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"In the tract between Dras 
+Ladakh,1518,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"In the tract between Dras 
 and Kargil, one of Ladakh’s poorest regions, the only thing that 
 lifted most families above the level of bare subsistence was the 
 carrying trade between Srinagar and Leh, of which, in the first 
@@ -6051,7 +6051,7 @@ snowbound, they made frequent crossings on foot as far as
 Sonamarg, during breaks in the weather, carrying on their backs 
 loads of merchandise for merchants who had mistimed their 
 journey and got stranded at Dras."
-Ladakh,1521,Commodity circuits|Route/place circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | khaltse -[extracts_from/Commodity circuits]-> buckwheat, turnips, or other vegetables | ladakh -[trades_with/Commodity circuits]-> tea | merchants from central asia, kashmir and the punjab -[negotiates_with/Political economy]-> in leh","All over Ladakh there is still a scattering of men, in Leh and 
+Ladakh,1521,Commodity circuits|Route/place circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | khaltse -[extracts_from/Commodity circuits]-> buckwheat, turnips, or other vegetables | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change","All over Ladakh there is still a scattering of men, in Leh and 
 Nubra, in Saspol, Nyurla and Khaltse, in Mulbekh, Kargil, Dras, 
 the Suru valley and Zanskar, who spent much of their early lives 
 on the trails, with their caravans of horses, donkeys or sheep."
@@ -6063,7 +6063,7 @@ of the mountains and serviced by the successors of the traders of
 old."
 Ladakh,1524,Political economy|Social actors,no,no,,"This too represents a kind of economic activity; but it is one 
 over which the local people have little control."
-Ladakh,1526,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Trade in old Ladakh 
+Ladakh,1526,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Trade in old Ladakh 
 was an essential element in the fabric of life; and though the 
 expense of time and effort that it involved was clearly enormous, 
 so indeed was the difference it reliably made to the prosperity of 
@@ -6084,13 +6084,13 @@ the Aksai Chin is left out of account, less than 300 square
 kilometres are under crops, vegetables or fruit; thus the pressure 
 of the population on the cultivated area is very great —  almost 
 600 per square kilometre."
-Ladakh,1550,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | outer hills -[trades_with/Commodity circuits]-> foodgrains | peasant traders -[transports_via/Route/place circuits]-> foodgrains | tibetan herdspeople -[supplies/Commodity circuits]-> foodgrains,"There are Ladakhis 
+Ladakh,1550,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | outer hills -[trades_with/Commodity circuits]-> foodgrains,"There are Ladakhis 
 with a clear recollection of conditions before 1947-8 (when the 
 present phase of Ladakh’s history may be said to have begun), 
 who are emphatic in their assertion that apart from small quan­
 tities of rice, which is regarded as a luxury article, there was no 
 import of foodgrains up to that date."
-Ladakh,1552,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Moorcroft in the early 1820s tells us that the Ladakhis ‘rear an 
+Ladakh,1552,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Moorcroft in the early 1820s tells us that the Ladakhis ‘rear an 
 inadequate supply of food’, and that grain is imported from 
 Kashmir, the Punjab and the provinces south of the Himalaya; 
 and Cunningham, including Lahul and Spiti in his calculations, 
@@ -6111,10 +6111,10 @@ of land; trade; and most recendy, as contractors to Government
 in the large-scale programme of public works that has been going 
 on ever since the construction of the Srinagar-Leh highway in the 
 early 1960s."
-Ladakh,1566,Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The life led by these families is comfortable, but not 
+Ladakh,1566,Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The life led by these families is comfortable, but not 
 ostentatious; many of them are now using their capital to invest 
 in Ladakh’s most recent source of profit, the tourist trade."
-Ladakh,1569,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"To take extremes, there is little in 
+Ladakh,1569,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"To take extremes, there is little in 
 common between the Sham Ilaqa and Sodh Ilaqa, the lower 
 regions down the Indus, between 2700 and 3200 metres, where 
 summer is long enough for double cropping and autumn sees a 
@@ -6127,7 +6127,7 @@ and Rupshu, where winter lasts for six or eight months, and
 temperatures may fall to minus 40""; where there is no cultivation 
 worth speaking of, and the nomads herd their flocks of sheep and 
 pashmina goats in the open entirely at the m6rcy of the weather."
-Ladakh,1571,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Although it is on the main road into Ladakh, few benefits accrue 
+Ladakh,1571,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Although it is on the main road into Ladakh, few benefits accrue 
 to it from the traffic across it, for unless there is a blockage on the 
 road the tourists and truck-drivers stop at Dras only long enough 
 to refresh themselves with a cup of tea."
@@ -6142,27 +6142,27 @@ to have made it a surplus area."
 Ladakh,1577,Salt anchor|Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | livestock -[supplies/Commodity circuits]-> butter | yak -[supplies/Commodity circuits]-> butter | zanskaris -[trades_with/Commodity circuits]-> grain with rupshu chang-pa for salt,"Zanskar butter is still exported to 
 Leh, and till the mid-1980s the Zanskaris were bartering grain 
 from their fields with the Rupshu Chang-pa for salt."
-Ladakh,1581,Commodity circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | villages -[controls/Political economy]-> ordinary goats, sheep, and cows","Downriver from Kargil the Suru, 
+Ladakh,1581,Commodity circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | villages -[controls/Political economy]-> ordinary goats, sheep, and cows","Downriver from Kargil the Suru, 
 joined by the Dras-Shingo, flows through what is little better than 
 a gorge; but occasional villages perched on ledges above the river 
 produce some of the best of Ladakh’s apricots."
 Ladakh,1584,Route/place circuits,no,no,,"The prosperity that the caravan trade brought to the 
 town spilled over into its hinterland, compensating for the limita­
 tions imposed on agriculture by the length and severity of winter."
-Ladakh,1586,Commodity circuits|Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"It too benefited from its 
+Ladakh,1586,Commodity circuits|Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"It too benefited from its 
 position on the main caravan route to Yarkand, many of its fields 
 in the old days being given over to the cultivation of lucerne 
 (known in Ladakhi as ol), which the villagers sold at a consid­
 erable profit to the passing caravans as fodder for the horses."
 Ladakh,1589,Commodity circuits,no,yes,khaltse -[extracts_from/Commodity circuits]-> barley | shamma -[trades_with/Commodity circuits]-> barley,"Below 3000 metres wheat 
 is grown, while elsewhere the staple crop is naked barley."
-Ladakh,1591,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"In the Sham Ilaqa and the Sodh Ilaqa —  say from 
+Ladakh,1591,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"In the Sham Ilaqa and the Sodh Ilaqa —  say from 
 Saspol downriver to where the Indus leaves Ladakh —  and in 
 parts of Purig, cultivation of grain is supplemented by fruit-grow- 
 ing; these are the homes of the apricot, the only cash crop and, 
 apart from pashm, the only product exported from Ladakh in any 
 quantity."
-Ladakh,1592,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Wherever apricots grow, apples can too; and in the Sodh 
+Ladakh,1592,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Wherever apricots grow, apples can too; and in the Sodh 
 Ilaqa there are even mulberries, a particularly sweet variety of
 
 
@@ -6216,7 +6216,7 @@ free to perform his duty of impregnating the cows."
 Ladakh,1615,Commodity circuits|Social actors,no,yes,ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm | tibet baqals -[trades_with/Commodity circuits]-> pashm,"The chief source of the nomads’ livelihood is the pash­
 mina goat, source of the pashm that is the raw material for some 
 of the world’s finest and most expensive fabrics."
-Ladakh,1616,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"Pashm is the
+Ladakh,1616,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"Pashm is the
 
 
 1 2 2
@@ -6225,7 +6225,7 @@ warm undercoat which nature has provided for many animals
 living at that altitude —  yak, dogs and camels as well as goats wild 
 and domesticated —  to enable them to survive the long months 
 of below-freezing temperatures in winter."
-Ladakh,1617,Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Although it is Ladakh’s 
+Ladakh,1617,Commodity circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"Although it is Ladakh’s 
 most important product, it is only recently that the nomadic 
 lifestyle of the Chang-pa herdspeople, and their system of rearing 
 the goats that produce it, together with their other valuable live­
@@ -6238,10 +6238,10 @@ it is primarily a carrying animal."
 Ladakh,1620,Commodity circuits,no,yes,chang-luk sheep -[supplies/Commodity circuits]-> coarse wool,"The chang-luk is also a pack- 
 animal which provides in addition coarse wool and ultimately 
 meat."
-Ladakh,1621,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter,"But, whether in Chang-thang or in the primarily agricul­
+Ladakh,1621,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter,"But, whether in Chang-thang or in the primarily agricul­
 tural areas of Ladakh, meat production is the least of the purposes 
 of livestock rearing."
-Ladakh,1622,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"In Ladakh, as all over the Tibetan Plateau, 
+Ladakh,1622,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"In Ladakh, as all over the Tibetan Plateau, 
 even the Buddhists (though not the lamas) eat meat as occasion 
 arises."
 Ladakh,1623,Commodity circuits,no,no,,"Nevertheless they are keenly aware that the real value of 
@@ -6306,7 +6306,7 @@ laboriously from hand to hand —  a procedure which necessarily
 limits the cloth to narrow widths."
 Ladakh,1713,Commodity circuits,no,no,,"In the earlier edition of this book, taking my cue from Moorcroft and
 Cunningham, I referred to this animal as the huniya sheep."
-Ladakh,1714,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"I have since
+Ladakh,1714,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"I have since
 learned that this term is not now current, and that the sheep bred on the
 high pastures of Tibet and Ladakh is properly called the chang-luk, literally 
 the northern sheep."
@@ -6325,11 +6325,11 @@ Ladakh,1749,Political economy|Social actors,no,no,,"No doubt personality differe
 individuals are as great here as anywhere else; but as a rule today’s 
 visitor should find no difficulty in his dealings with the local 
 people."
-Ladakh,1756,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The cheerfulness shown by people of all sorts and conditions in 
+Ladakh,1756,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The cheerfulness shown by people of all sorts and conditions in 
 central Ladakh may well be due partly to the fact that one half of 
 the population is not kept in a state of perpetual subjection by the 
 other."
-Ladakh,1757,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"In Buddhist Ladakh, wherever there are men to be seen, 
+Ladakh,1757,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"In Buddhist Ladakh, wherever there are men to be seen, 
 there are women too; and one of the most charming features of 
 Leh bazaar is the group of ladies who sit along the footpaths with 
 their baskets of freshly gathered vegetables, spinning and chatting 
@@ -6361,7 +6361,7 @@ box."
 Ladakh,1866,Route/place circuits,no,no,,"Her best goncha is often in heavy figured Chinese silk: 
 a reminder of the caravan trade through which, in the old days, 
 such luxury goods were imported from great distances."
-Ladakh,1915,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Around the walls are shelves of polished wood bearing
+Ladakh,1915,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Around the walls are shelves of polished wood bearing
 
 
 144
@@ -6383,15 +6383,15 @@ winter evenings, the glass-room is warmed by the bokhari, the
 cylindrical free-standing stove used in Kashmir, where it burns 
 wood; here it is adapted to give a fiercer heat by burning hard 
 coke or kerosene oil."
-Ladakh,1953,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter | tibet -[trades_with/Commodity circuits]-> pashm,"Apart from chang, the characteristic beverage of Ladakh is 
+Ladakh,1953,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Apart from chang, the characteristic beverage of Ladakh is 
 gur-gur tea, the butter-tea consumed in one form or another by 
 all the Tibetan peoples."
-Ladakh,1954,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter | yak -[supplies/Commodity circuits]-> butter,"The Ladakhis are particular about using 
+Ladakh,1954,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter,"The Ladakhis are particular about using 
 fresh, not rancid butter."
 Ladakh,1955,Salt anchor|Commodity circuits,no,no,,"This is added with salt and milk to a 
 well-boiled infusion of tea to which a little bicarbonate of soda 
 has been added."
-Ladakh,1957,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Gur-gur tea is made in bulk, can be kept hot (traditionally in a 
+Ladakh,1957,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Gur-gur tea is made in bulk, can be kept hot (traditionally in a 
 decorative copper pot on a charcoal brazier; nowadays more often 
 in the prosaic thermos), and is drunk in enormous quantities by 
 the Ladakhis, thirty or forty (coffee-size) cups a day being quite 
@@ -6420,7 +6420,7 @@ and ‘improved’ the game (as their nineteenth-century ethos dic­
 tated they must): invented their own rules, introduced the chukker 
 system out of consideration for the horses, and generally tidied it 
 up."
-Ladakh,2039,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"But strangely enough, 
+Ladakh,2039,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"But strangely enough, 
 although horses and horsemanship were part of the way of life in 
 old Tibet, polo seems not to have caught on in a big way in 
 Buddhist Ladakh; its distribution in the western Himalaya is more 
@@ -6442,13 +6442,13 @@ The village weaver at work: Te-suru in the Suru
 tsampa, an instant pre-cooked food: Trespon."
 Ladakh,2139,Route/place circuits,no,no,,"Ponies are still the only means of transport on the mountain trails, while the roads are 
 filled with monstrous trucks."
-Ladakh,2152,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Ladakh’s posi­
+Ladakh,2152,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Ladakh’s posi­
 tion at the centre of an important network of trade routes meant 
 that, in the old days, whatever people’s requirements beyond the 
 basic necessities of life might be, they could be met by imports; 
 thus there was little call for the development of indigenous in­
 dustry."
-Ladakh,2157,Commodity circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | villages -[controls/Political economy]-> ordinary goats, sheep, and cows","Traditionally, every household spun and wove its own woollen
+Ladakh,2157,Commodity circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | villages -[controls/Political economy]-> ordinary goats, sheep, and cows","Traditionally, every household spun and wove its own woollen
 
 
 158
@@ -6464,7 +6464,7 @@ sun, or the summer’s shade, the weaver sets up his simple loom
 and for a fee weaves the thread spun by the women of all the 
 village households into the pattu which is universally the poor 
 people’s clothing."
-Ladakh,2162,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"Ladakh’s most famous product, 
+Ladakh,2162,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"Ladakh’s most famous product, 
 the warm soft winter under-coat of the pashmina goat, what used 
 to be known as ‘shawl-wool’, was never in the past entrusted to 
 the local people for any kind of processing beyond the most basic 
@@ -6473,11 +6473,11 @@ mixture of coarse hairs belonging to the goat’s shaggy outer coat."
 Ladakh,2163,Commodity circuits,no,yes,ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm | tibet baqals -[trades_with/Commodity circuits]-> pashm,"The fine pashmina shawls justified the name by which they were 
 world-famous, ‘cashmere’, by being manufactured in Srinagar by 
 the more nimble-fingered and artistic Kashmiris."
-Ladakh,2164,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"Even now, when 
+Ladakh,2164,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"Even now, when 
 not all the pashm leaves Ladakh raw, without value added, the 
 best ‘Ladakhi pashmina’ shawls can hardly compare with genuine 
 ‘cashmere’."
-Ladakh,2173,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"It was introduced about a hundred years ago 
+Ladakh,2173,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"It was introduced about a hundred years ago 
 by the Moravian missionaries, and Ladakhi women knit 
 European-style with the wool wound round the fingers of the left 
 hand, not the right as in Britain and elsewhere in India, and among 
@@ -6497,7 +6497,7 @@ ment is a horn so long that as it is played it rests on the ground
 a good way in front of the player’s feet, and in procession has to 
 be supported at the bell end in a loop of cloth carried by an acolyte 
 marching ahead."
-Ladakh,2252,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Those in a 
+Ladakh,2252,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Those in a 
 position to know state that in the oral literature of Ladakh is to 
 be found an insight into every phase of the people’s life."
 Ladakh,2272,Commodity circuits,no,no,,"Thus a harvest 
@@ -6524,19 +6524,19 @@ years ago; and in 1909 Francke found the temple being looked
 after by two Muslims, the representatives, they told him, of the 
 family of the former Buddhist custodians, who were punctilious 
 in lighting the butter-lamps and attending to the images."
-Ladakh,2308,Political economy|Social actors,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | villages -[controls/Political economy]-> ordinary goats, sheep, and cows","There were villages in which the dance 
+Ladakh,2308,Political economy|Social actors,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | villages -[controls/Political economy]-> ordinary goats, sheep, and cows","There were villages in which the dance 
 was an integral part of social life, as in central Ladakh, and men 
 and women participated together openly, contrary to the customs 
 of the adjoining regions of the Kargil district, where a more 
 orthodox form of Islam is preached by the Aghas, the religious 
 leaders, and this kind of amusement is discouraged."
-Ladakh,2364,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"While it may be assumed that all those involved in the process of 
+Ladakh,2364,Political economy|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"While it may be assumed that all those involved in the process of 
 ‘development’, Ladakhi or non-Ladakhi, freelance or working 
 under the auspices of Government, share a common commitment 
 to improving matters for the land and its people, there may be 
 occasional doubts as to the wisdom or appropriateness of some of 
 the programmes being applied."
-Ladakh,2374,Commodity circuits|Social actors,no,no,,"On the other hand, the easy availability, and the cheapness, o f the
+Ladakh,2374,Commodity circuits|Social actors,no,yes,ladakh -[governs/Political economy]-> change,"On the other hand, the easy availability, and the cheapness, o f the
 
 
 CHANGE
@@ -6545,10 +6545,10 @@ imported rice and wheat-flour —  together with the various pres­
 sures taking young people away from the land —  can only serve 
 to undermine traditional agriculture, and skew the natural pattern 
 of supply and demand."
-Ladakh,2375,Commodity circuits|Route/place circuits,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"In pre-modern Ladakh, whatever was 
+Ladakh,2375,Commodity circuits|Route/place circuits,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"In pre-modern Ladakh, whatever was 
 imported was paid for at its market value, even though the country 
 had only two exportable products —  pashm and dried apricots."
-Ladakh,2376,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | traders -[trades_with/Commodity circuits]-> salt and wool,"The never-ending circuits of the subsistence traders spread the 
+Ladakh,2376,Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | traders -[trades_with/Commodity circuits]-> salt and wool,"The never-ending circuits of the subsistence traders spread the 
 available resources over every region, and ensured that, though by 
 no standards a rich country, Ladakh’s economic independence 
 was absolute."
@@ -6559,13 +6559,13 @@ Ladakh,2401,Commodity circuits,no,no,,"They serve to increase the growing season
 for vegetables by at least four months, in some cases making it 
 last all year round; they also make possible the cultivation of exotic 
 species like tomatoes."
-Ladakh,2409,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The alluvial silt of which the Khurbathang plateau is 
+Ladakh,2409,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The alluvial silt of which the Khurbathang plateau is 
 composed is so rich that cereals are said to yield forty-fold, probab­
 ly more than twice the rate of increase in most areas of Ladakh; 
 however the landholders are being encouraged to go in rather for 
 cash crops of vegetables and fruit —  especially apricots —  which 
 also do well there."
-Ladakh,2411,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[trades_with/Commodity circuits]-> tea | shamma -[trades_with/Commodity circuits]-> barley,"In 
+Ladakh,2411,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"In 
 consideration of the fact that its water comes from the Indus,
 
 
@@ -6590,9 +6590,9 @@ identifying further ‘appropriate’ varieties."
 Ladakh,2431,Political economy|Social actors,no,no,,"It need not be assumed that all the Government interventions 
 in the field of agriculture are as environmentally inappropriate as 
 many people perceive the fertilizer and HYV programmes to be."
-Ladakh,2439,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The apricot programme is another example of development 
+Ladakh,2439,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The apricot programme is another example of development 
 building on what Ladakh already has to offer."
-Ladakh,2440,Commodity circuits,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"Dried apricots are 
+Ladakh,2440,Commodity circuits,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Dried apricots are 
 Ladakh’s only cash crop apart from pashm, and since the 1970s, 
 the district administrations have devoted a lot of attention to the 
 fruit, experimenting with new strains and new methods of graft­
@@ -6600,15 +6600,15 @@ ing, as well as with improved methods of drying it."
 Ladakh,2441,Commodity circuits,no,no,,"The area under 
 apricot orchards is also being expanded, especially in the Kargil 
 district."
-Ladakh,2442,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Even with all this, the production seems insufficient to 
+Ladakh,2442,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Even with all this, the production seems insufficient to 
 meet the all-India demand, and it is difficult to find Ladakhi 
 apricots in the bazaars of cities outside Jammu and Kashmir."
-Ladakh,2443,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"As 
+Ladakh,2443,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"As 
 a result partly of the tourist boom, and partly of the establishment 
 of marketing networks outside Ladakh, the return to the orchard- 
 owner has increased dramatically, the price of apricots now being 
 more than ten times that of 1976."
-Ladakh,2444,Commodity circuits,no,yes,livestock -[supplies/Commodity circuits]-> butter,"CHANGE
+Ladakh,2444,Commodity circuits,no,yes,ladakh -[governs/Political economy]-> change | livestock -[supplies/Commodity circuits]-> butter,"CHANGE
 181
 Given that agriculture is inseparable from livestock rearing, the 
 two elements forming a single integrated system, it follows that 
@@ -6617,7 +6617,7 @@ Ladakh,2445,Commodity circuits,no,yes,livestock -[supplies/Commodity circuits]->
 from increasing fodder production, the administration’s efforts 
 have mosdy been directed towards improving, where appropriate, 
 the local breeds of livestock."
-Ladakh,2446,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"But this is a matter to be approached 
+Ladakh,2446,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"But this is a matter to be approached 
 with care, and Ladakh itself provides a cautionary tale in the fate 
 of the Purig sheep."
 Ladakh,2447,Commodity circuits,no,no,,"This little animal made a great impression on 
@@ -6636,17 +6636,17 @@ between the local animals and the sheep of the Bakarwals, nomadic
 herdspeople who bring their flocks up in summer from the Jammu 
 region, through the valleys of Purig to the high pastures of Dras 
 and Rangdum."
-Ladakh,2451,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Like the nearly defunct Purig sheep, most of the breeds actually 
+Ladakh,2451,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Like the nearly defunct Purig sheep, most of the breeds actually 
 existing in Ladakh are well adapted to their environment."
 Ladakh,2453,Commodity circuits|Social actors,no,yes,chang-luk sheep -[supplies/Commodity circuits]-> coarse wool | chang-luk sheep -[supplies/Commodity circuits]-> meat,"A case in point is the chang-luk 
 sheep, which constitutes a good part of the wealth of the Chang- 
 thang nomads."
-Ladakh,2454,Commodity circuits|Social actors,no,yes,chang-luk sheep -[supplies/Commodity circuits]-> coarse wool | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | traders -[trades_with/Commodity circuits]-> salt and wool,"This big-boned animal lives comfortably at 4500 
+Ladakh,2454,Commodity circuits|Social actors,no,yes,chang-luk sheep -[supplies/Commodity circuits]-> coarse wool | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"This big-boned animal lives comfortably at 4500 
 metres, thriving on the nutritious grasses of the upland pastures, 
 and giving a large quantity of rather coarse wool, which the 
 herdspeople use for their own clothing, and sell to traders from 
 Ladakh, where it is valued for its softness and warmth."
-Ladakh,2458,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"It is pleasant that
+Ladakh,2458,Commodity circuits|Political economy,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"It is pleasant that
 
 
 182
@@ -6655,7 +6655,7 @@ this fact has been unequivocally recognized by the district
 authorities, so that plans, mindlessly conceived, to send merino 
 sheep to Chang-thang to ‘upgrade’ the chang-luk stock were aban­
 doned several years ago."
-Ladakh,2459,Commodity circuits|Social actors,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm,"On the contrary, the chang-luk has been 
+Ladakh,2459,Commodity circuits|Social actors,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"On the contrary, the chang-luk has been 
 recognized as an original stock which could be used to upgrade 
 the sheep population of other highland areas outside Ladakh.1
 Pashm, Ladakh’s only export apart from dried apricots, is 
@@ -6668,7 +6668,7 @@ tried, by means of its Pashmina Control Order, to maintain
 the salient feature of the system established under the Treaty 
 of Tingmosgang in 1684 —  namely that there should be no 
 movement of pashm outside Jammu and Kashmir."
-Ladakh,2462,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"This meant 
+Ladakh,2462,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"This meant 
 in effect that Ladakh’s entire output of pashm was reserved 
 for the Srinagar shawl industry."
 Ladakh,2463,Commodity circuits|Political economy,no,yes,ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm | tibet baqals -[trades_with/Commodity circuits]-> pashm,"It is difficult to imagine that, 
@@ -6690,7 +6690,7 @@ and 1995 saw the formation of the All Chang-thang Pashmina
 Growers’ Co-operative Marketing Society, which succeeded that 
 year in negotiating an all-time high price of Rs 1700 per 
 kilogram for first quality pashm."
-Ladakh,2466,Commodity circuits|Route/place circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea,"(This may be compared with 
+Ladakh,2466,Commodity circuits|Route/place circuits|Social actors,no,yes,chang-pa -[extracts_from/Commodity circuits]-> salt | chang-pa -[transports_via/Route/place circuits]-> thousands and thousands of sheep | frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge,"(This may be compared with 
 the prices current in the years before the Tibet border was 
 sealed in 1962, when Ladakhi traders could buy best-quality
 
@@ -6728,7 +6728,7 @@ being successfully introduced to increase the wool yield of the
 local sheep; while there are programmes to increase the milk yields 
 of the local goats and cattle by cross-breeding with exotic dairy 
 breeds."
-Ladakh,2479,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Jersey cows do well in Ladakh, but in the field the farmer’s 
+Ladakh,2479,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Jersey cows do well in Ladakh, but in the field the farmer’s 
 top priority is the production of dzo to yoke to the plough; it is 
 only after enough of his cows have been put to the yak for this 
 purpose that he is willing to use the services of the cross-bred 
@@ -6748,7 +6748,7 @@ and supplies are regularly carried up to them by horse- and
 donkey-transport belonging to the people of nearby villages, 
 whether in the Dras-Kargil belt, Mulbekh and Bodh Kharbu in 
 Kargil district, or in Nubra and other border areas of Leh district."
-Ladakh,2487,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"CHANGE
+Ladakh,2487,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"CHANGE
 185
 The transporters do even better from the army connection than 
 the fruit-growers, the business conducted by the Ladakh Transport 
@@ -6766,7 +6766,7 @@ Centre, which has its solar photo-voltaic workshop-cum-training-
 centre there, as well as its groundwater drilling operation, and a 
 small project for the processing of apricots, in the traditional form 
 of oil from the kernels, and the non-traditional form of jam."
-Ladakh,2580,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | pack-horses -[transports_via/Route/place circuits]-> karakoram | tibet -[trades_with/Commodity circuits]-> pashm,"The presence of outsiders is indeed no new thing for 
+Ladakh,2580,Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The presence of outsiders is indeed no new thing for 
 Ladakh, and Leh’s more elderly citizens can still remember the 
 days of the trans-Karakoram trade, when the direct routes to 
 central Asia and Tibet were open, the bazaar was home to a 
@@ -6779,7 +6779,7 @@ paid by the consumer."
 Ladakh,2594,Political economy|Social actors,no,no,,"A side-effect of the tourist boom is the way in which it has 
 spurred on the authorities to make improvements to the region’s 
 amenities, from which the local people benefit too."
-Ladakh,2596,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Again, 
+Ladakh,2596,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Again, 
 road transport has been developed, though in the absence of any 
 pollution-control standards for vehicles plying in Ladakh this 
 sometimes seems like a mixed blessing."
@@ -6787,7 +6787,7 @@ Ladakh,2653,Commodity circuits,no,yes,khaltse -[extracts_from/Commodity circuits
 wool and butter for barley is amazed at the variety of human 
 types he sees as he rubs shoulders in the bazaar with visitors from 
 Tiruchirapalli and Tokyo, Abidjan and Aberdeen."
-Ladakh,2657,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"The modern world has come to Ladakh in every possible sense: 
+Ladakh,2657,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The modern world has come to Ladakh in every possible sense: 
 physically by way of the new transport linkages; socially by the 
 probably irrevocable modifications of traditional village and fami­
 ly life; economically by the replacement of a barter by a money 
@@ -6800,7 +6800,7 @@ individual who is feeling the pinch: to the Chang-pa family, for
 instance, who have lost four-fifths of their precious stock of pash­
 mina goats because after five years there has been snow in Chang- 
 thang."
-Ladakh,2779,Political economy|Social actors,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"South-west Ladakh, from Dras to the Fatu-la, has always been open 
+Ladakh,2779,Political economy|Social actors,no,yes,baltistan -[trades_with/Commodity circuits]-> dried apricots | frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"South-west Ladakh, from Dras to the Fatu-la, has always been open 
 to infiltration and invasion, but nevertheless, as with neighbouring
 
 
@@ -6815,13 +6815,13 @@ Ladakh,2827,Political economy|Social actors,no,no,,"The
 fact that dawning political consciousness took this particular form 
 in turn involved some sense of separateness from the other main 
 community of the region, the Muslims."
-Ladakh,2830,Political economy|Social actors,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | merchants from central asia, kashmir and the punjab -[negotiates_with/Political economy]-> in leh","Insensitive handling of perceived 
+Ladakh,2830,Political economy|Social actors,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | merchants from central asia, kashmir and the punjab -[negotiates_with/Political economy]-> in leh","Insensitive handling of perceived 
 grievances by the Muslim-dominated State Government resulted 
 in an agitation spearheaded by the Ladakh Buddhist Association 
 in 1989, which took an unfortunately anti-Muslim as well as 
 anti-Government turn; the fall-out was a social rift between the 
 two communities in Leh which was not healed till 1993."
-Ladakh,2839,Route/place circuits|Social actors,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | merchants from central asia, kashmir and the punjab -[negotiates_with/Political economy]-> in leh","In Leh —  admittedly the most cosmopolitan place in Ladakh
+Ladakh,2839,Route/place circuits|Social actors,no,yes,"frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | merchants from central asia, kashmir and the punjab -[negotiates_with/Political economy]-> in leh","In Leh —  admittedly the most cosmopolitan place in Ladakh
 —  there is a long tradition of intermarriage, dating right back 
 to the days of the caravan trade when its bazaar was home to a 
 colony of foreign merchants; marriages between such merchants 
@@ -6853,7 +6853,7 @@ Ladakh,2977,Commodity circuits|Route/place circuits,no,yes,livestock -[supplies/
 inhabited, but the temples associated with the fort are maintained 
 by a lama from Sankar Gompa, down in the valley, who comes 
 up morning and evening to light the butter-lamps."
-Ladakh,3029,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Shey
+Ladakh,3029,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Shey
 Shey, on the main road up the Indus, about fourteen kilometres 
 from Leh, was the ancient capital of Ladakh; and even after Sengge 
 Namgyal built the more imposing palace at Leh, the kings con­
@@ -6893,18 +6893,18 @@ being absolutely black from the smoke of the numberless butter-
 lamps that have burned there over the centuries, while even the 
 uneven stone floor is grimy, and feels sticky to the touch of bare 
 feet."
-Ladakh,3172,Commodity circuits,no,no,,"Items that would have been in use in 
+Ladakh,3172,Commodity circuits,no,yes,ladakh -[governs/Political economy]-> change,"Items that would have been in use in 
 the kings’ daily life are silver and copper pots for serving tea and 
 change and some exquisite cups in jade and porcelain, clearly of 
 Chinese manufacture."
-Ladakh,3177,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"It is mentioned as Ladakh’s capital 
+Ladakh,3177,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"It is mentioned as Ladakh’s capital 
 in the first European account of Ladakh, by the Portuguese 
 merchant Diogo d’Almeida just before the great Balti invasion 
 about 1600 and it was at Basgo, strategically situated where the 
 near approach of the mountains to the river turns the Indus 
 valley into a gorge, that the advance of the invading Tibetan and 
 Mongol armies was checked in 1680."
-Ladakh,3255,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Either way, 
+Ladakh,3255,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Either way, 
 the artist’s experience seems to have extended beyond Kashmir, 
 the main source of Rin-chen-zang-po’s inspiration, down into 
 the plains of India.) Near the Mahakala above the door can be 
@@ -6966,7 +6966,7 @@ this unlooked-for good fortune one wonders if Freyre, a man at
 once weak-willed and cantankerous, ever had any doubts about 
 the wisdom of his decision to travel east, as the caravan crawled 
 across the interminable steppes in the biting cold of winter."
-Ladakh,3481,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"In his account of Srinagar, Desideri had had occasion to talk 
+Ladakh,3481,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"In his account of Srinagar, Desideri had had occasion to talk 
 of shawls and he knew that the raw material from which they were 
 made came from Ladakh, though he was wrong in supposing 
 pashm to be produced from sheep."
@@ -6980,7 +6980,7 @@ Ladakh,3492,Commodity circuits,no,yes,khaltse -[extracts_from/Commodity circuits
 and drink Chang, a sort of beer made from barley, which I shall mention 
 hereafter."
 Ladakh,3493,Commodity circuits,no,no,,"Their clothes, made of wool, are of suitable shape and make."
-Ladakh,3497,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"A number of merchants from Kashmir 
+Ladakh,3497,Commodity circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"A number of merchants from Kashmir 
 engaged in the wool trade live in this Kingdom, and they are allowed
 
 
@@ -7001,7 +7001,7 @@ Muslim merchants; the caravan trade from central Asia (though
 he mentions Khotan rather than Yarkand) and Tibet —  all these 
 we know from other sources, but it is useful to have them 
 confirmed by an independent outside observer."
-Ladakh,3507,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[trades_with/Commodity circuits]-> tea | shamma -[trades_with/Commodity circuits]-> barley,"The mention of 
+Ladakh,3507,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"The mention of 
 barley, wheat and apricots as practically the only crops; the diet 
 of wheat and tsampa, washed down with chang; even more the 
 assessment of the Ladakhi character —  these, to anyone familiar 
@@ -7017,7 +7017,7 @@ Ladakh,3533,Commodity circuits,no,no,,"Dzo, dzomo (L) Offspring of the male yak 
 Ladakh,3534,Commodity circuits,no,no,,"Bred mainly for the plough: the dzo, which is 
 sterile, combines the strength of the yak with the 
 docility of the cow."
-Ladakh,3539,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | shamma -[trades_with/Commodity circuits]-> barley,"Grim (T/L) 
+Ladakh,3539,Commodity circuits|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change,"Grim (T/L) 
 Naked barley, the staple crop of the whole Tibetan 
 plateau, including Ladakh."
 Ladakh,3540,Salt anchor|Commodity circuits,no,yes,king of ladakh -[licenses/Political economy]-> tibet | livestock -[supplies/Commodity circuits]-> butter | tibet -[trades_with/Commodity circuits]-> pashm | yak -[supplies/Commodity circuits]-> butter,"Gur-gur (L) 
@@ -7037,7 +7037,7 @@ Ladakh,3590,Commodity circuits,no,yes,ladakhi traders -[trades_with/Commodity ci
 the word used to refer to the yarn spun and the 
 cloth woven from pashm."
 Ladakh,3591,Commodity circuits,no,no,,Coarse homespun woollen cloth.
-Ladakh,3597,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm | shamma -[trades_with/Commodity circuits]-> pashm | tibet -[trades_with/Commodity circuits]-> pashm,"A shirt (kameez, 
+Ladakh,3597,Commodity circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea | ladakhi traders -[trades_with/Commodity circuits]-> pashm,"A shirt (kameez, 
 or kurta if cut loose) worn over baggy trousers
 Pashm (P)
 Pattu (H/U) 
@@ -7076,7 +7076,7 @@ threat from central Asia."
 Ladakh,3744,Route/place circuits,no,no,,"Galwan, the archetype of the kiraiyakash, found his vocation 
 as guide and caravan leader to successive European expeditions 
 of exploration, starting with Younghusband."
-Ladakh,3750,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | tibet -[trades_with/Commodity circuits]-> pashm,"A member of one of Leh’s principal trading families, of which 
+Ladakh,3750,Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"A member of one of Leh’s principal trading families, of which 
 one branch had been settled in Lhasa for generations, Radhu
 
 
@@ -7386,7 +7386,7 @@ Hoshiarpur, Hoshiarpuris 87,
 Hui-Cha’o 56
 Huniya sheep (see chang-lukr) 
 128n."
-Ladakh,3975,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[trades_with/Commodity circuits]-> tea,"Hunza 149 
+Ladakh,3975,Political economy|Route/place circuits,no,yes,frederic drew -[governs/Political economy]-> ladakh | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"Hunza 149 
 Hussain, Master 164
 Igu 16
 Phey Irrigation Project 177-8 
@@ -7432,7 +7432,7 @@ Wildlife Protection Act 46-7
 Jamyang Namgyal 21, 66-7,
 163, 236 
 Jaschke, H.A."
-Ladakh,3977,Salt anchor|Commodity circuits|Political economy|Route/place circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | khaltse -[extracts_from/Commodity circuits]-> buckwheat, turnips, or other vegetables | kiraiyakashi -[transports_via/Route/place circuits]-> kiraiya-kash; way of life of the kiraiyakash | ladakh -[trades_with/Commodity circuits]-> tea","(‘Corporal’) 88 
+Ladakh,3977,Salt anchor|Commodity circuits|Political economy|Route/place circuits,no,yes,"frederic drew -[governs/Political economy]-> ladakh | khaltse -[extracts_from/Commodity circuits]-> barley | khaltse -[extracts_from/Commodity circuits]-> buckwheat, turnips, or other vegetables | kiraiyakashi -[transports_via/Route/place circuits]-> kiraiya-kash; way of life of the kiraiyakash | ladakh -[disputes/Political economy]-> kingdom of guge","(‘Corporal’) 88 
 Julidok 28, 29
 K2, 32
 Ka-dam-pa 59, 219, 220, 232, 
@@ -7799,7 +7799,7 @@ Scheduled Tribes 94
 Schlagintweit, Emil and Hermann 
 von 53 
 Schumacher, E.F."
-Ladakh,3979,Commodity circuits|Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[trades_with/Commodity circuits]-> tea | livestock -[supplies/Commodity circuits]-> butter | tibet -[trades_with/Commodity circuits]-> pashm,"57, 225,
+Ladakh,3979,Commodity circuits|Route/place circuits|Social actors,no,yes,frederic drew -[governs/Political economy]-> ladakh | king of ladakh -[licenses/Political economy]-> tibet | ladakh -[disputes/Political economy]-> kingdom of guge | ladakh -[governs/Political economy]-> change | ladakh -[trades_with/Commodity circuits]-> tea,"57, 225,
 239 
 Stagmo 232 
 Stagrimo 253, 255 
@@ -8497,6 +8497,447 @@ vignei)."
 No_Greenery_Rupshu,457,Social actors,no,no,,"Changpas, the nomads of Rupshu: A study of ecology,
 economy and exchange."
 No_Greenery_Rupshu,461,Commodity circuits,no,no,,Mountain monarchs: Wild sheep and goats of the world.
+Report_On_Tibet_1903,21,Political economy,no,yes,chinese -[governs/Political economy]-> tibet | chinese -[taxes/Political economy]-> gyarong district,"Noblrs- Goverument Offioials in ordcr of rank- 
+Chinese Offici~ls-Missions-Revenue 
+."
+Report_On_Tibet_1903,27,Salt anchor|Commodity circuits,no,no,,"60-55 
+R~sonncss : Wool-Hides, 
+Yak-tails, etr.-Gold-Other 
+Metals- Salt- 
+Mnsk-Rhubarb-Timber 
+."
+Report_On_Tibet_1903,59,Salt anchor|Commodity circuits,no,yes,tibet -[depends_on/Commodity circuits]-> mountains,"The first of these includes 
+the great northern tlesert or Chang Tang - 
+a vast tableland, lying 
+at a n  average clevation of upwards of 16,000 feet, broken hcre and there 
+hy nigged mountains and lofty peaks, and studded with innumerable salt 
+lakes, great and small, which receive bhe drainage of their respective."
+Report_On_Tibet_1903,139,Political economy|Route/place circuits,no,yes,tibet -[depends_on/Commodity circuits]-> mountains,"It follows the 27th parallel for some two degrees of longitucle 
+(88""-86') 
+in a generally westerly direction a ~ ~ d  
+then toning to the 
+north-west reaches the crest of the Central Himalayan chain at the No pass 
+on the water parting between the affluents of the Brahmaputra und thc 
+Ganges; and it continuvs to follow the crest of these mountains for some 
+% degrees of longitude (84'- 
+82') when it turns in a westerly directiol~ 
+meeting the British ,Kumaon) frontier again on tbe Kali river in 81"" 
+east longitude and just north of YO0 north latitude."
+Report_On_Tibet_1903,277,Commodity circuits,no,no,,"As far as Shigatse (85 miles), so a native explorer tells us, 
+"" goods and men are transported by boats covered with leather, the 
+stream being wide and navigable."" 
+I n  this section the river is 
+bridged by one of those curious iron-chain bridges peculiar to the 
+country and said to have been devised and erected by an ingenious 
+Lama Eome 300 or 400 years ago; and the Rlle Chu joins on the 
+south bank."
+Report_On_Tibet_1903,396,Commodity circuits|Route/place circuits,no,no,,"The valley of 
+thc Ki Chu in the neighbourhood of Lhasa and thence to its confluer~cc 
+with the Tsangpo is fertile and well-cultivated and supports a large agri- 
+cultural population, whilst in its upper reaches the hill slopcs afford 
+pazing to tho numerous yaks, sheep, ponies, and mulcs of the Doli-pas 
+or Rlomads."
+Report_On_Tibet_1903,460,Commodity circuits|Route/place circuits,no,no,,"Tn the southern part of the province, however, the 
+valley-bottoms of the streams which constitnte the upper waters of the 
+Arun lie at h 
+great an elevation to allow of any but the scantiest culti- 
+vation ; but the hill slopes afford pasturage to innumerable animals, of 
+which yaks end sheep are found in the greatest numbers."
+Report_On_Tibet_1903,461,Commodity circuits,no,no,,"Natural 
+products are wool, dairy produce, hides, .grain (chiefly barley, peas, and 
+buckwheat), whilst manufactures are limited to lugs and woollen cloths."
+Report_On_Tibet_1903,463,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Ngari Korsum or Tea.*-Tbis 
+large province comprises the whole 
+of western Tibet from the frontiers of M a k  on the west to those of T ~ a n g  
+on the e s t ."
+Report_On_Tibet_1903,496,Commodity circuits|Route/place circuits,no,no,,"The chief products of the province are wool,.gold (from the diggings on 
+the border of the Chang Tang), borax, mlt, h~des, and dairy produce."
+Report_On_Tibet_1903,511,Political economy|Social actors,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | tibet -[taxes/Political economy]-> china,"Portions of Kam, it is true, are directly adrninisterecl 
+by Lhnsa, and portions by China ; but the bulk of the intermediate country 
+is still unsubdued and enjoys a virtual freedom under its own rulers, 
+steering a careful course between Lamas from Lhasa on the one hand and 
+officials from Pekin on the other and paying an occasional perfunctory 
+tribute to either or both as auzerain powers."
+Report_On_Tibet_1903,517,Political economy|Social actors,no,yes,tibetans -[trades_with/Commodity circuits]-> india,"The result is that large portions of what 
+were originall T~bet and should now be Kam are under the dircct ad- 
+ministration o { the Viceroys of the neighbouring Chinew Provinces, who, 
+whilst leaving the native hereditary rulers in actual possession, appoint 
+their officials to the various Courts to supervise affairs much in the 
+same way ss do the British residents in the Native Statee of India."
+Report_On_Tibet_1903,526,Commodity circuits,no,no,,"They trade too to a small extent on their own 
+account in musk, hides, furs, and gold-dust, which they carry to their 
+principal mart, Kuei-te on the Ho-ang-ho."
+Report_On_Tibet_1903,528,Political economy,no,no,,taxes and administer justice.
+Report_On_Tibet_1903,566,Political economy|Social actors,no,no,,"I~ilang slid Ba hihvr racb t\\ o nativc headmen 
+
+
+01% [lehas as Civil Magistrates, but tlicir authority 1s ove~ul~ailoweil 
+by 
+tile Chillese officials and by the Lamas of the neigllbouring monssterics."
+Report_On_Tibet_1903,580,Social actors,no,yes,chinese -[governs/Political economy]-> tibet | chinese -[taxes/Political economy]-> gyarong district,"Dutreuil de 
+Rhins tells us, a trade centre for the neighbouring Dokpas or herdsmm, 
+whcre thcy assemble periodically in large numbcrs to exchange their prodllce 
+nit11 thc vatioos articles brought hither by Chinese merchants from 
+I; ye-kun-do aud elwwhere."
+Report_On_Tibet_1903,590,Salt anchor|Commodity circuits,no,no,,"'lhe district is famous for its salt-mines which anx f o ~ ~ n d  
+ill 
+great ~~llrnhcrs 
+011 110th ciclrs of tlic ~aivcr."
+Report_On_Tibet_1903,594,Political economy|Social actors,no,no,,"Tllese districts appear to be directly subject to Lhasa and 
+to hc governed by officials appointed from the capital."
+Report_On_Tibet_1903,679,Political economy|Social actors,no,no,,"It may be worth mentioning that thia area includes the little state of 
+Mili whose officials, we are told, are appointed from Lhasa."
+Report_On_Tibet_1903,691,Commodity circuits,no,no,,"Kongho especially is 
+famous for ite exports and above all for its mules which arc said to be un- 
+equalled in Tibct and to be rcared in great numbers by the nativee."
+Report_On_Tibet_1903,709,Commodity circuits,no,no,,"The soil is fertile and good crops are 
+raiwd : rice, maize, millet, pulses, etc., being reaped in the autumn, and 
+wheat, barley, and mustard in the spring."
+Report_On_Tibet_1903,713,Political economy|Route/place circuits,no,no,,"'I he whole district from the Kya Kya pass to the plains is 
+known as Miin-Yul, or the low country, and the capital ie Tswang or 
+Men Tawang."
+Report_On_Tibet_1903,719,Commodity circuits|Route/place circuits,no,no,,"Vurthcr wcst the only inhabited rc~gion is in the ncighbourhooil of 
+thc gir:rt lake tsystcm of the Dangra Yum 'l'eo, Kyaring TI-o, etc., wherc 
+a wttlcd ppulation i~ found m ~ d  
+scanty crops of barley even arc raised 
+at an c~lcvatlon of lipwards of 13,000 ft."
+Report_On_Tibet_1903,793,Political economy|Route/place circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"After 
+remaining for the winter in Lbasa he retraced his steps up the qreat river 
+following it to ite source near the Marbm La and then psslng round 
+the north of t.he Manasarowar lakes he turned south-west and crossed into 
+British territory near Milam."" 
+1866.-The 
+Abbi Desgodins travelled from Ta-tsien-lu to Chamdo, 
+and even succeeded in pushing a little further westwards on the road to 
+Tjhasa; but he was stopped by tlie Tibetans and turned southwards to 
+Honga, s village in the extreme south-east of Tibetan territory on the 
+left hank of the Salwen."
+Report_On_Tibet_1903,812,Salt anchor|Commodity circuits,no,no,,"3 1 
+explored the neighbouring districts-rich 
+in gold, borax, and salt."
+Report_On_Tibet_1903,825,Route/place circuits|Social actors,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"He followed the cara- 
+van route usually taken by Tibetan and Mongolian traders between Lhasa 
+and Si-ning and penetrated southwards to the upper waters of the 
+Y angtse near thc crossing at Dre-chu-rab-den."
+Report_On_Tibet_1903,911,Route/place circuits|Social actors,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"After 
+travelling from Darjeeling to Lhasa he left that city with a caravan of 
+merchants bound for Mongolia and travelled with it through the solitude8 
+of northern Tibet as far as Tsaidam whence he pushed on to tlie 
+AIongolian town of Saitu further noith."
+Report_On_Tibet_1903,913,Route/place circuits,no,yes,chinese -[governs/Political economy]-> tibet | chinese -[taxes/Political economy]-> gyarong district,"From Gyekundo he followed a much used trade- 
+route to Ta-tsien-lu on the Chinese frontier."
+Report_On_Tibet_1903,958,Political economy|Route/place circuits,no,no,,"The results of journey are 
+a quantity of most valuable observations on the customs, government, 
+and topography of 
+'I ibet, and numerous route-map of which U."
+Report_On_Tibet_1903,1143,Political economy|Route/place circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Thence he crossed the Mariam pass and travelled 
+down the course of the Tsangpo to about 85' 10' East Longitude where he 
+was captured by the Tibetans and carried hack as a prisoner to the Rudok 
+district whence he mas sent into British territory."
+Report_On_Tibet_1903,1151,Route/place circuits,no,no,,"Rijnhart, two American missionarieq, startill: 
+from Tsnkar i n  liansu travelled aCTOP8 the Tsaiilam and thence south - 
+nrnrds hy the caravan route to Nagrhnka, losing their chiltl on the way 
+At Naqchuka they were stopped and turned back and made their way 
+towards Gyekundo."
+Report_On_Tibet_1903,1196,Route/place circuits,no,no,,"Here he left his 
+caravan and with only one or two companions pushed i n  disguise almost 
+to Tengri Nor."
+Report_On_Tibet_1903,1235,Political economy|Social actors,no,no,,"What this number may be it is 
+difficult to ascertain-one 
+iuformant tells me it is lU8, another puts it at 
+160 ; but the fact appears to be that there are numerous lay and 
+t~ccleeiastical officials scattered about all over the country without regard 
+to ally scale, whilst at Lhasa a tixed number of both arc ap1,lointed to 
+work under the Central Government."
+Report_On_Tibet_1903,1237,Political economy|Social actors,no,no,,"From these two classcq of officials-Dung-kor 
+and Tse-das,y-are 
+selected the Secretaries and the district officers and it is a rule that a 
+monk and a layman should be associated topethcr in every post."
+Report_On_Tibet_1903,1239,Political economy,no,no,,"They are responsiIJIe for 
+the collection of revenue and the administratiou of justice in their own 
+tli~t~*icts--Ilzong-ka-and arc vested witb full civil and military pwers, 
+but in military mattcrs are subordinatc of the Gcnerals ( T ) ~ - ~ i i n ) ."
+Report_On_Tibet_1903,1258,Political economy|Social actors,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | guori khan -[controls/Political economy]-> tibet,"Two well-informed Tibetan 
+gentlemen-one 
+of 
+them himself a L)ut~g-kor or lay official-have 
+informed me that of 
+all the Government officials the Shapes alone 
+do not attend the assembly, The reason for this appears to be that it 
+is considered better that the representatives of the people and the officials 
+uot immediately concerned with the government of the country may firat 
+clebatc upon any vexed question, so that when a decision has been arrived 
+at the result may be laid before the Government as represented by the 
+Council of Four for their information and so for that of the H e d  of the 
+State (the Tale Lama) and eventually of the Emperor of China."
+Report_On_Tibet_1903,1272,Commodity circuits,no,no,,"This is a high ecclesiatical official who appears 
+to be, with the Cja-,yak, the chief officer of the Tale Lama's court and lo 
+be the head of the various o5cials who minister to tho wants of the 
+Gyalwn Rdnpo-cle."
+Report_On_Tibet_1903,1344,Political economy|Social actors,no,no,,GOVERNMENT OFFICIALS IN ORDER OF RANK.
+Report_On_Tibet_1903,1345,Political economy|Social actors,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Tibetan Government officials are divided into seven different ranks or 
+grades in one or other of which will be found cla2sed all the various 
+offices held by laymen or monks from the highest to the lowest."
+Report_On_Tibet_1903,1349,Political economy|Social actors,no,no,,"As a rule officials holding a certain office are decorated with s 
+certain button appertaining to their rank ; but it often happens that an 
+individual is promoted for merit or by favour t o  a button of a higher class 
+than that to which his office entitles him."
+Report_On_Tibet_1903,1350,Political economy|Social actors,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | chinese -[taxes/Political economy]-> gyarong district | chinese emperor kang-hi -[governs/Political economy]-> china,"I nil1 now append a list of 
+the priiicipal Government officials in their respective ranks showing a160 
+the button which is usually worn by the laymen in each rank and its 
+Chinese equivalent as reckoned in China proper; but it should be noted 
+that the rank denoted by the various buttons does not correspond exactly 
+with the rank denoted by the same decorations in the Chinese scale."
+Report_On_Tibet_1903,1532,Political economy,no,no,,REVENUE.
+Report_On_Tibet_1903,1533,Political economy,no,no,,"The revenue of tlie country, so we are informed by Sarat Chandra Das, 
+is derived principally from the family tax and the land tax, the first 
+usually payable in coin and the latter in kind."
+Report_On_Tibet_1903,1534,Political economy,no,no,,"The total annual revenue 
+is estimated at Rs."
+Report_On_Tibet_1903,1537,Social actors,no,no,,"There appear to be no fixed rates on merchandise, but traders and 
+merchants from forcign countries pay yearly fees varying from Rs."
+Report_On_Tibet_1903,1547,Social actors,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"The inland trade 
+of Tibet is focuesed at the great markets of Lhasa and Shigatse, 
+whither merchants converge from all parts of the country during the 
+winter months."
+Report_On_Tibet_1903,1548,Political economy|Social actors,no,no,,"The great Lhasan fair is held usually in Novembcr 
+or December and caravans and merchants time their ariival at tile 
+capital accordingly."
+Report_On_Tibet_1903,1550,Route/place circuits,no,no,,"Shigatw and Gyangtse 
+are both important trade empol-ia, whither goods are brought from 
+all directions and where a large daily market is held."
+Report_On_Tibet_1903,1557,Political economy|Route/place circuits,no,no,,"(6) The road from Silinlri, the termiunn of the Eastern 13cngal 
+State Railway in Reng,~l, up the Teeah Valleg to K;rlimpc~ng and 
+thence aorosg the Jelep paue and up Ihe Cli~imLi valley to Uyangtw, 
+and eo to Lhasa or Shigatsc."
+Report_On_Tibet_1903,1564,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Tibet produces certain raw materials 
+suitablc for export to manufacturing countries (such as wool, hides, etc.) 
+in practically unlimited quantities, whilst India could, and would, supl)ly 
+Tibet with all the manufactured articles (including tea), of which she 
+stands so much in need."
+Report_On_Tibet_1903,1566,Route/place circuits,no,no,,"I have 
+elsewhere called attention to the conditions affecting trade on the Jeley 
+route and have put forward some suggestions for its pohsible encourage- 
+ment and augmentation."
+Report_On_Tibet_1903,1567,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"The principal articles of export from Tibet to Bengal are wool (to 
+the valuc oE over 5 lskhs yearly), silver, musk, horses, ponies, and mules, 
+yak-tails, and hides."
+Report_On_Tibet_1903,1568,Commodity circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | tibet -[taxes/Political economy]-> china,"Imports from Bengal are cotton piece-goods (to the 
+value of 2 4 labhs), woollcn manufactured piece-goods (over one lakh) , 
+manuhct~ired silk, tobacco, iron and other metals, silver, precious stones, 
+rice, and China and Japan ware."
+Report_On_Tibet_1903,1569,Commodity circuits,no,no,,Thc wool trade is without doubt capable of immense development.
+Report_On_Tibet_1903,1570,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"The Highlauds of Tibet support great numbers of sheep and goats whose 
+wool is of excellent quality."
+Report_On_Tibet_1903,1571,Commodity circuits|Route/place circuits|Social actors,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"In exchange for thie wool and for such 
+other commodities as hides and musk, etc., we could offer the Tibetans 
+metals (of which there are practically none to be found in the country), 
+rnan~fact~ured 
+articles oE all kinds, and above all tea, for which, whcn once 
+our planters have mastered tho art of manufacturirlg it to suit the tasto 
+of the people, there will be a practically unlimited market."
+Report_On_Tibet_1903,1572,Commodity circuits|Route/place circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"The present 
+consumption of tea in Tibet is estimated at over twenty million pounds 
+annually; and the proportion of this which reaches Central Tibet has 
+to be carried for nearly one thousand miles over difficult hill-roads from 
+the border town of Ta-tsien-lu, and Ta-tsicn-lu itself i~ Fome hundreds of 
+miles from the gardens which are the source of supply."
+Report_On_Tibet_1903,1573,Route/place circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"There is a small trade between Aseam and the Tibetan clistrict of 
+Tawang conducted along a route which leads from Odalguri throng11 
+Tawang over the Himalayan range to Chona Jong and thence to Lhaca."
+Report_On_Tibet_1903,1578,Commodity circuits,no,no,,"Im~lorts to Tibct, 
+rice ancl manufactured silks."
+Report_On_Tibet_1903,1587,Salt anchor|Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"I t  contains 300 to 400 shops and is the emporium for salt, 
+wool and borax from the neighbouring districts of Tibet, for tea, silks, 
+woollens, leather boots and ponies from Lhasa, and for rice, dyes, spices, 
+fluits, etc., from Assam."
+Report_On_Tibet_1903,1588,Commodity circuits|Political economy,no,no,,"Rice is s Government monopoly and all 
+goods from the south are charged a ten per cent."
+Report_On_Tibet_1903,1590,Route/place circuits,no,no,,"Aiitl 
+in speaking of Aasam we should not forget that there is another possible 
+trade route which will lead from Sadiya up the Lobit Brahmaputra 
+through the Mishmi country into tho fertile district of Za-yul aud ro 
+perhaps to the rich regions of the lower Mekong and Salmen and Wester11 
+Y un-nan."
+Report_On_Tibet_1903,1591,Route/place circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Other trade-routes between India and Tibet are thosll wl~ich 1t3ac1 
+from the United Provinces and the Punjab into thc province of Nga1.i 
+Korsum."
+Report_On_Tibet_1903,1593,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"The annual value oE the trade between Tibet and Ladak is sonle 
+three lalrhs of rupees, out of which bum t,he value of the exports from tile 
+Chang Tang greatly exceeds that of the imports from Laclak 
+The principal exporte to Ladak are w~ol, paehm (the soft under- 
+coating of wool which in cold countries grows in the winter months npon 
+certain goats and sheep), brick tea, and gold-dust; whilst imports to 
+Tibet are manufactured Bilks and cottons, precious stones, and silver 
+coins."
+Report_On_Tibet_1903,1598,Commodity circuits,no,no,,"T l ~ e  frontier 
+towns on the borders of the two countties act as nuclei for the collec- 
+tion of the wool, musk,."
+Report_On_Tibet_1903,1599,Commodity circuits|Route/place circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | guori khan -[controls/Political economy]-> tibet,"gold-dust, etc., which they rlietribute thror~ghont 
+China, and for the Chlnese tea and mani~factnred atticles which find a 
+market in the remotest parts of Tibet."
+Report_On_Tibet_1903,1612,Salt anchor|Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Tbe chief imports to Tibet are tea, cotton and 
+woollen roods, brass mare, salt and sundries."
+Report_On_Tibet_1903,1613,Commodity circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | tibet -[taxes/Political economy]-> china,"Exports to China are medi- 
+cinal hclrbs, musk, sheep-skins, furs, wool, and live sheep."
+Report_On_Tibet_1903,1617,Commodity circuits|Political economy|Social actors,no,no,,"The greater part 
+of the trade of Sung-pan is in the hands of Mullammadan merchants 
+who have a monopoly for supplying the tea."
+Report_On_Tibet_1903,1621,Commodity circuits,no,no,,"The exports from 
+Tihet to Ta-tsien-lu consist of musk, wool, 3kd, skins and furs, rhubarb 
+and medicinal drugs."
+Report_On_Tibet_1903,1622,Commodity circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | tibet -[taxes/Political economy]-> china,"Imports from China are tea, cotton, silk, ant1 
+sunclrics."
+Report_On_Tibet_1903,1626,Commodity circuits,no,no,,"Amongst the others 
+ni:ry be mcntioncd Kuan Hsien which dcols direct with the Ch' 111ese 
+lncrchants ~ett~lccl 
+in the Gya-rong district and imports large quantities 
+of I liubarb and musk."
+Report_On_Tibet_1903,1629,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Tea 
+and mlifik arc the principal commodities exchanged, 
+Li-kiang furt,licr sonth on the right, bank of the Yallgtsc 
+is 
+another great mart for Tibetan produce."
+Report_On_Tibet_1903,1634,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Tali-fu, a central town of Yun-nan, has an important transit trade 
+with Tibet receiving woollen rloths, skins, and furs in exohange for its tea."
+Report_On_Tibet_1903,1644,Commodity circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | tibet -[taxes/Political economy]-> china,"Exports to 
+China are yak-hides, lamb-skins, musk, gold-dust, deer-horns, wool ; 
+and imports are lastings, shirtings, flour, tea, vinegar, red leather, tobacco, 
+chinaware, and cloth from Lhasa."
+Report_On_Tibet_1903,1645,Political economy,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | guori khan -[controls/Political economy]-> tibet,"Derge is the capital of one of the richest agricultural and mannfac- 
+ttwing regions of Tibet and does a brisk trade with China."
+Report_On_Tibet_1903,1646,Commodity circuits,no,yes,tibetans -[controls/Political economy]-> derge,"In addition 
+to the commodities mentioned above Derge deds in leather and metal 
+work of native manufacture."
+Report_On_Tibet_1903,1647,Social actors,no,yes,chinese -[governs/Political economy]-> tibet | chinese -[taxes/Political economy]-> gyarong district,"At Chamdo there are several Chinese merohants and all the Chinese 
+officials trade freely on their own account."
+Report_On_Tibet_1903,1648,Commodity circuits|Social actors,no,no,,"Merchants import tea, cottons, 
+silh, half wrought iron, steel, knives, rice, vodka, and sugar (from 
+Yun-nan) ; they exchange these for native produce."
+Report_On_Tibet_1903,1652,Commodity circuits,no,no,,"Tllcbg 
+consist chiefly of cloth, enamelled ware, amber, and turquoises."
+Report_On_Tibet_1903,1654,Route/place circuits,no,no,,"This appears to consist entirely of n great caravan which travels 
+yearly from Mongolia through Tmitlan to Lhasa, starting usually in tlre 
+month of June."
+Report_On_Tibet_1903,1658,Commodity circuits,no,no,,"Besides sllch triflos, cloth 
+f'at)riru, colotircd ~ I ~ A ~ - w R T P ,  
+;hntl firfa-arnrs alsrl are impr~rlecl into Tihet 
+No PSI imato can I J e  11~1nl1~11 
+(11 I lrt v;llue 01 
+P A L ~ I I I  c1f this t ~ a ~ l v ."
+Report_On_Tibet_1903,1663,Route/place circuits|Social actors,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"On each of the main routes some mart 
+is recognized by traders as the emporium for their goods and here the 
+Ncpalese and Tibetan merchante have their agc-nts."
+Report_On_Tibet_1903,1665,Route/place circuits,no,no,,"On this road Loh Mantang is the trade dep6tJ and consi- 
+derable quantities of goods are exchanged."
+Report_On_Tibet_1903,1666,Salt anchor|Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"The principal exports from 
+Tibet are salt and wool, and the imports are rice and other grains."
+Report_On_Tibet_1903,1672,Salt anchor|Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Salt, wool, felt, and borax are brought here from Tibet, and tobacco, ricc, 
+gram, copper plat8es, etc., are imported from Nepal."
+Report_On_Tibet_1903,1677,Commodity circuits,no,no,,"First and foremost one m;ry ]Jut lit@-stock- shecp, goats, yaks, 
+cnttlc, mnlcs, and panics ; and their resal tant procluc ts-\\ 001, hiclcb, yak- 
+t:tils, and fiolnc dairy produce."
+Report_On_Tibet_1903,1678,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"We tllc~l have golrl, borax, and kalt 
+from the Chang Tang, and musk, rhnbarb, incdicinal hcrbs, gold-dus~, 
+timber, and some metals from Eastern Tibet."
+Report_On_Tibet_1903,1679,Commodity circuits,no,no,,WOOL.
+Report_On_Tibet_1903,1680,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Thc quantity of wool oltainal)le from Tibet should be pmct;cnlly 
+unlimited."
+Report_On_Tibet_1903,1681,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"On the grcat uplands of the Cha~ig Tang, and in facat 
+tliroughout the whole of Tibet, vast flocks of sheep and goats are reartd."
+Report_On_Tibet_1903,1682,Commodity circuits,no,no,,"A certain quantity of thcir wool is used for mnliing the coarse garmcnts 
+worn by the pcoplc, but the bulk is available for c\pcrt."
+Report_On_Tibet_1903,1683,Commodity circuits,no,no,,"As it is, a large 
+proportion of the wool from Eastern Tihct goes t o  Chlna in cxchange for 
+tea and mailnfact~ued gclods, hut a considerable cluantity (30,000 to 
+10,000 manude an~~nally) 
+fintlh i(,s way to Illdin viA Knlirnpo~~g."
+Report_On_Tibet_1903,1685,Commodity circuits,no,no,,"BIDES, YAK-TAILS, ETC."
+Report_On_Tibet_1903,1698,Commodity circuits,no,no,,"A cloth is spread at the bottom of the channel and kept down by a 
+number of stones so as to make the bottom uneven."
+Report_On_Tibet_1903,1699,Commodity circuits,no,no,,"One man brings the 
+earth from the excavation and sprinkles it over the channel, whilst 
+another man drives water down the channel by means of s leather bag."
+Report_On_Tibet_1903,1700,Commodity circuits,no,no,,"The water carries the lighter soil right away, but the pieces of gold fall 
+into the uneven placee, and are easily collected in the cloth by lifting np 
+the stones."
+Report_On_Tibet_1903,1719,Salt anchor|Commodity circuits,no,no,,SALT.
+Report_On_Tibet_1903,1720,Salt anchor|Commodity circuits,no,no,,"Salt is folmd in great qnantities on the Chang Tang, where it is oh- 
+tained by the evaporation of the water of the innnmerable salt lakes of 
+that region."
+Report_On_Tibet_1903,1721,Salt anchor|Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"There are salt mines also in eastern Tibet along both banLs of the 
+lower M c k o n ~  near the 23th dcgree of latitude."
+Report_On_Tibet_1903,1723,Salt anchor|Commodity circuits,no,no,,"Pits arc dog by 
+the banlrs of the river and allowed to fill with water, which water is then 
+talrcn out and dried in tho snu, leaving a residue of salt."
+Report_On_Tibet_1903,1724,Salt anchor|Commodity circuits,no,no,,"A given volume 
+of water leaves about 
+of i t d u l k  in salt."
+Report_On_Tibet_1903,1725,Commodity circuits,no,no,,MUSK.
+Report_On_Tibet_1903,1726,Commodity circuits,no,no,,"Musk, which is ,z ~ecrctinn in the navel of a emall deer, is a valuable 
+comnlcrcial product."
+Report_On_Tibet_1903,1727,Commodity circuits,no,no,,"The distinguishing features of good musk are its rich, 
+brown colour and pnngent smell."
+Report_On_Tibet_1903,1729,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"The Tibetans are adepts at adulterating pure musk with blood and other 
+snbstances."
+Report_On_Tibet_1903,1730,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Musk deer are plentiful in tllo ravines and forests of the 
+whole oE Eastern Tibet and range from the extrcme south as far as Koko 
+Nor in the north."
+Report_On_Tibet_1903,1731,Commodity circuits|Route/place circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | tibet -[taxes/Political economy]-> china,"Musk to the valuc of £60,001~ is fiaid to be exported 
+yearly to China through Ta-tsicn-lu and as mnch through Sung-pan ; 
+24,000 to f 6,000 worth finds its way to Bengal vkfi the Chumbi valley."
+Report_On_Tibet_1903,1738,Route/place circuits,no,no,,"1 he method of preparing it for the market is 
+to chop or trim the roote into square lumps which are then dried and 
+packed for carriage."
+Report_On_Tibet_1903,1749,Salt anchor|Commodity circuits,no,no,,"In addition to the metals, salt, 
+etc., which are enumerated above, this area ie fertile and wcll-wooded, 
+and only requires exploitation to become the centre of a thriving trade."
+Report_On_Tibet_1903,1750,Route/place circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Besicles the trade routes which now exist from south-eastern Tibet 
+leading into Se-chunn, Yun-nan and to Ta-tsien-lu, 
+Ba-tang, and 
+Lhnsa, we should recollect that the north-east corner of Assam is 6epa- 
+rated from Tibeton territory by a distance of less than 200 milcs and 
+that a rond between the two countlies would lie up the valley of a river, 
+the Lohit Brahmaputra, without crossing any water-parting or lofty 
+passes."
+Report_On_Tibet_1903,1751,Route/place circuits,no,no,,"Unfortunately this intc!rval is occupied by hobtile tribes; but 
+it seems probable that sooner or later a road will be made connecting the 
+two countries, and when that is done we shall tap a region rich in possi- 
+bilities for the dcveloprnent of a valuable export trade to Inclia."
+Report_On_Tibet_1903,1752,Route/place circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | guori khan -[controls/Political economy]-> tibet,"A trade 
+route from Sadiya lcadillg to the frontiers of Y un-nan and Se-chum may 
+seem a somewhat visionary prnject at present ; but should wc ever succeed 
+in obtaining any influence or coritrol over Tibetan affairs, SO important 
+a means of entering into commercial relalion with two of China's richebt 
+proviuce~ should not bo lost sight of."
+Report_On_Tibet_1903,1756,Commodity circuits,no,yes,china -[governs/Political economy]-> lhara | china -[taxes/Political economy]-> tibet | chinese emperor kang-hi -[governs/Political economy]-> china | tibet -[taxes/Political economy]-> china,"5 :I 
+First and foremost comes tea which is imported into the coulitry 
+from China in the form of bricks to an estimated quantity of 
+22,000,000 Ibs."
+Report_On_Tibet_1903,1765,Commodity circuits|Social actors,no,no,,"But in spite of their uninviting aspect they are 
+extremely popular and are preferred by the people to any form of 
+Eurorean made tea and eve11 to the brick tea made experimentally by 
+planters in the Darjeeling district."
+Report_On_Tibet_1903,1766,Commodity circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | chinese -[taxes/Political economy]-> gyarong district | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet,"But it seems impossible that, given 
+a fair opportu~~ity, 
+our planters ~hould be unable to manufacture a better 
+form of brick-tea than the Chinese and to sell it at a less price in Lhasa 
+and central and we~tern Tibet."
+Report_On_Tibet_1903,1769,Commodity circuits|Route/place circuits,no,yes,china -[taxes/Political economy]-> tibet | chinese -[governs/Political economy]-> tibet | guori khan -[controls/Political economy]-> tibet | srong-tsan-gam-pol -[governs/Political economy]-> tibet | tibet -[depends_on/Commodity circuits]-> mountains,"Other commodities popular in Tibet are broad cloth, flannels, meltons, 
+baize, cottons: silks, velvets, and manufmtured goods of practically every 
+description; whilst thele ie always a large market for metals in the 
+couctry."
+Report_On_Tibet_1903,1839,Commodity circuits,no,no,,"There is a l ~ o  the Yak-mik-ma equal to about one-fifth of 
+the Ta-mik-ma, and the Ra-mik-ma worth some Rs."
+Report_On_Tibet_1903,1903,Commodity circuits|Political economy,no,yes,chinese -[governs/Political economy]-> tibet | chinese -[taxes/Political economy]-> gyarong district,"Here a finnl stand was made ; 
+but the Chinese army, greatly superior in numbers and etrengthenpd 
+besides by a primitive form uf artillery in the shape of leather cannon, 
+overwhelmed the (3rnkhas a11c1 drove them back upon their capital with 
+great slaughter."
+Report_On_Tibet_1903,1942,Political economy,no,no,,"10,000 to Nepal and 
+to permit the NepaI Government to establish an agency and trading 
+station at Lhasa ; whilst arms and prisoners mere to be exchanged by the 
+belligerents."
 Rupshu,1,Salt anchor|Commodity circuits,no,yes,"kharnak -[taxes/Political economy]-> rupshu | rupshu -[extracts_from/Commodity circuits]-> salt | rupshu -[supplies/Commodity circuits]-> kharnak | rupshu -[trades_with/Commodity circuits]-> barley | rupshu -[trades_with/Commodity circuits]-> tea, sugar, spices, rice, and other food products at dozum fair","The Salt Trade: Rupshu’s Annual Trek to Tso 
 Kar 
 Monisha Ahmed 

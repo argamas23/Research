@@ -1,7 +1,7 @@
 Source,Target,MappedRelation,Circuit,Weight,Confidence,Score,RawRelations,SourceType,TargetType,Books,Evidence
 amdo tibetans,chinese world of gansu and northern sichuan,trades_with,Commodity circuits,1.0,0.9,3.7931,trades_with,GROUP,LOCATION,Santiago_Lazcano,The Chinese and Muslims of Amdo acted as intermediaries between the Amdowa Tibetans and the Chinese world of Gansu and northern Sichuan.
 amdowa tribes,salt,supplies,Commodity circuits,1.0,0.8,4.6931,supplies,GROUP,COMMODITY,Santiago_Lazcano,"In the past many Amdowa tribes had their salt station or tshwa sgo on the shores of Lake Wu yi tshwa mtsho (Lake Tsaka). There they burned bsang and sprinkled water from the lake skyward to venerate the 1,000 female deities believed inhab-"
-assistant commissioner of nyoma,agreement between kharnak and rupshu,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,LOCATION,Rupshu,
+assistant commissioner of nyoma,agreement between kharnak and rupshu,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,CONCEPT,Rupshu,
 baltistan,dried apricots,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,LOCATION,COMMODITY,Ladakh,
 bathang,tsakalho,governs,Political economy,1.0,0.8,3.6431,governs,LOCATION,LOCATION,Santiago_Lazcano,By the end of the 19th century Tsakalho was included in the territory of the Bathang 'principality'.
 begar,europeans,transports_via,Route/place circuits,1.0,0.0,1.1931,transports_via,CONCEPT,GROUP,Becoming_India,
@@ -20,10 +20,16 @@ chang-pa,salt,extracts_from,Commodity circuits,1.0,0.0,2.3431,extracts_from,GROU
 chang-pa,thousands and thousands of sheep,transports_via,Route/place circuits,1.0,0.0,1.1431,transports_via,GROUP,COMMODITY,Ladakh,
 chang-pa goats,"pashm, or 'cashmere",supplies,Commodity circuits,1.0,0.0,1.0931,supplies,COMMODITY,COMMODITY,Ladakh,
 chasralu,mahasu,disputes,Political economy,1.0,0.0,1.1431,disputes,LOCATION,LOCATION,Becoming_India,
-china,tea,trades_with,Commodity circuits,1.0,0.0,1.2431,trades_with,LOCATION,COMMODITY,Ladakh,
+china,lhara,governs,Political economy,1.0,0.8,3.6931,governs,LOCATION,CONCEPT,Report_On_Tibet_1903,But there are still some tribes of Tibetan origin living between Kam and the frontiers of Se-ohm on the upper course of the Ta-kin-ho or Tung river of whom mention should be made when considering the geographical and political divisions of this part of Asia.
+china,tibet,taxes,Political economy,1.0,0.7,4.0931,taxes,LOCATION,LOCATION,Report_On_Tibet_1903,Some pay tribute to both nations and others claim a complete independence.
+china,tea,trades_with,Commodity circuits,1.0,0.0,1.4431,trades_with,LOCATION,COMMODITY,Ladakh,
+chinese,tibet,governs,Political economy,1.0,0.9,4.5431,governs,CONCEPT,LOCATION,Report_On_Tibet_1903,In the year 1544 the scandals current in connection with the Regent compelled the intervention of the Chinese in the domestic politics of Tibet.
+chinese,gyarong district,taxes,Political economy,1.0,0.8,3.5431,taxes,CONCEPT,LOCATION,Report_On_Tibet_1903,"The Chinese, taking advantage of these disturbances, invaded the Gya-rong district on the western border of Se-chuan, and completely subjugated it."
 chinese authorities,salt,licenses,Political economy,1.0,0.0,2.2931,licenses,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+chinese emperor kang-hi,china,governs,Political economy,1.0,0.8,3.6931,governs,CONCEPT,LOCATION,Report_On_Tibet_1903,Towards the close of the seventeenth century internal troubles and revolutions in Tibet induced the Chinese Emperor Kang-hi to send an army to Lhasa.
 chinese government,salt from the lakes in trucks,transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,GROUP,COMMODITY,Rupshu,
 civilisational centres,"marginal, oppressed people",governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,GROUP,Becoming_India,
+colonial state,of this historical stage,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,CONCEPT,Becoming_India,
 consumers,grain for salt,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,GROUP,COMMODITY,HUMLA_NEPAL,
 deities,political arrangements within the clan or devotional community,governs,Political economy,1.0,0.0,1.1431,governs,CONCEPT,GROUP,Becoming_India,
 deities,relations between the state and its subjects,negotiates_with,Political economy,1.0,0.0,1.1431,negotiates_with,CONCEPT,LOCATION,Becoming_India,
@@ -37,14 +43,16 @@ drokpas,bhotias,trades_with,Commodity circuits,1.0,0.85,3.6431,trades_with,GROUP
 farmers from lower ladakh (or sham),"apricots, grain, walnuts, and white radish to trade for salt",transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,LOCATION,COMMODITY,Rupshu,
 forest settlements,and gave responsibility for their management to the forest department,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,LOCATION,Becoming_India,
 fragile mountain ecologies,on some of the popular trekking trails,transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,LOCATION,LOCATION,Ladakh,
-frederic drew,ladakh,governs,Political economy,1.0,0.0,1.1431,governs,PERSON,LOCATION,Ladakh,
+frederic drew,ladakh,governs,Political economy,1.0,0.0,1.2431,governs,PERSON,LOCATION,Ladakh,
 garu,tibetan countries in its neighbourhood,taxes,Political economy,1.0,0.0,1.1431,taxes,LOCATION,LOCATION,Gutenberg_EBook,
-goloks,kyaring tso and ngoring tso,extracts_from,Commodity circuits,1.0,0.8,3.6431,extracts_from,CONCEPT,CONCEPT,Santiago_Lazcano,"The Kyaring tso and Ngoring tso, from which the Goloks obtained salt, are not strictly saltwater lakes, but salt is found along their banks. This is enough to be considered by Tibetans as tsaka."
-goloks,tsam tso lake,extracts_from,Commodity circuits,1.0,0.9,3.9431,extracts_from,CONCEPT,LOCATION,Santiago_Lazcano,"These hardy nomads also extracted salt from Tsam tso Lake (now in the process of disappearing) and traded it for wood, sap and pine resin with traders from northwestern Sichuan."
-goloks,salt,monopolizes,Political economy,1.0,0.0,2.4431,monopolizes,CONCEPT,COMMODITY,Santiago_Lazcano,"According to Grenard, the Goloks also collected salt from the twin lakes Kyaring tso and Ngoring tso and exercised 'a lucrative trade, for they make sure of a monopoly in it through the terror with which they inspire their neighbours'."
-goloks,traders from northwestern sichuan,trades_with,Commodity circuits,1.0,0.9,3.9431,trades_with,CONCEPT,GROUP,Santiago_Lazcano,"These hardy nomads also extracted salt from Tsam tso Lake (now in the process of disappearing) and traded it for wood, sap and pine resin with traders from northwestern Sichuan."
-gorkhas,tibet,disputes,Political economy,1.0,0.8,3.7931,disputes,CONCEPT,LOCATION,Santiago_Lazcano,The poor quality of the imported salt (being mixed with sand) was even one of the excuses of the Gorkhas to declare war on Tibet in the late 18th century.
+goloks,kyaring tso and ngoring tso,extracts_from,Commodity circuits,1.0,0.8,3.6931,extracts_from,CONCEPT,CONCEPT,Santiago_Lazcano,"The Kyaring tso and Ngoring tso, from which the Goloks obtained salt, are not strictly saltwater lakes, but salt is found along their banks. This is enough to be considered by Tibetans as tsaka."
+goloks,tsam tso lake,extracts_from,Commodity circuits,1.0,0.9,3.9931,extracts_from,CONCEPT,LOCATION,Santiago_Lazcano,"These hardy nomads also extracted salt from Tsam tso Lake (now in the process of disappearing) and traded it for wood, sap and pine resin with traders from northwestern Sichuan."
+goloks,salt,monopolizes,Political economy,1.0,0.0,2.4931,monopolizes,CONCEPT,COMMODITY,Santiago_Lazcano,"According to Grenard, the Goloks also collected salt from the twin lakes Kyaring tso and Ngoring tso and exercised 'a lucrative trade, for they make sure of a monopoly in it through the terror with which they inspire their neighbours'."
+goloks,merchants of kan-su and se-chuan,trades_with,Commodity circuits,1.0,0.8,3.6931,trades_with,CONCEPT,GROUP,Report_On_Tibet_1903,"They are also carriers, and as such intermediaries between the merchants of Kan-su and Se-chuan and of eastern Tibet."
+goloks,traders from northwestern sichuan,trades_with,Commodity circuits,1.0,0.9,3.9931,trades_with,CONCEPT,GROUP,Santiago_Lazcano,"These hardy nomads also extracted salt from Tsam tso Lake (now in the process of disappearing) and traded it for wood, sap and pine resin with traders from northwestern Sichuan."
+gorkhas,tibet,disputes,Political economy,1.0,0.8,4.1931,disputes,CONCEPT,LOCATION,Santiago_Lazcano,The poor quality of the imported salt (being mixed with sand) was even one of the excuses of the Gorkhas to declare war on Tibet in the late 18th century.
 grains,tibetan rock salt,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,COMMODITY,COMMODITY,HUMLA_NEPAL,
+guori khan,tibet,controls,Political economy,1.0,0.8,4.1931,controls,CONCEPT,LOCATION,Report_On_Tibet_1903,the Mongols under their prince Gueri Khan invaded Tibet and having dethroned all the petty princes of the country they made the then Tale Lama supreme.
 gurkhas,the british east india company,disputes,Political economy,1.0,0.0,1.0931,disputes,GROUP,LOCATION,Becoming_India,
 gurkhas of nepal,mountainous areas,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,LOCATION,Becoming_India,
 hill states,relatives of the ruler and other state officials,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,GROUP,Becoming_India,
@@ -63,11 +71,13 @@ kharnak,ownership of tso kar,disputes,Political economy,1.0,0.0,1.2431,disputes,
 kharnak,rupshu's land from the west,disputes,Political economy,1.0,0.0,1.2431,disputes,LOCATION,LOCATION,Rupshu,
 kharnak,rupshu,taxes,Political economy,1.0,0.0,1.4931,taxes,LOCATION,LOCATION,Rupshu,
 khash-kanet peasants,begar,trades_with,Commodity circuits,1.0,0.0,1.1931,trades_with,GROUP,CONCEPT,Becoming_India,
-king of ladakh,tibet,licenses,Political economy,1.0,0.0,1.3931,licenses,PERSON,LOCATION,Ladakh,
+king of ladakh,tibet,licenses,Political economy,1.0,0.0,1.7931,licenses,PERSON,LOCATION,Ladakh,
 kiraiyakashi,kiraiya-kash; way of life of the kiraiyakash,transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,COMMODITY,COMMODITY,Ladakh,
 kitamura,porcelain cups,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,PERSON,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
 ladak,tibetan countries in its neighbourhood,taxes,Political economy,1.0,0.0,1.1431,taxes,PERSON,LOCATION,Gutenberg_EBook,
-ladakh,tea,trades_with,Commodity circuits,1.0,0.0,1.2931,trades_with,LOCATION,COMMODITY,Ladakh,
+ladakh,kingdom of guge,disputes,Political economy,1.0,0.0,1.2431,disputes,LOCATION,CONCEPT,Ladakh,
+ladakh,change,governs,Political economy,1.0,0.0,1.2431,governs,LOCATION,CONCEPT,Ladakh,
+ladakh,tea,trades_with,Commodity circuits,1.0,0.0,1.3931,trades_with,LOCATION,COMMODITY,Ladakh,
 ladakhi buddhists,until the re-establishment of the tibetan monasteries in india,controls,Political economy,1.0,0.0,1.0931,controls,LOCATION,GROUP,Ladakh,
 ladakhi traders,best-quality pashm,trades_with,Commodity circuits,1.0,0.0,1.1431,trades_with,GROUP,CONCEPT,Ladakh,
 ladakhi traders,pashm,trades_with,Commodity circuits,1.0,0.0,1.2931,trades_with,GROUP,COMMODITY,Ladakh,
@@ -83,7 +93,7 @@ men,long dagger,transports_via,Route/place circuits,1.0,0.0,1.1431,transports_vi
 more enterprising men,their salt onward to leh,transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,GROUP,COMMODITY,Rupshu,
 naxi women of lower tsakalho,wells,extracts_from,Commodity circuits,1.0,0.95,4.0431,extracts_from,GROUP,COMMODITY,Santiago_Lazcano,"Using a ladder, they descend to the bottom of the wells (sometimes down to ten meters) to load their buckets with salt water."
 naxi women of lower tsakalho,wooden tubes or buckets,transports_via,Route/place circuits,1.0,0.95,3.9931,transports_via,GROUP,COMMODITY,Santiago_Lazcano,"The Naxi women of Lower Tsakalho go down to the wells, and come back up with wooden tubes or buckets loaded with salt water weighing about 15 kg."
-nepal,tibet,trades_with,Commodity circuits,1.0,0.0,1.3931,trades_with,LOCATION,LOCATION,HUMLA_NEPAL,
+nepal,tibet,trades_with,Commodity circuits,1.0,0.0,1.7931,trades_with,LOCATION,LOCATION,HUMLA_NEPAL,
 nomadic pastoralists,in cash and kind,taxes,Political economy,1.0,0.0,1.0931,taxes,GROUP,COMMODITY,Becoming_India,
 nomads,lake,extracts_from,Commodity circuits,1.0,0.9,3.8931,extracts_from,GROUP,LOCATION,Santiago_Lazcano,"Upon reaching the lake, the nomads began to break the salt into small pieces with yak or sheep horns, and accumulated it in conical piles with wooden scrapers."
 nomads,salt pans,trades_with,Commodity circuits,1.0,0.7,3.2931,trades_with,GROUP,COMMODITY,Santiago_Lazcano,Although nearby nomads regularly went to the salt pans with their yaks in search of red salt.
@@ -105,7 +115,7 @@ rupshu,salt,extracts_from,Commodity circuits,2.0,0.0,2.9486,extracts_from,LOCATI
 rupshu,kharnak,supplies,Commodity circuits,1.0,0.0,1.4931,supplies,LOCATION,LOCATION,Rupshu,
 rupshu,barley,trades_with,Commodity circuits,1.0,0.0,1.5431,trades_with,LOCATION,COMMODITY,Rupshu,
 rupshu,"tea, sugar, spices, rice, and other food products at dozum fair",trades_with,Commodity circuits,1.0,0.0,1.3431,trades_with,LOCATION,CONCEPT,Rupshu,
-rupshu,tibet,trades_with,Commodity circuits,1.0,0.0,1.6431,trades_with,LOCATION,LOCATION,Rupshu,
+rupshu,tibet,trades_with,Commodity circuits,1.0,0.0,2.0431,trades_with,LOCATION,LOCATION,Rupshu,
 salt,barley,trades_with,Commodity circuits,1.0,0.0,2.4931,trades_with,COMMODITY,COMMODITY,Rupshu,
 salt,semi-luxuries like tea and rice,trades_with,Commodity circuits,1.0,0.0,2.2931,trades_with,COMMODITY,COMMODITY,Ladakh,
 salt lakes,salt,trades_with,Commodity circuits,1.0,0.0,2.2931,trades_with,LOCATION,COMMODITY,Ladakh,
@@ -121,23 +131,33 @@ shamma,salt beyond their own homes,transports_via,Route/place circuits,1.0,0.0,1
 sikhs,sutlej valley,governs,Political economy,1.0,0.0,1.0931,governs,GROUP,PERSON,Becoming_India,
 simla,position on a part of the mountain range,controls,Political economy,1.0,0.0,1.1431,controls,PERSON,LOCATION,Gutenberg_EBook,
 simla,to the borders of tibet,depends_on,Commodity circuits,1.0,0.0,1.1431,depends_on,PERSON,LOCATION,Becoming_India,
-sociological and historical literature on india under colonialism,the social history of the western himalayas,supplies,Commodity circuits,1.0,0.0,1.0931,supplies,LOCATION,LOCATION,Becoming_India,
+sociological and historical literature on india under colonialism,the social history of the western himalayas,supplies,Commodity circuits,1.0,0.0,1.0931,supplies,CONCEPT,CONCEPT,Becoming_India,
+srong-tsan-gam-pol,tibet,governs,Political economy,1.0,0.8,4.1931,governs,CONCEPT,LOCATION,Report_On_Tibet_1903,"During thc course of the seventh century (6 1 7- 639) a native King, one Srong-tsan-gam-pol established himself as ruler at Lhasa, and having ..."
 state officials,of the states,taxes,Political economy,1.0,0.0,1.0931,taxes,GROUP,LOCATION,Becoming_India,
 the british government,through palampur and from leh to kashmir,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,GROUP,LOCATION,Becoming_India,
 the rulers of these hill states,the crown,disputes,Political economy,1.0,0.0,1.0931,disputes,LOCATION,GROUP,Becoming_India,
+the tsangpo or brahmaputra river,the basin of the manasarowar lakes,governs,Political economy,1.0,0.8,3.4931,governs,LOCATION,LOCATION,Report_On_Tibet_1903,"Wc find for instance l amjan-Khamba, Machang Tsangpo, Ngari-chu-Tsangpo, Yaru 'l'sangyo, and comnlonest of all Tsang-chu, or the waters of Tsang ; whilst lower down after leaving Tibet it becomes the Dihang and joins the Lohit Brahmaput~ra at Sadiya"
 these mountain communities,cash,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,GROUP,CONCEPT,Becoming_India,
-tibet,supply of water,depends_on,Commodity circuits,1.0,0.0,1.3931,depends_on,LOCATION,CONCEPT,Gutenberg_EBook,
-tibet,pashm,trades_with,Commodity circuits,1.0,0.0,1.5431,trades_with,LOCATION,COMMODITY,Ladakh,
-tibet,rampur,trades_with,Commodity circuits,1.0,0.0,1.3931,trades_with,LOCATION,LOCATION,Gutenberg_EBook,
+tibet,mountains,depends_on,Commodity circuits,1.0,0.8,4.1931,depends_on,LOCATION,LOCATION,Report_On_Tibet_1903,Its slopes by intercepting the moisture-laden clouds of the south-west monsoon exercise an important effect upon the climate of E a ~ t  Tibet.
+tibet,supply of water,depends_on,Commodity circuits,1.0,0.0,1.7931,depends_on,LOCATION,CONCEPT,Gutenberg_EBook,
+tibet,the northern frontier of sikkim,disputes,Political economy,1.0,0.9,4.4931,disputes,LOCATION,LOCATION,Report_On_Tibet_1903,"This latter frontier, however, has never been acknowledged by the Tibetans and is still a matter of dispute."
+tibet,china,taxes,Political economy,1.0,0.7,4.0931,taxes,LOCATION,LOCATION,Report_On_Tibet_1903,Some pay tribute to both nations and others claim a complete independence.
+tibet,neighbouring countries,trades_with,Commodity circuits,1.0,0.8,4.1931,trades_with,LOCATION,CONCEPT,Report_On_Tibet_1903,As regards trade-routes it is sufficient here to notice the following: among them the most important -
+tibet,pashm,trades_with,Commodity circuits,1.0,0.0,1.9431,trades_with,LOCATION,COMMODITY,Ladakh,
+tibet,rampur,trades_with,Commodity circuits,1.0,0.0,1.7931,trades_with,LOCATION,LOCATION,Gutenberg_EBook,
 tibet baqals,pashm,trades_with,Commodity circuits,1.0,0.0,1.2931,trades_with,GROUP,COMMODITY,Ladakh,
 tibetan changpas,salt,transports_via,Route/place circuits,1.0,0.0,2.2931,transports_via,GROUP,COMMODITY,Rupshu,
 tibetan government,rupshu nomads,licenses,Political economy,1.0,0.9,3.7931,licenses,GROUP,GROUP,Santiago_Lazcano,Only in one case were those coming from across the border allowed to collect their own salt: the nomads of the Rupshu (western end of the Changthang Plateau entering Ladakh) had an agreement with the Tibetan government that allowed them to collect on Mimdum and Gyaltse lakes.
 tibetan herdspeople,foodgrains,supplies,Commodity circuits,1.0,0.0,1.1931,supplies,GROUP,COMMODITY,Ladakh,
 tibetan horses,tea,trades_with,Commodity circuits,1.0,0.0,1.2431,trades_with,COMMODITY,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
 tibetan partners,salt,trades_with,Commodity circuits,1.0,0.0,2.2931,trades_with,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+tibetan states,"roads-from china, mongolia, lhasa, ta-tsien-111, derge, etc",controls,Political economy,1.0,0.85,3.6431,controls,LOCATION,LOCATION,Report_On_Tibet_1903,"The meeting place of numerolls roads-from China, Mongolia, Lhasa, Ta-tsien-111, Derge, etc., and is the trade emporium for Eastern China..."
+tibetan tribes,chineae government,depends_on,Commodity circuits,1.0,0.9,3.7931,depends_on,GROUP,GROUP,Report_On_Tibet_1903,"Of these we are told that thc tribes of pastoral Tibetans along the course of the Dre Chu or Yangtse from its sources to aye-knn-do, or even a little further east, were organised By the Chineae Government in 1732 into 39 hundreds ruled by hereditary chiefs or delas..."
 tibetan women,wells,extracts_from,Commodity circuits,1.0,0.9,3.8931,extracts_from,GROUP,COMMODITY,Santiago_Lazcano,"Once both are ready, they open the wells again to start drawing salt water again."
 tibetan women,buckets,transports_via,Route/place circuits,1.0,0.9,3.8431,transports_via,GROUP,COMMODITY,Santiago_Lazcano,In Jada the Tibetan women usually carry two buckets of 10kg each.
-tibetans,caterpillar fungus,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+tibetans,derge,controls,Political economy,1.0,0.9,3.8931,controls,GROUP,CONCEPT,Report_On_Tibet_1903,"Nya-rong attacked and overran a portion of Derge, but the Tibetans came to the assistance of Llerge, drove out the people of Nya-rong and finally occupied that state, which they have held ever since."
+tibetans,caterpillar fungus,trades_with,Commodity circuits,1.0,0.0,1.1931,trades_with,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
+tibetans,india,trades_with,Commodity circuits,1.0,0.9,3.8931,trades_with,GROUP,LOCATION,Report_On_Tibet_1903,"The provisions of the treaty of peace relate chiefly to Sikkim, but amongst the articles of the convention occurs one providing for increased facilities of trade between India and Tibet."
 tika ruder sen,state's administration,governs,Political economy,1.0,0.0,1.0931,governs,PERSON,LOCATION,Becoming_India,
 traders,cash crops and pastoral goods,trades_with,Commodity circuits,1.0,0.0,1.2431,trades_with,GROUP,COMMODITY,Becoming_India,
 traders,salt and wool,trades_with,Commodity circuits,1.0,0.0,1.1931,trades_with,GROUP,COMMODITY,Ladakh,
