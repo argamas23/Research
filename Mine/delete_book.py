@@ -14,6 +14,8 @@ RESULTS_ROOT = MINE_DIR / "Results"
 HTML_PATHS = [
     MINE_DIR / "network_visualization.html",
     OUTPUT_DIR / "network_visualization.html",
+    MINE_DIR / "network_cytoscape.html",
+    OUTPUT_DIR / "network_cytoscape.html",
 ]
 
 
@@ -89,6 +91,8 @@ def filter_graph_outputs(deleted_books: set[str]) -> None:
         kept_nodes.append(node)
 
     for html_path in HTML_PATHS:
+        if not html_path.exists():
+            continue
         html = html_path.read_text(encoding="utf-8")
         html = replace_html_data(html, "graph-nodes-data", kept_nodes)
         html = replace_html_data(html, "graph-edges-data", kept_edges)

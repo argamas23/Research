@@ -44,6 +44,10 @@ HTML_PATHS = [
     MINE_DIR / "network_visualization.html",
     Path(OUTPUT_DIR) / "network_visualization.html",
 ]
+CYTOSCAPE_HTML_PATHS = [
+    MINE_DIR / "network_cytoscape.html",
+    Path(OUTPUT_DIR) / "network_cytoscape.html",
+]
 ENTITIES_PATH = Path(OUTPUT_DIR) / "cleaned_entities.json"
 SCOPED_BOOK_TERMS = {
     "salt_industry_india": {
@@ -515,10 +519,26 @@ def main() -> None:
         html = replace_html_data(html, "graph-nodes-data", nodes)
         html = replace_html_data(html, "graph-edges-data", edges)
         html_path.write_text(html, encoding="utf-8")
+    for html_path in CYTOSCAPE_HTML_PATHS:
+        html = CYTOSCAPE_HTML_PATHS[0].read_text(encoding="utf-8")
+        html = replace_html_data(html, "graph-nodes-data", nodes)
+        html = replace_html_data(html, "graph-edges-data", edges)
+        html_path.parent.mkdir(parents=True, exist_ok=True)
+        html_path.write_text(html, encoding="utf-8")
 
     css_src = MINE_DIR / "network_visualization.css"
     if css_src.exists():
         shutil.copyfile(css_src, Path(OUTPUT_DIR) / "network_visualization.css")
+    cytoscape_src = MINE_DIR / "lib" / "cytoscape-3.30.4" / "cytoscape.min.js"
+    if cytoscape_src.exists():
+        cytoscape_dest = Path(OUTPUT_DIR) / "lib" / "cytoscape-3.30.4" / "cytoscape.min.js"
+        cytoscape_dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(cytoscape_src, cytoscape_dest)
+    vis_src = MINE_DIR / "lib" / "vis-9.1.2" / "vis-network.min.js"
+    if vis_src.exists():
+        vis_dest = Path(OUTPUT_DIR) / "lib" / "vis-9.1.2" / "vis-network.min.js"
+        vis_dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(vis_src, vis_dest)
 
     with ENTITIES_PATH.open("w", encoding="utf-8") as f:
         json.dump(

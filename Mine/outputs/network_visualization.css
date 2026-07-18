@@ -374,6 +374,21 @@ div.vis-tooltip {
   white-space: normal !important;
 }
 
+#graph-tooltip {
+  position: fixed;
+  z-index: 10;
+  max-width: 420px;
+  padding: 9px 10px;
+  border: 1px solid #cbd3dc;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.97);
+  color: #26323f;
+  box-shadow: 0 14px 34px rgba(31, 41, 51, 0.18);
+  font-size: 12px;
+  line-height: 1.45;
+  pointer-events: none;
+}
+
 @media (max-width: 1400px) {
   #toolbar-body {
     grid-template-columns: 1fr;
@@ -433,6 +448,7 @@ div.vis-tooltip {
   #counts {
     text-align: left;
   }
+
 }
 
 @media (max-width: 460px) {
