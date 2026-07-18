@@ -6,12 +6,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "agents for the sale of punjab government publications",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "agreement between kharnak and rupshu",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -26,12 +20,6 @@
   {
     "entity": "all india states' peoples' conference",
     "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "all the land in the state",
-    "type": "LOCATION",
     "circuit": "Political economy",
     "confidence": 0.8
   },
@@ -147,12 +135,6 @@
     "entity": "bhotias",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "bir sain",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -378,12 +360,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "clothes",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "coarse wool",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -534,12 +510,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "duties on goods imported and expo.rtoa",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "entire border with the sikh territories",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -606,12 +576,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "ghi which is exported to simla and the klingra district",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "gilgit",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -627,18 +591,6 @@
     "entity": "goods",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "goods imported and expo.rtoa",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "gopal ji",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -693,12 +645,6 @@
     "entity": "guge",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "gujars and their milk",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
     "confidence": 0.8
   },
   {
@@ -1062,12 +1008,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "land",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "land revenue levied",
     "type": "CONCEPT",
     "circuit": "Political economy",
@@ -1272,12 +1212,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "mian kishan singh",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "milk",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -1347,12 +1281,6 @@
     "entity": "nagar and hunza",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "narsingji",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -1548,12 +1476,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "pindri",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "political arrangements within the clan or devotional community",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -1614,12 +1536,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "punjab government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "punjab salt mines",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
@@ -1642,12 +1558,6 @@
     "type": "CONCEPT",
     "circuit": "Political economy",
     "confidence": 0.8
-  },
-  {
-    "entity": "raja balbir sen",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
   },
   {
     "entity": "rajput states",
@@ -1728,19 +1638,7 @@
     "confidence": 0.8
   },
   {
-    "entity": "riwals rtt",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "road to leh",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "roads",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
@@ -1872,12 +1770,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "sansar chand's troops",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "satyagrahis",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1986,12 +1878,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "state of mandi",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "state officials",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -2013,18 +1899,6 @@
     "entity": "subsistence goods",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "sugarcane and tobacco cultivation",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "suket state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
     "confidence": 0.8
   },
   {
@@ -2172,12 +2046,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "the raja",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "the rulers of these hill states",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -2266,12 +2134,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "thousanns of mules",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
   },
   {
     "entity": "through palampur and from leh to kashmir",
@@ -2418,12 +2280,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "torches",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "trade",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -2568,12 +2424,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "walnuts, lemons, pomegranates, etc",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "water",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -2589,12 +2439,6 @@
     "entity": "wazeers",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "wazir",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -2662,12 +2506,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "yarkand and ladakh",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
   },
   {
     "entity": "yo-yul",

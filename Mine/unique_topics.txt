@@ -197,6 +197,7 @@
 /business/product_theme
 /business/product_with_ingredients
 /business/shareholder
+/business/shopping_center_owner
 /business/sponsor
 /business/sponsored_recipient
 /business/trade_union
@@ -547,6 +548,7 @@
 /location/nl_municipality
 /location/offical_symbol_variety
 /location/place_with_neighborhoods
+/location/postal_code
 /location/province
 /location/region
 /location/ru_federal_city
@@ -635,6 +637,7 @@
 /medicine/drug_formulation_category
 /medicine/drug_ingredient
 /medicine/drug_legal_status
+/medicine/drug_manufacturer
 /medicine/drug_mechanism_of_action
 /medicine/hormone
 /medicine/hospital

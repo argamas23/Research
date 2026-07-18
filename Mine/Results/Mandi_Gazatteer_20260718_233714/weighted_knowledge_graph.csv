@@ -1,0 +1,59 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+punjab government,licenses,agents for the sale of punjab government publications,1,"Agents tor the sale of Punjab Government publications • ... Arnol, 41 and 43, Maddox Street, Bond street, W. Constable & Co., 10, Old Jewry Court, Leicester Square, W.",0.9
+shiam sen,exchanges_for,salt,1,"... Salts, Salt lakes, salt pans, brine, tsaka, tshwa, or Tsakalho, prefer extracting justified salt-related actors, places, routes, taxes, licenses, extraction, transport, and exchange relations.",0.8
+riwals rtt,governs,state of mandi,1,"'rho RiwalsRt' take ... rrhe State of Mandi, a.rea some 1,200 ~quare miles, lies on the CHAP.",0.9
+the suketi or suket khad,supplies,the state from suket territory and becomes after its junction with the ratti and kansa streams a considerable volume of water.,1,It then flows north until it falls into the Beas close to the town of Mandi.,0.8
+potter,supplies,p1erchandise,1,"It is said that cultivators in the neighbourhood, while reclaiming and above the spring, have found pieces of swords and some square rupees.",0.8
+suraj sen,controls,kamla hill fort,1,Suraj Sen built the celebrated hill fort of Kamla in 1625,0.8
+suraj sen,supplies,revenue,1,The Kulu troops overran Mani and seized the Salt Mines of Guma and Drang which provided the greater portion of Mandi revenue.,0.7
+suraj sen,negotiates_with,golel'la raja,1,With the Golel'la Raja he was equally unsuccessful and the K Ilngra troops on two occasions sacked his capital.,0.6
+raja jow sen,governs,mandi,1,"TankTi history of Mandi, ..., During his reign the Mughals in'V~ded the Kamla district ~;;~~~.Seu.",0.8
+raja surma sen,supplies,"cash, a musk deer, a yak-tail, a pony and a hawk",1,"During the minority of Isri Senl who was onlrfive years old at his father's c'eath, ..., Surma Sen ~id yt'arly tPibute to the. ...",0.8
+raja balbir sen,controls,state of mandi,1,"On failure of such heirs, any other male heir who may be proved to the British Government to be next of kin to the Raja shall obtain the above State with administrative powers.",0.9
+raja balbir sen,governs,state of mandi,1,"The State of Mandi, comprised within the same boundaries as at the commencement of the British occupation...",0.8
+british government,regulates,raja balbir sen,1,Be it known to the Raja that the British Government shall be at liberty to remove anyone from the Gaddi of Mandi who may prove to be of worthless character...,0.85
+british government,taxes,raja balbir sen,1,The Raja shall pay an annual tribute into the treasury of Simla and Subathu one lakh of Company's rupees as nazrana by two instalments...,0.9
+raja,regulates,duties on goods imported and expo.rtoa,1,He shallllot levy tolls and duties on goods imported and expo.rtoa...,0.9
+raja,supplies,provisions according to his means,1,"He shall, together with his troops and hIll -porter~. whenever required, join the British army, and be ready to execute whatever orders may be issued to him by the British authorities and supply provisions according to his means.",0.8
+raja,governs,lands of the said territory,1,"The Raja shall not alienate any portion of the lands of the said territory witbout the knowledge and consent of the British Government, nor transfer it by way of mortgage.",0.95
+raja,negotiates_with,superintend~nt of the hill sta.tes,1,"In regard to the duties' on the iron and salt mines, etc., in the territory, of Mandi, rules shall be laid down after consultation with the Superintend~nt of the Hill Sta.tes, and these rules shall not be departed from.",0.75
+raja,taxes,goods imported and expo.rtoa,1,He shallllot levy tolls and duties on goods imported and expo.rtoa...,0.85
+the british government,taxes,one lakb of rup6l'~ fldlhlajly,1,One lakb of rup6l'~ flDlHlaJly is paid 8S tribute tb the British Govetnment.,0.9
+the hill-people,disputes,some local deity,1,"All misfortune or sickness is attributed to the malice of some local deity and chelds B,re consulted;",0.7
+kanets,regulates,marriage,1,"They never permit widow marriage, nor is an illegitimate son or sirtoia married to a Bohra girl of pure blood.",0.8
+gopal ji,governs,state,1,The function that this god is the head of the State is still nominally retained...,0.9
+kalnj'u nag,administers,nachan,1,It is vpry old b~ing said to be of the time of the Panda vas.,0.8
+darbar,regulates,reclaiming waste land,1,The grazing land is left for cattle while aU the waste belongs to the State and no tenant has power to reclaim without the permission of the DarbRr.,0.8
+gujars and their milk,supplies,ghi which is exported to simla and the klingra district,1,"A bullock is not worked till he is four years old and a pttir of Cattle. 50 each 'l'hey are kept principally by Gujars and their milk is used to mtlke ghi, which is exported to Simla and the Klingra District.",0.8
+thousanns of mules,trades_with,yarkand and ladakh,1,"They carry tobacco, tea, su!!'ar, coars(~ cloth and English-made piece-goods to Yarkand and on their I eturn bring ooarse woollen cloth and Cl!lrpetll, cAaras and spices from yarkand.",0.8
+mandi,connects_to,pathankot,1,"Mandi is 131 miles from Pathankot, 81 from Kangra.",0.9
+mandi,connects_to,kangra,1,"Mandi is 131 miles from Pathankot, 81 from Kangra.",0.9
+mandi state,governs,tahsils,1,The State is divided into ~ Tahslls-further sub-divided into 24 Administrative Divisions.,0.9
+wazir,administers,land,1,"The wa,z{rs had full powers in all cases relating to land: they could authorize the breaking up of waste, effect partition, assess fluctuating revenue, arrest cultivators who failed to pay their revenue punctually, attach their crops and inflict minor penalties.",0.8
+mandi state,regulates,revenue collection,1,"At this settlement all the powers above described were withdrawn from the kci rdci1'H, and since then they have only been responsible for the collection of the revenue and the keeping of the accounts.",0.7
+the raja,governs,all the land in the state,1,The Raja is sole proprietor of all the land in the State and land-holders have no right to mortgage or sell their lands.,0.9
+the mandi darbar,regulates,punishments,1,"'the Mandal has adopted the Indian Penal Code in its entirety, with the exception of the section (70) relating to punishments.'",0.8
+state,regulates,sugarcane and tobacco cultivation,1,The collection of the State dues on account of sugarcane and tobacco cultivation...,0.9
+mandi rajas,disputes,suket,1,"The Mandi Rajas did not approve of this advance on the part of Suket, and made several attempts to wrest the fort from that State.",0.8
+it pret l'6.ll~,controls,mandi pal'ohit,1,The appointment of It Pret l'6.ll~ was also an interesting custom observed on the death of t he late Raja.,0.8
+pret pcllu,supplies,"clothes, ornaments and cash",1,"After the year was cnded, the Pret P(iZu wae snpplied with clothes, ornaments and cash sufficient to provide him for life, and turned out of the State never to re-enter It.",0.7
+state,regulates,torches,1,Torches are to be made of dry wood only.,0.6
+raja bejai sen,regulates,charcoal-burning,1,"No charcoal-burning is allowed within 100 paces of .. Oak and rhododendron are to be given freely for charcoal-making, also the stumps of deodar and blue pine.",0.7
+state,taxes,"walnuts, lemons, pomegranates, etc.",1,"The State takes a share of walnuts, lemons, pomegranates, etc.",0.9
+suket state,governs,bahl tehsil,1,"'The latter tract known as Karsog forms the Pahar Tehsil, it is broken up into a series of valleys by branches of the great Jalori range of the Himalayan chain.'",0.85
+suket state,governs,pahar tehsil,1,"'The latter tract known as Karsog forms the Pahar Tehsil, it is broken up into a series of valleys by branches of the great Jalori range of the Himalayan chain.'",0.85
+bir sain,controls,rupar,1,his son Rap 8ain retired to Rupar from which he expelled the Muhammadans and.,0.8
+sansar chand,supplies,mian kishan singh,1,He obtained from him a large force with which he captured Tind and burnt Suket.,0.8
+mian kishan singh,transports_via,sansar chand's troops,1,"He now ten-80,000 out or his own pocket, with the aid of Sansar Chand's troops wrf'stf'd six strongholds from Mandi.",0.8
+the state,administers,roads,1,The State roads have been maintained in good repair...,0.95
+gaur brahmin,administers,narsingji temple,1,The pujdris and the kardar of the temple are paid from the income of the fd (idol).,0.8
+pritbwi singh,licenses,small jagirs,1,Most of these enjoy small jagirs.,0.7
+bir sain,governs,suket state,1,"The family is represented to-day by Fithu, and the mass of the people are Hindus.",0.9
+ruling chiefs,regulates,income and expenditure of temple,1,Each temple is managed by a kardar appointed by the Raja who also exercises a general supervision over the income and expenditure.,0.8
+state,controls,narsingji,1,"AR a rule no one can see Narsingji, but if anyone wishes to do so, he has to get permission from the State.",0.9
+pindri,supplies,water,1,The uutws of cleaning the temple and supplying water are also carried out by the pujin on duty.,0.8
+the raja,supplies,clothes,1,Ono party i::i pl'uvided with clothes by. the Raja,0.9
+lrnds,administers,illy il'rrigatt·d,1,are cllarged a special rate (~agahi) of 5 lakhs rice in the kharif and 2! lakhs wheat in the rabi per khRr.,0.9
+suket state,administers,state officials,1,The State of Suket is administered by a Rajah in person who exercises a complete authority over the various departments.,0.8
+rajah,governs,ea;trudltion,1,"For the t'xtradition of criminals, agreements exist with the Ea;trudltion.",0.8
+deputy inspectors of police,administers,jail,1,"resent two Deputy Inspectors of Police, both ... it is intended to establish shortly a new thana ling, a jail with accommodation for 50 prisoners; the present about 20.",0.9

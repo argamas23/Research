@@ -11,17 +11,20 @@ bathang,tsakalho,governs,Political economy,1.0,0.8,3.6431,governs,LOCATION,LOCAT
 begar,europeans,transports_via,Route/place circuits,1.0,0.0,1.1931,transports_via,CONCEPT,GROUP,Becoming_India,
 bethus,rana,trades_with,Commodity circuits,1.0,0.0,1.1431,trades_with,GROUP,GROUP,Becoming_India,
 bethus,"10,000 maunds of wood annually",transports_via,Route/place circuits,1.0,0.0,1.1431,transports_via,GROUP,COMMODITY,Becoming_India,
+bir sain,suket state,governs,Political economy,1.0,0.9,3.8431,governs,CONCEPT,LOCATION,Mandi_Gazatteer,"The family is represented to-day by Fithu, and the mass of the people are Hindus."
 british,"village sites or farmlands, local pastures or forests",disputes,Political economy,1.0,0.0,1.2931,disputes,GROUP,LOCATION,Becoming_India,
 british,entire border with the sikh territories,governs,Political economy,1.0,0.0,1.2931,governs,GROUP,LOCATION,Becoming_India,
 british,cumbersome system of administration,negotiates_with,Political economy,1.0,0.0,1.2931,negotiates_with,GROUP,CONCEPT,Becoming_India,
 british,popular refusals to accept rules,trades_with,Commodity circuits,1.0,0.0,1.2931,trades_with,GROUP,CONCEPT,Becoming_India,
 british capital,raw material and captive markets for emergent industries,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,COMMODITY,LOCATION,Becoming_India,
-british government,daily workings and internal authority of the clans,governs,Political economy,1.0,0.0,1.2431,governs,GROUP,CONCEPT,Becoming_India,
-british government,trade,governs,Political economy,1.0,0.6,3.2431,governs,GROUP,CONCEPT,Memo_Relations_with_Tibet,All British subjects were to be allowed to go there to trade and the British Government were to be free to send officers to reside at Yatun to watch the condition of British trade there.
-british government,trade between india and tibet,governs,Political economy,1.0,0.9,3.9431,governs,GROUP,CONCEPT,Memo_Relations_with_Tibet,"A more effectire measure, though still not sufficient in itself to bring the Lamas to reason, is the construction of good mule roads up to the frontier and employing for that purpose Pioneer Regiments and Sappers and Miners."
-british government,one lakh 'company' rupees every year,taxes,Political economy,1.0,0.0,1.2431,taxes,GROUP,CONCEPT,Becoming_India,
+british government,daily workings and internal authority of the clans,governs,Political economy,1.0,0.0,1.3431,governs,GROUP,CONCEPT,Becoming_India,
+british government,raja balbir sen,governs,Political economy,1.0,0.85,4.0431,governs,GROUP,CONCEPT,Mandi_Gazatteer,Be it known to the Raja that the British Government shall be at liberty to remove anyone from the Gaddi of Mandi who may prove to be of worthless character...
+british government,trade,governs,Political economy,1.0,0.6,3.3431,governs,GROUP,CONCEPT,Memo_Relations_with_Tibet,All British subjects were to be allowed to go there to trade and the British Government were to be free to send officers to reside at Yatun to watch the condition of British trade there.
+british government,trade between india and tibet,governs,Political economy,1.0,0.9,4.0431,governs,GROUP,CONCEPT,Memo_Relations_with_Tibet,"A more effectire measure, though still not sufficient in itself to bring the Lamas to reason, is the construction of good mule roads up to the frontier and employing for that purpose Pioneer Regiments and Sappers and Miners."
+british government,one lakh 'company' rupees every year,taxes,Political economy,1.0,0.0,1.3431,taxes,GROUP,CONCEPT,Becoming_India,
+british government,raja balbir sen,taxes,Political economy,1.0,0.9,4.1931,taxes,GROUP,CONCEPT,Mandi_Gazatteer,The Raja shall pay an annual tribute into the treasury of Simla and Subathu one lakh of Company's rupees as nazrana by two instalments...
 british officers,the west himalayas,transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,GROUP,LOCATION,Becoming_India,
-british official,state,licenses,Political economy,1.0,0.85,4.0431,licenses,GROUP,LOCATION,J&K_Gazatteer_1909,"A redistribution of the old assessments on a more equi-table principle, and a summary revision where the assessments were obviously too high or unnecessarily light, have recently been carried out by a British official lent to the State."
+british official,state,licenses,Political economy,1.0,0.85,4.2931,licenses,GROUP,LOCATION,J&K_Gazatteer_1909,"A redistribution of the old assessments on a more equi-table principle, and a summary revision where the assessments were obviously too high or unnecessarily light, have recently been carried out by a British official lent to the State."
 british rule,with the emergent indian nation,supplies,Commodity circuits,1.0,0.0,1.0931,supplies,CONCEPT,LOCATION,Becoming_India,
 british traders,tibetans,trades_with,Commodity circuits,1.0,0.8,4.4931,trades_with,GROUP,GROUP,Memo_Relations_with_Tibet,By this we give the Tibetans a chance of exchanging their surplus raw produce for manufactured goods of which they stand in need.
 buddhist devotees,tsakalho,trades_with,Commodity circuits,1.0,0.8,3.5931,trades_with,GROUP,LOCATION,Santiago_Lazcano,"As we have seen in other cases also here the trade benefited from the passage of pilgrims who came to the area. Buddhist devotees arrived from all over Tibet ready to perform the kora or ritual circumambulation of the sacred Kawa Karpo Mountain, and would take the opportunity to acquire the renowned Tsakalho salt."
@@ -76,6 +79,7 @@ goloks,tsam tso lake,extracts_from,Commodity circuits,1.0,0.9,3.9931,extracts_fr
 goloks,salt,monopolizes,Political economy,1.0,0.0,2.6431,monopolizes,GROUP,COMMODITY,Santiago_Lazcano,"According to Grenard, the Goloks also collected salt from the twin lakes Kyaring tso and Ngoring tso and exercised 'a lucrative trade, for they make sure of a monopoly in it through the terror with which they inspire their neighbours'."
 goloks,merchants of kan-su and se-chuan,trades_with,Commodity circuits,1.0,0.8,3.6931,trades_with,GROUP,GROUP,Report_On_Tibet_1903,"They are also carriers, and as such intermediaries between the merchants of Kan-su and Se-chuan and of eastern Tibet."
 goloks,traders from northwestern sichuan,trades_with,Commodity circuits,1.0,0.9,3.9931,trades_with,GROUP,GROUP,Santiago_Lazcano,"These hardy nomads also extracted salt from Tsam tso Lake (now in the process of disappearing) and traded it for wood, sap and pine resin with traders from northwestern Sichuan."
+gopal ji,state,governs,Political economy,1.0,0.9,4.4431,governs,CONCEPT,LOCATION,Mandi_Gazatteer,The function that this god is the head of the State is still nominally retained...
 gorkhas,tibet,disputes,Political economy,1.0,0.8,4.6431,disputes,GROUP,LOCATION,Santiago_Lazcano,The poor quality of the imported salt (being mixed with sand) was even one of the excuses of the Gorkhas to declare war on Tibet in the late 18th century.
 government,the mandi salt mines,governs,Political economy,1.0,0.9,3.8931,governs,GROUP,COMMODITY,Salt_Industry_India,The Government have also sanctioned appropriate establishment for the running and maintenance of these machines.
 government,trade,governs,Political economy,1.0,0.8,3.7931,governs,GROUP,CONCEPT,Memo_Relations_with_Tibet,A trade mart was to be opened at Yatung at he extreme end of the Chumbi valley.
@@ -85,6 +89,7 @@ government of india,tibet,governs,Political economy,1.0,0.8,4.8431,governs,GROUP
 government of india,representatives of the chinese and tibetan,negotiates_with,Political economy,1.0,0.9,3.9931,negotiates_with,GROUP,LOCATION,Memo_Relations_with_Tibet,to negotiate with representatives of the Chinese and Tibetan ~
 grains,tibetan rock salt,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,COMMODITY,COMMODITY,HUMLA_NEPAL,
 guge,"zanskar, spiti and kinnaur as well as guge proper",governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,LOCATION,Ladakh,
+gujars and their milk,ghi which is exported to simla and the klingra district,supplies,Commodity circuits,1.0,0.8,3.4931,supplies,COMMODITY,LOCATION,Mandi_Gazatteer,"A bullock is not worked till he is four years old and a pttir of Cattle. 50 each 'l'hey are kept principally by Gujars and their milk is used to mtlke ghi, which is exported to Simla and the Klingra District."
 gulab singh,dogra country,controls,Political economy,1.0,0.85,3.7431,controls,PERSON,LOCATION,J&K_Gazatteer_1909,"Rapidly absorbing the power and possessions of the feudal chiefs around him, after ten years of laborious and consistent effort, he and his two brothers became masters of nearly all the country between Kashmir and the Punjah, save Rsjaori."
 gulab singh,jammu state,governs,Political economy,1.0,0.85,3.7431,governs,PERSON,LOCATION,J&K_Gazatteer_1909,"It is interesting to notice that the Dogras did not pillage the rich monastery of Himis, which saved itself by allowing the army in ignorance of its locality to pass the gorge leading to the Hitnis valley, and by then sending a deputation with an order of free rations while in Ladakh territory."
 gulab singh,order in dogra country,governs,Political economy,1.0,0.8,3.5931,governs,PERSON,LOCATION,J&K_Gazatteer_1909,"The country was disturbed, each man plundered his neighbour, and Gulab Singh's energies were taxed to the utmost in restoring order."
@@ -116,7 +121,7 @@ kashmir,maharaja physical,governs,Political economy,1.0,0.9,4.5931,governs,LOCAT
 kashmir,nagar and hunza,governs,Political economy,1.0,0.9,4.6431,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,"The ruler of Nagar, with the assistance of the Kashmir Darbiir, successfully occupied the disputed tract;"
 kashmir,state posts,governs,Political economy,1.0,0.9,4.5931,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,The State is included for postal purposes in the circle administered by the Postmaster-General of the Punjab and North-West Frontier Province.
 kashmir,walnut oil revenue,governs,Political economy,1.0,0.9,4.5931,governs,LOCATION,COMMODITY,J&K_Gazatteer_1909,In former times the State accepted walnut oil in payment of revenue...
-kashmir,water,governs,Political economy,1.0,0.8,4.2931,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,"The Kashmiris regard Kokarngg as the best source of drinking-water, while Chashma Shghi above the Dal Lake stands high in order of merit."
+kashmir,water,governs,Political economy,1.0,0.8,4.3431,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,"The Kashmiris regard Kokarngg as the best source of drinking-water, while Chashma Shghi above the Dal Lake stands high in order of merit."
 kashmir,population,taxes,Political economy,1.0,0.8,4.3431,taxes,LOCATION,CONCEPT,J&K_Gazatteer_1909,"its population of I 22,618"
 kashmir,central asia,trades_with,Commodity circuits,1.0,0.7,3.9931,trades_with,LOCATION,CONCEPT,J&K_Gazatteer_1909,"The trade which passes through Kashmir between India, Chinese Turkistan, and Tibet via Leh is subject to considerable fluctuations owing to great physical difficulties, the keen rivalry of Russia, and the passive obstruction of Tibet."
 kashmir,ladakh,trades_with,Commodity circuits,1.0,0.6,4.2931,trades_with,LOCATION,LOCATION,J&K_Gazatteer_1909,"The imports from Central Asia into Ladskh amounted to 17.8 lakhs. Goods to the value of Ir.3 lakhs found their way to the Punjab via Kashmir, others passing via Kulii."
@@ -171,6 +176,7 @@ marriage in the western himalayas,social sanction of the community,depends_on,Co
 men,salt,extracts_from,Commodity circuits,1.0,0.0,2.4931,extracts_from,GROUP,COMMODITY,Rupshu,
 men,long dagger,transports_via,Route/place circuits,1.0,0.0,1.1431,transports_via,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,
 "merchants from central asia, kashmir and the punjab",in leh,negotiates_with,Political economy,1.0,0.0,1.0931,negotiates_with,GROUP,LOCATION,Ladakh,
+mian kishan singh,sansar chand's troops,transports_via,Route/place circuits,1.0,0.8,3.4931,transports_via,CONCEPT,GROUP,Mandi_Gazatteer,"He now ten-80,000 out or his own pocket, with the aid of Sansar Chand's troops wrf'stf'd six strongholds from Mandi."
 monasteries,"agricultural advances, chiefly seed-grain",supplies,Commodity circuits,1.0,0.8,3.5431,supplies,GROUP,COMMODITY,J&K_Gazatteer_1909,"Agricultural advances, chiefly seed-grain, are made for the most part not by the State, but by the monasteries,"
 mongolia,tibet,trades_with,Commodity circuits,1.0,0.8,4.6431,trades_with,LOCATION,LOCATION,Report_On_Tibet_1903,"This appears to consist entirely of a great caravan which travels yearly from Mongolia through Tmitlan to Lhasa, starting usually in the month of June."
 more enterprising men,their salt onward to leh,transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,GROUP,COMMODITY,Rupshu,
@@ -195,13 +201,20 @@ peasant traders,foodgrains,transports_via,Route/place circuits,1.0,0.0,1.1931,tr
 peasants,honey and milk products,depends_on,Commodity circuits,1.0,0.0,1.2431,depends_on,GROUP,COMMODITY,Becoming_India,
 peasants,state forests,licenses,Political economy,1.0,0.0,1.2431,licenses,GROUP,LOCATION,Becoming_India,
 peasants,poorzee,supplies,Commodity circuits,1.0,0.0,1.2431,supplies,GROUP,PERSON,Becoming_India,
+pindri,water,supplies,Commodity circuits,1.0,0.8,3.5431,supplies,CONCEPT,CONCEPT,Mandi_Gazatteer,The uutws of cleaning the temple and supplying water are also carried out by the pujin on duty.
 political department,indian states,governs,Political economy,1.0,0.0,1.0931,governs,GROUP,LOCATION,Becoming_India,
 pravarasena,kashmir,governs,Political economy,1.0,0.9,4.5931,governs,CONCEPT,LOCATION,J&K_Gazatteer_1909,"in the sixth century, 23, Pravarapnra, his magnificent capital on site of modem Srinagar, 2 3."
+punjab government,agents for the sale of punjab government publications,licenses,Political economy,1.0,0.9,3.7931,licenses,GROUP,GROUP,Mandi_Gazatteer,"Agents tor the sale of Punjab Government publications • ... Arnol, 41 and 43, Maddox Street, Bond street, W. Constable & Co., 10, Old Jewry Court, Leicester Square, W."
 punjab salt mines,inland customs department,governs,Political economy,1.0,0.9,3.7931,governs,COMMODITY,GROUP,Salt_Industry_India,The Punjab Salt Mines were administered originally by the Inland Customs Department.
-rahbar,state,governs,Political economy,1.0,0.8,3.8931,governs,CONCEPT,LOCATION,J&K_Gazatteer_1909,Under the new arrangements the Rfahbar administers the State.
+rahbar,state,governs,Political economy,1.0,0.8,4.1431,governs,CONCEPT,LOCATION,J&K_Gazatteer_1909,Under the new arrangements the Rfahbar administers the State.
+raja,duties on goods imported and expo.rtoa,governs,Political economy,1.0,0.9,3.8931,governs,CONCEPT,COMMODITY,Mandi_Gazatteer,He shallllot levy tolls and duties on goods imported and expo.rtoa...
+raja,goods imported and expo.rtoa,taxes,Political economy,1.0,0.85,3.7431,taxes,CONCEPT,COMMODITY,Mandi_Gazatteer,He shallllot levy tolls and duties on goods imported and expo.rtoa...
+raja balbir sen,state of mandi,controls,Political economy,1.0,0.9,4.0431,controls,CONCEPT,LOCATION,Mandi_Gazatteer,"On failure of such heirs, any other male heir who may be proved to the British Government to be next of kin to the Raja shall obtain the above State with administrative powers."
+raja balbir sen,state of mandi,governs,Political economy,1.0,0.8,3.7431,governs,CONCEPT,LOCATION,Mandi_Gazatteer,"The State of Mandi, comprised within the same boundaries as at the commencement of the British occupation..."
 rajput states,some rajput states,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,LOCATION,Ladakh,
 resident,government of india,governs,Political economy,1.0,0.8,3.6931,governs,CONCEPT,GROUP,J&K_Gazatteer_1909,"an officer of the Political department of the Government of India, in direct relations with it and with the State of Kashmir, 73"
 river sutlej,traders and others,supplies,Commodity circuits,1.0,0.0,1.0931,supplies,LOCATION,GROUP,Becoming_India,
+riwals rtt,state of mandi,governs,Political economy,1.0,0.9,3.8931,governs,CONCEPT,LOCATION,Mandi_Gazatteer,"'rho RiwalsRt' take ... rrhe State of Mandi, a.rea some 1,200 ~quare miles, lies on the CHAP."
 road to leh,"northerly direction, down past glacial lakelets",transports_via,Route/place circuits,1.0,0.0,1.0931,transports_via,LOCATION,LOCATION,Ladakh,
 ruler of the tract,servile groups,governs,Political economy,1.0,0.0,1.1931,governs,GROUP,GROUP,Becoming_India,
 rupshu,salt,extracts_from,Commodity circuits,2.0,0.0,3.0986,extracts_from,LOCATION,COMMODITY,Rupshu,
@@ -237,15 +250,20 @@ sikhs,sutlej valley,governs,Political economy,1.0,0.0,1.0931,governs,GROUP,LOCAT
 simla,position on a part of the mountain range,controls,Political economy,1.0,0.0,1.1431,controls,LOCATION,LOCATION,Gutenberg_EBook,
 simla,to the borders of tibet,depends_on,Commodity circuits,1.0,0.0,1.1431,depends_on,LOCATION,LOCATION,Becoming_India,
 sociological and historical literature on india under colonialism,the social history of the western himalayas,supplies,Commodity circuits,1.0,0.0,1.0931,supplies,CONCEPT,CONCEPT,Becoming_India,
-state,medical department of the state,controls,Political economy,1.0,0.8,3.8931,controls,LOCATION,GROUP,J&K_Gazatteer_1909,The Medical department of the State is under the control of a Superintending Surgeon.
-state,colleges at lahore,governs,Political economy,1.0,0.8,3.8931,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,"There being no State college, I 7 scholar-ships are annually granted by the Darbiir to students for prosecuting their studies at colleges at Lahore."
-state,drainage system of jammu town,governs,Political economy,1.0,0.8,3.8931,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,Great improvements have lately been made in the drainage system of Jammu town.
-state,irrigation,governs,Political economy,1.0,0.85,4.2931,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,"In former days, when the State took a share of the crop, it was to the interest of the Darb3r to look after irrigation and to assist in repairs."
-state,municipal committees in the state,governs,Political economy,1.0,0.7,3.5931,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,"There are two municipal committees in the State, one at Monici- Srinagar, and the other at Jammu, presided over by the Chief palities."
-state,army,supplies,Commodity circuits,1.0,0.7,3.6431,supplies,LOCATION,GROUP,J&K_Gazatteer_1909,"The State has splendid materials for an army, as the Dogras are, in the opinion of competent authorities, second to none in martial qualities."
-state,"village headmen, patwzris, and zaildzrs",taxes,Political economy,1.0,0.8,3.8931,taxes,LOCATION,LOCATION,J&K_Gazatteer_1909,"A considerable income is derived from customs and octroi revenue, for the following objects : payments to lambardirs (village headmen), 5 per cent."
+state,medical department of the state,controls,Political economy,1.0,0.8,4.1431,controls,LOCATION,GROUP,J&K_Gazatteer_1909,The Medical department of the State is under the control of a Superintending Surgeon.
+state,narsingji,controls,Political economy,1.0,0.9,4.4431,controls,LOCATION,CONCEPT,Mandi_Gazatteer,"AR a rule no one can see Narsingji, but if anyone wishes to do so, he has to get permission from the State."
+state,colleges at lahore,governs,Political economy,1.0,0.8,4.1431,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,"There being no State college, I 7 scholar-ships are annually granted by the Darbiir to students for prosecuting their studies at colleges at Lahore."
+state,drainage system of jammu town,governs,Political economy,1.0,0.8,4.1431,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,Great improvements have lately been made in the drainage system of Jammu town.
+state,irrigation,governs,Political economy,1.0,0.85,4.5431,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,"In former days, when the State took a share of the crop, it was to the interest of the Darb3r to look after irrigation and to assist in repairs."
+state,municipal committees in the state,governs,Political economy,1.0,0.7,3.8431,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,"There are two municipal committees in the State, one at Monici- Srinagar, and the other at Jammu, presided over by the Chief palities."
+state,sugarcane and tobacco cultivation,governs,Political economy,1.0,0.9,4.4431,governs,LOCATION,COMMODITY,Mandi_Gazatteer,The collection of the State dues on account of sugarcane and tobacco cultivation...
+state,torches,governs,Political economy,1.0,0.6,3.5431,governs,LOCATION,CONCEPT,Mandi_Gazatteer,Torches are to be made of dry wood only.
+state,army,supplies,Commodity circuits,1.0,0.7,3.8931,supplies,LOCATION,GROUP,J&K_Gazatteer_1909,"The State has splendid materials for an army, as the Dogras are, in the opinion of competent authorities, second to none in martial qualities."
+state,"village headmen, patwzris, and zaildzrs",taxes,Political economy,1.0,0.8,4.1431,taxes,LOCATION,LOCATION,J&K_Gazatteer_1909,"A considerable income is derived from customs and octroi revenue, for the following objects : payments to lambardirs (village headmen), 5 per cent."
+state,"walnuts, lemons, pomegranates, etc",taxes,Political economy,1.0,0.9,4.4431,taxes,LOCATION,CONCEPT,Mandi_Gazatteer,"The State takes a share of walnuts, lemons, pomegranates, etc."
 state economy,space in bhutan,governs,Political economy,1.0,0.9,3.7931,governs,CONCEPT,LOCATION,Santiago_Lazcano,In the Early Part of the 19th Century
-state officials,of the states,taxes,Political economy,1.0,0.0,1.0931,taxes,GROUP,LOCATION,Becoming_India,
+state officials,of the states,taxes,Political economy,1.0,0.0,1.1431,taxes,GROUP,LOCATION,Becoming_India,
+suket state,state officials,governs,Political economy,1.0,0.8,3.5931,governs,LOCATION,GROUP,Mandi_Gazatteer,The State of Suket is administered by a Rajah in person who exercises a complete authority over the various departments.
 tatar shepherds,"meat from animals which have died of starvation), bone broth and roots",supplies,Commodity circuits,1.0,0.6,2.8931,supplies,GROUP,COMMODITY,TransformationProcessesInNomadicPastoralism,"They eat meat from animals which have died of starvation), bone broth and roots."
 the british government,hill states,governs,Political economy,1.0,0.0,1.1931,governs,GROUP,LOCATION,Becoming_India,
 the british government,through palampur and from leh to kashmir,trades_with,Commodity circuits,1.0,0.0,1.1431,trades_with,GROUP,LOCATION,Becoming_India,
@@ -255,12 +273,17 @@ the hill state,movement of goods,governs,Political economy,1.0,0.0,1.0931,govern
 the kashmir state,kashmiri subjects,governs,Political economy,1.0,0.9,3.7931,governs,LOCATION,GROUP,J&K_Gazatteer_1909,conferred on the Kashmiri subjects of the MahBrgjg.
 the king,population,governs,Political economy,1.0,0.0,1.1931,governs,PERSON,CONCEPT,Becoming_India,
 the king,the political power of the clans and their deities,governs,Political economy,1.0,0.0,1.1431,governs,PERSON,CONCEPT,Becoming_India,
+the raja,all the land in the state,governs,Political economy,1.0,0.9,3.8431,governs,GROUP,LOCATION,Mandi_Gazatteer,The Raja is sole proprietor of all the land in the State and land-holders have no right to mortgage or sell their lands.
+the raja,clothes,supplies,Commodity circuits,1.0,0.9,3.8431,supplies,GROUP,COMMODITY,Mandi_Gazatteer,Ono party i::i pl'uvided with clothes by. the Raja
 the rulers of these hill states,the crown,disputes,Political economy,1.0,0.0,1.0931,disputes,GROUP,GROUP,Becoming_India,
 the rupshu people,"their cattle, on their sheep and goats",depends_on,Commodity circuits,1.0,0.8,3.4931,depends_on,GROUP,COMMODITY,TransformationProcessesInNomadicPastoralism,"they depend entirely on their cattle, on their sheep and goats for merchandise that is easily divisible..."
-the state,the administration of the state,governs,Political economy,1.0,0.8,3.5431,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,"On his accession to the gaddi in 1885, the present MahBrSjB Administra was entrusted with the administration of the State..."
-the state,the petty states,governs,Political economy,1.0,0.8,3.5431,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,"At Gilgit a Political Agent exercises some degree of supervision over the Wazir WazBrat, and is directly responsible to the Government of India for the administration of the outlying petty States."
+the state,land,controls,Political economy,1.0,0.9,3.9931,controls,LOCATION,CONCEPT,J&K_Gazatteer_1909,Land was regarded as the absolute property of the State...
+the state,roads,governs,Political economy,1.0,0.95,4.0931,governs,LOCATION,LOCATION,Mandi_Gazatteer,The State roads have been maintained in good repair...
+the state,the administration of the state,governs,Political economy,1.0,0.8,3.6431,governs,LOCATION,CONCEPT,J&K_Gazatteer_1909,"On his accession to the gaddi in 1885, the present MahBrSjB Administra was entrusted with the administration of the State..."
+the state,the petty states,governs,Political economy,1.0,0.8,3.6431,governs,LOCATION,LOCATION,J&K_Gazatteer_1909,"At Gilgit a Political Agent exercises some degree of supervision over the Wazir WazBrat, and is directly responsible to the Government of India for the administration of the outlying petty States."
 these mountain communities,cash,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,GROUP,CONCEPT,Becoming_India,
 these states,large tracts of agricultural and pastoral lands into a stable state system,trades_with,Commodity circuits,1.0,0.0,1.0931,trades_with,LOCATION,CONCEPT,Becoming_India,
+thousanns of mules,yarkand and ladakh,trades_with,Commodity circuits,1.0,0.8,3.4931,trades_with,COMMODITY,LOCATION,Mandi_Gazatteer,"They carry tobacco, tea, su!!'ar, coars(~ cloth and English-made piece-goods to Yarkand and on their I eturn bring ooarse woollen cloth and Cl!lrpetll, cAaras and spices from yarkand."
 tibet,mining and minerals,depends_on,Commodity circuits,1.0,0.8,4.6431,depends_on,LOCATION,COMMODITY,Memo_Relations_with_Tibet,"Their mines and minerals are capable of opening to them such inexhaustible sources 01 wealth, a s  to be alone sufficient to purchase everything of which they stand in need."
 tibet,supply of water,depends_on,Commodity circuits,1.0,0.0,2.2431,depends_on,LOCATION,CONCEPT,Gutenberg_EBook,
 tibet,british,disputes,Political economy,1.0,0.85,4.9931,disputes,LOCATION,GROUP,Memo_Relations_with_Tibet,that the Tibetans had refused to receive a mission which the British had agreed to let us send;
@@ -319,7 +342,8 @@ village,labour,supplies,Commodity circuits,1.0,0.9,3.8431,supplies,LOCATION,CONC
 village deity,servile groups,governs,Political economy,1.0,0.0,1.1931,governs,LOCATION,GROUP,Becoming_India,
 villages,"ordinary goats, sheep, and cows",controls,Political economy,1.0,0.0,1.0931,controls,LOCATION,COMMODITY,Ladakh,
 wazeers,peasants,extracts_from,Commodity circuits,1.0,0.0,1.2931,extracts_from,GROUP,GROUP,Becoming_India,
-wazeers,raja,governs,Political economy,1.0,0.0,1.1431,governs,GROUP,CONCEPT,Becoming_India,
+wazeers,raja,governs,Political economy,1.0,0.0,1.2431,governs,GROUP,CONCEPT,Becoming_India,
+wazir,land,governs,Political economy,1.0,0.8,3.5431,governs,CONCEPT,CONCEPT,Mandi_Gazatteer,"The wa,z{rs had full powers in all cases relating to land: they could authorize the breaking up of waste, effect partition, assess fluctuating revenue, arrest cultivators who failed to pay their revenue punctually, attach their crops and inflict minor penalties."
 wazir wazrat,ladakh,governs,Political economy,1.0,0.9,4.3931,governs,CONCEPT,LOCATION,J&K_Gazatteer_1909,"Ladakh is in the charge of a Wazir WazZrat, who is responsible for Baltistan and the three tahsilas of Ladakh, Kargil, and etc."
 western himalayas,high caste groups from the plains,governs,Political economy,1.0,0.0,1.0931,governs,LOCATION,LOCATION,Becoming_India,
 wheat,irrigation,depends_on,Commodity circuits,1.0,0.8,3.7431,depends_on,COMMODITY,CONCEPT,J&K_Gazatteer_1909,"The land is neither manured nor weeded, and as a rule no irrigation is given."
