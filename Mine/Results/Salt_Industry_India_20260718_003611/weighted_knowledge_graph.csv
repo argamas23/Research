@@ -1,0 +1,574 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+government,regulates,salt industry,4,"Conditions should be created, so that private initiative may be attracted to start production on a large-scale factory basis. | The abolition of the salt Monopoly system virtually meant the extinction of the salt industry. | Regulation VII of 1063, M.E. (1887-88) was passed for better administration of the salt monopoly.",0.825
+british government,regulates,salt manufacture,3,"The plan was to exercise or control the production of salt, and the production lay almost entirely in Indian States. | The object of the British Government in assuming charge of salt manufacture at the Sambhar Lake was not to make a direct profit on the manufacture of salt but to secure against loss of revenue... | The abolition of restrictions on the trade in salt which had paid duty to the British Government.",0.833
+government of india,regulates,salt industry,2,The salt industry in India is one of the most pressing problems of the day. | the planning and regulation of which would be controlled by the Central Government.,0.8
+salt department,supplies,salt,2,"...and various graphs, sketches, maps etc. The background, historical, technical, and general, as given in the original book remains practically the same. | the Salt Department should also examine the possibility of introducing one uniform price for salt all over the country.",0.75
+sambhar lake,supplies,salt,2,"(a) System of manufacture (1) Pre-British . (f ) Collection, Storage and Payments | A large quantity of salt is produced in the world by artificial evaporation of brines from different sources, using the heat obtained by the burning of fuel to effect rapid evaporation.",0.825
+government,taxes,salt,2,"In 1835-36 private individuals manufactured salt in Bihar, but the salt had to be sold to Government. | A duty was levied on the produce of some private salt works...",0.85
+aden,supplies,salt,2,"During recent years the quantities coming to the Calcutta market have been about 17 Lakh maunds per annumf Salt was imported all the year 'round. | About 1935 in Bengal salt was imported only from Germany (Hamburg), Aden and Indian sources.",0.8
+golahs,supplies,salt,2,"The facilities are: — A foreshore of 1057 feet along which are 8 pontoons and 18 gangways for the landing and delivery of salt coming into bond and being despatched to reverain stations. | The salt was taken up from the hold stored on deck, and shovelled into 2 maund tubs and weighed.",0.85
+government,regulates,salt production,2,"The Government, however, reserved the right to take suitable preventive measures against the sale of unwholesome salt for human consumption. | Some years ago, Government started model salterns and takes it from them.",0.85
+indian states,supplies,salt,2,The production lay almost entirely in Indian States. | The former Indian States were allowed to manufacture salt without any restriction in order to meet the shortage.,0.85
+the lake,supplies,salt,2,"The yield of salt so procured, (and it was thus that, on an average of several years, most of the salt was obtained) | They furnish 40 percent, of the salt output of The , lake.",0.8
+government of india,regulates,salt manufacture,2,"Government also wanted to stop smuggling into British territory of salt produced in the Kathiawar Peninsula and within the borders of the remaining Indian States. | The Government of India made the following announcement in their Home Department Notification No. S* 481-Political5 dated the 5th March, 1931, and the relevant clause relating to salt is given below:",0.85
+tata chemicals ltd.,controls,salt works,2,"The activities of the Tata Chemicals Ltd., Mithapur cover a very vast area, but the actual area covered by the salt 'works is about 1,100 acres. | The works are under the control of highly qualified chemists and engineers.",0.85
+india,supplies,salt,2,"Since the development of big salt works in Saurashtra, imports from foreign countries or Aden have ceased altogether and all salt supplied to Calcutta is of Indian origin. | 70—75% of the salt producing centres are on the sea coast.",0.85
+government of india,regulates,salt production,2,"The Government of India accepted the views of the Central Board of Revenue, and the matter was not referred to the Tariff Board. | Salt Industry — ^Assam Bombay Cochin Rajasthan Saurashtra Travancore ...",0.8
+the commissioner,licenses,the book,1,He kindly permitted me to use his office library and forwarded the book to Government and recommended its adoption as an official publication.,0.8
+salt department,administers,salt industry,1,"details of the steps taken to make up the deficiency in salt caused by the loss of important salt sources as a result of the partition, addition of Zonal Scheme for distribution of salt...",0.85
+rajputana,administers,salt industry,1,Salt Industry in Various States CHAPTER VI,0.8
+salt administration,regulates,salt manufacturing rights,1,"C, Manufacturing Rights . , ^ ^",0.8
+tariff board report,regulates,"salt (additional import duty) act, 1931",1,"Steps taken by Government ... Salt (Additional Import Duty) Act, 1931",0.8
+salt,supplies,life of man and higher animals,1,-Owing to this property it is an absolute necessity to the life of man and the -higher animals.,0.95
+salt,supplies,preservatives,1,Salt is used as a preservative for making up deficiency of certain ingredients in human metabolism.,0.8
+cattle,depends_on,salt,1,A liberal use of salt for cattle saves them from disease and improves their constitution.,0.8
+india,taxes,salt,1,Many civilised States derive a handsome income from duty on salt.,0.8
+states,taxes,salt,1,Many civilised States derive a handsome income from duty on salt.,0.8
+salt,supplies,medicine,1,Salt finds many important uses in medicine as well,0.7
+salt,exchanges_for,duty,1,Many civilised States derive a handsome income from duty on salt.,0.8
+water,regulates,temperature,1,"As the temperature rises, it gets dissolved again.",0.9
+sambhar lake,supplies,brine,1,The supply of brine from the lake is supplemented by sub-soil brine tapped from percolation canals situated on the edge of the lake.,0.9
+indian salt industry,depends_on,"rock salt mines, salt lakes, salt efflorescence, ferine springs and sea brine",1,"India has enormous quantities of salt, in the form of rock salt mines, salt lakes, salt efflorescence, ferine springs and sea brine.",0.8
+mulleer river,connects_to,salt deposits,1,"It is found in the Mulleer river, and is met with along the entire coast, in greater or less quantity;",0.9
+government (of madras),monopolizes,salt,1,This -salt was consumed by the poorer classes. The Government salt monopoly was created in 1805.,0.8
+bengal,depends_on,foreign sources,1,"it appears that till the early years of the 19th century, Bengal had not to depend on foreign sources for meeting her domestic requirements.",0.9
+india,regulates,salt imports into bengal,1,"The additional duty was subsequently abolished on the 1st May, 1938 in India.",0.8
+bengal,regulates,salt manufacture,1,"The reason is that unlike the eastern rivers, the rivers in the western Sunderbans practically get no flow from the Ganges or from any of its tributaries.",0.8
+forest department,supplies,fuel,1,supply of fuel might be organised to the advantage of the salt boilers through an understanding and sympathetic policy on the part of the Forest Department.,0.9
+calcutta,connects_to,"pichabani linked with the orissa canal, then hijili tidal canal and lastly with the hooghly river",1,"by boats plying along the Pichabani linked with the Orissa canal, then Hijili Tidal canal and lastly with the Hooghly river.",0.8
+bengal market,supplies,salt,1,"Salt; is now supplied Bengal market from Saurashtra Ports, such as Jamnaiar, Porl3andar, Navalakhi, Bhavnagar, etcj and Tuticorin.",0.8
+saurashtra ports,connects_to,bengal market,1,"Salt; is now supplied Bengal market from Saurashtra Ports, such as Jamnaiar, Porl3andar, Navalakhi, Bhavnagar, etcj and Tuticorin.",0.8
+aden,connects_to,calcutta market,1,During recent years the quantities coming to the Calcutta market have been about 17 Lakh maunds per annumf Salt was imported all the year 'round.,0.8
+british india steani navigation company's coastal vessels,transports_via,salt,1,"Part cargoes from Indian ports were carried by the British India Steani Navigation Company’s coastal vessels, while tramp steamers called in at Aden and the Western India Ports.",0.8
+tramp steamers,transports_via,salt,1,"Part cargoes from Indian ports were carried by the British India Steani Navigation Company’s coastal vessels, while tramp steamers called in at Aden and the Western India Ports.",0.8
+government,administers,inland bonded warehouses,1,The bonding system was one of the various facilities offered by Government for the distribution of salt...,0.9
+calcutta,supplies,"assam, north bihar, south bihar, west bengal, manipur, tripura, nepal and bhuttan",1,"Calcutta supplies several areas, such as, Assam, North Bihar, South Bihar, West Bengal, Manipur, Tripura, Nepal and Bhuttan.",0.8
+salkia golahs,controls,storage of salt,1,"The Salkia Golahs were declared public warehouses for the storage of salt, under Bengal Government Notification No.",0.9
+golahs,regulates,rent,1,"The rent is moderate in comparison with similar accommodation either in Howrah or . in Calcutta. The work of handling salt for the purpose of export and import is now in the hands of an approved contractor, at present Messrs.",0.8
+golahs,governs,storage and handling of salt,1,"All charges are recovered direct from bonders and merchants and the department is saved all the work, worry and accounting that would otherwise result.",0.9
+government,administers,salkia salt golahs,1,"The Golahs are under the charge of one Superintendent of Salt who is assisted in his work by two Inspectors, one clerk and some Workshop staff.",0.9
+preventive officers,administers,salt golahs in bengal,1,"Up to April, 1947, the salt golahs in Bengal other than the inland bonded warehouses were administered by the Central Board of Revenue through the Collector of Customs,",0.9
+board of revenue,controls,salt department,1,In the times of the East India Company the Board of Revenue controlled the Salt Department.,0.8
+government of bengal,administers,salt golahs in bengal,1,"The separate province of Bihar and Orissa was created in 1912. At that time the Commissioner of Salt and Excise, Bihar, took over charge of the preventive operation in the three saliferous districts of Cuttack, Puri and Balasore.",0.7
+salt controller,administers,salt department,1,"On the abolition of duty on salt, a separate Salt Department was organised early in 1948 with the Salt Controller (now Salt Commissioner) at the head and Regional Officers at Bombay, Madras, Sambhar Lake and Calcutta.",0.8
+peshwas,controls,500 salt works,1,"More than '500 salt works existed, along the west coast: and, the Peshwas derived substantial revenue from this industry.",0.8
+government,regulates,manufacture and trade in salt,1,"Earlier in 1853, agreements were entered into with the Chiefs of Kathiawar for the regulation of manufacture and the trade in salt.",0.8
+haks,administers,revenue collection on behalf of the rulers,1,"During pre-British rule, hereditary rights were given to certain families to receive a certain share in the revenue in consideration of services rendered by them...",0.9
+government,administers,salt manufacture,1,Salt is manufactured by Agarias residing-at Kharaghoda and surrounding Milages on Government account.,0.9
+brine,exchanges_for,salt,1,The brine of 23° to 24° Be' let into the pans is allowed to rise up to 26° Be' when fresh brine is charged to maintain the density between 25° and 26° Be'.,0.9
+agarias,licenses,licences annually and are bound by the conditions of the license.,1,The agarias- are given licenses annually and are bound by the conditions of the license.,0.8
+government,regulates,cost of production,1,"They have also decided to take into account, for the purpose of commercial accounts, 1/4th of the cost at headquarters establishment and 1/6th of the Regional office.",0.9
+u.,administers,kharaghoda treasury,1,(2) by direct payment at the Kharaghoda treasury;,0.8
+bombay state,supplies,12 lakh maunds of salt,1,According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds...,0.8
+uttar pradesh,supplies,44 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Uttar Pradesh 44 lakh maunds, South Bihar 1 lakh maunds...",0.8
+south bihar,supplies,1 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Uttar Pradesh 44 lakh maunds, South Bihar 1 lakh maunds...",0.8
+jammu and kashmir,supplies,5 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds, Uttar Pradesh 44 lakh maunds...",0.8
+madhya bharat,supplies,5 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds, Uttar Pradesh 44 lakh maunds...",0.8
+rajasthan,supplies,2.5 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds, Uttar Pradesh 44 lakh maunds...",0.8
+bhopal,supplies,1-7 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds, Uttar Pradesh 44 lakh maunds...",0.8
+vindhya pradesh,supplies,4-6 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds, Uttar Pradesh 44 lakh maunds...",0.8
+nepal,supplies,1-5 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds, Uttar Pradesh 44 lakh maunds...",0.8
+military,supplies,-6 lakh maunds of salt,1,"According to the 1955 Zonal Scheme Bombay State is expected to receive 12 lakh maunds, Uttar Pradesh 44 lakh maunds...",0.8
+kharaghoda salt works,depends_on,brine supply,1,"For sometime past, the Kharaglioda works have been experiencing difficulty regarding the supply of brine in the wells as its supply is gradually decreasing.",0.8
+the company,controls,security for the due payment of royalty,1,"The Company has to deposit security for the due payment of royalty of an amount not exceeding Rs. 5,000 or such amount as may be required by the President;",0.9
+the company,regulates,royalty book containing all the particulars necessary for the calculation of royalty,1,The Company has to maintain a Royalty book containing all the particulars necessary for the calculation of Royalty;,0.8
+the government,licenses,the company's factory at kharaghoda,1,The Company has to remodel its factory at Kharaghoda according to the phased programme of implementations submitted by the Company subject to certain conditions;,0.7
+the government,taxes,royalty on all the above products,1,"Up to 1951, the royalty on all the above products was recovered at Re, 1/- per ton and the average revenue to Government was about Rs. 3,000 to Rs.",0.6
+the company,trades_with,roads and railway lines of the salt department at kharaghoda,1,"In return, the Company has been allowed to use roads and railway lines of the Salt Department at Kharaghoda for the purpose of manufacture of bye-products and removal of bitterns.",0.5
+government,governs,salt works in gujerat,1,"Throughout Gujerat, there therefore, the salt works and the salt itself when manufactured belonged to Government.",0.9
+government,licenses,co-operative society of villagers,1,A Co-operative Society of villagers has also been licensed for purposes of sale of the spontaneous salt at the Dandi Sea Ford...,0.9
+reservoir,connects_to,condensers,1,Also the reservoir has to be located on the landward which is on a slightly higher level so that the brine may flow by gravity first to the condensers...,0.8
+reservoir,connects_to,crystal-lisers,1,The proportion of the area of reservoir to condenser is generally 3:1 and that of condenser and the crystallising beds is 1:1...,0.8
+salt works,depends_on,proper ratio between crystallisers and condensers,1,"The ratio of condensing to the crystallising areas in most of the salt works being 1:1 or 2:1, brine of lower density is let into crystallisets with the result that calcium sulphate separates out before salt precipitates.",0.8
+government of india,controls,quality of salt manufactured by small scale concessionaires,1,The Government of India have recently announced their decision of exercising similar control on the quality of salt manufactured even by small scale concessionaires operating in areas less than 10 acres each.,0.95
+bombay state,administers,salt works,1,"The sea salt works in the Bombay State number about 401 and the area under salt cultivation is over 17,000 acres.",0.8
+bombay salt merchants and shilotries association,controls,salt production,1,it is also to a certain extent controlled by the Bombay Salt Merchants and Shilotries Association by fixing the date for the commencement of the season...,0.8
+salt duty,regulates,salt sales and issues,1,"When Salt Duty was in existence, the purchaser paid the duty in cash at the taluka office under the Sai^ar Kun or in the office of the Chief Accounts Officer in Bombay or in an authorised treasury.",0.9
+bombay salt,supplies,large area,1,Bombay salt is consumed over a large area.,0.8
+bombay,supplies,salt,1,"The manufacturers wish to clear their old salt before the new salt comes on the platform as once the new salt comes, there is no demand for the old salt.",0.8
+bombay sea salt works,trades_with,calcutta,1,Salt used to be transported from Bombay sea salt works to Calcutta towards the end of the fair season in steamers which were late for the cotton trade from Bombay to Liverpool.,0.8
+government,regulates,transport of bombay salt to calcutta,1,The question of transport of Bombay salt to Calcutta has engaged the attention of Government for a long time.,0.7
+"collector of customs, bombay",licenses,vessels transporting salt,1,Restrictions were laid down with regard to the tonnages' of vessels transporting salt to guard against smuggling.,0.8
+thana mithagar kamgar sangh,negotiates_with,"salt workers at mira road, bhayandar and bassein road",1,"The first Union was formed in 1943 with a membership of 700 workers. It extended its activities so as to include salt workers at Mira Road, Bhayandar and Bassein Road.",0.9
+east india company,controls,salt manufacturing on coromandel coast,1,"In 1802, the East India Company reserved to itself the exclusive right of manufacturing salt on the Coromandel Coast...",0.8
+madras monopoly system,disputes,exports of foreign salt,1,"The exporters of the foreign salt, however, raised an agitation against the Madras Monopoly System as they considered this hindered the imports of that salt in Madras Presidency",0.9
+government,administers,factory,1,"Government has a staff in the factory to exercise control, over the process of manufacture...",0.8
+central government,regulates,salt manufacturing,1,"Where the Central Government owns the land, the right to manufacture salt in the same is freely assigned or sold by public auction or settled by calling open tenders, for a period of 25 years.",0.9
+licensees,depends_on,government reserve,1,"Instead of purchasing out-right the quantity reserved by the licensees for sale to the Government, the licensees were required to reserve only a percentage not exceeding 50% of their production for sale to Government...",0.8
+factories,connects_to,land tenure,1,Many of the factories are old where the right to manufacture salt is hereditary and the manufacturers own the pans themselves.,0.7
+government,governs,salt manufacturing,1,The allottee is issued a license to manufacture salt under the Modified Excise System and the lease concluded.,0.8
+government,controls,salt pans,1,"The pans of such of the licensees, who do not work their pans for two consecutive seasons will be resumed by Government and the right to manufacture salt is either to be conferred on the adjacent pan-holders or put up to auction.",0.9
+government,regulates,cess,1,"Section 37 of the Central Excise and Salt Act, levy of this Cess was regularised by the Government by passing an act in the Parliament, called the Salt Cess , Act, 1953*",0.8
+central government,administers,salt organization maintained by the central government,1,meeting the expenditure incurred in connection with the salt organization maintained by the Central Government,0.8
+agricultural class,depends_on,salt manufacture,1,"The principal vocation of the agricultural class here is salt manufacture and except this area, manufacture of salt in Madras Region is in a large measure subsidiary to agriculture.",0.9
+supply channels,connects_to,pans,1,From the supply channels required quantity of brine is distributed through a net-work of small irrigation channels covering the whole area of the pans.,0.9
+condenser,controls,brine,1,The supply of brine to the condensing areas is controlled by sluices in many instances...,0.9
+mettur chemicals ltd.,licenses,salt works,1,They have taken pains to relay their works on modern lines in order to produce salt of good quality...,0.9
+brine,supplies,factories,1,The supply of brine gets depleted in some of the factories...,0.8
+salt,extracts_from,crystallising beds,1,Sometimes salt is also washed in baskets in the crystallising beds to remove impurities from it before it is taken to the drying ground.,0.9
+factory officer,administers,storage of heaps,1,"The Factory Officer after the receipt of the storage petition from the licensee, verifies the heaps and makes necessary entries in the office-records.",0.9
+government,controls,madras salt depot,1,The Madras Salt Depot situated on the Buckingham Canal in the northern part of the city at Tondiarpet which was the storage ground for all salt of the Ennore factories was closed in 1936.,0.8
+government,regulates,salt extraction from factories in madras,1,The procedure for the removal of salt from the factories in Madras Region has been described in detail in the Madras Salt Manual and the same is at present in force.,0.85
+government,regulates,salt prices,1,The price of salt should be kept as low as possible in the interests of the public; the preliminary object of Government stocks is to control the prices charged by the trade;,0.9
+government,regulates,salt prices in madras salt works,1,The policy of the Government is to keep the price as low as possible and Government stocks are kept with this object.,0.9
+salt,supplies,consumer,1,Salt can be made available to the consumer at a cheaper rate.,0.8
+railway authorities,regulates,freight rates,1,The special rates granted earlier by the Railway authorities from station to station have been withdrawn.,0.9
+madras government,governs,salt production and sale in madras,1,The Madras Government by their notification issued in Gazette Extraordinary No.1908 dated 10-12-52 prohibiting the sale of salt by measure with effect from 1-1-53.,0.9
+madras,supplies,orissa,1,The issues to Orissa show a marked increase since 1927-28 and this is due to the enterprise shown by the capitalist licensees at Ganjam and Naupada during the previous years.,0.8
+watch and ward staff,depends_on,revenue function of the department,1,"Now that the Revenue function of the Department has gone, there has been drastic reduction of Watch and Ward Staff in all the factories.",0.8
+preventive force,administers,offenders,1,The offenders used to be sent up by the preventive parties before the Inspectors (now designated as Superintendents) who after holding preliminary investigations used to challan the accused for trial before a Magistrate.,0.9
+licensed manufacturers,supplies,salt,1,Salt produced in similar areas under licence has been subjected to rigorous quality control.,0.8
+unlicensed manufacturers,trades_with,market,1,In some markets the produce of unlicensed manufacture has ousted the product of licensed manufacture as the cost of the former is cheaper by Re. -/ 2/- per maund due to non-payment of cess.,0.7
+salt department,licenses,small scale manufacturers,1,The Salt Department in the year 1949 under an executive order began to license some of these small scale manufacturers in places where their aggregate or contiguous area of manufacture exceeded 10 acres.,0.8
+kakrapalli swamp,supplies,soda ash factory,1,"The Salt Department contemplated to develop a large size, factory at this site supplying salt to soda ash factory which was at one time proposed to be started at Sindri (Bihar).",0.8
+vedaranyam swamp,supplies,salt,1,"If properly utilised the Vedaranyam swamp is a promising, source of supply of salt...",0.8
+government,governs,vedaranyam,1,if it was considered by the Government to develop this swamp under its auspices.,0.8
+salt department,governs,salt industry in southern parts of the country,1,The Salt Department in Madras laid great stress on the quality of salt produced at different factories until the year 1929.,0.8
+the salt officers,regulates,the production of the manufacturers,1,The Salt Officers were required to see that 'the production of the manufacturers coriformed to the standard.,0.9
+salt,administers,department,1,With effect from 1st April 1924 a separate Salt Department was created with a Collector at its head...,0.8
+salt controller for india,administers,salt department,1,"The administration of the Salt Department was taken over by the Salt Controller for India at New Delhi, and he was assisted by 3 Deputy Salt Controllers one at Bombay, one at Madras and one at Headquarters.",0.9
+inspector,administers,factory,1,An Inspector is the lowest executive staff in a factory and below him are only class IV staff which comprises of two categories Petty officers and Peons.,0.8
+mandi raja,governs,mandi state,1,The Mandi salt is hard and massive in character and requires continuous blasting operations.,0.8
+mandi,administers,salt quarries,1,"Prior to 1871 the whole revenue realised from the sale of salt at the quarries situated in the Mandi State was received by the Raja, whose property they were.",0.8
+british government,governs,india,1,The British Government issued orders in 1884 reducing the duty from 10 to 6 annas a maund.,0.85
+mandi,controls,salt mines,1,The two Mandi salt mines are situated in the Himalayan State of Mandi...,0.9
+the tunnels,depends_on,the monsoon,1,huge slips took place which completely buried the mouths and it was not possible to inspect the inside conditions for 3 to 4 months during the monsoon.,0.9
+maigal salt source,extracts_from,salt,1,"The salt mined from this mine contains about 80% sodium chloride and averages about 40,000 maunds annually.",0.8
+himachal pradesh authorities,regulates,distribution of salt,1,"The Klandi State, and later on, the Himachal Pradesh authorities regulated the distribution of salt by opening their own depots in various markets.",0.9
+salt,trades_with,people,1,Thousands of people — men and women — with bamboo baskets tied to their backs bringing products of their land for sale in the town.,0.8
+guma mine,extracts_from,katrain,1,"All issues from Katrain, 67 miles",0.8
+every villager,depends_on,salt,1,Every villager who went to the mines to purchase salt was called upon to work there for a day.,0.8
+government,governs,the mandi salt mines,1,The Government have also sanctioned appropriate establishment for the running and maintenance of these machines.,0.9
+government of india,controls,salt mines,1,The Salt Mines were transferred to the Government of India on 1st April 1950.,0.9
+mandi rock salt,supplies,refined salt,1,The brine is thus fit for direct treatment for manufacture of refined salt.,0.8
+punjab government,licenses,hydro-electric power station,1,and it could be used to work thermo-compressors which would evaporate the brine into a thick slurry of pure salt...,0.7
+thermo-compression method,extracts_from,brine,1,"...to evaporate the brine into a thick slurry of pure salt which when passed through centrifugal driers, would result in yielding a clean, dry and pure product.",0.9
+punjab government,regulates,hydro-electric power station,1,...it could be used to work thermo-compressors which would evaporate the brine into a thick slurry of pure salt...,0.7
+mandi rock salt refinery,trades_with,railway,1,...which the Railway would provide within the factory premises by means of siding.,0.6
+salt,supplies,chemical industries,1,Salt being the base of so many chemical industries...,0.8
+mandi refinery,trades_with,people in northern india,1,...will more than compensate for the loss by supplying exceptionally pure quality salt to them...,0.7
+government,supplies,contractors,1,the pots required being supplied to the contractors by Government.,0.8
+government of bengal,administers,salt producing zone,1,In fact the then Government of Bengal adduced that view as would be evident from the following extract...,0.8
+government,governs,salt,1,The fact that the Government is precluded from deriving profit from the purchase and sale of salt...,0.9
+bengal,governs,orissa coast,1,By 1880 the industry became extinct in Bengal and lingered uncared for only on the distant coast of Orissa.,0.8
+madras salt department,administers,orissa salt factories,1,The Salt administration in Orissa was consequently transferred to the Salt Department of Madras.,0.9
+bengal board of revenue,regulates,salt department in orissa,1,"The administration of the Salt Department in Orissa was retransferred to the Bengal Board of Revenue on 1st October, 1897.",0.8
+orissa,depends_on,bengal officers,1,Pandit Gopabandhu Das observed that the Bengal officers did not like the continuance of the industry in an extreme and by no means attractive corner of the province.,0.7
+east coast railway,connects_to,madras salt,1,The opening'of  the East Coast Railway greatly increased thp facilities for the importation of Madras salt...,0.9
+madras salt,trades_with,kurkutch salt,1,"The wholesale price of salt in Orissa during the month of December 1924, was, however, Rs.",0.7
+chiika,connects_to,irrigation,1,"In consequence, the most shallow form of irrigation was resorted to in the Chiika...",0.9
+brine,extracts_from,crystallizing beds,1,The brine which was admitted into the crystallizing beds was only the amount which was sufficient to cover the ground...,0.8
+"director of industries, bihar and orissa",regulates,manufacture of salt,1,"The Director of Industries, Bihar and Orissa, in his Report for 1920-21 said ‘the northern limit of this (Kurkutch) process of manufacture is the Chiika lake itself...’",0.9
+centra government,administers,lands under salt cultivation,1,The lands under salt cultivation in this district belong to the Centra Government and have been leased to different lessees...,0.8
+orissa,depends_on,calcutta salt sources,1,"since 1950, supplies from Calcutta under the Zonal scheme had been suspended",0.8
+orissa government,administers,salt production,1,was formed to examine the question of both increasing production and improving the quality of salt.,0.9
+preventive office,controls,salt manufacture,1,"In accordance with this agreement, the preventive office stopped from interfering with the manufacture of salt by villagers in saliferous areas or its sale by them in neighbouring markets or bazaars.",0.8
+the salt commissioner for india,administers,salt work in the state on behalf of the salt commissioner for india,1,172 salt work in tlie State on behalf of the Salt Commissioner' for India stationed at Delhi.,0.9
+revenue excise commissioner of orissa,controls,"salt in the three coastal districts of balasore, cuttack and puri",1,He had under him Superintendents in charge of districts with necessary subordinate staff.,0.8
+shakambari devi,supplies,milk,1,"who about 551 A in return for milk supplied by one of their cows to a religious ascetic, converted a forest into a wist plain of precious metals.",0.9
+british government,administers,system of salt revenue,1,"The essence of the salt revenue, administration system prevailing from 1820 to 1870 was the levy of duty on salt imported into British territory and the suppression of manufacture, of salt within that territory.",0.9
+inland customs line,connects_to,british territory,1,The great Inland Customs Line existed for this purpose.,0.8
+torbek,connects_to,indus,1,"The great Customs Line was 2,500 miles long and stretched from Torbek on the Indus to Mahanadi in the then Sambalpur district of the old Central Provinces (now in Orissa) and was guarded by an army of 1.3,000 officers and men.",0.9
+mahanadi,connects_to,sambalpur district,1,"The great Customs Line was 2,500 miles long and stretched from Torbek on the Indus to Mahanadi in the then Sambalpur district of the old Central Provinces (now in Orissa) and was guarded by an army of 1.3,000 officers and men.",0.9
+central provinces,connects_to,orissa,1,"The great Customs Line was 2,500 miles long and stretched from Torbek on the Indus to Mahanadi in the then Sambalpur district of the old Central Provinces (now in Orissa) and was guarded by an army of 1.3,000 officers and men.",0.9
+rajasthan government,supplies,royalties,1,Payments are now made to the Rajasthan Government.,0.8
+sambhar lake,depends_on,rain and drainage of the surrounding country,1,The Sambhar Lake is annually replenished by rain and the drainage of the surrounding country.,0.8
+sambhar lake,depends_on,water from the sweet water zone,1,He also believed that the supply of subterranean brine is dependent on the access of water from the sweet water zone all around the lake.,0.8
+ratan-'ka-talad,connects_to,lake,1,"oil' the southern- shore near the Mata Pahar, and between Nawa and Gudha, on the northern, and nearly opposite the Ivlata, the lake water did not dry up until all the shallows had dried up and little remained.",0.9
+brine,extracts_from,lake bed,1,"When the brine of the lake reached a high specific gravity and began to recede towards the centre, it was enclosed within sections of the lake bed by means of rough retaining walls U- feet to 2 feet in height, built of double lines of stake lined with grass.",0.9
+brine,supplies,fresh supplies of brine,1,'Fresh supplies of brine too were admitted.',0.8
+kul brine,supplies,pan salt,1,"The manufacture of pan salt from Kul brine was again tried under Mr! Halsey, the then Commissioner’s orders, and some good saleable salt was made.",0.8
+gudha kyar,depends_on,brine,1,"The day silt of the lake bed thoroughly lubricated with brine proved an impossible material to construct the dam with, except close in shore on both sides...",0.9
+sulzer,supplies,"pumps, impellers, guide vanes, and gearing",1,The Jhapog pump impellers and guide vanes and gearing were made by Sulzers...,0.9
+samhlnir canal,depends_on,schist rock,1,To get the best out of these they must be taken down as far as possible to the underlying schist rock where it is near enough to the surface.,0.8
+sambhar salt settlement,supplies,piped water supply,1,"The Sambhar salt settlement was provided with a piped water supply to all bungalows and quarters except those near the station, fed from an 18,000 gallons ferroconcrete water tank located on the tower on Sambhar hill.",0.9
+sambhar hill tank,supplies,water columns,1,Further water columns were erected near the Power House for hotli metre-gauge and 2 foot gauge the whole being fed from the Sambhar hill tank.,0.8
+sambhar hill tank,supplies,gudha well,1,At Gudha a pipe line connects a water column in the kyar with the well on Gudha hill.,0.8
+"deodani, gudha, and jhapog kyars",depends_on,local storage,1,"Originally Deodani, Gudha and Jhapog kyars were all worked on the system of local storage.",0.8
+"deodani, gudha, and jhapog kyars",regulates,salt transport,1,"In each there was a central stacking space the full length of the kyar 180 feet wide, flanked by evaporating-pans extending 600 feet on either side, and served by a double siding throughout its length.",0.8
+central store,depends_on,salt,1,"The storage allows salt slopes of 1 to 1 storage up to ten feet from, the edge of the platform...",0.9
+gudha transport and storage scheme,connects_to,two permanent main lines along the edges of the pans,1,"The Gudha transport and storage scheme, like the New Kyar, is on the two foot gauge system, with two permanent main lines along the edges of the pans...",0.85
+sambhar,connects_to,western railway metre-gauge track,1,The Main Line Kyars which run parallel to the Western Railway metre-gauge track which connects Sambhar with Gudha.,0.8
+sambhar,controls,brine,1,At these works the recurring difficulty of brine shortage was met by the construction in 1870 of a coffer dam of mud enclosed between grass and stakes to hold up the brine...,0.9
+british government,regulates,places for salt storage,1,The first step taken by the British Government was to reduce the places to ...,0.8
+sambhar kyar salt,trades_with,bengal,1,owing to the fact that its colour is not particularly good.,0.8
+government of india,regulates,"treaty payments and royalties charged to “manufacture” on fixing the cost price of salt in the sam,bhar lake division",1,"the Government of India's decision that the amount to, be taken into consideration from the Treaty payments and royalties charged to “Manufacture” on fixing the cost price of salt in the Sam,bhar Lake Division should be rupees three plus the actual royalty paid on the sales of the preceding year",0.8
+commissioner,regulates,daily clearance of wagons,1,provided that the total number of indents received did not raise the daily total of clearance above 125 wagons or such higher number of wagons as the Commissioner in special circumstances determined.,0.8
+the salt merchants' association ltd.,trades_with,salt,1,"The Sambhar registered traders, from all the three lists referred to above, grouped themselves into the four under-mentioned limited concerns in January, 1944. Sambhar. The Salt Merchants' Association Ltd.",0.8
+the shakambar salt traders' association ltd.,trades_with,salt,1,"The registered traders of Sambhar, from all the three lists referred to above, grouped themselves into the four under-mentioned limited concerns in January, 1944. Sambhar. The Shakambar Salt Traders' Association Ltd.",0.8
+the chamber of sambhar traders ltd.,trades_with,salt,1,"The registered traders of Sambhar, from all the three lists referred to above, grouped themselves into the four under-mentioned limited concerns in January, 1944. Sambhar. The Chamber of Sambhar Traders Ltd.",0.8
+"collector of central excise, delhi",governs,sambhar registered traders,1,"In January 1946, the Collector of Central Excise, Delhi, decided in concurrence with the United Provinces Government to allow the four companies of registered traders at Sambhar, to place indents on requisitions received from the nominees by the 15th day of the month preceding the one to which the nominees' quota related.",0.8
+united provinces government,negotiates_with,"collector of central excise, delhi",1,"In January 1946, the Collector of Central Excise, Delhi, decided in concurrence with the United Provinces Government to allow the four companies of registered traders at Sambhar, to place indents on requisitions received from the nominees by the 15th day of the month preceding the one to which the nominees' quota related.",0.8
+sambhar companies,supplies,50 per cent of the district quota,1,The four Sambhar companies were only permitted to sell salt against the remaining 50 per cent quota...,0.9
+sambhar companies,supplies,un-requisitioned quota,1,...the un-requisitioned quota was also allotted to the companies for sale to their own dealers...,0.8
+sambhar salt traders association,supplies,mofussil traders,1,"The Sambhar traders were out of trade until recently, when in 1954 some of the State Governments decided to relax... a proportion of the trade was allotted to the Sambhar Salt Traders Association...",0.9
+sambhar salt traders association,trades_with,mofussil traders,1,The nominees are now getting salt on indents placed by their District Magistrates in the treasury against the monthly quota fixed for them...,0.8
+sambhar salt traders association,regulates,trade,1,...the system of allowing 50% of the district quota to the district traders freely through the district treasuries and 50% to the Sambhar traders has been introduced...,0.8
+general manager,licenses,farodi,1,Having got a licence he deposits into an authorised treasury or sub-treasury the charges on the quantity of salt he requires...,0.9
+farodi,supplies,salt,1,"The Farodi when he has provided himself with a register in which he is required to enter his daily sales, has his salt weighed for removal to the place where it may be stored and retailed by him.",0.85
+farodi,regulates,salt sale,1,"A licence may be cancelled, and withdrawn at the discretion of the General Manager if the farodi fails to comply with rules or if there is reasonable suspicion that he is acting in contravention of the provisions of the Central Excise and Salt Act.",0.8
+traders,supplies,bags of salt,1,Bags are supplied by the traders or their local agents.,0.9
+sambhar,connects_to,railway,1,Sambhar was connected by rail in 1875-76.,0.9
+sambhar,supplies,bihar and small quantities to bengal,1,during the war years the source was called upon to supply unexpectedly large quantities to Bihar and small quantities to Bengal.,0.8
+government,regulates,production of salt in pans,1,"(4) The production of salt in pans, utilising the brine from wells, should be undertaken under direct ; Government management on a large scale.",0.8
+sambhar,administers,washing experiment,1,As washing experiment with Sambhar salt has shown the possibilities of bringing about an improvement in the quality...,0.8
+the salt works,administers,the general revenues of the central government,1,50 per cent of the profits that may accrue should be paid to the General Revenues of the Central Government and 50 per cent towards building a Reserve Fund to be utilised for future expansion and modifications of the works.,0.8
+jhanjah,extracts_from,salt,1,He was joined by other Kharwals and it was in this manner that the present community of about 200 households of Kharwals came to occupy the town of Pachbadra* Several of these families claim descent from the original founder Jhanjah KharwaL For some time the original settlers collected spontaneous salt from the hollows only. Later on they discovered that brine springs existed not far from the surface and began to dig pits and collected salt from there*,0.8
+pachbadra salt source,supplies,salt,1,Out of the total salt manufactured one-fourth was taken by the State,0.8
+brine,supplies,calcium sulphate,1,the brine does not get a chance to deposit its calcium sulphate content in the sub-soil before entering the pit.,0.8
+kharwals,regulates,storage of salt,1,"The Kharwals, the manufacturers, are also responsible for storage of salt.",0.9
+pachbadra salt,supplies,brine,1,"Quality depend also on good supply of brine, which, in turn', depends on rainfall",0.8
+pachbadra salt,trades_with,markets,1,This placed Pachbadra on an equal footing with Sambhar.,0.85
+salt department,governs,permit system,1,"The permit system from May, 1941 with the object of stopping over-indenting and minimising the w’-ork in the treasuries and offices of the Salt Department...",0.8
+pachbadra,supplies,salt,1,is now despatched direct on the indents of the nominees or their agents,0.9
+salt experts committee,governs,production at pachbadra,1,They were of the view that the production at Pachbadra should be developed.,0.9
+didwana salt,supplies,paper mills,1,"During the last 30 years about 30 lakh maunds of sodium sulphate have been excavated and supplied to paper mills, etc.",0.8
+didwana salt,supplies,textile industry,1,Sodium sulphate is also used for making water-glass and in the dyeing and the textile industry.,0.8
+didwana salt,supplies,glass manufacture,1,Sodium sulphate is used in large quantities in the manufacture of glass and kraft paper.,0.8
+kuchaman road (nawa),connects_to,didwana salt,1,Formerly the nearest railway station to Didwanawas Kuchaman Road (Nawa) at a distance of 40 miles from it.,0.8
+mar war balia station,connects_to,didwana salt,1,Now-a-days this salt is distributed from Mar war Balia station.,0.8
+badagara salt,trades_with,"mewar, marwar, and malwa",1,"This salt, in addition to meeting the local requirements of the adjacent territories, was known to have obtained markets in the far off places like Mewar, Marwar and Malwa.",0.8
+kuda salt works (nimaksar),administers,salt production,1,When the Jhala Chief-tains retired to Halvad they set up a Salt Works at Kuda; this Salt Works (Nimaksar) is specially mentioned in all the grants of the time and is confirmed to Jaswantsingji by the Imperial grant of the 24th year of Aurang-zeb’s reign.,0.9
+government of india,administers,excise policy towards salt production and distribution,1,the Government of India and the Bombay Government orientated an entirely new Excise policy towards the production and distribution of salt,0.9
+frontier preventive line,regulates,salt,1,"all salt not duly covered by a permit, which was carried across this Frontier Line by a route other than prescribed by the Governor-in-Council for the purpose, was cleared as contraband salt under the Bombay Act VII of 1873",0.9
+government of india,regulates,salt production and disposal,1,The more important provisions of this Agreement governed — (a) the production and disposal of salt produced...,0.9
+government,regulates,production and disposal of baragara salt at kuda,1,"Certain rules, were framed soon after to regulate the production of Baragara salt at Kuda and, its disposal for local use for alimentary and industrial purposes and for export by sea to places outside India and to Calcutta and Rangoon.",0.9
+state,governs,salt industry in kathiawar,1,The State was to take all necessary precautions to prevent leakage of salt both from their works and reserve heaps.,0.9
+government,licenses,dhrangadhra salt,1,"That Government agreed to Dhrangadhra, increasing the output of salt...",0.9
+dhrangadhra chemical works,supplies,government,1,Out of this production the Dhrangadhra Chemical Works consumed about 7 lakh maunds and a quantity ranging from 3 to 6*5 lakli maunds was purchased by Government.,0.8
+saurashtra state,administers,"sir george lloyd salt works, nimaknagar",1,"The Central Government took over the Salt Administration in Saurashtra State with effect from 1st April 1950 from which day the Central Excise and Salt Act, 1944 was made applicable to the State.",0.9
+dhrangadhra salt merchants' association,supplies,salt,1,"The Saurashtra Government was to sell salt surplus to their own requirements of the Chemical Works to certain merchants, of Dhrangadhra who had formed themselves into 'The : Dhrangadhra Salt Merchants' Association'",0.8
+railway board,supplies,wagons,1,The Ministry of Railways (Railway Board) undertook responsibility for the supply of wagons for this movement under 'Preferential Traffic'.,0.85
+dhrangadhra zone,supplies,salt,1,"The Dhrangadhra zone under the Zonal scheme consists of Kuda, Jesda, Maliya, Vanasar, Haivad and other inland licensed salt works in Saurashtra.",0.9
+dhrangadhra zone,supplies,"bombay, madhya pradesh, uttar pradesh, madhya bharat, saurashtra, rajasthan, south and north bihar and nepal",1,"The Dhrangadhra zone supplies salt to Bombay, Madhya Pradesh, Uttar Pradesh, Madhya Bharat, Saurashtra, Rajasthan, South and North Bihar and Nepal.",0.95
+saurashtra government,negotiates_with,the company,1,The company is negotiating with the Saurashtra Government regarding the reduction of the royalty from Re. 1-O-2 per person on sale of salt for human consumption outside Saurashtra.,0.8
+the company,transports_via,dhrangadhra railway station,1,"Salt is transported in metre-gauge trucks taken on loan from the railways. During this haulage, the surplus stock is stored along the Kuda main line and sidings which are at a distance of about 2 miles from the main works.",0.8
+government,regulates,salt trade,1,"Prevention of smuggling of salt from foreign territories, by strengthening of the establishment on the Northern and Portuguese Frontiers...",0.9
+british government,regulates,manufacture of salt and trade in salt,1,"The British Government considered it necessary to enter into engagements with the various maritime and inland States in Kathiawar and Kutch, and in the year 1883 agreements were made with all these States for the regulation of the manufacture of, and trade in, salt.",0.8
+kathiawar,controls,salt production,1,"That the production of salt in his State, as hitherto carried on, will continue...",0.9
+my administration,administers,conditions by all classes of my subjects,1,That his administration will be responsible for the observance of the above conditions by all -dasses :pf his subjects.,0.9
+government of baroda,regulates,manufacture of salt,1,The Government of Baroda will exercise an efficient control over the manufacture of salt and the collection of natural salt within its possessions in Kathiawar.,0.9
+government of baroda,regulates,export of salt from kathiawar to foreign ports outside india,1,"The Government of Baroda will so regulate the export of salt from its possessions in Kathiawar to foreign ports outside India, and will place such export under such safeguards and checks as to prevent any salt so exported from finding its way into any part of British India or of any Native Indian State or of any foreign European Settlement in India.",0.9
+government of baroda,regulates,"export of salt from kathiawar to ports in british india, native indian states, or foreign european settlements in india",1,"No vessel bound from the possessions of the Government of Baroda in Kathiawar to any port situated in British India, or a Native Indian State or any foreign European Settlement in India, will be permitted to carry salt as sole cargo or as part of its cargo.",0.9
+government of baroda,regulates,vessel carrying salt for export from kathiawar to foreign ports outside india,1,"The Government of Baroda will bind the owner or captain of any vessel containing salt for export from its possessions in Kathiawar to any foreign port outside India, to touch on the voyage any port in British India, or a Native Indian State, or any foreign European Settlement in India.",0.9
+government of baroda,regulates,fishing-boats belonging to the possessions of the baroda government in kathiawar,1,"Fishing-boats belonging to the possessions of the Baroda Government in Kathiawar may ship, when leaving a place in the said possessions, a quantity of salt not exceeding twenty-five Indian maunds to be used for bond fide fish-curing purposes.",0.8
+state,regulates,salt export to bengal/burma,1,"Export of salt to Bengal/Burma in vessels of less than 1,000 tons gross and over 300 tons burden.",0.8
+collector of customs,administers,port of import,1,"The intimation sent to the Collector of Customs should be endorsed with or accompanied by a certificate signed by some suitable official designated by the Darbar in this behalf, stating the name and place of the salt works at which the salt was produced.",0.8
+collector of salt revenue,regulates,salt export to bengal/burma,1,"The Collector of Customs of the port of import in Bengal/Burma will notify the Collector of Salt Revenue, Bombay of the outturn of the salt giving the following details: —",0.8
+india,depends_on,salt industry,1,The Indian Taxation Enquiry Committee had stressed the extreme importance of a well developed salt industry in India for her economic advance...,0.8
+government of india,regulates,salt exports,1,"All the old restrictions imposed on the export of salt by sea to other Indian ports were withdrawn by the Central Government in 1949 and suitable amendments were made in the relevant section of the Central Excise and Salt Act, 1944, governing the export by sea of excisable commodities.",0.8
+littoral,connects_to,sea,1,"The littoral is the most favourable site on account of high winds, good tidal rise, comparatively high temperatures, good density and purity of sea brine...",0.8
+brine,depends_on,evaporation,1,the evaporation of brine.,0.9
+crystallisation operations,regulates,collection of salt,1,"The crystallisation operations in the different pans in a works are regulated in such a way that the collection of salt, once it is started, can be continued throughout the production period...",0.9
+movable stackers,supplies,salt,1,These heaps are usually made with the help of movable stackers which I receive salt direct from the tipping wagons.,0.8
+indian salt manufacturers' association,trades_with,japan,1,Exports to Japan since 1951 are given below: —,0.9
+indian salt manufacturers' association,supplies,calcutta,1,"The export to Calcutta is mostly done in chartered steamers and the following are the present charter party terms agreed to between the Indian Salt Manufacturers' Association, Bombay, on behalf of the marine salt works, and the Indian Coastal Conference, which consists of about 14 members.",0.7
+saurashtra and kutch ports and okha,connects_to,calcutta,1,Salt on Charter Party: — From Saurashtra and Kutch Ports and Okha to Calcutta.,0.6
+indian salt manufacturers' association,regulates,charterers and/or su-fa-charters,1,"Bills of lading will have to be taken away by the Charterers and/or the .sufa-'charte.rers, etc. as the case may be, within say, 72 hours of the ship...",0.5
+kandla,trades_with,/location/country,1,"From the 1st January, 53, however, salt produced at Kandla has been permitted to move under /preferential traffic’ at the instance of the Railway Board...",0.8
+indian tariff board,administers,enquiry by the indian tariff board in 1929-30,1,This resulted in an enquiry by the Indian Tariff Board in 1929-30.,0.8
+saurashtra government,administers,salt works,1,all the salt works came under the administrative control of the Saurashtra Government.,0.9
+the technique of salt manufacture,regulates,reservoirs and crystallisers,1,"But, in some cases, the areas are not properly regulated as between reservoirs and ^ crystallisers...",0.8
+kathiawar and kutch,administers,salt works,1,"Kathiawar and Kutch w’orks alone wfith (a) extension of the manufacturing season, (b) expansion of some of the salt works...",0.8
+"tata chemicals, ltd",monopolizes,"raw or natural salt, brine, etc.",1,"Sole and exclusive right for a period of 99 years to recover and use raw or natural salt, brine, etc. required for the manufacture of salt and marine minerals...",0.9
+mithapur,regulates,salt production and removal,1,The manufacture operations and the utilisation of brine therefore are regulated in such a way that the production and removal of salt can be continued throughout the span of a year...,0.8
+government of india,regulates,export of salt by sea from navlakhi and by rail to british india,1,Export of salt by sea from Navlakhi and by rail to British India was to be made in accordance with the rules and regulations that may be enforced by the Government of India in this behalf*,0.9
+"the saurashtra salt manufacturing co., porbandar",monopolizes,manufacture salt in porbandar state,1,The works were granted a monopoly to manufacture salt for 30 years in the State and were made liable to abide by the rules and regulations as affecting the production and distribution of salt as may be framed by the Government of India from time to time.,0.95
+united salt works and industries ltd,controls,salt works,1,"Situation— These salt works are situated near Porbandar Port and on the other side of the creek and occupy an area of about 1,400 acres* ... The works have constructed two sets of automatic gates near the Port and take in sufficient brine for their works during high tides*",0.9
+united salt works and industries ltd,supplies,brine,1,They have constructed two sets of automatic gates near the Port and take in sufficient brine for their works during high tides*,0.85
+united salt works and industries ltd,regulates,bitterns channels,1,Bitterns channels have been constructed to discharge the bitterns into the sea.,0.8
+works,governs,rules and regulations laid down by the government of india,1,"They agreed that the construction of the works and the disposal of salt were subject to the rules and regulations, laid down by the Government of India from time to time.",0.9
+works,supplies,water and electric supply system,1,"The works are maintaining their own water and electric supply system,",0.8
+works,regulates,meteorological data,1,Regular records are being maintained of the meteorological data...,0.7
+bedi port,connects_to,gulf of kutch,1,The Bedi Port railway siding is quite adjacent to the works and they can easily despatch salt by rail.,0.9
+"halar salt and chemical works, jamnagar",monopolizes,salt production,1,"The monopoly Agreement with the Digvijaysinhji Salt Works Ltd., Jamnagar having been rescinded by the Jam Saheb of Nawanagar in the year 1947...",0.8
+maliya salt works,controls,salt production,1,"The Maliya Salt Works, Maliya, came into being in 1943 ... granted a monopoly to the works for a period of five years from November, 1943 to manufacture, collect and sell salt...",0.9
+maliya state,supplies,royal family,1,The State was to be supplied with free salt for the use of the Royal Family.,0.8
+maliya salt works,trades_with,british india,1,"Its transport to British India was not allowed till about 1947, when its booking was allowed to Bengal and Bihar.",0.85
+maliya state,administers,salt administration,1,Soon after Maliya State was integrated in the United States of Saurashtra and the administration of salt came under their control...,0.9
+works (maliya salt works),supplies,salt,1,The works have since entered into a fresh lease agreement with that Government.,0.8
+dhrangadhra zone,connects_to,maliya salt works,1,From 1949 they have been included in the Dhrangadhra zone of supply...,0.7
+government (united states of saurashtra),licenses,works (maliya salt works),1,...the administration of salt came under their control...,0.8
+khakhrechi station,connects_to,maliya salt works,1,"The nearest rail head then being at Khakhrechi on the Narrow Gauge, the salt produced there had to be transported by road...",0.7
+maliya station,connects_to,works (maliya salt works),1,"...in 1950, Maliya station which is at a distance of about five miles was opened for goods traffic...",0.8
+gulaba dhora,connects_to,works (maliya salt works),1,"...in 1949, they constructed another small salt works near village Gulaba Dhora at a distance of about three miles...",0.7
+partners,disputes,works (maliya salt works),1,As some dispute arose between the partners of this works...,0.7
+shri ladhabhai odhavji,administers,salt works,1,These works have been started as 'a'... and these lands have been leased on standard terms...,0.8
+government of india,licenses,this site,1,After the Government of India had promised to license this site...,0.8
+m/s. of bombay,licenses,"bharat salt and chemical industries, ltd., mundra",1,"This party has since started the Bharat Salt and Chemical Industries, Ltd., Mundra as a private limited concern to run these salt works.",0.9
+the prabhat salt works,administers,salt works,1,The land for these salt works was leased by the Saurashtra Government in 1951 and covers an area of about 364 acres.,0.8
+kings of cholas,governs,salt factories and surrounding territory,1,The inscriptions show that in those remote periods the salt factories as well as the surrounding territory were under the kings of the time of Cholas.,0.9
+government,licenses,messrs manickom naidu company of madras,1,A licence was also granted this year for the manufacture of salt to Messrs Manickom Naidu Company of Madras and they began operations at Rajakkamangalam.,0.8
+government,supplies,salt manufacturers,1,"Under this system, called the Modified Excise System, Government incurred no expenditure except on preventive staff.",0.7
+government,regulates,salt factories,1,With this end in view an enactment was made — Regulation II of 1912-13 which granted power to Government to supervise the working of the factories from start to finish.,0.9
+lease-deed,licenses,salt manufacture,1,After the execution of the lease-deed by the present licensee (13-12-1948) twenty acres of land were placed at his disposal for the manufacture of salt in the first stage.,0.9
+suchindram river,connects_to,the sea,1,"at the mouth of the Suchindram river (Pazhayar) and when the Mana'kudy bar was opened, the sea water ^vas allowed to get into it.",0.85
+government,licenses,private individuals,1,"About this time, Government transferred its right of share in the Govern-ment salt pans by sale in favour of private individuals.",0.8
+government lands,administers,salt manufacture,1,(a) Where salt is manufactured on Government lands under specific agreements.,0.9
+private lands,administers,salt manufacture,1,(b) Where salt is manufactured on private lands under specific agreements.,0.8
+the manakudy lake,supplies,saline water,1,"Formerly, the saline water of the lake was mainly used for manufacture of salt.",0.9
+the manufacturers,negotiates_with,major licensees,1,...major licensees have sunk tube wells.,0.8
+thamarakularn old allom,controls,salterns,1,"After studying the conditions in the factories at Thamarakularn Old Allom, Rajakkamangalam Old Allom etc. he found that these salterns which produced large quantities had very much deteriorated and mostly abandoned and looked like a swamp flooded with fresh water.",0.8
+rajakkamangalam old allom,controls,salterns,1,"After studying the conditions in the factories at Thamarakularn Old Allom, Rajakkamangalam Old Allom etc. he found that these salterns which produced large quantities had very much deteriorated and mostly abandoned and looked like a swamp flooded with fresh water.",0.8
+state government,governs,industrial chemist,1,The Industrial Chemist attached to the State Government was commissioned to study the conditions of old factories with a view to increasing the output and improving the quality.,0.9
+tube wells,supplies,brine,1,Some factories are in favour of using tube well brine and supplementing it by sea brine.,0.7
+the salt department,negotiates_with,tata oil company,1,engaging the attention of the Salt Department.,0.8
+manakudy lake,depends_on,sea brine,1,having a floating pipe system as in the case of Tata Oil Company at Ernakulam is preferable and this is engaging the attention of the Salt Department.,0.8
+"thamarakulam old allom, extension i and ii, and puthallom",supplies,brine,1,"so that brine supply scarcity keenly felt in the Thamarakulam Old Allom, Extension I and II and Puthallom can be easily solved.",0.8
+the salt department,controls,the conveyance of sea brine to the factory's outer reservoir,1,The Salt Department has suggested a pipeline from Muttam rocky portion in the sea to a distance of 2 miles to convey sea brine to the factory's outer reservoir...,0.9
+travancore state research department,administers,model salt factory at thattarippuodai allom,1,As a result of experiments conducted at the laboratory and field for a period of over 7 years under the Travancore State Research Department...,0.9
+travancore government,governs,model salt factory at thattarippuodai allom,1,The Travancore Government were running the Model Salt Factory at the State expense with the Director of Research as the administrative head.,0.9
+travancore salt factories,supplies,salt,1,"At present, the manufacturers are allowed to scrape as much salt as possible and increase the output.",0.8
+government agencies,trades_with,salt,1,The supply of the salt required for consumption in the State was obtained partly from factories and partly by import and sold through Government agencies excepting at Munambam salt depot where a contractor was engaged for transport and supply of salt.,0.8
+madras,supplies,tuticorin factory,1,"From 1865 Madras also supplied to this State from Tuticorin factory whenever needed at a nominal duty of 3 pies per maund, under the terms of treaty.",0.8
+state government,licenses,licensees,1,"To help the licensees, the State Government passed a Rule enabling the licensees to remove their salt under bond from the factory to Government depots at Trivandrum, Quilon and Alleppy.",0.8
+state government,governs,taluqs in north travancore,1,The supply of Bombay salt was gradually reduced from 1934 to 1936 and in 1937 the import of Bombay salt was stopped.,0.8
+state government,regulates,sale of salt,1,Sale of salt in factories and depots was conducted under quota system on the basis of production and consumption for a period of 3 years and it continued till 5-7-1944 when it was temporarily suspended.,0.8
+state government,taxes,licensees,1,"Travancore manufacturers were given protection by the State Government up to 1950 by prohibiting the import of salt into the State, because the manufacturers were to deliver State Government 31- lakh maunds of salt out of an average production of 17-| to 18 lakh of maunds i. l/5th of the salt produced.",0.8
+travancore,regulates,salt import,1,Import of salt to Travancore and Cochin were prohibited with reference to section 34 of the Travancore Salt Act and Rule 80 of Travanacore Salt Rules...,0.8
+research department,licenses,licensees,1,The cost of the special staff was recovered from them.,0.8
+messrs. india cement ltd.,trades_with,gypsum,1,"Messrs. India Cement Ltd. Thalaiyuthu (Tinnevelly) and the Travancore Cements, Kottayam were interested in the use of this gypsum ill their cement factories...",0.8
+salt administration in travancore,controls,salt factories,1,"Later on the Salt Administration in Travancore was merged in the Excise department with Excise Commissioner as the Head of Salt Administration and all the salt factories were placed under an Assistant Excise Commissioner, Nagercoil.",0.9
+salt administration in travancore,regulates,"manufacture, storage, and issue of salt",1,"Inspectors and Sub-Inspectors was confined to manufacture, storage and issue of salt.",0.8
+central government,supplies,salt,1,"The Central Government took over the responsibility of manufacture, supply and distribution of salt and gave an undertaking to the State Government that they would not interfere with the arrangements the State Government had made with the licensees as regards payment of rent and royalty in cash or in kind.",0.8
+british government,controls,salt works of jhajjar and faitukh-iiagar,1,"After the Mutiny in 1857, when the British Government annexed the lands of Jhajjar and Faithulk-iigar, the salt works which belonged to the Nawab came under their control.",0.9
+british government,supplies,salt to the north western provinces,1,For many years this was one of the principal sources which supplied salt to the North Western Provinces.,0.8
+government,regulates,excise duty and cess on salt,1,"With the British occupation, the produce of the works gradually increased. The salt belonged to the manufacturers, who arranged its sale direct. Government was only concerned with excise duty and cess.",0.7
+nuh salt works,licenses,salt manufacturing,1,The manufacturers were given licences.,0.8
+officer in charge of a cluster of works,regulates,salt extraction and storage,1,"Permission was not given, unless the salt was of saleable quality.",0.7
+sultanpur salt,trades_with,markets,1,"Before the Rajputana and Punjab sources were opened by Railway, this salt produced close to the populous districts of the North-Western Provinces and the Punjab had a great sale.",0.9
+sultanpur salt works,controls,salt manufacturing process,1,The work of the staff in those days was mostly preventive; they had very little to do with manufacture.,0.8
+rajasthan government,licenses,salt manufacturers,1,"The manufacturers who were given licenses in 1949 by the Rajasthan Government, carried on the manufacturing operations for four months only (March to June).",0.9
+hyderabad state,administers,salt manufacturing,1,Salt for domestic use as well as for tanning industry was manufactured from times immemorial in several places in the Hyderabad State...,0.9
+salt makers (uppars),extracts_from,brine or saline earth,1,...from which salt was made from brine or saline earth by salt makers called 'Uppars' in their 'Nimak Moles' salt work units.,0.9
+the east india company,monopolizes,salt manufacture in bengal,1,"The East India Company developed a system of monopoly, which survived with modifications till 1862.",0.8
+the indian government,regulates,salt imports and manufacturing,1,"Government abandoned monopoly in 1863, leaving manufacture subject to Excise duty only until 1898 when the local manufacture was prohibited altogether.",0.8
+the indian government,taxes,salt imports and manufacturing,1,Fixed rate of duty introduced under orders of 1837 was applied to imported as well as to the locally manufactured salt.,0.75
+germany,supplies,salt,1,"About 1935 in Bengal salt was imported only from Germany (Hamburg), Aden and Indian sources.",0.8
+spain,supplies,salt,1,"Spanish Salt was white salt of good appearance, was obtained by solar evaporation of sea brine...",0.8
+italy,supplies,salt,1,Imports of foreign salt into other provinces were negligible.,0.6
+port said,supplies,salt,1,Port Said salt was obtained by solar evaporation and imported both in the natural state and crushed form...,0.7
+aden,trades_with,india,1,Aden salt was manufactured from sea water by solar evaporation and imported either in Karkutch or fine form; it headed the list of salts imported into Bengal in 1914-15 and in 1917-18 was second on the list both in Bengal and Burma.,0.8
+liverpool salt,supplies,bengal,1,"About 75 per cent share of the total imports from 1873 to 1903, Aden about 11 per cent and the rest of the countries about 14 per cent only.",0.8
+combines,controls,market,1,Three or four times a Combine was formed with the ostensible object of stabilizing prices but in reality to retain market against new importers.,0.85
+british government,taxes,salt,1,"By the terms of the agreement, salt on which duty had been levied by the British Government was the only salt which might be consumed in the State.",0.8
+the gaekwat of baroda,regulates,salt arrangements in his kathiawar possessions,1,putting the salt arrangements in his Kathiawar possessions on almost the same footing as obtained at that time in other States.,0.8
+chiefs of patdi and jhinjuvada,supplies,salt,1,"Salt was issued free of duty in limited quantities for domestic consumption to the States of Radhanpur, Patdi and Jhinjuvada...",0.9
+government of india,administers,salt sources in rajasthan,1,a schedule of payments to the Rajasthan Government in respect of the Salt sources taken on lease was drawn up by the Government of India,0.9
+government of india,governs,union and non-union agencies,1,in regard to the manufacture and distribution of salt by Union and non-Union agencies,0.8
+salt,controls,colour,1,the colour can be controlled to a large extent by not disturbing the bed of the crystallisers at the time of scraping and by washing the crystals either in the pans or subsequently in a mechanical washery.,0.9
+the trade,controls,the quality of salt,1,"the trade to call for a light flaky salt, yielding a comparatively large bulk for weight which not only gives' the consumer less real salt for his money but also encourages faulty methods of manufacture and leads to the production of a comparatively impure salt.",0.8
+central board of revenue,regulates,salt quality,1,Salt should be clean and white in appearance.,0.8
+government of india,regulates,salt quality,1,The Salt Department was further asked to achieve this standard in three years.,0.8
+government,regulates,salt standard for human consumption,1,it was decided by the Government by issue of a Press Note dated 19-12-1953 to maintain the minimum standard for salt for human consumption at 94%,0.9
+salt department,regulates,maintenance of records,1,Routine records of densities and analysis should be maintained in each factory and the Salt Department should examine how far and to what extent the maintenance of these records can be made obligatory...,0.9
+salt department,administers,laboratories,1,"As the Salt Department had no departmental laboratories in the Madras Region, samples of salt were used to be sent for analysis...",0.8
+government,regulates,quality control,1,Government needed more test laboratories where samples of salt could be analysed early so that salt found below the standard could be banned for sale...,0.7
+government,governs,model salt farm,1,In Bombay a Model Salt Farm is being worked by Government since 1950 to demonstrate the correct methods of manufacturing salt to private manufacturers.,1.0
+saurashtra inland salt,supplies,cattle,1,This salt is issued for the cattle and is also used by the local and adjoining area populace...,0.9
+indian railways,regulates,salt traffic by rail under zonal scheme,1,Since 1949 salt traffic by rail is being regulated under the Zonal Scheme.,0.9
+punjab,supplies,35*6 and 1*2 lakh maunds per annum or 10*3 and 11 lbs.,1,The overall requirements of the Punjab during the pre-partition days was 35*6 and 1*2 lakh maunds per annum or 10*3 and 11 lbs.,0.8
+kharaghoda salt works,supplies,about 8 lakh maunds of salt,1,about 8 lakh maunds was supplied by the Kharaghoda salt works,0.9
+madras,supplies,salt,1,"The State of Travancore got its supplies of salt (a) from a few small local factories, (b) by importation from Bombay by sea and (c) since 1913 by importation from Madras.",0.8
+mysore,supplies,15*49 lakh maunds per annum,1,The requirement of the State is 15*49 lakh maunds per annum.,0.9
+mysore,trades_with,madras and bombay,1,"Besides supplies from the sources direct, large quantities of salt go to the State for consumption from the adjoining districts of Madras and Bombay.",0.8
+hyderabad,supplies,31*85 lakh maunds per annum,1,The requirement of the State is 31*85 lakh maunds per annum.,0.9
+"assam, manipur and tripura",supplies,17*52 lakh maunds per annum,1,The requirement of these States is 17*52 lakh maunds per annum.,0.9
+"assam, manipur and tripura",trades_with,calcutta,1,These States get their supplies mainly from Calcutta.,0.8
+sambhar lake,connects_to,rail,1,"Sambhar Lake was connected by rail in 1876, when salt began to be despatched by rail.",0.9
+government,licenses,traders,1,"Trade was thrown open to all persons who chose to indent for salt on payment of duty, cost price etc. in any Government Treasury.",0.8
+government,regulates,"kharaghoda salt indenting rules, 1942",1,"The Government had, therefore, to issue ‘‘Kharaghoda Salt Indenting Rules, 1942”.",0.8
+government,regulates,distribution of salt,1,The Government of -India in order to regulate distribution of salt from the Government' sources issued- the following -Order in 1942 under the Defence of India Rules:,0.9
+the collector,regulates,the issue of salt from a government manufactory,1,"the Collector or any Salt Revenue Officer authorised by him in this behalf, may in issuing salt from a Government manufactory...",0.85
+the collector,supplies,salt to nominated persons or bodies,1,...give priority to such extent as he thinks fit to the indents of any person or body of persons or society nominated by a District Officer or by the Administration of an Indian State...,0.8
+"the salt merchants' association ltd., sambhar lake",administers,wagons,1,Quota of wagons was then redistributed amongst the ten registered companies formed at Sambhar on the revised strength of the genuine traders in each individual company.,0.8
+refugee salt syndicate,supplies,kharaghoda,1,"Supplies from Kharaghoda were also made through dealers registered by the Salt Department under the Kharaghoda Salt Indenting Rules, 1942.",0.8
+government of india,governs,system of registration of dealers at sambhar and kharaghoda,1,"The Govern-ment, of - India accepted the recommendation of the Salt Advisory Committee and ordered that with effect from 28-4A950 the system of registration of dealers at Sambhar and Kharaghoda by Government for the purpose of allotment of quota of wagons should be abolished...",0.9
+manufacturers,trades_with,retailers,1,a good deal of salt is passed on by the manufacturers to the retailers on a commission basis,0.8
+importers or state governments' agents,supplies,consumption areas,1,"some quantities are also despatched to Calcutta by sea wherefrom it is supplied to consuming areas by the importers or the State Governments’ agents, if any",0.8
+state governments,governs,salt distribution,1,"The then Ministry of Works, Production and Supply, Government of India in April, 1951 suggested to the State Governments to take over the distribution work direct...",0.9
+government,regulates,salt price,1,any measure that would result in increase in the price of salt would be subject to serious public criticism.,0.85
+government of india,regulates,"quantity, quality, storage, distribution and prices of salt",1,"to regulate the quantity, quality, storage, distribution and prices of salt.",0.8
+ministry of food,controls,distribution of salt,1,The arrangement was to prepare a half-yearly programme of movement of salt to the different provinces . and States and to get such programmes periodically approved by the Central Board of Transport.,0.8
+salt controller,controls,salt movements,1,No hooking of railway wagons was permissible from one zone to another except under special permission of the Salt Controller for reasons to be recorded in writing in each individual case.,0.8
+central government,governs,"indian railways act, 1890",1,"the Government had to amend the Indian Railways Act, 1890 suitably...",0.9
+government,supplies,salt,1,"Supplies from Government salt works at Sambhar, Pachbadra, Didwana and Kharaghoda continued to be made by the Registered dealers appointed by the Government for the purpose through the State Government nominees either appointed under their respective Control Orders or executive orders issued by them.",0.85
+south bihar,administers,salt factories,1,Salt factories in West Bengal ; Salt imported into Calcutta by sea and sea salt factories in Orissa.,0.8
+salt commissioner,controls,salt production,1,"Control over salt production is exercised by the Salt Commissioner under the Central Excise and Salt Act, 1944 and the Central Excise Rules, 1944 framed under the above Act.",0.8
+ajmer-merwara,controls,salt prices on wholesale and retail,1,"Ajmer-Merwara Salt Prices Control on wholesale and retail Control Order, 1947 (issued prices of salt in the State, on 7-2-1947).",0.8
+madhya bharat,controls,"salt import, distribution, and retail prices",1,"9 Madhya Bharat , Madhya Bharat Salt (Control) Control on import, distribution Order, 1949 (issued on 28-2- and wholesale and retail prices of salt.",0.8
+saurashtra,controls,sale and distribution of salt,1,"10 Saurashtra . Saurashtra Salt Dealers Control, sale and distribution Licensing Order, 1949 of salt within the State, (issued on 23-11-1949).",0.8
+assam,controls,"import, distribution, and retail prices of salt",1,"11 Assam . Assam Controlled Commodities Distribution Order, and retail prices of salt. Controls export of salt from the State.",0.8
+government of india,regulates,"import, distribution, and retail prices of 'block' salt",1,"Control on manufacture, sale and transport of ‘Block’ salt.",0.8
+government of india,regulates,reserve stocks of salt,1,"Salt (Reserve Stocks) Order, 1950 under which every importer of salt into Calcutta by sea, whether from foreign countries or indigenous sources, is required to store in the Government Golahs at Salkia (Howrah) not less than a certain percentage of the quantity of salt imported by him as fixed by the Salt Commissioner or the Government from time to time.",0.8
+salt commissioner,governs,reserve stocks of salt,1,"The Salt Commissioner may, at his discretion, vary from time to time, the percentage of salt to be stored...",0.9
+the commodity controls committee,controls,"salt controls issued under the essential supplies (temporary powers) act, 1946",1,"The Commodity Controls Committee set up by the Ministry of Commerce and Industry which examined all questions of controls issued under the Essential Supplies (Temporary Powers) Act, 1946...",0.9
+states,administers,salt,1,"As the country has attained self-sufficiency in salt, the working of the Nominee system came in for severe criticism at the hands of the salt traders and the Chambers of Commerce.",0.8
+railway freight,regulates,salt transport charges,1,Transport charges from the factory to consuming areas.,0.8
+government,regulates,selling prices at government salt works,1,"and selling prices at Government salt works, therefore, had always been fixed so as to cover only the cost of production, with a small addition for such services as bagging, weighing and loading.",0.9
+salt sources,supplies,government factories,1,"The cost of production at the different Government sources was so long, calculated in accordance with the procedure fixed by Government in 1935-36 and all relevant items of cost were taken into account.",0.8
+salt duty,taxes,government factories,1,"Even after the abolition of salt duty, the selling price of salt in Government factories had all along been fixed on a ‘no profit no loss’ basis.",0.8
+departmental committee,regulates,fixing of selling price of salt from govt. factories,1,"The Departmental Committee which, was formed by the Government of India with Shri B. Secretary, Ministry of Production as Chairman, reported about the question of fixation of selling price of salt from Govt., factories as follows:",0.8
+rock salt mines,supplies,brine of good quality,1,industrial consumers have a great advantage inasmuch as they are able to get in brine of good quality at low cost from their rock salt mines.,0.9
+n. salt revenue department,controls,saltpetre refineries of the bhagalpur division of bihar,1,Hence in 1890 the saltpetre refineries of the Bhagalpur Division of Bihar and those around Calcutta were brought under the N. Salt Revenue Department.,0.8
+northern india,controls,saltpetre industry,1,The Northern India system was adopted under which a single licence was issued for the manufacture of both crude and refined saltpetre...,0.9
+"india salt act, 1882",regulates,saltpetre industry,1,"It was with the passing of the Indian Salt Act, 1882 that the saltpetre industry was brought under control.",0.9
+saltpetre industry,depends_on,licences,1,"The number of factories licensed for the manufacture of crude and refined saltpetre was 50 in 1931, but it fell to 40 in 1932 and to 37 in 1933.",0.7
+internal branch,governs,crude saltpetre factories,1,"Prior to the Delhi Pact, crude saltpetre factories were inspected by the officers of the Internal Branch*",0.9
+saltpetre,extracts_from,earth,1,"The material so obtained is filtered in large clay-lined mud filters provided with a bottom of bamboos, resting on bricks and leaving a space below for brine.",0.9
+east india company,monopolizes,saltpetre trade,1,For long the trade was carried on as a monopoly by the East India Company,0.9
+lunia,licenses,salt manufacturing,1,a Lunia could educate salt and dispose it of as he pleased was also kept as a special feature of the altered scheme.,0.9
+the lunia,depends_on,refiner,1,TheLunia was free to manufacture crude saltpetre but was still entirely dependent on the refiner.,0.9
+punjab and uttar pradesh,regulates,manufacture and refine saltpetre and educe salt therefrom,1,"The fee for a licence to manufacture and refine saltpetre and educe salt therefrom is Rs. ... levied on salt and sitta (im-pure salt containing not more than 60 per cent sodium chloride) removed from saltpetre refineries in the Provinces of the Punjab, Bihar and U.",0.9
+central excise,licenses,saltpetre refineries,1,"Till this separation, the Central Excise staff continued to license saltpetre refineries...",0.8
+government of india,licenses,refiners,1,The Government of India decided in 1944 to issue the licences without charging any fee in Madras.,0.8
+assistant commissioner,administers,internal branch,1,The Division was put under an Assistant Commissioner with his headquarters at Agra*,0.9
+deputy salt commissioner,administers,licenses,1,"So far as Madras is concerned, the power of issuing licenses has been delegated to the Deputy Salt Commissioner, Madras where, as already mentioned, no fee is being charged since 1944»",0.8
+government of india,licenses,salt used for industrial purposes,1,In 1883-84 the Government of India first framed rules to grant concessions in respect of salt used for industrial purposes.,0.9
+northern india salt revenue department,administers,factories,1,The factories were open to inspection by the officers of the Northern India Salt Revenue Department and the firm was expected to provide all facilities.,0.9
+"assistant commissioner, northern india salt revenue, internal branch, agra",regulates,refund of duty,1,"Applications for refund of duty up to 1st April, 1935 were dealt with by the Assistant Commissioner, Northern India Salt Revenue, Internal Branch, Agra.",0.8
+concessionaire firms,supplies,salt,1,Salt was also issued at concession rate to the refinery at Lahore (now in Pakistan).,0.8
+concessionaires,controls,salt,1,The concessionaires were required to keep the salt in a securely constructed store room fitted with a strong door capable of being locked...,0.9
+salt,administers,factory,1,Salt was used as a drying agent in the acetone factory at Deolali.,0.8
+bombay government,licenses,agriculturists,1,The Bombay Government sanctioned the issue of denatured salt for use in agriculture in 1914.,0.8
+fish merchants,negotiates_with,salt department,1,"Some fish merchants in the Thana and Surat districts were, however, granted the concession, on certain conditions, of using duty-free salt for curing catches of fish at sea made on the Kathiawar and Kutch Coasts.",0.8
+government,supplies,salt duty-free,1,it was decided in 1875-76 to supply salt duty-free at a little over cost price for curing fish,0.8
+state,administers,safeguards,1,The State was required to adopt sufficient safeguards in order to see that the concession was not abused.,0.8
+d. chemical works,supplies,industrial salt,1,supply of salt to salt refining and Black salt industries*,0.9
+"travancore-cochin chemical ltd, alwaye",supplies,industrial salt for caustic soda industries,1,"Tavancore Cochin Chemicals Ltd* Alwaye, Cochin (for Caustic Soda)",0.9
+"r. chemical works, delhi",supplies,industrial salt for caustic soda industries,1,"(a) R. Chemical Works, Delhi (for Caustic Soda)",0.9
+"shree gopal paper mills, jagadhri, ambala",supplies,industrial salt for caustic soda industries,1,"(a) Shree Gopal Paper Mills, Jagadhri, Ambala (for Caustic Soda)",0.9
+"rohtas industries, shahbad, patna",supplies,industrial salt for caustic soda industries,1,"(a) Rohtas Industries, Shahbad, Patna (for Caustic Soda)",0.9
+"mettur chemicals and industries ltd, mettur",supplies,industrial salt for caustic soda industries,1,"(ii) Mysore* — M/s* Bhadrawati Paper Mills, Bhadrawati (Paper Industries).-  • . Ttavancore Cochin Chemicals Ltd* Alwaye, Cochin (for Caustic Soda)",0.9
+government of india,regulates,salt quality control,1,The Government of India ordered in 1953 that sub-standard salt should not be allowed to be sold for human consumption.,0.9
+government of india,taxes,sub-standard salt,1,"All hide and skin industries and approved agents who supply salt to soap, hide arid skin and other small industries should be allotted quota of sub- standard salt only from Didwana.",0.8
+didwana,supplies,sub-standard salt,1,"All hide and skin industries and approved agents who supply salt to soap, hide arid skin and other small industries should be allotted quota of sub- standard salt only from Didwana.",0.8
+tata chemicals,supplies,gypsum,1,"The recovery of gypsum has been attempted by some salt works, such as the Tata Chemicals at Mithapur...",0.8
+pioneer magnesia works,administers,bitterns from salt pans at kharaghoda,1,"The bitterns from the salt pans at Kliaraghoda, so rich in magnesium salts, would be a fruitful source of meeting the deficiency of the vital chemical required for cloth sizing by textile mills.",0.8
+government,licenses,the pioneer magnesia works,1,"after inviting tenders entrusted the work on a royalty basis to a new company The Pioneer Magnesia Works, of which the late Sir Rustom J.",0.8
+pioneer magnesia works,supplies,textile industry,1,"The problem of winning of a chemical like magnesium chloride from a complex mixture such as bitterns was far from simple, and constant efforts were necessary to prepare a product acceptable to the textile industry.",0.8
+government,governs,salt excise,1,"Rao Bahadur Maneklal Lallubhai, OBE., the then Collector of Salt Excise, Bombay, that the bitterns from the salt pans at Kliaraghoda, so rich in magnesium salts, would be a fruitful source of meeting the deficiency of the vital chemical required for cloth sizing by textile mills.",0.8
+pioneer magnesia works,extracts_from,brine,1,These valuable salts are washed away during the monsoon every year and thus lost.,0.8
+pioneer magnesia works,controls,recovery of carnallite,1,"Though, in accordance with the terms of the agreement Government could undertake the manufacture of carnallite departmentally, the Salt Experts Committee did not recommend to Government to assume this responsibility at present* The works recovered this by-product on a small scale from a part of the bitterns handled by them.",0.8
+pioneer magnesia works,supplies,bromine,1,The Company were producing some bromine every year but this plant is not functioning now as the bromine from India cannot compete in the foreign market and it is difficult to market this chemical from India* The percentage of bromine in Kharaghoda bitterns is so many times more than that in sea water.,0.7
+pioneer magnesia works,trades_with,india,1,The Company were producing some bromine every year but this plant is not functioning now as the bromine from India cannot compete in the foreign market and it is difficult to market this chemical from India* The percentage of bromine in Kharaghoda bitterns is so many times more than that in sea water.,0.6
+pioneer magnesia works,regulates,transportation of bitterns,1,"The present method of transporting the bitterns from the farans to the Pioneer Magnesia Works is primitive* The bitterns are filled manually into small containers either earthern or of galvanised iron and carried by head-loads to tank, mounted on a broad-gauge undercarriage. The tank wagon is then pushed manually to the Works over a distance of as much as 8 miles.",0.9
+government,regulates,royalty on magnesium chloride and magnesium sulphate,1,"The royalty charged should, therefore, be subject to this prescribed minimum...",0.8
+tatas,regulates,manufacture of magnesium chloride,1,"The manufacture of magnesium chloride is regulated according to sales and as Indian demand is small, most of Tatas' production is exported to English and Continental markets.",0.9
+small salt producing units,depends_on,size,1,"a large number of salt producing units are small in size and, in consequence, the quantity of bitterns drained out from any one of them is so small that the setting up of a by-product recovery plant becomes unecnomical.",0.9
+sodium carbonate,supplies,solution,1,"The process proposed above was tried out on the second liquor in vitro and gave fine deposit of sodium bicarbonate which, when filtered off and dried, was of a dirty reddish colour.",0.85
+sodium sulphate,extracts_from,mixed salts at sambhar,1,investigations for the recovery of sodium sulphate and sodium carbonate from the mixed salts at Sambhar should be undertaken,0.9
+sodium carbonate,extracts_from,mixed salts at sambhar,1,investigations for the recovery of sodium sulphate and sodium carbonate from the mixed salts at Sambhar should be undertaken,0.9
+government,controls,imports of salt into bengal,1,"The immediate assumption of the control of the imports of salt into Bengal by the Government, which was to buy all the salt and sell it at standard rates.",0.9
+government,regulates,salt trade throughout india,1,One of their recommendations was that Government should undertake a thorough inquiry into the potentialities of the various salt sources of India.,0.8
+tariff board,regulates,prices of salt in calcutta market,1,The prices of salt in the Calcutta market were stabilized at the level indicated by the Tariff Board.,0.8
+government,licenses,import salt,1,Licences to import salt should be issued freely and the quantity should be shipped as early as possible;,0.8
+sambhar,supplies,salt to uttar pradesh,1,"The breakdown of supplies from the Khewra salt mines aggravated the position. Sambhar supplies to Uttar Pradesh too fell into arrears to the tune of 33,000 tons owing to inadequate transport facilities.",0.7
+industry and supply ministry,regulates,distribution and price control of salt,1,The Committee approved the transfer of responsibility for production of salt from Finance and the responsibility for distribution and price control from Food to the Industry and Supply Ministry.,0.8
+state,controls,modern installations for the production of salt,1,whether under State control or otherwise...,0.9
+salt advisory committee,governs,production of salt,1,"'Steps should be taken to appoint a Standing Salt Advisory Committee to advise Government on (a) Production, (b) Distribution, (c) Imports, and (d) Exports of salt.'",0.8
+deputy secretary,administers,"ministry of works, production and supply",1,"Deputy Secretary, Ministry of Works, Production and Supply (now Production).",0.8
+central board,administers,proceeds of the salt cess,1,The functions of the Central Board are to advise the Government of India on the administration of the proceeds of the Salt Cess levied and collected under Section 3 of the Salt Cess Act 1953.,0.9
+east india company,governs,"bengal, bihar and orissa",1,"The Diwani (or the right to levy tax) of Bengal, Bihar and Orissa was granted to the East India Company in 1765.",0.9
+government,monopolizes,salt manufacture,1,Warren Hastings was driven to tighten up the reins of salt administration and adopt the monopoly of manufacture.,0.85
+molunghees,supplies,government,1,Salt was manufactured by the manufacturers called “Molunghees” under the directions of the agent and was sold to him at a fixed price.,0.8
+salt agents,regulates,salt manufacture,1,All salt was delivered to Government at a fixed price and Government sold it at a fixed price.,0.75
+customs duty,regulates,salt import,1,Duty on imported salt was first levied under Act 30 of 1854.,0.8
+central provinces,administers,inland customs department,1,The Inland Customs Department was at its zenith.,0.8
+the administration,controls,the line and the control of the salt works in rajputana,1,"The administration of the line and the control of the salt works in Rajputana were, therefore, taken over from the Local Governments by the Governor-General-in-Council in the Finance Department.",0.9
+salt tax,taxes,india's people,1,The salt tax was for him a crying symbol of India's servitude...,0.8
+persons,depends_on,salt,1,"Moreover, since persons engaged in manual labour physiologically stand in need of a larger quantity of salt in their diet than others...",0.8
+mahatma gandhi,supplies,salt,1,"even the salt he must use to live is so taxed as to make the burden fall heaviest on him, if only because of the heartless impartiality of its incidence.",0.8
+british system,taxes,salt,1,"even the salt he must use to live is so taxed as to make the burden fall heaviest on him, if only because of the heartless impartiality of its incidence.",0.8
+people,disputes,the salt law,1,"it being well understood that all such people are committing a breach of the Salt Law and running the risk of prosecution, or even without a prosecution, are to be subjected by the so-called Salt Officers to harassment.",0.8
+government of india,licenses,local residents in villages,1,"they are prepared to extend their administrative provisions on lines already prevailing in certain places, in order to permit local residents in villages, immediately adjoining areas where salt can be collected or made,, to collect or make salt for domestic consumption or sale within such villages",0.8
+government of india,taxes,salt,1,"The following statement by the Governor-General's Council is published for general information: — Consequent on the conversations that have taken place between His Excellency the Viceroy and Mr. Gandhi, it has been arranged that the civil disobedience movement be discontinued, and that, with the approval of His Majesty’s Government, certain action be taken by the Government of India and Local Governments.",0.7
+gandhi,administers,arrangements and regulations in various districts,1,has been engaged in settling the details of arrangements and regulations in various districts to give effect to clause 20 of the settlement...,0.9
+government,regulates,salt collection and manufacture by local residents in villages,1,it will be open to those in villages adjoining salt areas to make or collect salt for domestic use and sale in their respective villages...,0.8
+government of bombay,regulates,salt manufacture,1,"Under the Bombay Salt Act, 1890, the manufacture of salt without a formal license was forbidden in the Bombay Province.",0.9
+mahatma gandhi,disputes,salt laws,1,Mention has already been made of Mahatma Gandhi's Dandi March and starting of Civil Disobedience Movement by breaking the Salt Laws.,0.9
+viceroy lord irwin and gandhiji,negotiates_with,gandhi-irwin delhi pact of 1931,1,"After continued correspondence a settlement was reached between the then Viceroy Lord Irwin and Gandhiji, known as Gandhi-Irwin Delhi Pact of 1931.",0.9
+salt department officers,supplies,salt for local consumption,1,(1) Officers should not interfere with villagers making or collecting salt in areas immediately adjoining their villages for purely local consumption;,0.8
+government of bombay,taxes,salt exports,1,The underlying spirit of the concession was to benefit the poorer classes and not persons carrying on organised manufacture of or regular trade in salt.,0.7
+madras salt department,regulates,spontaneous salt,1,They destroyed spontaneous salt in swamps and coastal areas...,0.8
+small scale manufacturers,supplies,salt,1,"Salt produced in units covering not more than 10 acres will not be subject to any restrictions by way of storage, transport and sale.",0.9
+government of india,licenses,small licensed manufacturers,1,"The matter, however, was given further consideration and the Government of India decided that as a matter of general policy, it would not be right to reduce the area since most of the ten-acre concessionaires were like cottage industry workers.",0.85
+government of india,licenses,co-operative societies,1,Government also extended this concession to Co-operative societies with a view to foster co-operative movement amongst the salt manufacturers.,0.8
+small scale producers,supplies,distant markets,1,Salt is being transported to distant markets to compete with the production of licensed factories^,0.75
+government of india,regulates,small-scale manufacture of salt,1,"Under the Press Note dated 23rd April, 1948, the Government of India permitted individuals or groups to produce salt freely in any land...",0.9
+government,governs,salt labour,1,"It was considered that steps in this direction should be taken, side by side with the steps for improvement of the quality of salt.",0.8
+government,governs,salt production,1,"The regular and seasonal workers are employed generally in the workshop, power house and at pumps etc.",0.8
+government,supplies,electricity,1,Electricity is supplied free of charge by the Government.,0.9
+rajasthan government,licenses,local doctors,1,"At Didwana and Nawa, local doctors under the Rajasthan Government are paid an allowance for attending the employees and labourers of the Department.",0.8
+salt department,regulates,practices and procedures at the rajasthan sources,1,"The Salt Department has, however, taken steps to see that the practices and procedures at the Rajasthan Sources conform to the requirements of the Factories Act.",0.7
+salt department,supplies,drinking water and other welfare measures,1,The Department has arranged for the supply of drinking water and other welfare measures are also under consideration.,0.8
+government of india,administers,mandi salt sources,1,At the time of taking over by the Government of India salt sources of Mandi from 1-4-1950...,0.9
+salt workers,supplies,salt manufacture,1,The salt labourers in the private sector are being encouraged to form co-operative societies so that they may be able to undertake salt manufacture or take up works' for execution on contract,0.8
+government of india,governs,salt administration in the country,1,"The Government of India appointed a Salt Committee under their Resolution No. dated 11th August, 1903 (Finance and Commerce Department) to enquire into the question of salt administration in the country besides other aspects of the Salt Industry.",0.9
+commissioner,controls,working of the uran distilleries near bombay,1,He also used to control the working of the Uran distilleries near Bombay.,0.8
+collector of salt revenue,administers,central excises in northern india,1,"The administration of Central Excises in Northern, India was transferred: to the charge of the Commissioner, Northern India:. Salt Revenue, April, 1938 on a temporary basis.",0.9
+"collector of central excise, bombay",administers,salt administration in province of bombay and central provinces and berar,1,"(a) Collector of Central Excise, Bombay — the Province of Bombay and the Central Provinces and Berar;",0.8
+government of india,governs,salt administration in rajputana salt sources,1,"As regards salt administration in Rajputana Salt Sources, there was no change as the old system of control of these salt sources continued.",0.9
+ministry of industry and supply,administers,salt organisation,1,"The administration of the Salt Organisation which started functioning under the Ministry of Industry and Supply from 1-11-1947, was placed under the Ministry of Works, Production and Supply with effect from 1st February 1951, as a result of the reshuffling of the Ministries.",0.9
+"ministry of works, production and supply",administers,salt organisation,1,"The administration of the Salt Organisation which started functioning under the Ministry of Industry and Supply from 1-11-1947, was placed under the Ministry of Works, Production and Supply with effect from 1st February 1951, as a result of the reshuffling of the Ministries.",0.9
+ministry of production,administers,salt organisation,1,"The administration of the Salt Organisation which started functioning under the Ministry of Industry and Supply from 1-11-1947, was placed under the Ministry of Works, Production and Supply with effect from 1st February 1951, as a result of the reshuffling of the Ministries.",0.9
+salt commissioner's office,administers,government salt factories,1,They reported on the proper strength of staff required for the Salt Commissioner’s office at headquarters and in the Regions.,0.8
+salt department,controls,quality control,1,(i) Quality Control;,0.8
+salt department,regulates,realisation of cess,1,(v) Realisation of Cess;,0.8
+salt department,regulates,salt industry,1,"The functions of the Department were, therefore, specified as follows: — • It has to be kept constantly in view that the primary function of the Department is to develop the Salt Department on sound and scientific lines...",0.8
+salt department,regulates,salt-based industries,1,the programme of the Salt Department to develop salt-based industries.,0.9
+government of india,governs,salt department,1,"The establishment charges of the Salt Department, including the cost of Watch and Ward staff posted by the Department for guarding salt works.",0.9
+victoria,supplies,salt,1,"In Victoria, the bulk of the salt output is procured ordinarily from sea-shore pans at Geelong and Laverton...",0.9
+austrian salt works,administers,salt mines,1,The Salt mines run by the Austrian salt works are situated in Upper Austria underneath the Plassen near Hallastatt in Perneck near Bad Ischl in Styria...,0.8
+manitoba,extracts_from,brine springs,1,Salt is recovered by evaporation from numerous brine springs in Manitoba.,0.9
+"la compagnie des salins du midi et des salines de djibouti, sfax et madagascar",administers,the regional works whose interest they administer,1,"For the South-West. LA COMPAGNIE DES SALINS DU MIDI ET DES SALINES DE DJIBOUTI, SFAX ET MADAGASCAR, Cour Gambetta, MONTPELLIER (Herault).",0.9
+italy,controls,sea-salt manufacturing,1,The manufacture and marketing of sea-salt in Italy are controlled by the State on a monopoly basis.,0.8
+salt works,regulates,production of sea salt,1,"The production of sea salt which, as already stated, amounts annually to about 500,000 metric tons is disposed of as follows:",0.8
+japan,administers,salt monopoly law,1,"In January, 1905, the Salt Monopoly Law was promulgated...",0.9
+japan,regulates,indigenous salt production,1,Indigenous producers of salt are required by law to make applications to the Corporation...,0.8
+japan monopoly corporation,controls,salt,1,"The Japan Monopoly Corporation controls salt in all its aspects, namely, indigenous production, imports and consumption.",0.9
+japan,depends_on,imports,1,"Out of this, indigenous production is of the order of 5,00,000 tons, thereby depending on imports for about 1*5 million tons...",0.8
+netherlands,supplies,many countries,1,"The Netherlands has become an important salt supplier for many countries, particularly the Scandinavian countries and Belgium...",0.85
+punjab salt mines,administers,inland customs department,1,The Punjab Salt Mines were administered originally by the Inland Customs Department.,0.9
+rumanian peoples’ republic,controls,salt mines,1,"Since the partition, the mines are, under the control of the Collector of Central Excise, Lahore.",0.9
+the yugoslav federal peoples' republic,governs,salt exploitation,1,Salt exploitation was a State monopoly before the industrial enterprises were nationalized.,0.9
+the bulgarian peoples' republic,governs,salt exploitation,1,"Constitution salt like every other natural resource of the soil and sub-soil, belongs to the peoples' democratic State, the Rumanian Peoples' Republic.",0.8
+the hungarian peoples' republic,governs,salt exploitation,1,"Constitution salt like every other natural resource of the soil and sub-soil, belongs to the peoples' democratic State, the Rumanian Peoples' Republic.",0.8
+the rumanian peoples' republic,governs,salt exploitation,1,"Constitution salt like every other natural resource of the soil and sub-soil, belongs to the peoples' democratic State, the Rumanian Peoples' Republic.",0.9
+united swiss rhine salt works,administers,salt supply,1,Switzerland is a confederation of 25 States of which 24 are members of a joint-stock company for the supply of salt and the 'United Swiss Rhine Salt Works'.,0.8
+turkey,administers,salt-works,1,"There are at present 51 salt-works in operation in Turkey, one of which produces marine salt, 2 lake salt, 7 rock salt and the rest manufacture salt from subterranean brine.",0.9
+monopolies,controls,salt-works,1,All the salt-works are operated under the supervision of the technical personnel of the Monopolies.,0.9
+private trade,trades_with,public’s requirements,1,"The greater part of the public's requirements is met by private trade, in addition to which there are 135 Monopoly warehouses scattered all over the country.",0.8
+monopoly warehouses,regulates,price of salt,1,These warehouses serve to stabilize the price of salt in the various districts.,0.9
+the british government,licenses,the manufacture and sale of salt at the sambhar lake,1,...to carry on the manufacture and sale of salt at the Sambhar Lake...,0.95
+the british government,regulates,"the manufacture, sale, or removal of salt",1,"...in regard to the manufacture, sale, or removal of salt, or the prevention of unlicensed manufacture or smuggling.",0.95
+jaipur government,administers,court,1,"Under the authority of the Jaipur Government, the British Govern-ment shall constitute a Court...",0.8
+jaipur government,governs,territory of jaipur,1,"Nothing in this Agreement shall be held to bar the sovereign jurisdiction of the Jaipur Government within the aforesaid limits, in all matters; civil and criminal, not connected with the manufacture, sale, or removal of salt, or the prevention of unlicensed manufacture or smuggling.",0.9
+the british government,administers,the manufacture of salt within the said limits,1,None of the conditions of this Agreement shall have effect until the British Government shall actually assume charge of the manufacture of salt within the said limits.,0.9
+the jaipur government,regulates,the arrest and surrender to the british authorities within the said limits,1,"If any person employed by the British Government, within the said limits shall have absconded after committing an offence, or if any person shall have absconded after committing a breach of the Rules laid down under Article III, the Jaipur Government shall, on sufficient evidence of his criminality, make every effort to cause his arrest and surrender to the British authorities within the said limits...",0.8
+the british government,governs,the jaipur territory,1,...within the Jaipur territory.,0.9
+british government,administers,court,1,"Under the authority of the Jodhpur Government, the British Government shall constitute a Court, presided over by a competent officer...",0.9
+british government,administers,salt manufacturing and selling,1,"the Government of Jodhpur will lease to the British Government its right of manufacturing and of selling salt within the limits of the territory bordering on the Sambhar Lake, as hereinafter defined in Article IV, and of levying duties on salt produced within such limits.",0.9
+british government,governs,jodhpur government,1,The British Govern-ment shall give notice to the Government of Jodhpur...,0.9
+british government,regulates,"rules and regulations regarding the manufacture, sale, or removal of salt",1,"...to lay down by the British Government in regard to the manufacture, sale, or removal of salt...",0.8
+the british government,governs,the jodhpur government,1,"Under the authority of the Jodhpur Government, the British Government shall constitute a Court...",0.9
+the british government,regulates,salt manufactured within the said limits,1,The whole of the stocks of salt existing within the aforesaid limits at the commencement of the lease shall be transferred...,0.85
+jodhpur government,taxes,british indian maund of salt,1,"The price to be paid to the Jodhpur Government for the remainder of the said stock shall be reckoned at six and a half annas (6|) per British Indian maund, and payment shall be made at this rate by the British Government to the Government of Jodhpur...",0.8
+british government,governs,manufacture of salt,1,"...Government shall actually assume ..charge, of' the, manufacture.'of 'Salt,'...",0.9
+manufacturers,licenses,high grade salt,1,The clause relating to adjustment of weight due to variations of moisture content would be remunerative to manufacturers of high grade salt...,0.9
+vendor,supplies,salt,1,Transfer into the flask about 20 g of salt and spread it so as to form a thin layer at the bottom;,0.8
+determination,depends_on,reagents,1,6.1 Reagents — ^The following reagents are required;,0.8
+magnesium,controls,neutralization of excess hydrochloric acid,1,"When only a little magnesium is present, neutralization of excess hydrochloric acid by ammonium hydroxide may form enough ammonium chloride...",0.9
+filter paper,connects_to,200 erlenmeyer flask,1,collect the filtrate and washings in a 200 Erlenmeyer flask.,0.9
+government,licenses,salt manufacturers,1,Payment made by Govt. to salt manufacturers under the Monopoly system in the Madras Region.,0.8
+salt works,supplies,brine,1,Leather bag used to lift brine.,0.8
+mr. c.h. pitt,administers,salt mining in the punjab,1,"Salt Mining in the Punjab by Mr, C.H, Pitt",0.9
+atma ram and sons,trades_with,books,1,"Atma Ram and Sons, Kashmeri Gate.",0.9
+bahri brothers,trades_with,books,1,"Bahri Brothers, 188, Lajpat Rai Market.",0.8
+bawa flarkishan dass bedicvijav general agencies,trades_with,books,1,"'9-E, Sadar Thana Road, G.P.O. 2027,",0.7
+federal law book depot,supplies,law books,1,"Federal Law Book Depot, Kashmeri Gate,",0.6
+indian army book depot,supplies,army books,1,"Indian Army Book Depot, 3, Daryaganj.",0.4
+metropolitan book go.,trades_with,books,1,"Metropolitan Book Go., Delhi Gate.",0.3
+new stationery house,supplies,stationery,1,"New Stationery House, Subzimandi.",0.2
+universal book & sty.,trades_with,books,1,"Universal Book & Sty., B, Nath Sc Brothers,",0.1
+supdt.,administers,govt. maria brothers,1,"..., The Mall (R). SIROHT.-",0.8

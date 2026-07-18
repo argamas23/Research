@@ -1,45 +1,9 @@
 [
   {
-    "entity": "1-5 lakh maunds of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "10,000 maunds of wood annually",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "12 lakh maunds of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "5 lakh maunds of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "50 per cent of the district quota",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "about 8 lakh maunds of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "aden",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "agreement between kharnak and rupshu",
@@ -52,12 +16,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "agricultural class",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "amdo tibetans",
@@ -84,18 +42,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "assam, manipur and tripura",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "assam, north bihar, south bihar, west bengal, manipur, tripura, nepal and bhuttan",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "assistant commissioner of nyoma",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -117,12 +63,6 @@
     "entity": "aurangzeb",
     "type": "PERSON",
     "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bags of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 1.0
   },
   {
@@ -156,24 +96,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "bengal",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "bengal market",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bengal officers",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "best-quality pashm",
     "type": "CONCEPT",
     "circuit": "Commodity circuits",
@@ -192,48 +114,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "bihar and small quantities to bengal",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "board of revenue",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bombay",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bombay salt merchants and shilotries association",
-    "type": "GROUP",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bombay sea salt works",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "bombay state",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "brine",
-    "type": "CONCEPT",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "british",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -249,25 +129,7 @@
     "entity": "british government",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "british india",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "british india steani navigation company's coastal vessels",
-    "type": "COMMODITY",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "british indian maund of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "british officers",
@@ -288,12 +150,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "british system",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "british traders",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -303,12 +159,6 @@
     "entity": "british troops",
     "type": "CONCEPT",
     "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bromine",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -342,24 +192,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "calcium sulphate",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "calcutta",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "calcutta salt sources",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "cash",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -369,7 +201,7 @@
     "entity": "cash crops and pastoral goods",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "cash instead of cloth",
@@ -384,25 +216,7 @@
     "confidence": 1.0
   },
   {
-    "entity": "cattle",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "central asia",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "central government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "central store",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -454,18 +268,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "chemical industries",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "chiefs of patdi and jhinjuvada",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "china",
@@ -528,28 +330,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "co-operative societies",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "co-operative society of villagers",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
     "entity": "coarse wool",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "collector of central excise, delhi",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 0.8
   },
   {
     "entity": "colonial state",
@@ -558,37 +342,7 @@
     "confidence": 0.8
   },
   {
-    "entity": "colour",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "commission",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "concessionaire firms",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "concessionaires",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "condenser",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "consumer",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -600,25 +354,7 @@
     "confidence": 0.8
   },
   {
-    "entity": "contractors",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "convention",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "crystallising beds",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "crystallizing beds",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -666,42 +402,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "dhrangadhra chemical works",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "dhrangadhra salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "dhrangadhra salt merchants' association",
-    "type": "GROUP",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "dhrangadhra zone",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "didwana",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "didwana salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "districts of lharigo, shobado, and sho-ta-iho-sum",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -732,12 +432,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "drinking water and other welfare measures",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "drogpa",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -748,18 +442,6 @@
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
-  },
-  {
-    "entity": "east india company",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "electricity",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "entire border with the sikh territories",
@@ -780,46 +462,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "evaporation",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "every villager",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "exports of foreign salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "factories",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "farmers from lower ladakh (or sham)",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "farodi",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "fish merchants",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
   },
   {
     "entity": "foodgrains",
@@ -846,43 +492,13 @@
     "confidence": 1.0
   },
   {
-    "entity": "fresh supplies of brine",
-    "type": "CONCEPT",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "garu",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
-    "entity": "general manager",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "germany",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "gg",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "glass manufacture",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "golahs",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -906,52 +522,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "government (of madras)",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "government (united states of saurashtra)",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "government agencies",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "government factories",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "government of bombay",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "government of india",
     "type": "GROUP",
     "circuit": "Political economy",
     "confidence": 1.0
-  },
-  {
-    "entity": "government reserve",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
   },
   {
     "entity": "grain",
@@ -984,12 +558,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "gudha kyar",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "gulab singh",
     "type": "PERSON",
     "circuit": "Social actors",
@@ -1014,33 +582,15 @@
     "confidence": 1.0
   },
   {
-    "entity": "gypsum",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "hair",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
-    "entity": "halar salt and chemical works, jamnagar",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "her majesty's public works department in india",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "high grade salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 0.8
   },
   {
@@ -1098,18 +648,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "import salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "imports of salt into bengal",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "in cash and kind",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -1134,40 +672,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "india's people",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "indian railways act, 1890",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "indian salt",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
     "confidence": 0.8
-  },
-  {
-    "entity": "indian salt industry",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "indian salt manufacturers' association",
-    "type": "GROUP",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "indian states",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 1.0
   },
   {
     "entity": "indian tea",
@@ -1182,52 +690,16 @@
     "confidence": 1.0
   },
   {
-    "entity": "italy",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "its subjects",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
-    "entity": "jammu and kashmir",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "jammu state",
     "type": "LOCATION",
     "circuit": "Political economy",
     "confidence": 0.8
-  },
-  {
-    "entity": "japan",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "japan monopoly corporation",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "jhanjah",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "jodhpur government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
   },
   {
     "entity": "jumla and botechaur",
@@ -1290,22 +762,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "kathiawar",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "khaltse",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "kharaghoda salt works",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
   },
   {
     "entity": "kharnak",
@@ -1356,12 +816,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "kurkutch salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "kyaring tso and ngoring tso",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1407,19 +861,7 @@
     "entity": "lake",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "lake bed",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "lease-deed",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "leh area merchants",
@@ -1440,51 +882,15 @@
     "confidence": 1.0
   },
   {
-    "entity": "licensed manufacturers",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "licensees",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "life of man and higher animals",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "limis",
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
   },
   {
-    "entity": "liverpool salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "livestock",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "local doctors",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "local residents in villages",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -1518,64 +924,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "lunia",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "madhya bharat",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "madras",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "madras and bombay",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "madras government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "madras monopoly system",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "madras salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "madras salt depot",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "mahasu",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "mahatma gandhi",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "mahzrzjz g u l ~ b singh",
@@ -1584,39 +936,9 @@
     "confidence": 1.0
   },
   {
-    "entity": "maigal salt source",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "maliya salt works",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "mandi",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "mandi rock salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "manufacture of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "manufacture salt in porbandar state",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 0.8
   },
   {
@@ -1626,22 +948,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "manufacturers",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "marginal, oppressed people",
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
-  },
-  {
-    "entity": "markets",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "marriage in the western himalayas",
@@ -1674,12 +984,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "medicine",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "men",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -1698,24 +1002,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "messrs manickom naidu company of madras",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "messrs. india cement ltd",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "mettur chemicals ltd",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "milk",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -1725,42 +1011,6 @@
     "entity": "mining and minerals",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "mixed salts at sambhar",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "model salt factory at thattarippuodai allom",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "model salt farm",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "modern installations for the production of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "mofussil traders",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "molunghees",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -1788,27 +1038,9 @@
     "confidence": 0.8
   },
   {
-    "entity": "movable stackers",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "municipal committees in the state",
     "type": "LOCATION",
     "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "mysore",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "n. salt revenue department",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 0.8
   },
   {
@@ -1857,13 +1089,13 @@
     "entity": "nomads",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "nomads of the lake area",
     "type": "GROUP",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "north-western railway",
@@ -1881,18 +1113,6 @@
     "entity": "northern frontier of sikkim",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "northern india",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "nuh salt works",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 1.0
   },
   {
@@ -1914,22 +1134,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "one lakh 'company' rupees every year",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "ordinary goats, sheep, and cows",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "orissa",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "outer hills",
@@ -1950,40 +1158,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "pachbadra",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "pachbadra salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "pachbadra salt source",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "pack-horses",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "paper mills",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "partners",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
   },
   {
     "entity": "pashm",
@@ -2001,7 +1179,7 @@
     "entity": "pastoral and forest products for goods required by the pastoralists and peasants",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "pastoral groups",
@@ -2013,7 +1191,7 @@
     "entity": "peasant families",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "peasant family",
@@ -2032,30 +1210,6 @@
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
-  },
-  {
-    "entity": "people",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "permit system",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "persons",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "pioneer magnesia works",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "political arrangements within the clan or devotional community",
@@ -2088,12 +1242,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "port said",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "position on a part of the mountain range",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -2109,60 +1257,6 @@
     "entity": "pravarasena",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "preservatives",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "preventive office",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "private individuals",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "production of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "proper ratio between crystallisers and condensers",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "quality control",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "quality of salt manufactured by small scale concessionaires",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "rain and drainage of the surrounding country",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "rajasthan government",
-    "type": "GROUP",
-    "circuit": "Political economy",
     "confidence": 1.0
   },
   {
@@ -2182,24 +1276,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "recovery of carnallite",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "refined salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "refiners",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "reis system",
@@ -2226,18 +1302,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "research department",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "reserve stocks of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "river sutlej",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -2250,25 +1314,7 @@
     "confidence": 0.8
   },
   {
-    "entity": "roads and railway lines of the salt department at kharaghoda",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "rock salt mines, salt lakes, salt efflorescence, ferine springs and sea brine",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "rool and live-stock",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "royalties",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -2278,18 +1324,6 @@
     "type": "PERSON",
     "circuit": "Political economy",
     "confidence": 0.8
-  },
-  {
-    "entity": "rules and regulations laid down by the government of india",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "rumanian peoples’ republic",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
   },
   {
     "entity": "rupshu",
@@ -2340,40 +1374,16 @@
     "confidence": 1.0
   },
   {
-    "entity": "salt administration in rajputana salt sources",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt administration in the country",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt administration in travancore",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt advisory committee",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "salt and livestock products",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "salt and wool",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "salt beyond their own homes",
@@ -2382,118 +1392,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "salt commissioner",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt controller",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt department",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt department officers",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt distribution",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt duty",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt duty-free",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt excise",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt exploitation",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt exports",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt factories",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt for local consumption",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "salt from the lakes in trucks",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
     "confidence": 0.8
-  },
-  {
-    "entity": "salt import, distribution, and retail prices",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt imports and manufacturing",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt industry",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt industry in kathiawar",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt industry in southern parts of the country",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt labour",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
   },
   {
     "entity": "salt lakes",
@@ -2502,55 +1404,7 @@
     "confidence": 1.0
   },
   {
-    "entity": "salt laws",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt manufacture",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt manufacture in bengal",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt manufacturers",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt manufacturing",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt manufacturing on coromandel coast",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt manufacturing process",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "salt mines",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt movements",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
     "confidence": 0.8
@@ -2559,145 +1413,13 @@
     "entity": "salt pans",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "salt production",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt production and sale in madras",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 0.8
-  },
-  {
-    "entity": "salt sources",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt tax",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "salt to the north western provinces",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt to uttar pradesh",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt used for industrial purposes",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt workers",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt works",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt works in gujerat",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt works of jhajjar and faitukh-iiagar",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "saltpetre industry",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "saltpetre refineries of the bhagalpur division of bihar",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "saltpetre trade",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "sambhar",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "sambhar companies",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "sambhar kyar salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "sambhar lake",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "sambhar registered traders",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "sambhar salt traders association",
-    "type": "GROUP",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "saurashtra government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "saurashtra inland salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "sea-salt manufacturing",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
   },
   {
     "entity": "semi-luxuries like tea and rice",
@@ -2715,12 +1437,6 @@
     "entity": "shafis or tibetan councillors",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "shakambari devi",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -2754,18 +1470,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "small licensed manufacturers",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "small scale manufacturers",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "social sanction of the community",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -2776,18 +1480,6 @@
     "type": "CONCEPT",
     "circuit": "Political economy",
     "confidence": 0.8
-  },
-  {
-    "entity": "sodium carbonate",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "spain",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "spiritual concerns",
@@ -2808,18 +1500,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "state government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "state governments",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "state officials",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -2832,39 +1512,9 @@
     "confidence": 0.8
   },
   {
-    "entity": "states",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "storage and handling of salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "sub-standard salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "subsistence goods",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "sultanpur salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "sultanpur salt works",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 0.8
   },
   {
@@ -2886,28 +1536,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "system of registration of dealers at sambhar and kharaghoda",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "takpo",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "tata chemicals ltd",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tata oil company",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
   },
   {
     "entity": "tatar shepherds",
@@ -2934,22 +1566,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "textile industry",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "thamarakulam old allom, extension i and ii, and puthallom",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "the british",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "the british east india company",
@@ -2964,57 +1584,15 @@
     "confidence": 0.8
   },
   {
-    "entity": "the bulgarian peoples' republic",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the chamber of sambhar traders ltd",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
     "entity": "the chang-pa tribe",
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
   },
   {
-    "entity": "the company",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "the crown",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the east india company",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the hungarian peoples' republic",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the indian government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the jodhpur government",
-    "type": "GROUP",
-    "circuit": "Political economy",
     "confidence": 0.8
   },
   {
@@ -3030,24 +1608,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "the lake",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the mandi salt mines",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the manufacture and sale of salt at the sambhar lake",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "the narrow mountain paths",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -3058,12 +1618,6 @@
     "type": "LOCATION",
     "circuit": "Political economy",
     "confidence": 0.8
-  },
-  {
-    "entity": "the pioneer magnesia works",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "the political power of the clans and their deities",
@@ -3078,21 +1632,9 @@
     "confidence": 0.8
   },
   {
-    "entity": "the rumanian peoples' republic",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "the rupshu people",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "the salt department",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 0.8
   },
   {
@@ -3105,31 +1647,7 @@
     "entity": "the salt from tso kar",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the salt law",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the salt merchants' association ltd",
-    "type": "GROUP",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the saurashtra salt manufacturing co., porbandar",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
     "confidence": 0.8
-  },
-  {
-    "entity": "the shakambar salt traders' association ltd",
-    "type": "GROUP",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
   },
   {
     "entity": "the social history of the western himalayas",
@@ -3162,12 +1680,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "the yugoslav federal peoples' republic",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "their cattle, on their sheep and goats",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -3186,22 +1698,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "thermo-compression method",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "these mountain communities",
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
-  },
-  {
-    "entity": "this site",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "thousands and thousands of sheep",
@@ -3339,13 +1839,13 @@
     "entity": "trade",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "traders",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "traders and others",
@@ -3384,24 +1884,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "tramp steamers",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "travancore government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "travancore salt factories",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "treaty",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -3423,18 +1905,12 @@
     "entity": "tsakhalho: salt production and the preservation of a catholic church",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "tsam tso lake",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tube wells",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -3444,58 +1920,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "tuticorin factory",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "union and non-union agencies",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "united provinces government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "united salt works and industries ltd",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "until the re-establishment of the tibetan monasteries in india",
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
-  },
-  {
-    "entity": "vedaranyam",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "vedaranyam swamp",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "vendor",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "victoria",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "village",
@@ -3540,16 +1968,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "water from the sweet water zone",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "water of salt lakes",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "wazeers",
@@ -3576,12 +1998,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "whose produce was not sufficient for their dietary needs",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "with the emergent indian nation",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -3604,18 +2020,6 @@
     "type": "GROUP",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "works",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "works (maliya salt works)",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
   },
   {
     "entity": "xirab",

@@ -464,6 +464,7 @@
 /kp_lw/common/topic
 /kp_lw/philosopher
 /kp_lw/philosophy_era
+/kp_lw/philosophy_influencer
 /kp_lw/philosophy_interest
 /kp_lw/philosophy_region
 /kp_lw/philosophy_school
@@ -582,6 +583,7 @@
 /measurement_unit/dimensions
 /measurement_unit/distance_unit
 /measurement_unit/energy_unit
+/measurement_unit/magnetic_flux_density_unit
 /measurement_unit/mass_unit
 /measurement_unit/measurement_system
 /measurement_unit/measuring_instrument

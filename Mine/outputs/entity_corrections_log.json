@@ -1,36 +1,5 @@
 {
-  "corrections": [
-    {
-      "entity": "cultivator",
-      "old_type": "CONCEPT",
-      "new_type": "COMMODITY",
-      "old_confidence": 0.8,
-      "new_confidence": 0.9516,
-      "ner_relevance": 0.343,
-      "ner_raw_confidence": 3.723,
-      "source": "textrazor"
-    },
-    {
-      "entity": "europe",
-      "old_type": "CONCEPT",
-      "new_type": "LOCATION",
-      "old_confidence": 0.8,
-      "new_confidence": 0.8893,
-      "ner_relevance": 0.27,
-      "ner_raw_confidence": 2.605,
-      "source": "textrazor"
-    },
-    {
-      "entity": "gulab singh",
-      "old_type": "CONCEPT",
-      "new_type": "PERSON",
-      "old_confidence": 0.8,
-      "new_confidence": 1.0,
-      "ner_relevance": 0.665,
-      "ner_raw_confidence": 21.37,
-      "source": "textrazor"
-    }
-  ],
+  "corrections": [],
   "not_found_in_ner": [],
-  "total_entities": 331
+  "total_entities": 342
 }
