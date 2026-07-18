@@ -45,6 +45,15 @@ HTML_PATHS = [
     Path(OUTPUT_DIR) / "network_visualization.html",
 ]
 ENTITIES_PATH = Path(OUTPUT_DIR) / "cleaned_entities.json"
+SCOPED_BOOK_TERMS = {
+    "salt_industry_india": {
+        "place": re.compile(
+            r"\b(mandi|himachal|himalaya|himalayan|kangra|kulu|kullu|lahoul|lahaul|chamba|suket|bilaspur|bushair|simla hill|tibetan border|punjab salt mines|salt mining in the punjab)\b",
+            re.I,
+        ),
+        "salt": re.compile(r"\b(salt|brine|quarr|mine|mines|rock salt|rock-salt|refinery)\b", re.I),
+    }
+}
 
 
 def clean(value: str) -> str:
@@ -100,6 +109,14 @@ def book_name(path: Path) -> str:
     return re.sub(r"_\d{8}_\d{6}$", "", path.parent.name)
 
 
+def in_book_scope(book: str, row: dict[str, str]) -> bool:
+    scope = SCOPED_BOOK_TERMS.get(book.lower())
+    if not scope:
+        return True
+    text = " | ".join(row.values())
+    return bool(scope["place"].search(text) and scope["salt"].search(text))
+
+
 def mapped_relation(raw: str) -> str:
     relation = clean(raw).replace("-", "_").replace(" ", "_")
     if relation in EDGE_COLOR_BY_RELATION:
@@ -129,6 +146,8 @@ def load_entity_types() -> dict[str, str]:
 
 def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
     words = set(re.findall(r"[a-z]+", entity))
+    if ENTITY_TYPE_OVERRIDES.get(entity, ("",))[0] == "CONCEPT":
+        return "CONCEPT"
     is_group = bool(
         words & GROUP_KEYWORDS
         or words & {
@@ -167,9 +186,6 @@ def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
         return ENTITY_TYPE_OVERRIDES[entity][0]
     if has_any(entity, CONCEPT_PHRASE_TERMS):
         return "CONCEPT"
-    known = entity_types.get(entity)
-    if known in KEEP_ENTITY_TYPES and known != "CONCEPT":
-        return known
     if has_any(
         entity,
         COMMODITY_KEYWORDS
@@ -177,7 +193,6 @@ def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
             "buckwheat",
             "bucket",
             "buckets",
-            "capital",
             "cash",
             "charas",
             "cloth",
@@ -219,6 +234,9 @@ def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
         return "LOCATION"
     if words & PERSON_INDICATORS and not words & BAD_PERSON_TOKENS:
         return "PERSON"
+    known = entity_types.get(entity)
+    if known in KEEP_ENTITY_TYPES and known != "CONCEPT":
+        return known
     return known if known in KEEP_ENTITY_TYPES else "CONCEPT"
 
 
@@ -311,8 +329,11 @@ def main() -> None:
     strict_review = []
 
     for csv_path in sorted(Path(RESULTS_ROOT).glob("**/weighted_knowledge_graph.csv")):
+        book = book_name(csv_path)
         with csv_path.open(newline="", encoding="utf-8", errors="ignore") as f:
             for row in csv.DictReader(f):
+                if not in_book_scope(book, row):
+                    continue
                 source = clean_entity(row.get("Source", ""))
                 target = clean_entity(row.get("Target", ""))
                 raw_relation = row.get("Relation", "")
@@ -322,7 +343,7 @@ def main() -> None:
                     strict_relation = mapped_legacy_relation(raw_relation)
                     strict_review.append(
                         [
-                            book_name(csv_path),
+                            book,
                             source,
                             raw_relation,
                             target,
@@ -352,7 +373,7 @@ def main() -> None:
                     item["confidence"] = max(item["confidence"], float(row.get("Confidence") or 0))
                 except ValueError:
                     pass
-                item["books"].add(book_name(csv_path))
+                item["books"].add(book)
                 if row.get("Evidence"):
                     item["evidence"].add(row["Evidence"].strip())
                 if row.get("Relation"):
@@ -361,10 +382,17 @@ def main() -> None:
     degree, weighted = graph_stats(edge_rows)
     focus_component = reachable_from_focus(edge_rows)
     node_types = {node: classify_entity(node, entity_types) for node in degree}
+    scoped_nodes = {
+        node
+        for (source, _, target), item in edge_rows.items()
+        if any(book.lower() in SCOPED_BOOK_TERMS for book in item["books"])
+        for node in (source, target)
+    }
     trimmed_nodes = {
         node for node, node_type in node_types.items()
         if node_type == "CONCEPT"
         and node not in focus_component
+        and node not in scoped_nodes
         and degree[node] <= 1
         and not has_any(node, CONCEPT_PHRASE_TERMS)
     }
@@ -484,14 +512,6 @@ def main() -> None:
     Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
     for html_path in HTML_PATHS:
         html = html_path.read_text(encoding="utf-8")
-        html = html.replace(
-            '<label class="toggle"><input id="large-components-only" type="checkbox" /> Components &gt; 2</label>',
-            '<label class="toggle"><input id="large-components-only" type="checkbox" checked /> Components &gt; 2</label>',
-        )
-        html = html.replace(
-            "document.getElementById('large-components-only').checked = false;",
-            "document.getElementById('large-components-only').checked = true;",
-        )
         html = replace_html_data(html, "graph-nodes-data", nodes)
         html = replace_html_data(html, "graph-edges-data", edges)
         html_path.write_text(html, encoding="utf-8")
