@@ -1,5 +1,6 @@
 Book,ResearchCircuitSentences,SaltSentences,CommodityCircuitSentences,PoliticalEconomySentences,RoutePlaceSentences,SocialActorSentences,FinalCircuitEdges,FinalSaltEdges,FinalCommodityCircuitEdges,FinalPoliticalEconomyEdges,FinalRoutePlaceEdges,FinalSocialActorEdges,EvidenceCoveredSentences,NodeCoveredSentences
 Becoming_India,696,19,90,572,128,345,66,0,22,38,6,0,0,490
+CentralAsia_Tibet_Vol1,618,61,433,16,247,27,90,5,65,22,3,0,16,387
 Gutenberg_EBook,250,51,170,52,72,7,5,0,2,3,0,0,0,15
 HUMLA_NEPAL,79,50,68,4,10,25,8,5,6,0,2,0,0,39
 J&K_Gazatteer_1909,429,17,275,147,90,52,53,1,20,33,0,0,8,205
@@ -10,6 +11,6 @@ No_Greenery_Rupshu,94,2,83,20,5,26,0,0,0,0,0,0,0,0
 Report_On_Tibet_1903,120,14,72,30,32,24,24,1,14,10,0,0,0,54
 Rupshu,125,106,119,12,35,17,17,9,9,4,4,0,0,57
 Salt_Industry_India,6237,5857,5490,1874,535,198,11,11,3,8,0,0,4,968
-Salt_routes_and_barter_caravans_in_the_H,124,49,104,6,38,29,13,3,8,2,3,0,0,51
+Salt_routes_and_barter_caravans_in_the_H,124,49,104,6,38,29,14,3,9,2,3,0,0,59
 Santiago_Lazcano,294,234,251,38,80,54,30,23,14,11,5,0,10,182
-TransformationProcessesInNomadicPastoralism,124,11,112,18,12,32,7,1,5,2,0,0,2,20
+TransformationProcessesInNomadicPastoralism,124,11,112,18,12,32,8,1,6,2,0,0,3,50

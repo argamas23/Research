@@ -1,0 +1,326 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+yarkand-daria,connects_to,river,2,"On the left the Yarkand-daria was bordered by steppe, on the right by scrubby forest ; while farther to the east it appeared to be swallowed up by a dense forest of tall poplars. | Shortly after we started, our particular arm of the river was rejoined by another, which had separated from it two days before, and which brought with it a most welcome addition to the volume of the current.",0.875
+lord curzon,administers,india,1,It was owing to Lord Curzon's influential favour that my visit in India turned out so exceedingly pleasurable...,0.9
+professor himly,administers,the ancient lake of lop-nor,1,"I allude to Professor Himly, of Wiesbaden, and Mr. Macartney, Agent of the Government of India at Kashgar.",0.8
+mr. macartney,governs,the government of india at kashgar,1,"Mr. Macartney, Agent of the Government of India at Kashgar.",0.8
+kizil-su,connects_to,kashgar,1,Crossing the Kizil-su on the Way to Kashgar.,0.9
+drift-ice,connects_to,tarim,1,Drift-ice on the Lower Tarim . Journey by Night amongst the Drift-ice of the Tarim (coloured),0.8
+"fuess, of berlin",supplies,meteorological equipment,1,"The meteorological equipment was almost entirely supplied by Fuess, of Berlin...",0.9
+james patent folding boat,trades_with,military equipment stores and tortoise tents company of london,1,I obtained it from the Military Equipment Stores and Tortoise Tents Company of London.,0.9
+richard's verascope camera,supplies,photographic equipment,1,"I also had with me a Richard's Verascope camera, the identically same instrument ; a Kodak junior, and a Daylight Kodak, both from Eastman.",0.8
+kodak junior,supplies,photographic equipment,1,"I also had with me a Richard's Verascope camera, the identically same instrument ; a Kodak junior, and a Daylight Kodak, both from Eastman.",0.8
+daylight kodak,supplies,photographic equipment,1,"I also had with me a Richard's Verascope camera, the identically same instrument ; a Kodak junior, and a Daylight Kodak, both from Eastman.",0.8
+edwards's mi-halo,supplies,photographic equipment,1,"The plates, which made the heaviest item in my baggage, were Edwards's Mi-halo.",0.8
+chemicals and appliances,supplies,photographic equipment,1,"I provided myself with a complete stock of chemicals and appliances for developing, fixing and printing negatives.",0.8
+eskilstuna knife,trades_with,central asia,1,A first-class Eskilstuna knife is valued in Central Asia at a great deal more than its monetary value.,0.8
+maps and diaries,supplies,traveler's effects,1,For the conveyance of the more fragile and perishable of my effects I got a Stockholm firm to make me six trunks...,0.75
+stockholm firm,supplies,traveler's trunks,1,For the conveyance of the more fragile and perishable of my effects I got a Stockholm firm to make me six trunks...,0.75
+liebig's extract of mmt,trades_with,traveler's supplies,1,...there was nothing to beat Liebig's Extract of Mmt.,0.7
+krasnovodsk,depends_on,water fetched from inland,1,Every drop of water has to be fetched from further inland in big wooden casks fastened on waggons specially made for the purpose.,0.8
+imperial russian railways,regulates,travel,1,"My ticket said in plain and unmistakable language, that 'Dr. Sven Hedin was to be granted free passage for himself and his belongings over all the Imperial Russian railways, both in Europe and Asia.'",0.8
+amu-daria,connects_to,bridge,1,Just beyond the station of Amu-daria we slowed down whilst crossing the strong wooden bridge which there spans the Amu- daria.,0.9
+serafshan (zarafshan),connects_to,new bridge,1,"The river Serafshan (Zarafshan) is now crossed by a new bridge flung over beside the picturesque ruins of the old one, and beyond it the train runs through deep cuttings in the loess;",0.8
+tashkend,connects_to,syr-daria,1,"Finally, after rolling across the Syr-daria on a good iron bridge, the train steamed into the large and bustling station of Tashkend, the capital of West Turkestan.",0.9
+chernyayeva,connects_to,tashkent,1,"I continued my journey, returning first to Chernyayeva, where I had to wait the greater part of a day for the train from Samarkand.",0.8
+islam bai,supplies,"sugar, tea, stearine candles, petroleum, leather trunks, saddles, and so forth",1,"He was all the time busy organising the caravan and getting it ready to start, engaging servants, seeing after two tents being made, and laying in the requisite stores, such as sugar, tea, stearine candles, petroleum, leather trunks, saddles, and so forth.",0.8
+colonel saitseff,governs,the district of osh,1,"He held the appointment of uyasdny natyalnik (district commissioner) of the district of Osh, ruling over a population of some 175,000...",0.8
+colonel saitseff,administers,islam's salary,1,"I deposited his first year's salary with Colonel Saitseff, who agreed to pay over to his family 10 roubles every month.",0.8
+pamir,connects_to,fort pamir,1,and then on further vid Kizil-art and Ak-baital to Fort Pamir.,0.8
+osh,connects_to,russian outpost on the murghab,1,"You can now drive the whole of the way from Osh, and the Russian outpost on the Murghab is supplied with provisions and building materials by cart.",0.8
+kulenkeh-tokai,connects_to,main river,1,"In an expansion of the valley known as Kulenkeh-tokai, we granted ourselves our first day's rest.",0.85
+poplars,supplies,camp,1,"The bushy grove on the right bank of the river, in an expansion of the valley known as Kulenkeh-tokai, we granted ourselves our first day's rest.",0.75
+horses,migrates_through,summer pastures,1,The horses were sent off to graze on certain yeylaus (summer pastures) in the neighbourhood.,0.8
+camp,depends_on,packaging cases and baggage,1,"Shortly after striking camp on the following morning we crossed the river two or three times, but after that kept for the most part to the right bank.",0.7
+talldik,connects_to,alai mountains,1,"we came to the foot of the real ascent. On the summit of the pass of Talldik, within an inclosed area, there stands a post...",0.9
+tong-burun,connects_to,syr-daria,1,From this watershed the contour sloped all the way to Lop-nor.,0.8
+shwa glen,depends_on,mountains,1,"After riding a short distance up the glen of Shwa on our right, we climbed the steep slope which overhung it.",0.7
+kizil-su,connects_to,nura,1,"After their confluence, the united Nura and Kizil-su formed quite a respectable stream.",0.8
+torpag-bel,connects_to,pass of torpag-bel,1,"The road led along the left side of the Kizil-su, and then through a narrow gorge up to the pass of Torpag-bel.",0.8
+pamirs,connects_to,low hills and ridges of gravel-and-shingle,1,"The outliers of the Pamirs, amongst which we were now travelling, were everywhere diminishing in elevation, until finally they ended in low hills and ridges of gravel-and-shingle, seamed by trenches, gulleys, and erosive furrows.",0.8
+kara-davan,connects_to,yeghin valley,1,"Thence crossing over the little pass of Kara-davan, we reached, at first by a steep descent, but afterwards by easier slopes, the broad, open valley of Yeghin.",0.8
+horses,depends_on,ledges and gravel tongues,1,"by dint of letting his horse go where he liked, managed at last to find a firm ledge, which ran diagonally across the stream...",0.8
+animals (horses),migrates_through,river (kizil-su),1,"...the heavily-laden horses struggling against the fierce energy of the current, for the ledge I have mentioned ran for the greater part of the way Fording the Kizil-su.",0.85
+packages,exchanges_for,dryness (being tied up higher before entering the river),1,"Luckily we all got over without mishap, for the packages that were likely to suffer from wetting were tied up higher before the horses entered the river.",0.75
+caravans,trades_with,camel-drivers and merchants (traveling to kashgar),1,...the shouts and singing of the camel-drivers more and more distinctly. And finally the riot died away amongst the mountains.,0.9
+east turkestan,administers,chinese authorities,1,For each animal we had to pay to the Chinese authorities four shillings as a sort of market toll.,0.9
+m. petrovsky,supplies,travellers,1,"Then a last greeting, a last farewell, and off we went to the dull, but significant, tingle-tingle of the camels' bells.",0.8
+macartney,trades_with,caravan,1,"He appointed two durgaz (policemen), with instructions to see that the inhabitants of the city supplied the caravan with everything it needed- of course, in return for a handsome equivalent.",0.8
+road,depends_on,water,1,For now the road was for long stretches under water...,0.85
+canals,supplies,water for flooding rice fields,1,"The canals which bordered both sides of the road not only brought moisture to the roots of the trees, but also, by means of smaller irrigation rills, supplied water for flooding the rice fields.",0.9
+villagers,exchanges_for,douceur,1,in the hope of getting a little douceur in return-a form of polite attention which in the long run is apt to become irksome.,0.8
+merket,governs,"dao tai, or chinese procurator, of the province",1,"the beg of the place had got into trouble through it, having been summoned before the Dao Tai, or Chinese Procurator, of the province",0.8
+lailik,connects_to,river,1,"Accordingly we got out and dragged our little craft across the tongue of soft, tenacious clay, yellow or bluish-black in colour, which separated the river from its lateral branch.",0.9
+the boat,depends_on,"sound, rough-hewn planks",1,"The boat which Islam had picked out was a first-rate affair, newly built of sound, rough-hewn planks...",0.8
+"hakirn, the beg of merket",supplies,close upon a hundred men,1,"Our Building-slip. requisitioned close upon a hundred men, who came with their spades...",0.8
+lailik,connects_to,the river,1,...move the craft down the river to a point on the right bank immediately opposite our camp...,0.8
+the yarkand-daria,connects_to,chahr-bagh,1,At the same time the Yarkand-daria itself took a more easterly course towards Chahr-bagh...,0.9
+the river,connects_to,the boat,1,"I could see through them, namely, the river behind us and its right bank at the side;",0.8
+the samovar,supplies,clean water,1,"When the samovar was full, I shut off the supply by a clamp round the tube;",0.9
+ferry-boat,connects_to,river,1,The ferry-boat had been brought over as close to the left bank of the river...,0.95
+the banks,connects_to,lailik and merket,1,"The.banks marched swiftly past us, and once round the first turn, we disappeared for ever from the memorable locality of Lailik and Merket.",0.8
+i,supplies,table,1,"My table stood so far forward in the tent opening that I commanded an uninterrupted view of the landscape, not only before me, but also on both sides.",0.8
+i,regulates,"map of the tarim-mariner's compass, watch, field-glass, measuring scale, yens, knives, compasses, ink eraser, telescope, and so forth",1,"Before me lay ready to hand a piece of clean paper-the first sheet of my big map of the Tarim-mariner's compass, watch, field-glass, measuring scale, yens, knives, compasses, ink eraser, telescope, and so forth, and I set to work immediately.",0.8
+i,regulates,piece of clean paper,1,"Before me lay ready to hand a piece of clean paper-the first sheet of my big map of the Tarim-mariner's compass, watch, field-glass, measuring scale, yens, knives, compasses, ink eraser, telescope, and so forth, and I set to work immediately.",0.8
+i,regulates,"big map of the tarim-mariner's compass, watch, field-glass, measuring scale, yens, knives, compasses, ink eraser, telescope, and so forth",1,"Before me lay ready to hand a piece of clean paper-the first sheet of my big map of the Tarim-mariner's compass, watch, field-glass, measuring scale, yens, knives, compasses, ink eraser, telescope, and so forth, and I set to work immediately.",0.8
+i,trades_with,materials for a detailed monograph on the largest river in the heart of asia,1,"And not only did I by continuous and daily labour gather materials for a detailed monograph on the largest river in the heart of Asia, and traverse a route which had never been traversed by anybody before, but I also discovered a mode of travel fraught with the most idyllic charm.",0.8
+the author,trades_with,tarim ferry-boat,1,"I had my meals served on the table where I worked as often as I wished it, and seldom have I enjoyed my food better than during my life on board that Tarim ferry-boat.",0.8
+the boatmen,supplies,wares,1,and came and laid their wares on the foredeck in front of my study table.,0.9
+"the wives, children, and other relatives of my boatmen",trades_with,my boatmen,1,"It turned out that the people who hit upon this stratagem for getting the better of us were the wives, children and other relatives of my boatmen.",0.8
+the river,connects_to,tonkuzlik (belt of wood),1,"A particular belt of wood was called Tonkuzlik, because it was frequented by wild boar ; and a ford was known as Kalmak-yilgazi (the Mongol ford), because Mongols are said to have lived near that part of the river in former times.",0.8
+the river,connects_to,mohammed-ili-lengher (hostelry or guest-house),1,"A hostelry or guest-house (lengher) on the great caravan road, which we almost touched at a sudden turn in the river, was called Mohammed-Ili-lengher after the man who built it.",0.8
+the river,connects_to,eski-daria (old river),1,"At this place the stream two years ago altered its course for a short distance ; the old bed, which was plainly discernible at the junction, was called Eski-daria (the Old River).",0.8
+shashkak,connects_to,river,1,"The place was inhabited by four shepherds and their families, who owned some two hundred sheep, in addition to goats and cattle. Besides that, they cultivated the ground, and grew maize and wheat, their fields being watered by an artificial canal led out of the river below Besh-koll.",0.8
+the boatmen,trades_with,pheasants/ducks,1,"And then roamed the woods for hours together, and when he came back, he generally carried pheasants, or ducks, or both in his hand.",0.8
+islam bai,migrates_through,woods,1,and then roamed the woods for hours together...,0.75
+the river,depends_on,weather in the mountains,1,"During the night, the river had risen six inches, a circumstance not at all surprising when you bear in mind that its height was dependent upon the state of the weather in the mountains.",0.85
+river,supplies,water for drinking and other purposes,1,The water in the river was now so chilly that the men never jumped in if they could avoid it.,0.95
+river,depends_on,mountains,1,"This meant, there had been a more copious influx of water from the mountains during the last twenty-four hours.",0.8
+yanghi-daria,connects_to,river,1,"Immediately after entering the main stream, the Yanghi-daria, or Kotteklik (Dry Timber Place), as it was also called, ... because of the large quantity of driftwood and logs of dead poplars which had become stranded upon its sandbanks...",0.8
+kasim the on-bashi,exchanges_for,boatmen's earnings,1,"who was returning to Lailik, taking with him part of the other boatmen's earnings, which he undertook to hand over to their families or parents.",0.8
+sand-dune,connects_to,river,1,"The sand-dune of Karaul-dung, which was about 35 feet high and covered with tamarisks and tussocks of grass, rose steeply on the very brink of the river,",0.0
+carnival of malice,disputes,persons,1,"At this place the river had a volume of only 802 cubic feet in the second ; consequently its various side-arms had deprived it of very nearly one-third of its total flood. The sand-dune of Karaul-dung, which was about 35 feet high and covered with tamarisks and tussocks of grass, rose steeply on the very brink of the river, and its top commanded an extensive view of the whole district.",0.8
+desert,connects_to,dunes,1,"Half a mile to the south and south-east, beyond a narrow belt of vegetation, were the yellow crests of the billowy dunes of the desert.",0.9
+lailik,supplies,goose,1,"Amongst our live stock was a goose, which we brought all the way from Lailik.",0.8
+kasim,trades_with,lailik,1,"It travelled with Kasim in the commisariat boat, and was originally intended to be killed and eaten ; but its staid and irreproachable respectability led to its being gradually promoted to be the 'pet of the regiment.'",0.7
+regiment,licenses,goose,1,"'It was a comical bird, and often paid visits to the big ferry-boat, and waddled about wherever it liked.'",0.6
+yarkand-daria,regulates,current,1,"After this the Yarkand-daria again showed its former characteristics-a broad current, numerous alluvial deposits, and deeply eroded vertical banks.",0.8
+river,extracts_from,sandbanks,1,"Two or three times we ran aground upon the submerged sandbanks, it being difficult to detect their presence owing to the crumpling of the surface by the wind.",0.85
+poplar forest,supplies,green leaves,1,"making a dense curtain of foliage which seldom allowed a glimpse of the tree-trunks to gleam between-green, but green shot with various shades of rich brown...",0.8
+yarkand-daria,connects_to,khorem,1,"Mohammed Ahun, the hunter, told me that two or three miles from the right bank of the Yarkand-daria I should find the dry bed of the Khorem...",0.85
+mountains,connects_to,river,1,"For a considerable distance the mountains lay directly ahead of us ; then they appeared on our right, and after that on our left ; and finally they stood right astern of us, and we seemed to be sailing away from them.",0.8
+tian-shan mountain range,connects_to,northern horizon,1,"Away to the north, a faint contour, which might well have passed for rising mist, had it not been for its serrated edge, showed the mountain range of the Tian-shan.",0.85
+on-bashi,exchanges_for,"pelts, boots for boatmen, rice, flour, and vegetables",1,"Summoning the on-bashi of the place, I commissioned him to go to the bazaar of Tumshuk, and buy pelts and boots for my boatmen, and I also bade him procure a supply of rice, flour, and vegetables.",0.85
+kasim,trades_with,fish,1,"In the space of about a minute, Kasim captured two big fellows, and after that several others.",0.9
+kasim,supplies,fish,1,We were supplied with fish for several days to come.,0.8
+river,connects_to,chokka-tagh,1,"The river had looped round upon itself, so as to bring us once more within sound of the man's glad and light-hearted song.",0.9
+river,connects_to,yugan-balik-kill (big fish lake),1,"The lake beside which we rested on that occasion was called Yugan-balik-kill (Big Fish Lake), and was fed by kivulets from the Yarkand-daria, to the right of which it lay.",0.95
+river,connects_to,masar-tagh,1,"Sometimes we had the Masar-tagh, which we left the day before; but before night, the latter range became shrouded in the dust-haze and disappeared altogether from sight.",0.95
+the yarkand-daria,connects_to,the lake of choll-koll,1,"it was clearly nothing but a natural water-course, kept open by the alternate ebb and flow between the Yarkand-daria and the lake of Choll-koll.",0.9
+the chokka-tagh,connects_to,a yilga (eroded glen),1,"After crossing several minor crests, we finally struck into a yilga (eroded glen), which led us to the summit of the range.",0.9
+the yarkand-daria,connects_to,sai-tagh,1,Here the volume of the river was 8864 cubic feet in the second. At this place I suffered's great loss-my favourite dog Dovlet died.,0.85
+shepherds,trades_with,salt,1,The Mollah said they were fires made by the shepherds to scare tigers and wolves away from their flocks.,0.8
+shepherd,supplies,flock,1,The Mollah said they were fires made by the shepherds to scare tigers and wolves away from their flocks.,0.8
+the mollah,governs,the river,1,"On we flew before the wind, the banks swept past us like railway-trains, the water hissed off our bow.",0.8
+the tarim,connects_to,khotan-daria,1,"During the short season in which the Khotan-daria does carry water, it is said to swell to a really large river ; and this seemed to be borne out by facts, for the Tarim, just below its confluence, was considerably broader...",0.8
+the yoll-beghi,supplies,valuable information,1,"The boatmen were in good heart, and observed with the yoll-beghi accompanied us, and as he sat in front of my tent he plied me with valuable information about the locality...",0.9
+the big ferry-boat,connects_to,the river,1,The boat glided so swiftly down the broad highway of the mighty river...,0.95
+i,regulates,the life-blood of the tarim river,1,every evening I felt its pulse and took the measure of its life-blood in feet and inches,0.85
+i,controls,the knowledge about the tarim river,1,I gathered into my diary everything that the natives knew about it,0.8
+i,exchanges_for,topographical knowledge,1,we picked up one day and dropped the next as soon as their topographical knowledge came to an end,0.7
+the ferry-man,disputes,us (the expedition),1,"But no sooner did the ferry-man, who lived in a hut on the bank, catch sight of us than he took to his heels and ran off as fast as he could put foot to ground.",0.9
+the expedition,trades_with,the tarim (river),1,"Here we raced along at a dizzy rate, and were making straight for a projecting headland, where a violent collision seemed inevitable, when we were saved by the current itself swerving to one side, so that we merely grazed the branches of some tamarisks which hung out over the stream.",0.8
+river,connects_to,reed-beds,1,...framed in on both sides by yellow lines of reed-beds...,0.8
+alim,connects_to,the river,1,he as near as nothing fell back headlong into the river.,0.8
+alim,connects_to,bank,1,"I put to shore in the skiff; then Alim flung me a line, at which I hauled away until I got the big boat so close in to the bank that he was able to jump out and take the line from me.",0.8
+yanghi-daria,connects_to,kona-daria,1,"Before the day was over we came, on the left, to the reunion of the Yanghi-daria and the Kona-daria, and after that the stream reverted to its normal character.",0.8
+the river,connects_to,the steppe of yellow reeds,1,On both sides it was bordered by a vast steppe of yellow reeds...,0.9
+river,connects_to,desert,1,"This day the river made only one bend, but that was a double one, like the letter S, with an island in the one loop and deposits of mud in the other.",0.8
+the river,connects_to,the inchikkeh-daria,1,"On the following day, in a sharp north-going loop, we passed the confluence of the Inchikkeh-daria, coming in from the left.",0.9
+the poplars,depends_on,the autumn attire,1,"There was now scarcely a leaf left on the poplars ; they had put off their autumn attire, and stood bare and naked, awaiting winter's approach.",0.85
+the wayfarer,exchanges_for,crisply rustled fallen leaves,1,The fallen leaves lay on the banks in heaps and rustled quite crisply under the wayfarer's footsteps.,0.8
+the forest,depends_on,the river,1,"The main mass of the forest stood however somewhat back from the margin of the river, and only sent a few outposts close up to it.",0.9
+the lower tarim,connects_to,the lake of ak-kumning-yugan-koll,1,"On the right of the river at this part lay the lake of Ak-kumning-yugan-koll ("" the Big Lake in the White Sand "")...",0.8
+lop-men,trades_with,fish,1,"and pushed the fish into the net with his paddle, and then went and picked up the net and drew it into his canoe.",0.8
+river,connects_to,lop country,1,and which became more pronounced the nearer we approached to the Lop country and the more insignificant the fall of the Tarim became.,0.85
+yanghi-daria,connects_to,tarim river,1,"This Yanghi-daria, or h'ew River, furnished yet another illustration of the great river's tendency to deviate to the right.",0.9
+lop-men,depends_on,tarim river,1,"'If ever we stood in need of pilots to point out the way, this surely was the time, and they were our men.'",0.8
+canoe-men,extracts_from,tarim river,1,"The river divided into five arms, and guided us to that which they considered to be the principal one.",0.8
+alim,exchanges_for,fish,1,Islam had just come to bring me a dish of fresh-cooked fish...,0.8
+the river,connects_to,the yarkand-daria below lailik,1,The river here exhibited the same characteristics as the Yarkand-daria below Lailik.,0.8
+the men,depends_on,frozen ground,1,"The ground was everywhere frozen hard, so that the men were no longer afraid of venturing into marshy or recently inundated places.",0.85
+the river,supplies,floating disks,1,"Thus we were surrounded by a countless number of snow-white rings, the burial-wreaths, as it were, of the great river.",0.9
+the river,connects_to,the ughen-daria,1,"We were now approaching, on the left, the Ughen-daria,",0.9
+tarim river,regulates,its own flow,1,"The volume of the current is also regulated to no slight degree by the innumerable lagoons and marginal lakes which cling like parasites to the Tarim, and suck up its life-blood all the way down its lower course.",0.8
+ughen-daria,connects_to,tarim,1,"The main river carried a volume of 1,967 cubic feet, the Ughen-daria a very much smaller amount.",0.9
+russian consul at urumchi,supplies,cigarettes,1,"a few hundred cigarettes which the Russian Consul at Urumchi had sent me four years before, but which only now reached their destination.",0.8
+river,regulates,karaul,1,Karaul stands at the point where the river makes the great bend to the south-east which takes it direct to Lopnor without any further tedious windings.,0.7
+the chinese authorities,governs,the survivors,1,The Chinese authorities had transferred the survivors to the left bank...,0.8
+these people,depends_on,irrigation,1,they might easily have irrigated their fields by digging rivulets from the river...,0.75
+chernoff,connects_to,the bank,1,"and yet lower down by Siaz Hadji and several other men of the caravan, all of whom escorted us along the bank...",0.8
+aksu,governs,neighbourhood,1,The begs of the neighbourhood arranged that their Lop-men should sell us fodder for our animals...,0.8
+islam bai,supplies,horses,1,"Parpi Bai I appointed to look after the horses ; when they did not require his attention, he amused himself with hawking, and fed his hawks upon live poultry...",0.8
+turdu bai,supplies,camels,1,"Turdu Bai and Faisullah took charge of the camels, one ef them being always on watch whilst the animals were out grazing.",0.8
+kurban,supplies,horses,1,"A fine old fellow from Aksu, sixty years of age, but frank and happy as a boy, Kurban by name, acted as errand-boy, taking the horses down to water...",0.8
+kurban,supplies,camels,1,...taking out his meals to the man who watched the camels.,0.8
+lop-men,trades_with,fodder,1,The begs of the neighbourhood arranged that their Lop-men should sell us fodder for our animals...,0.8
+the fire,supplies,bearded barbarians,1,"But although our fire was not allowed to go out until May of the following year, it was not tended by vestal virgins, but by bearded barbarians.",0.8
+the night-watchmen,depends_on,cossacks,1,"in fact during the cold winter nights they generally sat beside it when not making their periodical rounds, looked after by the Cossacks.",0.7
+turfan,connects_to,lop country,1,"He told me too that in the days of his forefathers begs had come from Turfan to exact, on behalf of the Chinese, tribute of otter skins from the inhabitants of the Lop country.",0.9
+bash-koll,depends_on,river,1,"As this last was cut off from the river ten years ago, its water was now salt ; we therefore took with us a supply of ice for drinking and cooking.",0.8
+lake,supplies,water,1,"The bottom was entirely free from sand, and consisted of concentric belts of different formation.",0.8
+tarim,connects_to,yanghi-koll,1,"After having with some difficulty piloted the camels over a formidable ridge, we went down into the big oblong bayir which lay next the innermost part of the Yanghi-koll.",0.9
+yanghi-koll,connects_to,tarim,1,"Continuing alongside the channel which connected the Yanghi-koll with the Tarim, we came to the latter...",0.9
+bonin,trades_with,his attendants,1,He had his task behind him-he had done his work ; whereas mine lay before me - a host of enigmas shrouded in an impenetrable mist.,0.8
+i,depends_on,islam bai,1,"For the new expedition I appointed as caravan-bashi Islam Bai, the faithful and experienced companion of my former journey across the Takla-makan Desert.",0.8
+i,supplies,my travelling-cases,1,"With the view of safeguarding my travelling-cases against fire, I had them taken out of the hut and carried back on board the big ferry-boat.",0.7
+i,regulates,my meteorological observatory,1,"My meteorological observatory still remained on the roof of the dark-room, and there the instruments continued to work all through, the winter.",0.7
+they,exchanges_for,"two yambas (£15) to meet all expenses, besides a superauity of provisions.",1,"I gave them two yambas (£15) to meet all expenses, besides a superAuity of provisions.",0.8
+they,supplies,all the animals i left behind me,1,They were made responsible for the safety of the camp and the protection of all the animals I left behind me...,0.8
+the camels,depends_on,water,1,"we halted, cut four small holes in the ice, and let the camels drink all they possibly could hold ; this was the last water they would get for a long time to come.",0.8
+the little white horse,depends_on,water,1,"The little white horse also-he came from Kashgar- as well as the dogs, and the men, all had a good drink ; for, although we carried a supply of ice with us, it might easily happen that later on we should be pinched for the precious fluid.",0.8
+the route,connects_to,the village of tatran on the cherchen-daria,1,"It was of course abundantly evident that the route we had chosen was the only possible direction for us to travel in, since it would take us straight to our goal, the village of Tatran on the Cherchen-daria, a day's journey below the town of Cherchen.",0.8
+bayirs,connects_to,inland lake or sea,1,"This view was supported by the general level of the whole of the Tarim basin, by the direction in which the two rivers, the Tarim and the Cherchen-daria, flow, and by the position of the several chains of bayirs ; for, as we shall see lower down, each of these chains curved like a bow, while all radiated from a point intermediate between the old Lop-nor and the existing Kara-koshun, or the point where the lowest depression of the whole of the Tarim basin occurs.",0.8
+bayirs,depends_on,water,1,"These, however, did not owe their origin to the erosive force of the wind, but to the action of water; in fact they resembled ancient beach-lines, marking the different levels of lake or river.",0.8
+tarim basin,connects_to,inland lake or sea,1,"This view was supported by the general level of the whole of the Tarim basin, by the direction in which the two rivers, the Tarim and the Cherchen-daria, flow, and by the position of the several chains of bayirs ; for, as we shall see lower down, each of these chains curved like a bow, while all radiated from a point intermediate between the old Lop-nor and the existing Kara-koshun, or the point where the lowest depression of the whole of the Tarim basin occurs.",0.8
+the desert,depends_on,salt,1,"Although the ground was moist right up to the surface, it was nowhere frozen, owing to its very strong impregnation of salt.",0.85
+the caravan,depends_on,water supply,1,Our supply of water would last longer now that there were six lives less dependent upon it.,0.85
+firewood,depends_on,opportunity,1,"if it did not, we should have no opportunity to melt the ice.",0.8
+camels,depends_on,water,1,"Now, however, we were chilled to the bone, owing to the intense cold, and had an abundance of water.",0.9
+the bayir,connects_to,bayir no. 37,1,"The pass that bounded it on the south resembled a very low 'threshold' or cross-ridge, and beyond it we were unable to perceive any sand...",0.9
+the caravan,trades_with,the earth,1,...which made the earth all the colder.',0.8
+bayir,disputes,steppes,1,The men even fed themselves with the foolish hope that this was the beginning of the steppes which stretched down to the bank of the Cherchen-daria.,0.7
+cherchen-daria,connects_to,desert,1,What was he looking for in the desert ? Surely he could find a more fruitful field for his predatory instincts nearer theriver.,0.8
+the author,depends_on,the fire,1,"we must have a fire that night, for we were all literally stiff with cold.",0.8
+the camels,supplies,food and water,1,"Everything we wanted, every single thing we possessed in fact, had to be fished out from underneath this soft white coverlet.",0.7
+the desert,controls,the weather,1,The black clouds... had been induced to part with their contents.,0.75
+the desert,connects_to,mountains of sand,1,"Who would have believed that such a thing could be possible in the desert ? Generally speaking, the snow facilitated our march, for by keeping along the lines of contact between snow and sand, we were able to take advantage of the effects of regelation, which were strongest marked there.",0.8
+snow,regulates,sand,1,"The crests of the dunes in particular were as hard as ice, and a single step on the steeper slopes sufficed to set a patch of twenty to twenty-five square yards slipping bodily down the declivity.",0.8
+buran (black desert tempest),disputes,the snow,1,The snow had the same effect upon the sand that oil has upon waves; it would have been impossible for even the fiercest buran (black desert tempest) that ever blew to have shifted it with that snow lying upon it.,0.8
+dead forest,connects_to,cherchen-daria,1,"We did not trouble to carry firewood with us, for we perceived other dead trees some distance ahead.",0.8
+dead poplars,connects_to,camp,1,"Shovelling away the snow, they began to ply their axes, and very soon had several piles of wood ready for kindling.",0.9
+tokkuz-davan range,connects_to,kwen-lun system,1,"Here we obtained our first glimpse of the outermost chain of the great Kwen-lun system, namely, the range of Tokkuz-davan.",0.9
+tatran,connects_to,cherchen-daria,1,We were only four miles from Tatran.,0.8
+mollah toktamet beg,administers,cherchen,1,"With his seventy-two years, he was the same pleasant old man, aristocratic looking, and polite, that I had known him before, and he placed his house at my disposal.",0.8
+the man,trades_with,keriya,1,"The man told us his dog had had a brush with some wolves during the night, and had got rather badly mauled.",0.8
+shepherds,controls,the sheep,1,"The shepherds say, that if a wolf only just touches a sheep, the animal will die of fright ; and once wolves set upon a flock they will destroy it to the last sheep, unless interrupted.",0.8
+the bai,governs,his family,1,"The man only dwelt there during the winter ; in summer his home was at Andereh-terem, for at the latter season the whole of this region is fearfully hot, and swarms with gnats and mosquitos.",0.8
+the chinese,administers,their district,1,"As I have stated in my former book (Throccgh Asia), the river Molldya or Miillja, at the point where it was crossed by the upper road, was a large river ; but here on the lower road or astin-yoll, along which we were now travelling, it was hardly perceptible, owing to the fact that it was divided into a number of capricious arms, like an interlacing delta.",0.8
+bostan-tograk,connects_to,canal,1,"We also detected traces of a canal, which had clearly been connected with the adjacent stream of Bostan-tograk.",0.9
+keng-laika,connects_to,cherchen-daria,1,It was my intention to find out if possible where the old bed of the Cherchen-daria ran.,0.9
+the cherchen-daria,connects_to,an ancient river-bed,1,"And there we did discover a kona-davia, or 'ancient river-bed,' proving that the Cherchen-daria had not always shifted to the right when it changed its channel.",0.8
+russians,migrates_through,siberia,1,"All the indications pointed to these people having been Russians, and I jumped to the conclusion, that they possibly belonged to the Raskolnikis (Nonconformists), who a little after 1820 fled from Siberia towards Lop-nor",0.8
+toktamet beg,disputes,robbers,1,"One of them, who had a dram knife in his hand, threatened to kill Toktamem if he offered any resistance.",0.9
+tarim,depends_on,east wind,1,"for if there had been, it would have been impossible for the dominant east wind to pile up such stupendous masses of sand in that situation.",0.8
+lop-nor,controls,tarim,1,for there was at that time nothing to prevent it doing so.,0.8
+togdasin beg,controls,tura-sallgan-uy-the buriat cossacks,1,"Here that fine old fellow Togdasin Beg took leave of us and returned home, but eighteen months later he again rendered us important services.",0.8
+consul uspensky,controls,buriat cossacks,1,"there they had been detained two months by the great Chinese scholar (now dead) Consul Uspensky, who had lost traces of me, and did not know exactly where to send them on to.",0.8
+buriat cossacks,depends_on,russian territory,1,they travelled fr6e so long as they were in Russian territory.,0.7
+shagdur and cherdon,supplies,cattle,1,"resume their native dress and native manner of life, and live principally by breeding cattle.",0.9
+tura-sallgan-uy,connects_to,lop country,1,"Our camp at Tura-sallgan-uy thus became an important market, well known throughout all the Lop country, and immediately outside its precincts there grew up a ring of small 'suburbs,'",0.85
+tura-sallgan-uy,connects_to,tarim,1,Drift-sand and dust swept down the Tarim and made the air so thick that we were unable to see the steep dune which faced us on the opposite bank of the river.,0.9
+consul petrovsky,controls,kurban,1,"But this was not the first time that Consul Petrovsky had heard these sorts of tales, and before my fine gentleman knew where he was he found himself behind the bolts and bars...",0.8
+the ancient highway,connects_to,lop-nor lake,1,"It marked the ancient highway, called by the inhabitants of Lop Komur-salldi-yoll, i.e., 'the road where coal was spread,' which ran from Sachow to Korla along the northern shore of the old lake of Lop-nor.",0.9
+the sughett-bulak glen,connects_to,watercourse,1,"This was the point we were aiming for, as it would afford us a convenient path to the foot of the mountains.",0.9
+koncheh-daria,connects_to,mountains,1,"The only signs of animal life were a few timid deer, which made off the instant they were shot at. Gradually the ascent became more noticeable, though the ground at the same time grew more stony.",0.8
+sughett-bulak,connects_to,kurruk-tagh and kurruk-daria mountains,1,"Finally the mountains closed in on both sides ; we were in the mouth of the glen of Sughett-bulak, which takes its name of the 'Willow Spring' from a solitary willow that stands beside it.",0.9
+kurruk-tagh,connects_to,ravine,1,It was a spur of the Kurruk-tagh which we had just cut through by means of this ravine.,0.8
+bujentu-bulak,supplies,animals,1,The animals were at once taken down to it.,0.8
+ying-pen,connects_to,ancient river-bed,1,"Geographically this was a point of the greatest possible interest, for it was soon apparent that the marsh in question lay in the elbow of an ancient river-bed, which had run between two belts of poplars, just as the Tarim does now.",0.8
+kurruk-daria,trades_with,route,1,"The authorities had for some time past been endeavouring to revive the traffic on this the old route between Lop and Turfan, but without success ; for the route vid Korla is more comfortable as well as more convenient.",0.7
+ying-pen,supplies,"wild-duck, wild-geese, and partridges",1,"The place was frequented by wild-duck, wild-geese, and partridges ; and fresh water was obtainable from a well.",0.9
+chernoff,connects_to,the others (men),1,"I saw a spectre looming out of the haze, and discovered it was Chernoff coming to look for me.",0.9
+wind,transports_via,sand and dust,1,"it was some 18 miles an hour more, or 58i miles in all, and I was only able to keep my balance when I knelt. The storm came from the north-east, and its violence enabled me to form some idea of the inconceivable quantities of sand and dust which are transported by this mighty agent towards the regions of the west and south-west.",0.8
+kurruk-daria,depends_on,running water,1,"They were originally formed by the agency of running water, but have subsequently been resculptured by the wind into the most fantastic and capricious outlines imaginable.",0.9
+kurruk-daria,connects_to,parallel trench,1,"On our right we had the Kurruk-daria, and immediately on our left a parallel trench with a markedly scarped edge on the farther side.",0.85
+wild camels,migrates_through,depressions sheltered from the wind,1,We now observed for the first time traces of wild camels ; they occurred in depressions sheltered from the wind.,0.8
+abdu rehim,supplies,water,1,"When he came back, after an absence of fourteen hours, he said he had found a big he-camel at Tomonki-Yardang-bulak, and had wounded him severely, though the animal crossed the Kurruk-daria, and finally escaped amongst the sand-dunes.",0.9
+chernoff,trades_with,camel,1,"A camel had come down the wind towards the spring without suspecting any danger. Chernoff and Khodai Kullu fired at him, but they only wounded him slightly, and he turned and fled back to the east.",0.8
+chernoff,regulates,dogs,1,"Very early in the morning I heard him speaking in an animated voice, but with extreme caution, bidding someone tie up the dogs.",0.7
+the men,supplies,fresh meat,1,"During the hot weather, it was always a difficult problem in Central Asia how to supply ourselves with fresh meat.",0.9
+abdu rehim,extracts_from,rib muscles of an old he-camel,1,Abdu Rehim once found embedded in the rib muscles of an old he-camel a Mongol rifle bullet...,0.85
+ahmed,administers,singher,1,"Ahmed and his family were passionately devoted to Singher, and would not exchange it for any other place in the world.",0.9
+abdu rehim,controls,the men in the caravan,1,"Besides, camel-hunting was Abdu Rehim's calling.",0.9
+abdu rehim,negotiates_with,the men in the caravan,1,"Bidding us wait where we were, Abdu Rehim made a long detour with the object of getting past a gap in the reeds without being seen.",0.8
+mussulmans,disputes,the feelings of the animal creation,1,"Mussulmans possess not an atom of sympathy for the feelings of the animal creation, and if I had forbidden the men to shoot the camels, they would have set it down as an act of malice against themselves.",0.9
+the men in the caravan,trades_with,abdu rehim,1,"Their eyes glowed with excitement, and they neither heard nor saw anything except the game they were stalking.",0.8
+singher camels,migrates_through,reeds,1,"We kept our Singher camels tethered at night, and had them watched during the day, otherwise they would have gone off and made their way back to Singher.",0.8
+camels,supplies,abdu rehim,1,Abdu Rehim was quite delighted at the prospect of having such a pleasant surprise to give to his old father as a large supply of camel-meat.,0.8
+kiimur-salldi-yoll,connects_to,ancient road from korla to sa-chow and peking,1,"At this point Abdu Rehim was to leave us. His pay amounted to I+ yambas (LI~), a big sum, but nothing like too big considering his excellent services and the valuable information he had given me.",0.9
+ordek,trades_with,landmark tower,1,"He also came to a tora, or landmark tower, in the vicinity of which he ...",0.8
+ordek,extracts_from,landmark tower,1,"He also came to a tora, or landmark tower, in the vicinity of which he ...",0.8
+lake,supplies,animals,1,"The water had a slight saline flavour ; nevertheless, all our animals drank it and enjoyed it.",0.7
+the large dunes,connects_to,the lake,1,"The large dunes which encircled the lake on every side, and sometimes even formed islets in it, were a proof that they were already there when the water first overflowed' the district.",0.8
+lop-nor lake-basin,depends_on,water-level differences,1,the contour which I had obtained by marching diagonally across the lake was not sufficient.,0.9
+our camp,connects_to,lake,1,Over against our camp the lake was very shallow...,0.95
+numet beg,supplies,provisions,1,I asked him to find us provisions...,0.8
+kum-chappgan,connects_to,tuzun-chappgan,1,We encamped in the bifurcation between that channel and the Tuzun-chappgan.,0.8
+abdall,administers,hunters,1,"As this had never been visited by anybody except the hunters of Abdall, I decided to map it.",0.9
+tokta ahun,exchanges_for,an old fisherman,1,"We exchanged him for an old fisherman, who led the way in his canoe.",0.9
+yanghi-koll,connects_to,kxrx-koshun lakes,1,"we started to force our way against the powerful current and formidable volume of 3,383i cubic feet in the second to Yanghi-koll.",0.8
+the boat,connects_to,the river,1,"At the most she would only carry one man, and was so narrow that the 'yachts-man' scarcely had room to sit behind ; indeed, he was obliged to balance himself as best he could with his legs propped on the rail.",0.85
+the lake,depends_on,the river tarim,1,"The whole of this series of lakes, which hang like leaves on a stalk along the right bank of the Tarim, are parasites or outgrowths upon the river, in that they derive their vitality from it, and would die if it were to flow in some other direction.",0.9
+the fishermen,regulates,fishing,1,Regular fishing would not be carried on until the river fell low enough to allow of the lake being cut off.,0.8
+the river tarim,governs,the lakes,1,"The whole of this series of lakes, which hang like leaves on a stalk along the right bank of the Tarim, are parasites or outgrowths upon the river, in that they derive their vitality from it, and would die if it were to flow in some other direction.",0.85
+they,exchanges_for,wild-duck,1,they rowed to shore and shot wild-duck in the quiet angles of the stream ;,0.8
+score of men,exchanges_for,labours,1,"Time' after time, with the view of lightening our labours...",0.8
+men,controls,ferry-boat,1,"It took a score of men working fully two hours to deepen the channel and hew down the reeds at the sides, and even then we were only able to move the ferry-boat slowly along, foot by foot.",0.8
+kirgui pavan,negotiates_with,lopmen,1,"After weighing the situation, the Lopmen voted for staying where we were.",0.7
+lopmen,regulates,chronometers,1,"But that course I could not agree to ; not because we were short of provisions, nor because it was disagreeable to lose the comfort of my cabin, but solely because the chronometers must be wound up at the usual time.",0.7
+the canoes,trades_with,the wind,1,"they tried to paddle still harder. Every man was on his knees, and the paddle-strokes followed one another so fast they seemed to be driven by steam.",0.8
+kirgui pavan,regulates,the canoes,1,"every time a high 'curler' threatened to engulf us they switched the canoes a little into the wind, and so kept out the greater part of its breaking crest,",0.8
+the men,depends_on,kirgui pavan,1,"But Kirgui Pavan and his canoemen were equal to the occasion ; every time a high 'curler' threatened to engulf us they switched the canoes a little into the wind, and so kept out the greater part of its breaking crest,",0.8
+the northern shore,supplies,shelter,1,"Then a minute or so later we got under the shelter of a long, narrow tongue of land which served as an excellent breakwater.",0.8
+sirkin,supplies,"beds, warm clothes, and provisions",1,"He brought with him beds, warm clothes, and provisions...",0.85
+cossacks,controls,ferry-boat,1,"We moored the ferry-boat to the bank, and in less than five minutes dead silence reigned on board.",0.8
+chegghelik-uy,connects_to,tarim,1,"Towards evening we saw fires gleaming in the distance, and late that night we moored our faithful old craft for the last time to the left bank of the Tarim...",0.9
+the river,supplies,the canoes,1,"Although the boatmen received considerable assistance from the current, they were also compelled to ply their paddles well to make headway.",0.9
+the lake,connects_to,the village,1,"When I beheld thy footprints beside the lake, ...",0.8
+shagdur and tokta ahun,connects_to,the horse caravan,1,"It was Shagdur and Tokta Ahun, with the horse caravan.",0.8
+lop-men,depends_on,a can of fresh water and bundles of kamish,1,"The Lop-men had to row a long way out into the lake to get a can of fresh water, as well as a few bundles of kamish...",0.8
+roads,administers,travellers,1,"Asiatics consider it their duty to show a certain amount of gratitude towards their roads and tracks, and they do it by adding one or more stones to these pyramids as they pass them.",0.9
+travellers,depends_on,roads,1,"Without them, they could not find their way to the springs and grazing-grounds;",0.85
+the route,connects_to,"the glen, beside the brook, between cliffs of black slate",1,"The route led up the glen, beside the brook, between cliffs of black slate, which were often connected with the bottom of the valley by sheets of gravel-and-shingle.",0.9
+aldat,trades_with,cherchen,1,"He had spent the winter in the mountains shooting yaks, the skins of which he sold in Keriya.",0.8
+khodai vardi,depends_on,yanghi-koll,1,"One of these messengers was Khodai Vardi, whose name means 'the God-given,' but who, as a matter of fact, was a disagreeable individual from Yanghi-koll...",0.8
+aldat,supplies,yaks,1,"...he used to spend the whole winter hunting, carrying neither tent nor provisions, but living on the flesh of the yaks he shot...",0.8
+mongol camp at jurkhak,supplies,three fresh dogs,1,we had acquired three fresh dogs from the nearest Mongol camp at Jurkhak.,0.9
+islam bai,licenses,four camels from abdall,1,"Faisullah, to look after the four camels from Abdall ;",0.8
+musa from osh,migrates_through,lake of kum-koll,1,"Musa, from Osh, was to go with us as far as the lake of Kum-koll, taking six horses for the purpose of lightening the loads of the other animals ;",0.9
+wolves,disputes,sheep,1,The wolves had planned their attack so cunningly that the dogs heard nothing of it.,0.8
+chimen-tagh,connects_to,ara-tagh,1,"Right across our field of vision from east to west stretched another mountain-range, the Ara-tagh, entirely sheathed in snow from top to bottom...",0.8
+chimen-tagh,connects_to,kayir valley,1,"Between the Chimen-tagh and the Ara-tagh was a broad, latitudinal or parallel valley, called by the simple name of Kayir (the Clay Mud Valley).",0.8
+ara-tagh,connects_to,kalta-alagan,1,"The range we now looked upon was a fresh one, namely, the Kalta-alagan, from which the Aratagh was separated by another latitudinal valley...",0.9
+chimen-tagh,connects_to,chimen valley,1,The united stream then broke through the Chimen-tagh into the Chimen valley.,0.95
+caravan leaders,regulates,camping,1,"It began to get dusk, and cold, and we were longing for a glimpse of the column of smoke, which generally announced that the caravan leaders had discovered a suitable place for camping in.",0.85
+cherdon,trades_with,mollah shah,1,The men blamed Mollah Shah for going on with the horses after Aldat told him there was good grazing near a little spring on the other side of the pass.,0.8
+cherdon,trades_with,kutchuk and tokta ahun,1,"Half-an-hour later they were followed by Turdu Bai, with my cases and the dinner service on camels.",0.8
+musa and mollah shah,supplies,cherdon,1,I gave Musa and Mollah Shah...,0.8
+aldat and cherdon,controls,wild asses (kulans),1,"Aldat and Cherdon rode towards a troop of wild asses (kulans), 34 in number, which, however, fled at their approach...",0.85
+the men,negotiates_with,wild asses (kulans),1,"The mother finally deserted her offspring, which proved to be only four days old.",0.75
+the party,transports_via,camel's back,1,"We then packed it in a felt, and hoisted it upon a camel's back-a method of travelling to which it took quite kindly.",0.8
+the party,supplies,stores,1,"We let them both range at will amongst the tents and stores, and they showed no fear when we patted them.",0.7
+tokta ahun,disputes,humans,1,"His experience was that once a young kulan had been touched by the hands of man, its mother fled from it as from the pestilence.",0.8
+lake,connects_to,big salt lake of ayag-kum-kiill,1,"In this way we soon reached the western end of the lake, and found that it contracted into a little stream, which carried off its superfluous water, and emptied it into the big salt lake of Ayag-kum-kiill...",0.95
+the camels,depends_on,grass,1,"Their nostrils were widely distended, they wanted more air; and their eyes turned with a weary and indifferent look to the south, as if, amid this universe of barren, naked mountains, they had abandoned all hope of ever getting a good feed of grass again.",0.8
+arka-tagh,controls,glens,1,"The next day we decided to rest, so as to give Cherdon and Aldat an opportunity to reconnoitre the nearest glens leading over the Arka-tagh.",0.8
+arka-tagh,governs,mountains,1,"The spurs of the Arka-tagh lay like sphinxes looking towards the north, with their stony paws just hanging in the stream.",0.7
+tarim,supplies,big river,1,"It appeared to have its source in three large rounded mountains, which stood side by side like three-comered hats in the east-south-east, and flowed towards the west-north-west.",0.6
+aldat,supplies,meat,1,"Here Aldat managed to bag a big orongo, which put us all in better humour, for this supplied us with meat for several days.",0.9
+aldat,supplies,cartridges,1,"Unfortunately Cherdon had only brought a small supply of cartridges with him, and had used them up too lavishly at first ; so that for the future we were compelled to rely upon Aldat's gun.",0.8
+tibetan highlands,connects_to,gigantic mountain waves,1,"to cruise, like a vessel that leaves no track behind her, amongst those upswellings of the world's 'high sea,' to make our way over those gigantic mountain waves.",0.8
+the new mountain-range,connects_to,the foot of the hills,1,"The new mountain-range appeared to be low and easy to cross at a point south-west of our camp. Indeed, in comparison with the many which we had already crossed, we believed it would be a mere trifle.",0.8
+the horses,depends_on,firm ground,1,"At first the going was indeed not bad : the surface consisted of yellow clay, littered with stones and flakes of shale, and the ascent was easy.",0.7
+the camels,depends_on,"broad, flat pads",1,"The camels, patient and submissive, as they always were, struggled along in their wake, sinking in a foot or more at each step ; and yet their broad, flat pads were better than the horses' hoofs.",0.8
+the animals,taxes,their strength,1,"We had lost more than four hours over this wretched piece of road, besides climbing up to an altitude of 17,219 feet to no purpose whatever ; but the worst was that we had taxed the animals' strength severely, and all to no avail.",0.85
+the mountain-mass,connects_to,the lake,1,"In the south-west was a vast glaciated mountain-mass ; in the southeast a lake, and behind the latter the contours rose up into snow-clad heights of great altitude.",0.9
+the water,depends_on,salt,1,The water was so heavily charged with salt that the drops which fell into the boat stiffened like stearine;,0.9
+the caravan,exchanges_for,"food, water, and warm clothing",1,"Otherwise they would at least have sent a mounted messenger or two to tell us where they were, and- what was to us more important still-bring us food and water and warm clothing.",0.9
+the boat,depends_on,canvas hull,1,MTe were afraid the sharp gravel would cut the canvas hull of the boat ; but we managed to get the sail down in time.,0.8
+the lake,governs,salt,1,"On a hill-side was the bleached skull of a kulan, and not very far away we noticed the foot-prints of a bear. The salt lay like ice, merely covered by a thin film of water.",0.85
+the fuel,supplies,the fire,1,Kutchuk lighted the fire.,0.9
+the boat,supplies,fuel,1,"We made haste to gather a fresh supply of fuel, which we lighted with our last two or three matches.",0.8
+the boat,transports_via,southern shore,1,"We put the boat together again, rigged her up, launched her, manned her, and shook out the sail, using one of the oars as the boom and the other as the rudder, and away we skimmed like a swallow, hugging the southern shore.",0.9
+river,connects_to,salt lake,1,"On the south we were stopped by the river, which ran from the evidently fresh-water lake into the salt-water one.",0.8
+caravan,exchanges_for,boat,1,I would not go back until the miry high ground had frozen sufficiently to bear us. Finally I resolved to convoy the entire caravan across the river with the aid of the skiff.,0.75
+camel,transports_via,boat,1,"Having tied together the greater part of the ropes with which we lashed on the loads, we made one end fast on the left bank and dragged the other end up stream ; then, whilst I rowed across as hard as I could pull, Kutchuk stood up in the bow with the end of the rope in his hand ready to jump ashore.",0.85
+cherdon,supplies,aldat,1,"Cherdon cut me some cutlets, which were not at all bad ; but then it was a young animal, whose flesh was tender.",0.8
+the boat,transports_via,the river,1,"After the horses had waded across the river, getting only the lower half of their pack-saddles wet, we easily carried our loose luggage across in the boat.",0.8
+we,trades_with,food,1,and our catch was barely sufficient for one meal.,0.8
+mollah shah,supplies,four horses,1,"Climbing a little hill, I perceived Mollah Shah waiting for us on a head-land with the four horses.",0.9
+aldat,extracts_from,four orongo antelopes,1,"Aldat had shot four orongo antelopes, so that we were well provisioned for two or three weeks to come.",0.95
+aldat,supplies,us with fresh meat,1,Without Aldat our situation would have been very critical indeed ; he kept us supplied with fresh meat...,0.8
+aldat,supplies,the expedition (mainly meat),1,we relied upon Aldat to keep us supplied with meat.,0.8
+cherdon,supplies,a young yak,1,"Cherdon had carefully kept a few cartridges, but now expended them upon a young yak, which furnished us with a good load of excellent meat.",0.8
+aldat,depends_on,the bodily warmth of camels,1,"He also shot a wolf, which was evidently meditating designs upon our last surviving sheep. When we stopped, Aldat begged to be left all night between two camels in the open air; for the Mussulrnans believe that the bodily warmth of these animals will restore health and strength to a sick man whose own vitality is slackening.",0.8
+afgan,depends_on,tuff,1,"The bottom of the valley consisted of low-terraced table-lands, covered with layers of tuff fifty to seventy feet thick,",0.8
+aldat,depends_on,camel,1,"We packed him in between two bags of fuel, putting soft felts underneath him, and wrapped his feet in carpets, and rolled up a fur and put it under his head for a pillow, then lashed the whole fast with ropes on the back of a camel.",0.9
+yolldash,controls,bear,1,"He gets, at all events, plenty of exercise before his meal, for you can always see where a bear has been by the big heap of soil he makes.",0.8
+the valley,connects_to,a fresh-water pool,1,"we reached a fresh-water pool, with a few blades of grass beside it.",0.8
+the basin of the achik-koll,connects_to,a large stream,1,"From the latter direction it received a large stream, on which, when we forded it on the 5th of October, a good deal of drift-ice was floating.",0.8
+the caravan,depends_on,our animals,1,"The district was dotted over with hundreds of kulans, and more particularly with orongo antelopes.",0.6
+miners,depends_on,hunters,1,"for the rest of their food they depend upon the hunters who accompany them, and who for a trifle sell them the flesh of the yaks, kulans, and antelopes they shoot.",0.9
+camels,transports_via,assesses,1,"The miners convey their para-phernalia on the backs of asses, which they then send down into the valleys to graze during the two months that their work lasts.",0.9
+togdasin,controls,horse,1,"I gave him his own horse, which I had just bought from him, and sent him to Islam Bai with a message.",0.85
+togdasin,trades_with,islam bai,1,"He promised to be there in two days, and was instructed to tell Islam Bai to meet us with fifteen horses and a goodly supply of provisions at the springs of Supa- alik, two days west of Temirlik, in the Chimen valley.",0.8
+party of hunters,connects_to,load of skins,1,"who were on their way back to Cherchen with a load of skins, and had deliberately kept out of our way, not knowing who or what we were.",0.8
+our caravan,connects_to,"bagh-tokai, or the orchard wood",1,"Upon reaching a wretched little oasis in the midst of this desolate region, called Bagh-tokai, or the Orchard Wood...",0.8

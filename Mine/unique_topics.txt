@@ -1,3 +1,4 @@
+/amusement_parks/ride_designer
 /amusement_parks/ride_theme
 /architecture/architect
 /architecture/architectural_contractor
@@ -20,6 +21,7 @@
 /architecture/type_of_museum
 /architecture/venue
 /astronomy/astronomer
+/astronomy/astronomical_discovery
 /astronomy/celestial_object
 /astronomy/celestial_object_category
 /astronomy/celestial_object_with_coordinate_system
@@ -29,6 +31,7 @@
 /astronomy/galaxy
 /astronomy/meteorite_source
 /astronomy/moon
+/astronomy/near_earth_object_classification
 /astronomy/orbit_type
 /astronomy/orbital_relationship
 /astronomy/planet
@@ -214,6 +217,7 @@
 /chess/chess_color
 /chess/chess_player
 /comedy/comedy_genre
+/comic_books/comic_book_character
 /comic_books/comic_book_creator
 /comic_books/comic_book_genre
 /comic_books/comic_book_penciler
@@ -239,6 +243,7 @@
 /computer/operating_system_developer
 /computer/processor_manufacturer
 /computer/programming_language
+/computer/programming_language_developer
 /computer/programming_language_paradigm
 /computer/protocol_provider
 /computer/software
@@ -258,6 +263,7 @@
 /cvg/computer_game_rating_system
 /cvg/computer_game_region
 /cvg/computer_game_subject
+/cvg/computer_videogame
 /cvg/cvg_designer
 /cvg/cvg_developer
 /cvg/cvg_genre
@@ -270,8 +276,10 @@
 /dataworld/provenance
 /digicams/camera_compressed_format
 /digicams/camera_format
+/digicams/camera_sensor_manufacturer
 /digicams/camera_sensor_type
 /digicams/camera_uncompressed_format
+/digicams/digital_camera_manufacturer
 /dining/cuisine
 /dining/restaurant
 /distilled_spirits/blended_spirit
@@ -399,6 +407,7 @@
 /food/type_of_dish
 /games/game
 /games/game_designer
+/games/game_expansion
 /games/game_genre
 /games/game_publisher
 /games/playing_card_game
@@ -527,11 +536,13 @@
 /location/hud_foreclosure_area
 /location/id_city
 /location/id_province
+/location/id_regency
 /location/in_city
 /location/in_district
 /location/in_division
 /location/in_state
 /location/in_union_territory
+/location/irish_province
 /location/it_comune
 /location/it_region
 /location/jp_city_town
@@ -624,6 +635,7 @@
 /medicine/cancer_center_constituent
 /medicine/condition_prevention_factors
 /medicine/contraindication
+/medicine/diagnostic_sign
 /medicine/diagnostic_test
 /medicine/disease
 /medicine/disease_cause
@@ -718,6 +730,7 @@
 /olympics/olympic_torch_relay_location
 /olympics/olympic_venue
 /opera/librettist
+/opera/opera
 /opera/opera_character
 /opera/opera_director
 /opera/opera_genre
@@ -817,6 +830,7 @@
 /soccer/football_position
 /soccer/football_team
 /soccer/football_team_manager
+/spaceflight/astronaut
 /spaceflight/mission_destination
 /spaceflight/rocket_engine_fuel
 /spaceflight/rocket_engine_oxidizer
