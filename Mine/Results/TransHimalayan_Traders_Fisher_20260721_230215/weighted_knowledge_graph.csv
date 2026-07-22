@@ -1,0 +1,165 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+tarangpurians,exchanges_for,rice,3,"Deft practitioners of impression management, they form a cultural buffer between two opposing (Hindu and Buddhist) poles; salt and rice pass between these cultural frontiers, but ideas stop in the middle, where they are absorbed in a variety of ways. | But in the entrep6ts of the Terai and of India, exchanges are clearly part and parcel of the competitive market matrix. | Some surplus grain is exchanged for salt, which is then transported in small saddlebags carried by sheep and goats farther south to be exchanged for rice, which Tarangpurians serve on festive occasions.",0.767
+tarangpurians,exchanges_for,salt,2,"Deft practitioners of impression management, they form a cultural buffer between two opposing (Hindu and Buddhist) poles; salt and rice pass between these cultural frontiers, but ideas stop in the middle, where they are absorbed in a variety of ways. | The Tarangpurians use a portion of this salt to satisfy their own subsistence needs (as described in chap.)",0.7
+tarangpurians,trades_with,goods,2,"Examples of this kind of material are found in the discussion of culture and impression management in chapter 4. | Since they speak both Tibetan and Nepali, Tarangpurians are able to transport and market goods, including grain, from the south to the north and vice versa.",0.85
+tarangpur,connects_to,tichurong,2,"The same is true of all the thirteen villages of Tichurong (the exceptions are primarily the low-caste, Nepali-speaking artisans, and secondarily, the occasional Tibetan refugee family); there is very little leakage into or out of this social network. | Villagers say they import most bulls from villages outside Tichurong.",0.875
+bhotias,trades_with,tarangpurians,2,"The fact that the Tarangpurians in exodus during the winter are outnumbered by the incoming Bhotias is balanced by the fact that Tarangpurians who leave are all adult, while the Bhotias who replace them include many children... | These relationships are of two kinds: the mit (Nepali, pronounced 'meat'; Kaike, gyampa; Tibetan, robo) relationship, which is a formal, lifelong, blood-brother bond...",0.85
+tarangpur,connects_to,hindu society,1,"Unlike tribals elsewhere in South Asia, the Magars of Tarangpur live not only on the fringes of Hindu society but also on the fringes of Buddhist society.",0.8
+tarangpur,connects_to,buddhist society,1,"Unlike tribals elsewhere in South Asia, the Magars of Tarangpur live not only on the fringes of Hindu society but also on the fringes of Buddhist society.",0.8
+tarangpur,trades_with,tibetan north,1,"Marginal to both these traditions, and trilingual, the Magars have over the centuries become a cultural, linguistic, and economic hinge between the Tibetan north and the Nepali south.",0.7
+tarangpur,trades_with,nepali south,1,"Marginal to both these traditions, and trilingual, the Magars have over the centuries become a cultural, linguistic, and economic hinge between the Tibetan north and the Nepali south.",0.7
+dolpo district,controls,salt circuit,1,Transactions: The Salt Circuit,0.8
+his majesty's government of nepal,licenses,expedition,1,the permission of His Majesty's Government of Nepal and the friendly and helpful assistance of its officers.,0.8
+tarangpur,connects_to,south and central asian worlds,1,"Straddling the larger South and Central Asian Worlds, Tarangpur exemplifies the interstices of the multiethnic society of Nepal...",0.85
+tarangpur,migrates_through,himalayas,1,"...a two-week walk from the nearest motorized transportation, Tarangpurians are acutely aware of the world beyond their valley and have evolved various strategies for dealing with their remoteness.",0.8
+tarangpurians,depends_on,world beyond their valley,1,...have evolved various strategies for dealing with their remoteness.,0.75
+tarangpur village,connects_to,dhaulagiri zone,1,"The field research was conducted in Tarangpur village, Dolpo District, Dhaulagiri Zone,' between October 1968 and November 1969.",0.95
+jumla,connects_to,tarangpur,1,"There were small airstrips at Jumla, a week's walk to the west, and at Dhorpatan, a week's walk to the south...",0.95
+dhorpatan,connects_to,tarangpur,1,"There were small airstrips at Jumla, a week's walk to the west, and at Dhorpatan, a week's walk to the south...",0.95
+royal nepal airlines corporation dc-3,transports_via,pokhara,1,We took the regularly scheduled Royal Nepal Airlines Corporation DC-3 to Pokhara.,0.95
+changchu,supplies,eight tibetan ponies and their owners,1,"Fortunately, Changchu was able to rustle up eight Tibetan ponies and their owners to take us, for an exorbitant sum, the rest of the way.",0.9
+we,trades_with,tibetans,1,"We also paid off the Tibetans, and I belatedly regretted my earlier agreement to pay them at half-rate for their empty-handed return to Pokhara.",0.8
+government,regulates,national and local levels of government,1,"This was an external presence I had not anticipated, would never have requested, and did not relish, but it did provide unexpected opportunities to observe the interaction of national and local levels of government.",0.9
+panchayat,governs,village,1,"I also wanted to take a complete census of the village, with such details as age, clan membership, place of birth, and preliminary genealogical connections.",0.9
+outsiders,regulates,information,1,"People in some cultures are very anxious for outsiders to know about them; indeed, 1 marvel at the good fortune of a colleague who worked in Sri Lanka and found that he sometimes had to ask his informants to stop giving him so much detailed information that he couldn't record it all.",0.8
+outsiders,taxes,people,1,"the universal fear of higher taxes (a cultural universal, no doubt), they saw no advantage in handing out information that might fall into unfriendly hands, even if we ourselves were benign.",0.8
+dolpo district,governs,cultural setting,1,"The political and administrative unit of Dolpo District is a culturally heterogeneous, ecologically plural, multilinguistic entity.",0.9
+tichurong,governs,dolpo district,1,"Tarangpur is in fact one of the largest villages in Dolpo District, and a political and economic center as well.",0.8
+tarangpur,regulates,gomba,1,The following households patronize the gomba at house 5: ...,0.8
+villagers,trades_with,other villages,1,The following households engaged in some form of long-distance trade during 1968-1969: ...,0.8
+tichurong,connects_to,kathmandu,1,"To reach Tichurong from the capital, Kathmandu, one must first take the forty-minute flight west to Pokhara (or, nowadays, the road, completed in the early 1970s, which connects the two towns).",0.8
+pokhara,connects_to,tichurong,1,"From Pokhara it is a one-week walk via the Kali Gandaki and Myagdi Rivers to the Swiss-sponsored Tibetan refugee settlement of Dhorpatan, and almost another week straight north from Dhorpatan over the Jangla passes (almost 15,000 feet), which cut through a relatively low western spur of the Dhaulagiri massif, to Tichurong itself.",0.8
+dhorpatan,connects_to,tichurong,1,"From Pokhara it is a one-week walk via the Kali Gandaki and Myagdi Rivers to the Swiss-sponsored Tibetan refugee settlement of Dhorpatan, and almost another week straight north from Dhorpatan over the Jangla passes (almost 15,000 feet), which cut through a relatively low western spur of the Dhaulagiri massif, to Tichurong itself.",0.8
+jumla,connects_to,tichurong,1,"The administrative and commercial center of Jumla lies almost one week's walk west of Tichurong, beyond two approximately 13,000-foot passes.",0.8
+bheri river,connects_to,terai,1,"The long, difficult track down the Bheri River, which-several weeks' march from Tichurong- reaches the flat, alluvial extension of the Gangetic plain called the Terai, with its roads and whatever means of modern transportation ply them.",0.8
+tichurong,depends_on,malla kings,1,"From Tucci (1956, 1962) we learn that in the thirteenth and fourteenth centuries, west Tibet and a sizable chunk of western Nepal-almost certainly including the valley of Tichurong-were united under the Malla kings, whose two capitals were located at Sinja, northwest of Jumla, and at Taklakot, in western Tibet.",0.8
+gorkha kings,administers,tichurong,1,"These two documents strongly suggest that toward the end of the eighteenth century, the recently established Gorkha kings in Kathmandu placed Tichurong under the general jurisdiction of the Mustang Raja.",0.8
+gorkha kings,administers,tarakot,1,"A royal directive issued in 1805 (document 3) requested villagers in Tarakot (among other areas) to assist personnel from Kathmandu in locating hot springs and deposits of sulphur, palthar, lead, soda, iron, copper, and alum.",0.8
+nepal government,taxes,salt,1,"In 1838 taxes began to be levied on salt, wool, cloth, goats, and woolen blankets (documents 4 and 5).",0.7
+nepal government,taxes,wool,1,"In 1838 taxes began to be levied on salt, wool, cloth, goats, and woolen blankets (documents 4 and 5).",0.7
+nepal government,taxes,cloth,1,"In 1838 taxes began to be levied on salt, wool, cloth, goats, and woolen blankets (documents 4 and 5).",0.7
+nepal government,taxes,goats,1,"In 1838 taxes began to be levied on salt, wool, cloth, goats, and woolen blankets (documents 4 and 5).",0.7
+nepal government,taxes,woolen blankets,1,"In 1838 taxes began to be levied on salt, wool, cloth, goats, and woolen blankets (documents 4 and 5).",0.7
+nepal government,regulates,interest charges,1,"Porter rates were set (two annas per day), as were interest charges on loans of food and money (25 and 10 percent, respectively).",0.6
+nepal government,regulates,fees,1,"Fees were stipulated to mukhiyiis (village headmen who collected taxes in their villages), to priests for performing various pujas (worship ceremonies), and for reading texts.",0.6
+nepal government,regulates,tax collection,1,"There is no way to determine whether explicit directives of the kind just outlined were adhered to faithfully, but they could have been enforced only by local administrators of unquestioned loyalty to the king in Kathmandu.",0.5
+kathmandu,administers,tichurong,1,"In the late eighteenth and most of the nineteenth century, Kathmandu administered Tichurong through the Buddhist rajas of Mustang.",0.9
+the byas river raja,governs,the two palaces,1,"He had seen a woman traveling alone but that she had gone on up the trail. As they neared the room in which the woman was locked, the raja said: 'You can't go in there, because one of my daughters, who is pregnant, is inside.'",0.8
+lama families,depends_on,endogamous group,1,"like the Palpali Budhas, a largely endogamous group (see chap.",0.8
+tarangpur,exchanges_for,goods and ideas,1,"Despite the great distance and rugged terrain which seal Tichurong off from most of the rest of the world, an astonishing movement of goods and ideas does flow on a north-south axis through the hub of Tarangpur.",0.8
+tarangpur,connects_to,asia,1,Only by understanding the whole series of transactions in which Tarangpurians are vitally involved can we understand the complexities of life in Tarangpur today and its place in interstitial Asia.,0.8
+tarangpur,administers,agricultural activities,1,"Unlike some trading villages elsewhere in Nepal, Tarangpur has a full complement of agricultural ac-tivities at the base of its economy.",0.8
+tarangpur,connects_to,bheri river,1,"The lowest millet fields next to the Bheri River are at 7,600 feet...",0.8
+tarangpur,governs,village meeting,1,"About that time a village meeting was held and it was decided that it was all right to grow corn, which is thought to yield about five times as much grain as chinu millet (Panicurn miliaceum).",0.8
+villagers,trades_with,wealthier villagers,1,"People so poor that their grain stocks do not last from one harvest to another do not have to beg for food from wealthier villagers, for which they traditionally had to give several days labor per muri (ca. 2.4 bushels) of grain.",0.6
+himalayan farmers,depends_on,chinu millet,1,"They say that they eat a miina (a little less than a pint) of grain per meal, three meals a day, or three manas of grain per day.",0.8
+himalayan farmers,trades_with,hhotias,1,"To acquire one sheep, one and a half muris (3.6 bushels) of grain must be allocated by our hypothetical subsistence adult.",0.8
+himalayan farmers,trades_with,tarangpurians,1,"Grain can be sold as well as bartered, and the going rates are Rs. 80 ($7.92) for a muri (160 manas or 2.4 bushels) of chinu millet and Rs. 40 ($3.96) for a muri (2.4 bushels) of buckwheat.",0.8
+himalayan farmers,trades_with,the south and west,1,"Like salt, the peppers have to be imported, though from the south and west rather than from the north.",0.8
+himalayan farmers,exchanges_for,salt,1,"Chinu millet is traded for salt at a more favorable rate than is buckwheat, but on the average, about three-quarters of a rupee must be traded for about 7.5 percent that amount of salt.",0.8
+himalayan farmers,exchanges_for,peppers,1,"These peppers sell at the rate of three manas (pints) per rupee (equal to $0.10); thus forty manas (pints), or 0.25 muri, can be bought for Rs.",0.8
+himalayan farmers,exchanges_for,sheeplgoats,1,Barter for sheeplgoats,0.9
+himalayan farmers,trades_with,salt,1,Barter for salt,0.85
+farmers,depends_on,agricultural surplus,1,"This is important, because the elaborate transaction circuits (some of which have already been implied in the barter and sale of grain for the items in table 5 that are not available locally) are all built upon and depend on the existence of an agricultural surplus beyond these subsistence needs.",0.8
+grain,supplies,beer or liquor,1,"About half a muri or 1.2 bushels (i.e., the total production of barley) would be used for manufacturing beer or distilled liquor.",0.85
+grain,supplies,clothes to wear,1,Some grain must be set aside for obtaining clothes to wear.,0.8
+tarangpur,depends_on,land ownership,1,"To calculate the size of the surplus for all of Tarangpur, it is necessary to determine how much land is owned by each family.",0.9
+the ritual specialist,supplies,his ritual services,1,payments for his ritual services each year are considerable,0.8
+carpenter/blacksmith,supplies,"plow, hoe-like instrument for breaking up clods of earth, hand-held weeder",1,"A plow: this can be made by oneself, bought from any of five village men who are particularly skilled in making plows... A hoe-like instrument for breaking up clods of earth after a field has been plowed: this is made by one's Carpenter/Blacksmith client for a meal on the working day plus the annual payment. A hand-held weeder: this is also made by the Carpenter1 Blacksmith client on the same basis as the hoe-like instrument.",0.95
+farmers,trades_with,"five village men who are particularly skilled in making plows, carpenter/blacksmith",1,"A plow: this can be made by oneself, bought from any of five village men who are particularly skilled in making plows.",0.85
+tarangpur,connects_to,north-south trade axis,1,Their linguistic competence-unique along this north-south trade axis-gives them a great competitive advantage...,0.85
+tarangpurians,supplies,animals,1,"It can also be done by purchasing animals, which produce ghee, wools, meat, eggs, and so on.",0.8
+himalayan farmers,controls,labor force,1,"Even when the participation of men is essential, as in plowing, for the most part the overall strategy is conceived and planned by women.",0.8
+himalayan farmers,trades_with,villagers in khasan and bhot,1,"All these transactions-and others involving exchange of goods with the world beyond Tichurong-are made by men, and men alone.",0.8
+himalayan farmers,trades_with,"villagers in india-to places such as kanpur, kalimpong, and calcutta",1,"Their ultimate destination is usually Butwal in the Terai (though some go as far as India-to places such as Kanpur, Kalimpong, and Calcutta)",0.8
+men,regulates,labor market,1,"All these transactions-and others involving exchange of goods with the world beyond Tichurong-are made by men, and men alone.",0.6
+men,trades_with,manufactured goods,1,procure clothes and other manufactured goods for their families.,0.8
+women,exchanges_for,agriculturally oriented tasks,1,devote almost all their working time to agriculturally oriented tasks and little else.,0.85
+men,licenses,plow used in tichurongi6,1,"The plow used in TichurongI6 is found nowhere else in Nepal, not even a few miles away (see Aitken 1963).",0.75
+villagers,regulates,plowing techniques,1,They never experiment with any of these features themselves.,0.7
+tarangpur men,migrates_through,south,1,...it is consumed by Bhotias who come to villages like Tarangpur during the winter months and 'take the place' of Tarangpur men who have gone still farther south to trade.,0.85
+bhotias,supplies,food,1,For this labor they receive food on the day they work plus six manas (pints) of unprocessed grain for hard work...,0.8
+the people of tarangpur,trades_with,other places and peoples,1,Despite their geographical isolation the people of Tichurong have been linked with other places and peoples from primordial times.,0.8
+tarangpur villagers,depends_on,bhotia traders,1,"They rely on Bhotias who enter Tibet, where they exchange grain for salt at villages and entrepots just over the border.",0.9
+bhotia traders,trades_with,tibetan villagers,1,"Before the Chinese exerted their full authority, one measure of grain would generally bring three of salt in Tibet.",0.8
+tichurong people,trades_with,salt,1,"Tichurong people most commonly trade buckwheat and chinu millet for salt, ...",0.8
+tichurong people,trades_with,rice,1,...it is exchanged for rice.,0.8
+tibetan salt,supplies,bhotia economy,1,without which the Bhotia economy would completely collapse and the Tarangpurians would be unable to barter for salt of any kind...,0.9
+millet and buckwheat,exchanges_for,tibetan salt,1,since millet and buckwheat cannot be exchanged against salt in the rice-growing areas of southern Nepal or north India.,0.85
+tarangpurians,trades_with,bhotias,1,...and Hindus to the north and Hindus to the south.,0.75
+rnit brothers,licenses,traditional obligations that a consanguineal brother would,1,A rnit brother would in theory perform all the traditional obligations that a consanguineal brother would...,0.85
+tarangpurians,exchanges_for,tibetan buddhism,1,"The combination of these social and economic contacts has resulted in a strong Buddhist influence, brought about because the power believed to be possessed by great lamas and the good fortune which accrues to those who follow their teachings are regarded as worth transacting for.",0.9
+tarangpur traders,trades_with,tibetan buddhists,1,"With the salt comes contact with the distinctive life-style, pervasive over the northern border areas of Nepal, of Tibetan Buddhism...",0.85
+tarangpurians,depends_on,tibetan lamas,1,"Many of them have visited Tichurong. Tarangpurians have long since engaged the services of lamas for performing life-cycle rituals, rites purging houses of malevolent forces, and medical curing of disease.",0.95
+tarangpur,connects_to,tibetan culture,1,These social links connect Tarangpur to two different cultural systems in two different directions of the compass.,0.8
+tarangpur traders,trades_with,hindus,1,"The Tarangpur traders travel north to the Tibetan-speaking areas, but just as often, the Bhotias come to Tarangpur. Lamas and other Bhotias come south in winter to live, even if they have nothing to trade but their labor.",0.8
+magars of tarangpur,trades_with,hindus to the south,1,"they have not conceded rank (not yet, at least) because their interactions with Hindus to the south and with Buddhists to the north are too problematic",0.8
+indian salt,trades_with,tibetan salt trade,1,"Indian salt has been quick to capitalize on the opportunity to fill the gap by moving further and further up into the hills, where it nibbles at the retreating border that marks the southern limit of the Tibetan salt trade.",0.9
+sheep and goats,trades_with,"wool, blankets, sweaters, mufflers, and other woolen goods",1,"But over the years grain has been exchanged for products of these animals such as wool, blankets, sweaters, mufflers, and other woolen goods...",0.8
+trader,exchanges_for,meat,1,"In these circumstances also, meat can be sold on credit.",0.8
+tarangpurians,trades_with,wool,1,"But while a not inconsid-erable number of households deal in livestock, many more buy, make, and sell woolen goods either instead of or in addition to the sale of animals.",0.8
+tarangpurians,trades_with,middle hills,1,"The Bhotia women who spend the winter in Tarangpur earn their living by weaving blankets, waist sashes, and scarves for Tarangpurians, who will then sell them in the middle hills during the next trading expedition.",0.75
+traders,trades_with,woolen goods,1,Transactions in woolen goods are so variable and dependent on ...,0.8
+tarangpurians,trades_with,terai,1,"Taking the cash that they have received for their animals and woolen goods, traders from Tarangpur move on from the villages of the middle hills and descend to the Terai...",0.8
+tarangpurians,exchanges_for,animals,1,"By the time they have disposed of their livestock or woolen goods in the middle hills, Tarangpurians have completed only half of the transactions they must consummate in order to proceed the next year with the same round of activities.",0.8
+tarangpurians,trades_with,dolpo,1,"The middle hills can give them money for what they bring with them from Dolpo, but this cash must be converted back into something which will be in demand in Dolpo.",0.8
+tarangpurians,supplies,sheep and goats or horses,1,"But by converting the cash into scarce goods, a profit can be made in both directions rather than just in one, and trade in each direction then becomes worthwhile in itself.",0.8
+tarangpurians,trades_with,butwal,1,"The most accessible Terai market is the boomtown of Butwal, just at the edge of the hills.",0.8
+tibetan traders,trades_with,northern border,1,goods can be sold toward the northern border for about twice what they cost near the southern border.,0.8
+porters,supplies,food,1,"a porter would consume food worth Rs. 52.50 ($5.20), giving a total cost per porter (food plus carrying fee) of roughly Rs.",0.9
+tarangpurian,exchanges_for,wool,1,"The goods that are sold in Bhot are often bartered against the sheep, goats, or wool which the Tarangpurian wants to take south again in the next season.",0.9
+tarangpurians,trades_with,other villages of tichurong,1,"Detailing all the multifarious transactions that these Tarangpur traders engage in each year should not make us forget how atypical they are for most of this part of Nepal, including several of the other villages of Tichurong.",0.8
+tarangpurians,trades_with,bhot to the terai,1,"The reasons for Tarangpur's commercial dominance lie partly in its physical location, astride the shortest route, just below the Jangla passes, from Bhot to the Terai.",0.8
+thakali women,administers,bhattis,1,the Thakali women organize and manage bhattis (cheap 'hotels' where travelers can stay and buy prepared meals),0.95
+thakali men,trades_with,elsewhere,1,while their husbands may be trading elsewhere,0.85
+tarangpur women,disputes,running bhattis,1,"Tarangpur women engage in almost no commercial pursuits and have developed no business skills, and Tarangpur men worry that their women would be regarded as prostitutes if they ran bhattis as the Thakali women do",0.8
+tarangpurians,regulates,credit,1,"Finally, Tarangpurians regard the widespread practice of giving credit as a brake on their economic activity",0.85
+thakali woman,exchanges_for,ious,1,"An adventuresome Thakali woman came to the district capital recently to open a 'hotel' but felt obliged in the area to extend credit by accepting IOUs, most of which were never honored",0.9
+tarangpurians,trades_with,salt,1,"exchanged within the traditional, interregional symbiotic area, in which exchanges are made at well-established rates that change only glacially.",0.8
+tarangpur,controls,wealth,1,"No one's financial position is frozen, and in an economy as diversified as Tarangpur's, the fortunes of particular families do rise and fall over time.",0.8
+family,controls,resources and wealth,1,It makes day-to-day decisions concerning the allocation of time and resources and controls the wealth it owns.,0.9
+tarangpurians,regulates,land taxes,1,The land taxes average about $0.07 per person annually...,0.9
+the mother's conjugal household,supplies,chickens,1,The mother's conjugal household is obliged to give the mother several chickens-usually about fifteen-to help her regain her strength and vigor.,0.8
+tarangpurians,exchanges_for,food,1,Many host households would be forced to borrow some part of this large amount of food from relatives...,0.8
+host,supplies,patum and his assistants,1,"Their duties are to see that the patum, the ritual specialist for this indigenous cult, and his assistants are fed during periods of celebration.",0.8
+host,supplies,entire village,1,"The host has a few minor additional expenses for other brief rituals during the course of the year, and during the major winter rite each household contributes a few rupees worth of beer and negligible amounts of flour as ritual ingredients.",0.8
+patum,extracts_from,food,1,"The patum and his assistants must be fed the finest food-that is, not chinu millet but rice, and not the usual buckwheat but the sweet buckwheat.",0.8
+tarangpur magars,supplies,food and drink,1,"40 manas (pints) rice, 20 manas (pints) Tibetan dried cheese, ... 10 manas (pints) salt, 30 manas (pints) chili peppers",0.8
+tarangpurians,controls,their wealth,1,"In any given year there are some Tarangpurians on pilgrimage, but each individual goes rarely, in control and Uses of Wealth: The Traditional Context many cases only once in a lifetime...",0.8
+tarangpur,governs,village context,1,Transactions with the outside world are so critical to an understanding of the gradual transformation of Tarangpur...,0.8
+tarangpur magars,controls,class i tichurong magars,1,"To become a new class I member one must pay a large sum of money (several hundred rupees) and secure the acceptance of all other class I members, symbolized by drinking from a common cup.",0.9
+tarangpur magars,governs,groups 1 through 7,1,Groups 1 through 7 constitute a continuum along which interdining and entrance to houses and kitchens is permitted.,0.85
+tarangpur magars,disputes,magars elsewhere in nepal,1,"Marriage normally takes place within the group, since it is the criterion which establishes them, but exceptions to the rules, which account for most of class 111, do take place among the Magar groups up to and including group 5.",0.7
+tarangpur magars,negotiates_with,tibetans,1,Marriage between a Tarangpur Magar and someone from group 6 or below would be unthinkable.,0.8
+tarangpur magars,regulates,groups 8 and 9,1,Only groups 8 and 9 are not permitted to enter the houses of or interdine with Tarangpurian members of the first seven categories.,0.9
+tarangpurians,depends_on,wealth,1,"Their meaning and amount does not seem to have changed in the last forty years, so these measures do not give any indication of what Tarangpurians do with the wealth that has been accumulating since the onset and firm entrenchment of the commodities circuit.",0.9
+lamas,disputes,others,1,These families tend to cluster in the poorer strata.,0.7
+tarangpur,governs,taratigp~~r,1,"This intetlsification of political activity is more characteristic of Taratigp~~r than of other -TicIiurong villages, partly because of Tarangpur's longer and more penetrating association with Hindu areas...",0.8
+families,exchanges_for,bullock labor,1,The few families who do not own their own bullock have to exchange their own labor for that of a bullock...,0.8
+two friends,trades_with,winter goods and expenses,1,"The two spent the trading season together, and on the return trip from the Terai, the poorer of the two carried a regular load for the wealthy man, in exchange for his expenses for the entire trip, clothes, and a few cartons of cigarettes which he could then sell on his own.",0.8
+kami,depends_on,land,1,The founders of Kami village in the first half of the nineteenth century worked whatever land above their village had not been claimed and cultivated by the Magars...,0.85
+bhotias,supplies,salt,1,"This salt is acquired from Bhotias to the north, who have in turn crossed over into Tibet and obtained it from Tibetans, who have brought it from its source.",0.9
+tibetans,supplies,salt,1,Thus salt is the crucial commodity which has triggered a series of transactions described here as circuits.,0.95
+tarangpur,depends_on,salt market,1,"A declining salt market, brought about by a variety of local and international causes...",0.85
+grain-salt-rice,trades_with,barter,1,* Grain-Salt-Rice barter Man's time Buddhism Hinduism * Food Woman's time Consumption Agricultural production and processing,0.8
+livestock/wool-cash-commodities,trades_with,exchange,1,Sheep/goats/wool- Cash-Commodities exchange,0.8
+tarangpurians,trades_with,commodities circuit,1,"Thus as a direct result of ideas that have been imported via the commodities circuit, Tarangpurians have consciously and deliberately altered a fundamental part of their social structure.",0.8
+people,depends_on,rest of the ever-approaching world beyond their valley,1,"This process pinpoints the changes that are slowly but inexorably engulfing the people of Tarangpur, blurring and maintaining boundary mechanisms between them and the rest of the ever-approaching world beyond their valley.",0.8
+a road,connects_to,kathmandu to pokhara,1,"A road from Kathmandu to Pokhara has been in existence even longer; more roads north of Pokhara are planned, but 1 doubt that any road will ever be built within several days walk of Tichurong.",0.8
+tichurong,connects_to,jumla and bhot,1,This is the region lying between the boundaries of Jumla and Bhot.,0.9
+himalayan salt,regulates,tributary relations,1,,0.8
+"washington, d.c.",administers,american anthropological association,1,"Village India. Washington, D.C.: American Anthropolog- ical Association, Memoir 83, 1955.",0.8
+ministry of economic planning,regulates,economics and commerce departments,1,"Ministry of Economic Planning, His Majesty's Government, and Economics and Commerce Departments, Tribhuvan University, Kirtipur, Nepal 1966.",0.8
+his majesty's government,governs,nepal,1,"Kathmandu, Nepal: His Majesty's Government (mimeographed), 2025 B.S.",0.95
+bhoti bhotias,trades_with,barley,1,"Barley, 55, 124, 125, 210-211 n. 13; for brewing, 57, 63; traded, 88.",0.85
+cigarettes,trades_with,tea,1,items traded in (see Cigarettes; Cloth; Tea),0.8
+cloth,trades_with,wool,1,"cloth for resale, 77, 118; traded, 100-101, 125.",0.75
+households,supplies,crops,1,"by households, 121-122;",0.85
+congress party,governs,dolpo district,1,"government in, 125.",0.9
+tarangpur,depends_on,dolpo district,1,"Dolpo District, 15-20,34; borders of, 19;",0.8
+nepal,governs,government of nepal,1,"government of, 125, 168-169, 170, 171, 175; king of, 32, 33",0.9
+salt,trades_with,grain-salt-rice circuit,1,Traded (see Grain-salt-rice circuit),0.8
+tobacco,trades_with,government personnel,1,"to government personnel, 125",0.8
+livestock,supplies,bhotias,1,"livestock, 62, 100, 101-106, 115, 125, 127, 185-186",0.9
+men,controls,weaving,1,,0.8
+wool,trades_with,other regions,1,"traded, 106-110, 111, 115, 125, 185, 186",0.9

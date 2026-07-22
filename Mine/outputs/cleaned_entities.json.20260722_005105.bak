@@ -30,12 +30,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "agricultural activities",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "agricultural advances, chiefly seed-grain",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -174,12 +168,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "beer or liquor",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "begar",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -198,34 +186,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "bhot to the terai",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bhoti bhotias",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bhotia economy",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "bhotia traders",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "bhotias",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "big river",
@@ -339,12 +303,6 @@
     "entity": "butter",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "butwal",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -495,7 +453,7 @@
     "entity": "china and tibet",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "chinese",
@@ -540,46 +498,16 @@
     "confidence": 0.8
   },
   {
-    "entity": "chinu millet",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "cigarettes",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "civilisational centres",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
   },
   {
-    "entity": "class i tichurong magars",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "cloth",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "clothes",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "clothes to wear",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
   },
   {
     "entity": "coarse wool",
@@ -612,19 +540,7 @@
     "confidence": 1.0
   },
   {
-    "entity": "commodities circuit",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "concessions for mining rights",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "congress party",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -654,22 +570,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "credit",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "cultivator",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "cultural setting",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "cumbersome system of administration",
@@ -747,13 +651,7 @@
     "entity": "dolpo",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "dolpo district",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "dominant village community",
@@ -783,7 +681,7 @@
     "entity": "drokpas",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "duties on goods imported and expo.rtoa",
@@ -804,12 +702,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "entire village",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "eskilstuna knife",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -819,16 +711,10 @@
     "entity": "europe",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "europeans",
-    "type": "GROUP",
-    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
-    "entity": "farmers",
+    "entity": "europeans",
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
@@ -840,12 +726,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "fees",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "ferry-boat",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -853,27 +733,9 @@
   },
   {
     "entity": "fish",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "five village men who are particularly skilled in making plows, carpenter/blacksmith",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "food",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "food and drink",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "food and water",
@@ -966,21 +828,9 @@
     "confidence": 0.8
   },
   {
-    "entity": "goats",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "goloks",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "gomba",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -997,18 +847,12 @@
   },
   {
     "entity": "goose",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
     "entity": "gopal ji",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "gorkha kings",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -1032,22 +876,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "government of nepal",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "government personnel",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "grain",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "grain for salt",
@@ -1068,12 +900,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "grain-salt-rice circuit",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "grains",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -1081,18 +907,6 @@
   },
   {
     "entity": "grass",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "groups 1 through 7",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "groups 8 and 9",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -1146,12 +960,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "hhotias",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "high caste groups from the plains",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -1174,12 +982,6 @@
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
-  },
-  {
-    "entity": "himalayan farmers",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
   },
   {
     "entity": "himalayan hill states' regional council",
@@ -1206,12 +1008,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "himalayan salt",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
     "entity": "himalayas",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -1227,7 +1023,7 @@
     "entity": "his majesty's government",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "honey and milk products",
@@ -1246,12 +1042,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "host",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
   },
   {
     "entity": "humlis",
@@ -1320,12 +1110,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "interest charges",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "irrigation",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1389,7 +1173,7 @@
     "entity": "kashmiri shawl",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "kashmiri shawl industry",
@@ -1414,12 +1198,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 0.8
-  },
-  {
-    "entity": "kathmandu",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "khaltse",
@@ -1500,18 +1278,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "labor force",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "labor market",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "labour",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1572,19 +1338,7 @@
     "confidence": 0.8
   },
   {
-    "entity": "land ownership",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "land revenue levied",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "land taxes",
     "type": "CONCEPT",
     "circuit": "Political economy",
     "confidence": 1.0
@@ -1692,12 +1446,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "magars elsewhere in nepal",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "maharaja physical",
     "type": "CONCEPT",
     "circuit": "Political economy",
@@ -1711,12 +1459,6 @@
   },
   {
     "entity": "mahzrzjz g u l ~ b singh",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "malla kings",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -1773,7 +1515,7 @@
     "entity": "manufactured goods",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "marginal, oppressed people",
@@ -1834,12 +1576,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 0.8
-  },
-  {
-    "entity": "middle hills",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "milk",
@@ -1950,12 +1686,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "national and local levels of government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "natural products",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1980,21 +1710,9 @@
     "confidence": 1.0
   },
   {
-    "entity": "nepal government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "nepalese traders",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "nepali south",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -2029,12 +1747,6 @@
   },
   {
     "entity": "northerly direction, down past glacial lakelets",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "northern border",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
@@ -2094,24 +1806,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "other places and peoples",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "other regions",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "other villages of tichurong",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "outer hills",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -2122,12 +1816,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "outsiders",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
   },
   {
     "entity": "ownership of tso kar",
@@ -2166,12 +1854,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "patum",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "peasant families",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -2196,12 +1878,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "people",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "people in northern india",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -2209,12 +1885,6 @@
   },
   {
     "entity": "pindri",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "plow used in tichurongi6",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -2254,12 +1924,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "porters",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "position on a part of the mountain range",
@@ -2367,7 +2031,7 @@
     "entity": "relations with the government of lhasa",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "relatives of the ruler and other state officials",
@@ -2394,21 +2058,9 @@
     "confidence": 1.0
   },
   {
-    "entity": "rest of the ever-approaching world beyond their valley",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "rib muscles of an old he-camel",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "rice",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -2484,12 +2136,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "russian consul at urumchi",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "russian emperor",
     "type": "PERSON",
     "circuit": "Social actors",
@@ -2544,12 +2190,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "salt circuit",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
     "entity": "salt from the lakes in trucks",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
@@ -2558,12 +2198,6 @@
   {
     "entity": "salt lakes",
     "type": "LOCATION",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
-  },
-  {
-    "entity": "salt market",
-    "type": "COMMODITY",
     "circuit": "Salt anchor",
     "confidence": 1.0
   },
@@ -2650,12 +2284,6 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "sheep and goats or horses",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
   },
   {
     "entity": "shepherds",
@@ -2802,48 +2430,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tarakot",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tarangpur",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tarangpur magars",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tarangpur traders",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "tarangpur villagers",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "tarangpurians",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "taratigp~~r",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "tarim",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -2868,12 +2454,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tax collection",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "tea",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -2883,12 +2463,6 @@
     "entity": "tea, sugar, spices, rice, and other food products at dozum fair",
     "type": "CONCEPT",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "terai",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -3078,12 +2652,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "the people of tarangpur",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "the petty states",
     "type": "LOCATION",
     "circuit": "Political economy",
@@ -3150,12 +2718,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "the south and west",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "the state",
     "type": "LOCATION",
     "circuit": "Political economy",
@@ -3208,12 +2770,6 @@
     "type": "COMMODITY",
     "circuit": "Salt anchor",
     "confidence": 0.8
-  },
-  {
-    "entity": "their wealth",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "these mountain communities",
@@ -3270,12 +2826,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tibetan buddhists",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "tibetan changpas",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -3324,22 +2874,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "tibetan lamas",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "tibetan mountains",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "tibetan north",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "tibetan officials",
@@ -3372,18 +2910,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "tibetan salt trade",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 0.8
-  },
-  {
-    "entity": "tibetan traders",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "tibetan travellers",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -3394,12 +2920,6 @@
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 1.0
-  },
-  {
-    "entity": "tibetan villagers",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
   },
   {
     "entity": "tibetan women",
@@ -3414,18 +2934,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tichurong",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tichurong people",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
     "entity": "tika ruder sen",
     "type": "PERSON",
     "circuit": "Social actors",
@@ -3435,12 +2943,6 @@
     "entity": "to the borders of tibet",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "tobacco",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -3528,12 +3030,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tributary relations",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "tsakalho",
     "type": "LOCATION",
     "circuit": "Salt anchor",
@@ -3594,12 +3090,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "village context",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "village deity",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -3612,27 +3102,9 @@
     "confidence": 1.0
   },
   {
-    "entity": "village meeting",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "village sites or farmlands, local pastures or forests",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "villagers in india-to places such as kanpur, kalimpong, and calcutta",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "villagers in khasan and bhot",
-    "type": "GROUP",
-    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -3684,34 +3156,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "we",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "wealth",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "wealthier villagers",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
     "entity": "weather in the mountains",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "weaving",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "wells",
@@ -3762,34 +3210,10 @@
     "confidence": 0.8
   },
   {
-    "entity": "wool",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "wool of the pastoralists",
     "type": "GROUP",
     "circuit": "Commodity circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "woolen blankets",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "woolen goods",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "world beyond their valley",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "xirab",

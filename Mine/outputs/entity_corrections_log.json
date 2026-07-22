@@ -1,16 +1,26 @@
 {
   "corrections": [
     {
-      "entity": "wazir",
+      "entity": "fish",
       "old_type": "CONCEPT",
-      "new_type": "GROUP",
+      "new_type": "COMMODITY",
       "old_confidence": 0.8,
-      "new_confidence": 0.9326,
-      "ner_relevance": 0.03,
-      "ner_raw_confidence": 3.285,
+      "new_confidence": 1.0,
+      "ner_relevance": 0.405,
+      "ner_raw_confidence": 17.18,
+      "source": "textrazor"
+    },
+    {
+      "entity": "goose",
+      "old_type": "CONCEPT",
+      "new_type": "COMMODITY",
+      "old_confidence": 0.8,
+      "new_confidence": 0.9995,
+      "ner_relevance": 0.272,
+      "ner_raw_confidence": 9.512,
       "source": "textrazor"
     }
   ],
   "not_found_in_ner": [],
-  "total_entities": 449
+  "total_entities": 543
 }

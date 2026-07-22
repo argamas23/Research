@@ -61,6 +61,8 @@ pip install pymupdf textrazor ollama spacy networkx pyvis pandas numpy tqdm
 python3 -m spacy download en_core_web_sm
 ```
 
+For scanned PDFs, install the system `tesseract` binary. `Mine/script.py` will use it only on pages where normal PDF text extraction finds too little text.
+
 Install and prepare Ollama separately:
 
 ```bash
@@ -111,7 +113,7 @@ Pipeline stages:
 
 | Step | Script | Purpose | Main output |
 | --- | --- | --- | --- |
-| 1 | `Mine/script.py` | Extract PDF text with PyMuPDF | `corpus/<book>.txt` |
+| 1 | `Mine/script.py` | Extract PDF text with PyMuPDF, falling back to OCR for scanned pages when Tesseract is installed | `corpus/<book>.txt` |
 | 2 | `Mine/Textrazor.py` | Extract entities and topics | `ner_results.txt` |
 | 3 | `Mine/Topics.py` | Merge and deduplicate topic labels | `Mine/unique_topics.txt` |
 | 4 | `Mine/process2.py` | Find nearby entities around selected topic anchors | `entity_cooccurrences.txt` |

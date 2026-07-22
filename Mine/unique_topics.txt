@@ -1,3 +1,5 @@
+/american_football/football_coach
+/american_football/football_player
 /amusement_parks/ride_designer
 /amusement_parks/ride_theme
 /architecture/architect
