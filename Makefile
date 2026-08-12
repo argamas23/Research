@@ -2,7 +2,7 @@ PYTHON ?= python3
 BOOK ?=
 WORKERS ?= 4
 
-.PHONY: help run graph delete-preview delete check-book
+.PHONY: help run graph validation-auto delete-preview delete check-book
 
 help:
 	@printf "%s\n" \
@@ -10,6 +10,7 @@ help:
 		"  make run BOOK=1910.pdf" \
 		"  make run BOOK=1910.pdf WORKERS=8" \
 		"  make graph" \
+		"  make validation-auto" \
 		"  make delete-preview BOOK=1910.pdf" \
 		"  make delete BOOK=1910.pdf"
 
@@ -19,6 +20,9 @@ run: check-book
 graph:
 	$(PYTHON) Mine/rebuild_graph.py
 	$(PYTHON) Mine/salt_recall_audit.py
+
+validation-auto:
+	$(PYTHON) Mine/evidence_validate.py
 
 delete-preview: check-book
 	$(PYTHON) Mine/pipeline.py --book "$(BOOK)" --delete --dry-run
