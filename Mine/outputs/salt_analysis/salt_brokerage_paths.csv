@@ -1,0 +1,101 @@
+view,source,source_type,target,target_type,path_length,path
+validated,abdu rehim,CONCEPT,aldat,CONCEPT,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat
+validated,abdu rehim,CONCEPT,camel,CONCEPT,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> camel
+validated,abdu rehim,CONCEPT,the bodily warmth of camels,CONCEPT,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> the bodily warmth of camels
+validated,abdu rehim,CONCEPT,four orongo antelopes,CONCEPT,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> four orongo antelopes
+validated,abdu rehim,CONCEPT,cartridges,CONCEPT,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cartridges
+validated,abdu rehim,CONCEPT,meat,COMMODITY,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> meat
+validated,abdu rehim,CONCEPT,the expedition (mainly meat),COMMODITY,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> the expedition (mainly meat)
+validated,abdu rehim,CONCEPT,us with fresh meat,COMMODITY,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> us with fresh meat
+validated,abdu rehim,CONCEPT,yak,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak
+validated,abdu rehim,CONCEPT,cherchen,CONCEPT,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherchen
+validated,abdu rehim,CONCEPT,amdowa tribes,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> amdowa tribes
+validated,abdu rehim,CONCEPT,bathang,LOCATION,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> bathang
+validated,abdu rehim,CONCEPT,tsakalho,LOCATION,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> bathang -> tsakalho
+validated,abdu rehim,CONCEPT,buddhist devotees,GROUP,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> bathang -> tsakalho -> buddhist devotees
+validated,abdu rehim,CONCEPT,boat,CONCEPT,10,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> camel -> boat
+validated,abdu rehim,CONCEPT,chang-pa,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> chang-pa
+validated,abdu rehim,CONCEPT,thousands and thousands of sheep,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> chang-pa -> thousands and thousands of sheep
+validated,abdu rehim,CONCEPT,cherdon,CONCEPT,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherdon
+validated,abdu rehim,CONCEPT,a young yak,COMMODITY,10,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherdon -> a young yak
+validated,abdu rehim,CONCEPT,kutchuk and tokta ahun,CONCEPT,10,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherdon -> kutchuk and tokta ahun
+validated,abdu rehim,CONCEPT,mollah shah,CONCEPT,10,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherdon -> mollah shah
+validated,abdu rehim,CONCEPT,chernoff,CONCEPT,10,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> camel -> chernoff
+validated,abdu rehim,CONCEPT,dogs,CONCEPT,11,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> camel -> chernoff -> dogs
+validated,abdu rehim,CONCEPT,chinese,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> chinese
+validated,abdu rehim,CONCEPT,tibetans,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans
+validated,abdu rehim,CONCEPT,tibetan delegates,GROUP,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> chinese -> tibetan delegates
+validated,abdu rehim,CONCEPT,chinese authorities,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> chinese authorities
+validated,abdu rehim,CONCEPT,cossacks,CONCEPT,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men -> ferry-boat -> cossacks
+validated,abdu rehim,CONCEPT,ferry-boat,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men -> ferry-boat
+validated,abdu rehim,CONCEPT,east turkestan,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> chinese authorities -> east turkestan
+validated,abdu rehim,CONCEPT,europe,LOCATION,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men -> manufactured goods -> europe
+validated,abdu rehim,CONCEPT,manufactured goods,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men -> manufactured goods
+validated,abdu rehim,CONCEPT,gg,CONCEPT,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> gg
+validated,abdu rehim,CONCEPT,goloks,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> goloks
+validated,abdu rehim,CONCEPT,kyaring tso and ngoring tso,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> goloks -> kyaring tso and ngoring tso
+validated,abdu rehim,CONCEPT,tsam tso lake,LOCATION,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> goloks -> tsam tso lake
+validated,abdu rehim,CONCEPT,traders from northwestern sichuan,GROUP,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> goloks -> traders from northwestern sichuan
+validated,abdu rehim,CONCEPT,humlis,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> humlis
+validated,abdu rehim,CONCEPT,at present,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> humlis -> at present
+validated,abdu rehim,CONCEPT,jumla and botechaur,LOCATION,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> jumla and botechaur
+validated,abdu rehim,CONCEPT,kashmiri shawl,LOCATION,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men -> manufactured goods -> europe -> kashmiri shawl
+validated,abdu rehim,CONCEPT,khaltse,LOCATION,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> khaltse
+validated,abdu rehim,CONCEPT,barley,COMMODITY,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley
+validated,abdu rehim,CONCEPT,lhagong monastery,CONCEPT,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> lhagong monastery
+validated,abdu rehim,CONCEPT,long-distance caravans,CONCEPT,9,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> bathang -> tsakalho -> long-distance caravans
+validated,abdu rehim,CONCEPT,men,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men
+validated,abdu rehim,CONCEPT,weaving,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men -> weaving
+validated,abdu rehim,CONCEPT,long dagger,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> men -> long dagger
+validated,abdu rehim,CONCEPT,four horses,COMMODITY,11,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherdon -> mollah shah -> four horses
+validated,abdu rehim,CONCEPT,mollah toktamet beg,CONCEPT,10,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherchen -> mollah toktamet beg
+validated,abdu rehim,CONCEPT,nepal government,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> nepal government
+validated,abdu rehim,CONCEPT,tax collection,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> nepal government -> tax collection
+validated,abdu rehim,CONCEPT,goats,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> nepal government -> goats
+validated,abdu rehim,CONCEPT,woolen blankets,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> nepal government -> woolen blankets
+validated,abdu rehim,CONCEPT,russians,GROUP,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> russians
+validated,abdu rehim,CONCEPT,grain-salt-rice circuit,COMMODITY,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> grain-salt-rice circuit
+validated,abdu rehim,CONCEPT,semi-luxuries like tea and rice,COMMODITY,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> semi-luxuries like tea and rice
+validated,abdu rehim,CONCEPT,salt lakes,LOCATION,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> salt lakes
+validated,abdu rehim,CONCEPT,shepherds,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> shepherds
+validated,abdu rehim,CONCEPT,the sheep,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> shepherds -> the sheep
+validated,abdu rehim,CONCEPT,tarangpur magars,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> tarangpur magars
+validated,abdu rehim,CONCEPT,magars elsewhere in nepal,LOCATION,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> tarangpur magars -> magars elsewhere in nepal
+validated,abdu rehim,CONCEPT,groups 1 through 7,CONCEPT,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> tarangpur magars -> groups 1 through 7
+validated,abdu rehim,CONCEPT,the desert,CONCEPT,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> the desert
+validated,abdu rehim,CONCEPT,the weather,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> the desert -> the weather
+validated,abdu rehim,CONCEPT,the lake,LOCATION,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> the lake
+validated,abdu rehim,CONCEPT,the water,CONCEPT,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> the water
+validated,abdu rehim,CONCEPT,tibetan changpas,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetan changpas
+validated,abdu rehim,CONCEPT,tibetan partners,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetan partners
+validated,abdu rehim,CONCEPT,chinese and mongols,GROUP,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> chinese and mongols
+validated,abdu rehim,CONCEPT,spiritual concerns,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> spiritual concerns
+validated,abdu rehim,CONCEPT,british troops,GROUP,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> british troops
+validated,abdu rehim,CONCEPT,convention,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> convention
+validated,abdu rehim,CONCEPT,northern frontier of sikkim,LOCATION,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> northern frontier of sikkim
+validated,abdu rehim,CONCEPT,the treaty,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> the treaty
+validated,abdu rehim,CONCEPT,treaty,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> treaty
+validated,abdu rehim,CONCEPT,tichurong people,GROUP,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tichurong people
+validated,abdu rehim,CONCEPT,rice,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tichurong people -> rice
+validated,abdu rehim,CONCEPT,we,CONCEPT,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> tibetans -> we
+validated,abdu rehim,CONCEPT,hair,COMMODITY,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> hair
+validated,abdu rehim,CONCEPT,milk,COMMODITY,8,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> milk
+validated,abdu rehim,CONCEPT,zhao erfeng,PERSON,6,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng
+validated,abdu rehim,CONCEPT,tsakalho salt taxes,COMMODITY,7,abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> tsakalho salt taxes
+validated,rib muscles of an old he-camel,CONCEPT,aldat,CONCEPT,9,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat
+validated,rib muscles of an old he-camel,CONCEPT,camel,CONCEPT,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> camel
+validated,rib muscles of an old he-camel,CONCEPT,the bodily warmth of camels,CONCEPT,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> the bodily warmth of camels
+validated,rib muscles of an old he-camel,CONCEPT,four orongo antelopes,CONCEPT,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> four orongo antelopes
+validated,rib muscles of an old he-camel,CONCEPT,cartridges,CONCEPT,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cartridges
+validated,rib muscles of an old he-camel,CONCEPT,meat,COMMODITY,9,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> meat
+validated,rib muscles of an old he-camel,CONCEPT,the expedition (mainly meat),COMMODITY,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> the expedition (mainly meat)
+validated,rib muscles of an old he-camel,CONCEPT,us with fresh meat,COMMODITY,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> us with fresh meat
+validated,rib muscles of an old he-camel,CONCEPT,yak,COMMODITY,8,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak
+validated,rib muscles of an old he-camel,CONCEPT,cherchen,CONCEPT,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> cherchen
+validated,rib muscles of an old he-camel,CONCEPT,amdowa tribes,GROUP,7,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> amdowa tribes
+validated,rib muscles of an old he-camel,CONCEPT,bathang,LOCATION,8,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> bathang
+validated,rib muscles of an old he-camel,CONCEPT,tsakalho,LOCATION,9,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> bathang -> tsakalho
+validated,rib muscles of an old he-camel,CONCEPT,buddhist devotees,GROUP,10,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> zhao erfeng -> bathang -> tsakalho -> buddhist devotees
+validated,rib muscles of an old he-camel,CONCEPT,boat,CONCEPT,11,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> barley -> yak -> aldat -> camel -> boat
+validated,rib muscles of an old he-camel,CONCEPT,chang-pa,GROUP,7,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> chang-pa
+validated,rib muscles of an old he-camel,CONCEPT,thousands and thousands of sheep,COMMODITY,8,rib muscles of an old he-camel -> abdu rehim -> water -> lake -> animals -> tarangpurians -> salt -> chang-pa -> thousands and thousands of sheep

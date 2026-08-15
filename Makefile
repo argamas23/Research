@@ -2,7 +2,7 @@ PYTHON ?= python3
 BOOK ?=
 WORKERS ?= 4
 
-.PHONY: help run graph validation-auto network-analysis delete-preview delete check-book
+.PHONY: help run graph validation-auto network-analysis salt-analysis delete-preview delete check-book
 
 help:
 	@printf "%s\n" \
@@ -12,6 +12,7 @@ help:
 		"  make graph" \
 		"  make validation-auto" \
 		"  make network-analysis" \
+		"  make salt-analysis" \
 		"  make delete-preview BOOK=1910.pdf" \
 		"  make delete BOOK=1910.pdf"
 
@@ -27,6 +28,9 @@ validation-auto:
 
 network-analysis:
 	$(PYTHON) Mine/network_analysis.py
+
+salt-analysis:
+	$(PYTHON) Mine/salt_analysis.py
 
 delete-preview: check-book
 	$(PYTHON) Mine/pipeline.py --book "$(BOOK)" --delete --dry-run
