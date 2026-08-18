@@ -231,6 +231,7 @@
 /common/identity
 /common/license
 /common/webpage
+/computer/computer
 /computer/computer_designer
 /computer/computer_manufacturer_brand
 /computer/computer_peripheral
@@ -272,6 +273,7 @@
 /cvg/cvg_platform
 /cvg/cvg_publisher
 /cvg/game_character
+/cvg/game_series
 /dataworld/data_provider
 /dataworld/gardening_hint
 /dataworld/information_source
@@ -454,6 +456,7 @@
 /government/u_s_congressperson
 /government/us_president
 /government/us_vice_president
+/ice_hockey/hockey_team
 /influence/influence_node
 /interests/collectable_item
 /interests/collection_activity
@@ -577,6 +580,7 @@
 /location/uk_non_metropolitan_county
 /location/uk_non_metropolitan_district
 /location/uk_overseas_territory
+/location/uk_principal_area
 /location/uk_statistical_location
 /location/uk_unitary_authority
 /location/us_cbsa
@@ -593,6 +597,7 @@
 /measurement_unit/angular_velocity_unit
 /measurement_unit/area_unit
 /measurement_unit/common_dimension
+/measurement_unit/conductance_unit
 /measurement_unit/data_size_unit
 /measurement_unit/dimension
 /measurement_unit/dimensions

@@ -1,0 +1,181 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+district,administers,pargana,1,‘Pargana’ -------- eer,0.8
+the mountain system of garhwal,connects_to,the tibetan watershed,1,"The mountain system of Garhwal can be regarded as a series of spurs from the Tibetan watershed, which hers separatia.",0.9
+dudatoli,connects_to,pindar,1,"This ridge, it will be seen, divides the waters which find their way to the plains at Brahmdeo from those which travel to Hardwar...",0.8
+kirsu,connects_to,byansghat,1,"castward and southward through Khirsu, Devidut (above Pauri) and Rauigarh (Adwaui), all of which pualts ere over 7,000 feet...",0.8
+pokhri,connects_to,copper mines,1,"The place selected was Pokhri in Talla Nagpur, Copper.",0.8
+captain drummond,negotiates_with,government,1,"In 1838 Captain Drummond brought out Mr. Wilkin, a Cornish miner, and the Government granted the sum of Rs.",0.7
+commissioner,administers,mines,1,The Commissioner considered that 'the failure of this undertaking renders it impossible for me to record an opinion in favour of fresh experiments being made',0.6
+garhwal,administers,"forest dues or keth-bans, and kath mahals",1,"Trail the Commissioner was authorized to farm out the forest dues or keth-bans, and kath mahals, as they were called form their principal items kdth (timber), bans (bamboo) and Eatll (catechu) to the zamindar of the pnrgnna in which they were collected.",0.8
+major ramsay,regulates,forest and lumberage ducs from the koti dun and frorn udopur,1,"In 1858 the forefits came under Major Ramsay the Commissioner, who was also the first Conservator. He at once stopped the contract system and gradually induced cultivators to take up land south of the submontane road, leaving the valuable forest to the north untouched.",0.8
+indian forest act,governs,reserved forests,1,"In 1879 they were declared reserved forests according to section 34 of the Indian Forest Act 1878 as far as Garhwal is concerned, and a schedule was also given of all village lands situated within forest limits;",0.8
+ganges division,administers,forests,1,"Of these, three, the Saneh, Laldhang and Khara forests, were included in the Ganges division formed in December 1879.",0.8
+bamboo,supplies,fuel and charcoal,1,The government workshops require large quantities of fuel and charcoal.,0.8
+contractors,trades_with,sal timber,1,The main produce exported consists of sal timber and bamboos.,0.9
+forest department,regulates,tree fellings,1,"From this time contractoru were restricted in their fellings, trees being marked for them, previous to felling, under a rough scheme of working.",0.8
+forest department,taxes,revenue from timber sales,1,two lines of chaulcis being kept up to collect and check the revenue.,0.9
+government,licenses,grazing rights,1,"The rights admitted are on a very liberal scale, especially the grazing rights;",0.8
+forest department,regulates,road construction,1,"The forests are well served with roads, many of which are kept open all the year round in the interest of villagers and travellers.",0.8
+government,administers,district forests,1,But the Government has avowed the policy of administering the district forests entirely for the benefit of the people.,0.9
+deputy commissioner,controls,district forests,1,They are therefore left under the control of the Deputy Commissioner and it is an axiom that no profit is to be made out of them.,0.8
+people,depends_on,forests,1,"The district is very largely dependent upon agriculture, for the proper conduct of which in the hills forests are in every way indispensable:",0.85
+district officer,regulates,outlay over forest management and improvement,1,The income is to regulate the outlay over forest management and improvernent.,0.8
+foresters,supplies,forest operations,1,"In 1903, a duly constituted establishment was appointed consisting of three foresters on Rs.",0.75
+deputy commissioner,controls,extra assistant conservator,1,The technical and professional work of the whole district is supervised and directed by an extra assistant conservator (lent by the forest department) under the control of the Deputy Commissioner.,0.8
+nayar river,supplies,villagers with fuel and timber,1,"The Nayar river, with its steep shady banks, covered for the most part with a prolific bush jungle, which supplies the neighboring villagers with fuel and to a certain extent with timber.",0.8
+pine trees,supplies,timber nlarts of the plains,1,The rivers on whose banks they stand provide easy carriage by flotation to the timber nlarts of the plains.,0.85
+deodar,supplies,sleeper,1,A large number of deodar sleepers has been exported from Pandukeswar.,0.8
+government,governs,all rivers,1,"All rivers being government property, Rights to take fish by means of a weir are usually conveyed by the settlement agreements.",0.8
+garhwali district,controls,disease outbreaks,1,There are now two veterinary assistants attached to the district ; the district however is very large and with reports arriving late it is difficult to stamp out incipient disease.,0.8
+bhabar,connects_to,river valleys,1,The air currents from the valleys are drawn up and dynamically expanded so that if moisture is present in sufficient quantity rain is deposited.,0.7
+bhotia animals,transports_via,foot-and-mouth disease,1,Foot-and-mouth disease (khuria) occurs throughout the district ; the Bhotia animals are the usual vehicle of the disease.,0.8
+kotdwara,connects_to,hills,1,"Kotdwara lies at the foot of the hills, and Lansdowne at the centre of the outer range : they measure the first heavy burst of the monsoon.",0.8
+lansdowne,connects_to,outer range,1,"Kotdwara lies at the foot of the hills, and Lansdowne at the centre of the outer range : they measure the first heavy burst of the monsoon.",0.8
+bironkhal,connects_to,centre of the district,1,"For the centre of the district are Bironkhal and Pauri, both at an altitude of about 5,600 feet, and Srirlagar down in the Ganges valley.",0.8
+pauri,connects_to,centre of the district,1,"For the centre of the district are Bironkhal and Pauri, both at an altitude of about 5,600 feet, and Srirlagar down in the Ganges valley.",0.8
+ukhimath,connects_to,foot of the snows,1,"Other fitations are at Ukhimath and Chamoli at the foot of the snows, Joshimat h ke~.crd the fint arcay range and Karanprayag, the junction of the Pindar ard Alaknacda rivers in the north centre of district",0.8
+chamoli,connects_to,foot of the snows,1,"Other fitations are at Ukhimath and Chamoli at the foot of the snows, Joshimat h ke~.crd the fint arcay range and Karanprayag, the junction of the Pindar ard Alaknacda rivers in the north centre of district",0.8
+joshimat,connects_to,fint arcay range,1,"Other fitations are at Ukhimath and Chamoli at the foot of the snows, Joshimat h ke~.crd the fint arcay range and Karanprayag, the junction of the Pindar ard Alaknacda rivers in the north centre of district",0.8
+karanprayag,connects_to,junction of the pindar and alaknacda rivers,1,"Other fitations are at Ukhimath and Chamoli at the foot of the snows, Joshimat h ke~.crd the fint arcay range and Karanprayag, the junction of the Pindar ard Alaknacda rivers in the north centre of district",0.8
+agriculture,depends_on,"three variable factors (composi- boah of the soil, the position of the field, and the presence or absence of irrigation)",1,"Agriculture depends upon three variable factors, the composi- Boah tion of the soil, the position of the field, that is to Eay its height above sea level and its aspect, and the presence or absence of irrigation.",0.8
+water,supplies,fields,1,"Water is brought into the fields from moderately small rivulets by means of channels called yula, cut along the contour line of the hill.",0.8
+government,administers,government factories,1,A government factory with a utaff of three Chinese and ten native makers was started at Gadoli near Pauri.,0.9
+garhwal,supplies,"salt, cloth, iron and the like",1,"The market of Garhwal is Kotdwara : it receives whatever is produced in the interior of the district, which it supplies with salt, cloth, iron and the like.",0.9
+hill man,trades_with,neighbour,1,he buys from a neighbour and does not have recourse to any of the well-known marts.,0.8
+garhwal,regulates,wages,1,Wages have risen greatly with the rise of Garhwal from its stagnation.,0.7
+niti villagers,regulates,entry into tibet,1,"Before any traders from Niti are allowed to visit Tibct, the Jongpen sends down a subordinatc official, styled a Sarji, to enquire as to the existence of any disease among meq or cattle.",0.9
+jongpell,exchanges_for,salt,1,he offered a bag of barley and received in return a bag of salt,0.8
+bhotias,trades_with,tibet,1,Though only the Bhotias are allowed to cross the frontier and trade direct with Tibet...,0.8
+bhotias,supplies,salt,1,"Salt is received in exchange for grain, and is distributed by the traders throughout all upper Garhwal.",0.8
+bhubar marts,trades_with,gur,1,They found themselves compelled to exchange their chillies for gur.,0.8
+khoh river,connects_to,dadamandi,1,"Thence it ascends the Langur range, which it crosses at Dwarikhal, reaching Banghat on the Nayar river after a descent of six miles.",0.85
+gwalclain,connects_to,bsclhan pargana,1,"Gwalclain is the gate of the Bsclhan pargana, which is ~raversed by 2 ~*oads...",0.85
+pindar valley,connects_to,tharali,1,...thence the hill past Dringri to Ghat and so down the Nandakini river to Ni~ndpry.tg.,0.8
+nandakini river,connects_to,ni~ndpry.tg,1,...thence the hill past Dringri to Ghat and so down the Nandakini river to Ni~ndpry.tg.,0.85
+almora,connects_to,pauri,1,Pauri is connccled with Almora by two roads.,0.9
+ranikhet cart-road,connects_to,haldwani,1,"...thence to Haldwani ith her by tho Ranikhet cart-road, or by tbc Almora-Ranibagh biidle-path.",0.85
+settlement village paths,supplies,proper repair,1,"Every village is connccted with its neighbours by ancient and occasionally well-made tr~lcks, for the proper repair of which the lrissedurs are by their settlement engagements responsible.",0.8
+people,supplies,food,1,to provide travellers and officials on payroll with supplies of food...,0.9
+government,licenses,banias,1,for whose maintenance a small cess is levied on the hissedlers.,0.8
+coolie agents,supplies,coolies,1,will supply coolies to travellers armed with an order from the Deputy Commissioner.,0.7
+public works department,administers,inspection houses,1,"The public works depal-tmcnt have urected inspection houses at Lachhmanjhula, Bijni, Kothn Bhcl, Bynnsghat, Bah, Ranibagh, Srinagar, Chantiklial, Rudrprayng, Nngrsu, Karan-prayag, Sunla, Chamoli, Pipalkoti, Gulabkoti, Joshimnth, Adbadri, Lohba, Badrinnth and Sesdhara.",0.9
+kedarnath,connects_to,himalayas,1,His priests are not Brahmans cither in the south of India or in the Himalayas.,0.9
+sudarshan sah,regulates,goril worship,1,"Possession by Goril was then formally prohibited : and now if any Garhwali thinks himself possessed he has only to call on the name of Sudarshan Sah, and the demon departs.",0.9
+the inhabitants of dhanai,trades_with,glass bnagles,1,The whole religion is comprehended in their trade of making glass bnagles.,0.9
+khasiya,supplies,food,1,"They are by tradition the family cooks to the Garhwal rajas, and when Raja A b h p Pal found it necessary to keep a standing army they were employed to cook food in one vessel for large masses of men.",0.8
+khasiya,regulates,agriculture,1,"The Joshis who, in Garhwal, are poor and insignificant, living by agriculture and astrology.",0.7
+bhotias,trades_with,sub-montane markets,1,Their operations have been sufficiently described in an earlier chapter.,0.8
+padhan,depends_on,thokdar,1,The padhan was the thokdar's deputy in his particular village...,0.8
+garhwali,negotiates_with,widow,1,If there is no surviving brother a cousin or other near relative will take over the widow : and (rarely) when there is no relative at all the property of the deceased husband is transferred to an outsider on condition that he marries the widow.,0.8
+garhwali people,depends_on,sumptuary laws,1,In pre-British days the Doms were subjectcd to sumptuary laws which forbade on pain of decapitation their wearing clothes below the knee.,0.9
+biths,administers,land in their own hands,1,The Biths have almost all the proprietary and cultivating rights over land in their own hands...,0.9
+pilgrims,supplies,food,1,"10 each on their food, which the Garhwali purveys at starvation rates,",0.0
+villages near the road,supplies,"wood, milk, vegetables",1,"wood, milk, vegetables are also supplied by villages near the road at equally profitable prices.",0.0
+people,supplies,labour,1,the labour will often be supplied out of ncighbourly .,0.8
+government,supplies,borrowers,1,"Twelve thousand five hundred borrowers, representing about a fourth of the youth, of the district, were supplied with food.",0.9
+government,licenses,contractors,1,In 1908 contractors were found to undertake the supply of grain in consideration of small advances and the hopes of vast custom.,0.8
+kumaon,administers,garhwal,1,"By 1831 there were three assistant commissioners in the province of Kumaon, and in 1839 Garhwal became an independent district under the charge of the senior assistant commissioner subject to the control of the Commissioner.",0.8
+state,taxes,landholders,1,To supply the increasing expenditure of the state numerous other taxes were successively imposed on the landholders ;,0.8
+government,regulates,public demand,1,"As the public demand was not regulated on any consideration of the produce, the relative proportions which they bore to each other can only be estimated by the analogy of the rates paid to the freeholders by the lclraikar or kaini tenants.",0.7
+court of nepal,administers,pargana assessment,1,"survcy a detailed account of ea-h pargana showing th, numb~rs, names, sizo and extcr~t of the villagzs was submitted for th2 approbation of the court of Nepal.",0.8
+military officers,controls,assessment of pargana,1,"the military officers set at naught these assessments at their pleasure, exacting from the people as much as they were able;",0.8
+courtry,depends_on,pattip,1,"the jumu imposed soon exceeded what the courtry could yield, the deficiency annually increasing from the attempt to enforce the full demand.",0.8
+gurkha rule,regulates,revenue of each pargana,1,In the last year of the Gurkha rule the receipts fell considerably short of one-half the demand.,0.8
+kanungo's returns,supplies,standard for revenue demandable,1,"The receipts of the preceding year, as exhibited in the kanungo's returns, were assumed as a standard.",0.8
+malguzar,supplies,tenants,1,"the necessity has arisen from the contracted state of the labouring population, which renders it difficult for any malguzar to replace sudden casualties among his tenants.",0.8
+pargana assessment,administers,revenue of each pargana,1,"On the conquest of the province (in 1815 A.D.), as a temporary arrangement, the revenue of each pargana was farmed out.",0.8
+the village,administers,revenue,1,"the revenue of the whole village was issued to one or at most two sharers in the estate, and these tendered for and paid the revenue of the whole village.",0.9
+each co-sharer,regulates,future cess,1,"the future cess is regulated by a measurement takes place, and a record is made of the quantity of land found in the occupation of each proprietor agreeably to which the future cess is regulated.",0.8
+gurkha government,regulates,revenue,1,"The book contained for each village a statement of its nominal boundaries, an enumeration of the toks of cultivation with the area of each (the varying standards that had previously prevailed being here reduced to one common unit, the neili of 240 square yards), and the names of the proprietors.",0.8
+batten,administers,settlement,1,"Assessment statements in English were prepared for each village showing the area estimated at the assi euZ, the estimated cultivation at time of settlement arranged in six classes...",0.8
+the patti assessment,regulates,the new demand for each g:r patti,1,"Once fixed this was never altered, and the new demand of the various villages of the patti had to be so arranged that the total amounted to this determined sum-neither more nor less.",0.8
+the settlement officer,administers,the determination by the the settlement officer of a definite sum as the new demand for each g:r patti,1,The basis of the assessment was the determination by the The settlement officer of a definite sum as the new demand for each g:r patti.,0.8
+tartars,migrates_through,qarhwab district,1,"The yo that probably originated in the migratory heblte of the Tartare, who during the winter remove to tbe warmest eituntione :-Tiaill. Qarhwab District, - - The pre-",0.8
+trail1,administers,land revenue of assigned villages,1,"The management was placed under a local agency, but the system proved a failure and the control of the funds was transferred to the district officer, with whom it still remains.",0.9
+katyur valley,depends_on,ruling family of kumaon,1,"The Katyuras, whose name is still perpetuated in the Katyur valley in the Almora district, were according to the local tradition for many years the ruling family of Kumaon.",0.85
+bahadur or balbhadra sah,exchanges_for,the ancient cognomen of pal for that of sah,1,"...interest is that of Bahadur or Balbhadra Sah, the first raja to exchange the ancient cognomen of Pal for that of Sah...",0.8
+raja of kumaon,governs,kumaou territory,1,The sources of the Julnna and of the Ganges are both to be found within the Kumaou territory.,0.8
+khalil ullah khan,controls,srinagar,1,"In 1654-55 Khalil Mud-man ln-Ullah Khan was despatched with 8,000 men to coerce the 'zamindar version of of Srinagar,' the only title then conceded to the Raja of Garhwel...",0.9
+fateh sah medini sah,governs,tibet,1,Fu!c.h Sah i.5 also credited with the c-xt~nsion of his r;owcr into Tibet...,0.8
+debi chand,governs,kumaon,1,"Debi Chand, the Kumaon raja, followed up this success.",0.8
+harak deb,governs,almora,1,"All the Gurkha, troops were withdrawn from Kuinaon and Go,rhwal, the traitor, Harak Deb, being left as governor in Almora.",0.9
+gurkhas,supplies,tribute,1,"The Garhwal Raja was however so impressed by this show of Gurkha power that hc agreed to pay a yearly tribute of Rs. 25,000...",0.8
+gurkhas,regulates,garhwal and china,1,"The Gurkhas, having settled their disputes with Garhwal and China, returned to Almora...",0.9
+harak deb,negotiates_with,srinagar court,1,He fled to the Srinagar court in the hope of inducing the Garhmal Raja to intervene on behalf of Padam Singh...,0.8
+pradhainan sah,regulates,kumaon affairs,1,"Pradhainan Sah however wisely refused to interfere again in Kumaon affairs, and decided to abide by the terms of the convention of Langurgarhi.",0.9
+harak deb,trades_with,nepal,1,"He also intrigued with Ran Eahadur, the deposed King of Nepal, against the Thapn or popular faction then in power at Kathmandu...",0.8
+jai narain,migrates_through,rising in as lilam in johar,1,"He also sent his son, Jai Narain, with a small Garhwali force to raise the northern parts In his favour. Jai Narain got as far Rising in as Lilam in Johar...",0.9
+pradhaman sah,controls,garhwal,1,"The Raja of Garhwal, would not be warned ; he failed to grasp the nature of the danger to which he was exposed and portents had already paralysed his superstitious mind and warned him that his last hour had come.",0.8
+hastidal sah,administers,dun,1,His subsequent administration of the Dun was rapidly recovering its old prosperity.,0.9
+kazi amar singh thapa,governs,garhwal,1,In Garhwal itself it appears that Kazi Amar Singh Thapa was for a time governor.,0.8
+gurkhalis,controls,garhwal,1,The Gurkhalis ruled Garhwal with a rod of iron and the country fell into complete decay.,0.9
+gurkhalis,taxes,population,1,"Its villages became deserted, its agriculture ruined and its population decreased beyond computation.",0.8
+gurkhalis,regulates,acts,1,"This prohibition though apparently ridiculous was in fact a very serious grievance : a part of the domestic economy hithitherto left to the women, such as drying grain, cloth, &c., is performed there, and firewood and provisions for immediate consumption are stored in the same place...",0.6
+gurkhalis,disputes,people,1,"The people are most vehement in their complaints against the Gurkhals, of whom they stand in the utmost dread...",0.5
+gurkhas,disputes,amar singh thapa,1,"The Gurkhas reserved their most exquisite savagery for Garhwal, while treating Kunlaon with mildness and something approaching justice.",0.8
+gurkhas,supplies,kumaon and the neighbouring provinces,1,soldiers to supply the urgent calls of the Gurkhas both in the east and west.,0.8
+raja of garhwal,governs,tehri garhwal,1,"Gardner that Rawain, the barren and rocky country between Nagpur and Jaunsar-Bawar, containing the head quarters of the Tons, the Jumna and the Bhagirathi, be handed over to the Raja of Garhwal...",0.9
+raja,governs,tehri,1,The tract was never removed from his authority and was formally annexed to Tehri in 1824.,0.9
+the road from lohba,connects_to,diwali range,1,"The road from Lohba, or Gairsen, crosses the Diwali range (7,963 feet) by the Diwali khal at an elevation of 7,200 feet above the level of the sea.",0.9
+gold,extracts_from,river,1,Gold in small quantities has been obtained by searching the sands of this river...,0.8
+badri,connects_to,road,1,The road to Badri never will be closed...,0.8
+baijrao,connects_to,kainyur,1,a halting place on the routc from Kainyur to Ramnagar,0.8
+colonel garstin,administers,this district,1,Cultivation in earnest may be said to have begun in 1869-70 when the late Colonel Garstin was district officer of this district.,0.8
+government,supplies,water from a government channel,1,"He became tho ~irgiroh, of the new village. When the village was fairly settled, tho tenants who cultivated on their own behalf with their own capital, bullocks and seed were given leases, and the sirgiroh became more like an ordinary headman, cultivating his own holding through his servants and produce-sharing tenants, and collecting the rents of the subordinate lessees on which he received a commission of ten per cent. These lessees usually either cleared a portion of the grant for themselves under the sirgiroh's supervision or else paid him for his expense and labour in clearing the land which they took over as a holding.",0.8
+government,governs,landlord,1,The whole of the estate was formerly government forest and settlement has been settled under the direct management of the Government as landlord.,0.8
+government,taxes,rent,1,The cultivators thus pay rent and nob revenue to the Government.,0.8
+the right khoh canal,connects_to,the left or eastern khoh canal,1,"The first masonry canal was the left or eastern Khoh canal, which was started in 1877-8; the right Khoh canal waa made in 1887-8.",0.8
+dudatoli range,supplies,stone,1,"...which are said to have been quarried in the Dudatoli range, a march and a half distant from the fort...",0.6
+alaknanda,connects_to,birehiganga,1,"The Birehiganga, running westwards, joins the Alaknanda on the left bank, and further south the Nandakini, flowing in the same direction, joins it at Nandprayag.",0.9
+nandakini,connects_to,alaknanda,1,"The Birehiganga, running westwards, joins the Alaknanda on the left bank, and further south the Nandakini, flowing in the same direction, joins it at Nandprayag.",0.9
+diuri tal,connects_to,nandakini river,1,on the ridge of a spur which extends from the Badrinath peak to the Nandakini river below the village.,0.9
+gamsali,connects_to,khunigadh valley,1,"The road thence passes along tho southern gorge of the Kuara peak (10,990 feet high), amid the same kind of forest interspersed with grass-covered glades.",0.8
+gamsali,connects_to,banjbagar,1,"To the west the road descends gently down the valley of the Khunigadh and on to Banjbagar, where there is a charming camping ground in a glade of the forest and by the river.",0.8
+gamsali,governs,"barley, buckwheat and oats",1,"A quantity of flat land round the village bears crops of barley, buckwheat and oats.",0.7
+mandagini,connects_to,gaurikund,1,"GAURIKUND, a chattd situated in Malla Kaliphab of pargana Nagpur on the right bank of the Mandagini, eight miles below the temple of Kedarnath and 12 miles from Phata, the previous stage.",0.8
+the pilgrim,depends_on,gaurikund,1,has to be shaved at Gaurikund before proceeding to Kedarnath by a road which is little more than a pathway existing through the courtesy of nature.,0.8
+gwaldam,connects_to,roads,1,the roads from Nandprayag and Nara~anbagar leading into that district y through it.,0.9
+joshimath,connects_to,mana,1,Joshimath is an important station on the road to both Mana and Niti...,0.8
+joshimath,connects_to,niti,1,Joshimath is an important station on the road to both Mana and Niti...,0.8
+khulara pass,connects_to,ramni,1,...cross road from Ramni by the Khulara pass ends here.,0.7
+kainyur,connects_to,main route from pauri to almora,1,KAINYUR a travellers' bungalow and halting place on the main route from Pauri to Almora...,0.9
+mandagini river,connects_to,alaknanda river,1,"The Hardwar-Kedarnath road passes northwards through the western portion of this patti, along the left bank of the Mandagini river...",0.8
+bhagirathi,supplies,salvation,1,that salvation was to be found more easily on the banks of the greater river.,0.7
+mahant (or rawal),controls,math,1,"The math is under the entire control of a mahant, with a certain number of resident chelas or disciples;",0.85
+pandas_of_keaar,extracts_from,pious_people,1,The pandas of Keaar extract from the pious people far larger income than that falling to the temple.,0.8
+kotdwara,trades_with,bhabar administration,1,"Kot.dwara too is the head quarters of the Bhabar administration, and the superintendent of the government estate resides here.",0.8
+laldhang,connects_to,rawasan river,1,"The road to Kotdwara branching off from l,he Srinagar-Hardwar line crosses the Rawasan close to the station, The village of Laldhang itself liee in the Bijnor district.",0.9
+lansdowne,controls,"four full battalions of native infantry, gurkhas and garbwalis",1,"LANSDOWNE in patti Malla Sila of Talla Salan is a can- tonment established in 1887 and now capable of holding four full battalions of native infantry, Gurkhas and Garbwalis.",0.85
+kotdwara,regulates,gangee forest division,1,"The town is a busy scene during the winter months, for then the head quarters of' the office of the Gangee forest dvision is located on the other side of the river;",0.75
+raj,administers,ukhimath,1,puts living at Ukhimath dedicate their first-born girls to Madhma-,0.8
+blana pass,connects_to,valley of the saraswati,1,"The road or rather the track, for there is generally nothing that even deserves the name of a path, ascends constantly the main valley of the Saraswati until it reaches the water-parting which forms the boundary with Tibet.",0.8
+mana,connects_to,tibet,1,"there are now few wealthy men, owing to the comparative difficulty of their pass into Tibet",0.8
+graham's party,trades_with,borax,1,Much of the borax that they bring from Tibet is sent from here to Ralnnagar in the Nuini Tal district.,0.8
+kimoli,connects_to,pindar,1,Thence the road passes by Kimoli and Bunga down the valley of the Kimoligadh to its confluence with the Pindar at Narayanbagnr...,0.85
+nalgaon,connects_to,pindar,1,"From Karanprayag a road runs up the left bank uf the Pindar to Nalgaon, where there is a rope bridge...",0.8
+narayanbagar,connects_to,pindar,1,"From Karanprayag a road runs up the left bank uf the Pindar to Nalgaon, where there is a rope bridge...",0.8
+banjbagar,connects_to,pindar,1,Thence the road passes by Kimoli and Bunga down the valley of the Kimoligadh to its confluence with the Pindar at Narayanbagnr...,0.85
+nan dkeshari,connects_to,pindar,1,"From Karanprayag a road runs up the left bank uf the Pindar to Nalgaon, where there is a rope bridge...",0.8
+tharali,connects_to,nan dkeshari,1,"From Karanprayag a road runs up the left bank uf the Pindar to Nalgaon, where there is a rope bridge..., then up the right bank eastwards through Narayanbagar to Nan dkeshari via Tharali.",0.85
+the western nayar,connects_to,pauri-almora lower road,1,The western Nayar is crossed by the Pauri-Almora lower road at Jwalpa by a bridge of 67 feet span...,0.9
+fishermen along the banks,extracts_from,the ilhauii river,1,"This river at the favourable time of the year for the purpose (usually in August and September) is blocked in many places by weirs, to which are fixed conically barbed baskets arranged to catch Garhwat Dietriot.",0.8
+marchas,migrates_through,alaknanda valley,1,"From November to May the village is deserted, as all the inhabitants, Marchas, move down to the Alaknanda valley, where they hureclsnments near Charuoli and at other places.",0.8
+pandukeswar,trades_with,rhotias,1,The villagers trade with the Rhotias...,0.8
+the patli dun,connects_to,the plains,1,each of these Duns is gawrally truvarjs I by a for3rt road down which much timber and forest produce pass to the plains...,0.9
+dhangu pattis,depends_on,forests at the foot of the hills,1,During the cold weather the inhabitants of the Udspur and Ajmir pattis find employment in the forests at the foot of the hills...,0.9
+tapoban,connects_to,road to hiti-pur,1,"WAPOBAN, also known as Dhaktapoban, a village situated on the left bank of the Dhauli river. I b is a halting place on the roadgo.&he.Hiti- pq distant nine miles from Joshimath and -",0.85
+trisuli glacier,connects_to,torrent,1,"keeping up the left bank of the torrent, they reached the snout of the Trisuli glacier...",0.9
+tehri state,governs,garhwal district,1,"The early history of the state is that of the Garhwal district, the two tracts being formerly ruled by the same dynasty.",0.9
+british government,governs,tehri state,1,"During the Gurltha war their ancestors rendered important services to the British Government,",0.8
+muafidnrs,administers,villages,1,"Tho muafidnrs have power to try all civil, rcnt and revcnuc suits arising in their own villages,",0.8
+commissioner of kumaun,regulates,cases,1,"Cases in which the muafidnrs are personally interested arc transferrred by the Commissioner of Kuinaun, as Agent for the Tehri state,",0.8
+bhagirathi,connects_to,jadhganga or jahnavi,1,at the confluence of the Bhagirathi with the Jadhganga or Jahnavi.,0.8
+daulat rao sindhia,supplies,funds,1,but the damage was subsequently repaired through the munificences of Daulut Rao Sindhia.,0.8
+government,administers,estate,1,government estate. Lansdownepurely nonmilitary area.,0.9
+railway,transports_via,station and railway,1,station and railway d6pbt. 1961,0.8
+police,administers,distributive system,1,"TABLE XVI.-Distribution of police, 1910. Joshimnth...",0.9
+msndai,administers,ajmir,1,,0.8
+gurarsyun,connects_to,moldhar,1,... Sabli ... mindher Gujru Bi jlo t Wella Bijlot I'alla Bungi ... Painon Uadalpur Mella Badalpur Talla Bile Nulle Sila Telle Kauriy a Walls Kauriya Palla ... Oagwarsyun,0.8
+pindarwar,connects_to,painkhanda tallu,1,"' Pindarwar ' Pindarpar ... Painkhanda Tallu .., 85 86",0.8
+bhaironghati,connects_to,kauriy a walls,1,"Bhaironghati, 209, 214.",0.8
+nagpur,regulates,pindar river,1,"Nagpur, 8, 18,112, 186.",0.7
