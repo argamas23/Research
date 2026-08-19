@@ -1,0 +1,280 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+tarim system,supplies,water,2,"It is a matter of mere physical necessity that the water should overflow and run towards the relatively lower depressions. | The next day I measured the volume of the river ; it amounted to 5,517 cubic feet in the second, the greatest volume I have recorded anywhere throughout the Tarim system ; it was due, as I have already explained, to the cold, snowy winter and the unusually thick formation and long continuance of the ice.",0.825
+the tibetans,supplies,us,2,"Before he went the old man bought a teacup from us, and told us that he would be happy to supply us with anything we wanted. | They undertook to procure us everything we wanted until we reached Ladak.",0.85
+central asia and tibet,connects_to,holy city of lassa,1,TOWARDS THE HOLY CITY OF LASS.,0.9
+temirlik,supplies,photographic plates,1,I developed photographic plates until a late hour of the evening...,0.9
+i,controls,the entrance to the cave,1,directed that the entrance to the cave should be guarded day and night.,0.8
+the lake,depends_on,salter water,1,"It appeared to me as if a thin layer of fresh water, coming from the stream, had spread itself over the salter water of the lake...",0.8
+illveh-chimen,connects_to,mountain-ranges,1,"On the north the view was bounded by the immense snowy mass of the Illveh-chimen, with its crowd of eccentric peaks, a group we had already made acquaintance with during our previous excursions.",0.8
+glen,connects_to,pass of ghopur-alik,1,The Glen leading up to the Pass of Ghopur-alik.,0.9
+illveh-chimen,connects_to,ecentric peaks,1,"On the north the view was bounded by the immense snowy mass of the Illveh-chimen, with its crowd of eccentric peaks, a group we had already made acquaintance with during our previous excursions.",0.8
+"turdu bai, tokta ahun, and khodai vardi",migrates_through,stinging cold,1,"Cherdon shot a yak bull, and I heartily pitied Turdu Bai, Tokta Ahun, and Khodai Vardi, when at g o'clock at night they went out in the stinging cold to cut him up.",0.7
+mongol pilgrims,trades_with,abdall,1,"Upon reaching Abdall they generally try to exchange their exhausted camels for horses, so as to be able to reach their distant homes before the season gets too far advanced.",0.9
+mongol pilgrims,exchanges_for,horses,1,"Upon reaching Abdall they generally try to exchange their exhausted camels for horses, so as to be able to reach their distant homes before the season gets too far advanced.",0.9
+mongol pilgrims,supplies,food in boxes and sacks,1,"The pilgrims carry their food in boxes and sacks, and on their way back usually replenish their supplies at Abdall.",0.8
+mongol pilgrims,migrates_through,kara-shahr to lassa,1,"Every year large numbers of Mongol pilgrims travel from the tributary states of Russia and China, in the north of Asia, to the holy city of Tibet.",0.9
+tokta ahun,transports_via,a sledge,1,"Seated in this light equipage, I was drawn by Tokta Ahun and Khodai K d u a merry race across the frozen surface.",0.8
+turdu bai,controls,boat,1,Turdu Bai went back to Temirlik with the boat.,0.8
+tokta ahun,regulates,ascent,1,Tokta Ahun and two or three others started early to level it down with spades (just before the summit of the pass).,0.9
+khodai kullu,controls,wild camel,1,"Khodai Kullu, coiling a lassoo, flung it round its neck, and dragged it to the ground...",0.8
+dungan hunters,trades_with,fox skins,1,at that time fox skins were worth a good deal of money,0.8
+shagdur,connects_to,mongol encampments,1,"Before I was called the next morning, the men had already hunted out two or three Mongol encampments farther on.",0.8
+our guide,supplies,five camels,1,"he let me hire from him five camels as far as Anambaruin-gol, and sold me as much corn as we were able to carry with us.",0.8
+the ancient highway,connects_to,the road in the astyn-tagh,1,"Every hill, however, and every headland-there were at least a score of them-was crowned with a cairn of stones by way of landmark. These cairns could not possibly indicate a hunter's track, for hunters neither follow fixed routes, nor do they build landmarks of stones such as these were.",0.9
+the sartang mongols,governs,the territory,1,AMONGST THE SARTANG MONGOLS.,0.8
+rain,supplies,dry rivulets,1,"It was evident that this elevated tract on the edge of the desert was sometimes visited by rain, for there were a number of dry rivulets winding in and out amongst the sand-dunes...",0.8
+middle gobi,supplies,camels,1,"The camels drank as much Sand-dunes of the Middle Gobi, as they could hold at the well before starting...",0.8
+wild camels,depends_on,springs and grazing,1,"Most of the tracks, I soon ascertained, ran towards the north-west or south-east. In the latter direction were the kamish steppes of the astyn-yo11 which we had recently crossed ; in the former there were no doubt springs which the camels knew of, and they only.",0.8
+the camels,depends_on,water,1,"On the 16th of February I was forced to the conclusion that the only way to avoid disaster was to strike straight for the south, and try to reach once more the salt wells of the astyn-yoll. We were engaged in an exciting hunt for water...",0.85
+khodai vardi,supplies,tea,1,"For his own support we left with Khodai Vardi, out of our now scanty stores, a matchbox, a small cooking-pot, and a handful of tea.",0.8
+khodai vardi,supplies,matches,1,"He had plenty of water, and he could get what meat he liked from the dead camel ; the matches would help him to make fires for boiling his tea and cooking his steak.",0.8
+khodai vardi,supplies,meat,1,"He had plenty of water, and he could get what meat he liked from the dead camel ; the matches would help him to make fires for boiling his tea and cooking his steak.",0.8
+khodai vardi,supplies,water,1,"He had plenty of water, and he could get what meat he liked from the dead camel ; the matches would help him to make fires for boiling his tea and cooking his steak.",0.8
+the ancient inhabitants,governs,the manner of life,1,"Amongst them were pieces of red cloth, precisely like that which the lamas wear at the present day, felt rags, tufts of brown human hair, bones of sheep and cattle, soles of Chinese shoes, a leaden utensil, remarkably well-preserved pieces of rope, shards of clay pottery with simple ornamentation, an earring, Chinese coins, and so forth, and so forth.",0.8
+the ancient inhabitants,supplies,"the horses, cattle, sheep and camels",1,"In one enclosure, which had probably been a stall or fold, they came across a thick layer of manure, showing that horses, cattle, sheep and camels had been sheltered there.",0.8
+the ancient inhabitants,extracts_from,the ground,1,Its preservation was due to the fact that it had been buried under a thick layer of sand and dust.,0.8
+lop-nor,connects_to,kurruk-tagh,1,"The background of the picture to the north would be, then as now, in clear weather, the Kurruk-tagh, where the people were in touch with the springs and oases, and across which a road undoubtedly led to Turfan.",0.9
+a small people,governs,a well-to-do chinese merchant,1,"The place where the discovery was made seems to have belonged to a well-to-do Chinese merchant, who carried on a sort of livery business...",0.8
+chinese merchant,licenses,carriages and beasts of burden,1,who let out carriages and beasts of burden on hire...,0.7
+people,exchanges_for,seed-corn,1,...frequent mention of weights and measures of seed-corn...,0.6
+military expedition,disputes,date,1,"One document speaks of a military expedition, though without giving a date.",0.5
+the chinese authorities,controls,the ruins of ancient lop-nor,1,"They are under the control of the Chinese authorities, and serve to secure an equal distribution of food amongst the native inhabitants.",0.9
+the official centres,administers,the watch-towers,1,it is also likely that these stood near the watch-towers,0.8
+lau-lan,controls,wu-ni (capital of lau-lan),1,"From Wu-ni (capital of Lau-lan) to the Yang barrier (evidently in the direction of Tun-huang), 1,600 li ;",0.8
+lau-lan,connects_to,yang barrier,1,"From Wu-ni (capital of Lau-lan) to the Yang barrier (evidently in the direction of Tun-huang), 1,600 li ;",0.8
+lau-lan,connects_to,tun-huang,1,"From Wu-ni (capital of Lau-lan) to the Yang barrier (evidently in the direction of Tun-huang), 1,600 li ;",0.8
+lau-lan,connects_to,chang-an,1,"to Chang-an, 6,100 li ;",0.8
+lau-lan,connects_to,seat of government of the chinese governor-general (name not given) in a north-westerly direction,1,"to the seat of government of the Chinese governor-general (name not given) in a north-westerly direction, 1,785 li ;",0.8
+lau-lan,connects_to,si-an-fu,1,"to Si-an-fu, 1,365 li ;",0.8
+lau-lan,connects_to,keu-tse (ouigour),1,"to Keu- tse (Ouigour) in a north-westerly direction, 1,890 li ;",0.8
+shen-shen or lau-lan,connects_to,tun-huang,1,"From Shen-shen or Lau-lan to Tun-huang, about 17 marches, 1.500 li ;",0.8
+shen-shen or lau-lan,connects_to,wu-e (urgur ?),1,"From Shen-shen or Lau-lan to Wu-e (Urgur ?), 15 marches on foot in a north-westerly direction.",0.8
+lau-lan,connects_to,chcmo-t6-na,1,"From Hsian-Tsang we learn that Lau-lan, which he also calls Na-po-po, is situated 1,000 li north-east of ChCmo-t6-na, also called Nimo.",0.8
+lau-lan,disputes,chinese officials,1,"These had to pass through Lau-lan; but the people of Lau-lan, in concert with the Keu-tse, harassed the officials on the high-road, robbed and attacked Wang-Kuei, one of the envoys.",0.9
+wu-ti,governs,the chinese empire,1,"The emperor re-established him on the throne, and commissioned him to keep watch over the movements of the Huns.",0.85
+shen-shen,connects_to,kingdom,1,"the kingdom of Shen-shen, a country rugged and hilly, with a thin and barren soil.",0.9
+wu-e,connects_to,country,1,"then proceeded on their journey, fifteen days' walking to the north-west bringing them to the country of Wu-e.",0.8
+lau-lan,connects_to,country,1,in its day Lau-lan was a country of some importance.,0.9
+lbu-lan,connects_to,country,1,Would any European pilgrim ever set foot within the walls of LBu-lan again ?,0.8
+kara-koshun,connects_to,place,1,"taking with me Shagdur, Kutchuk, Khodai Kullu, and Khodai Vardi, my object being to make an exact levelling of the ancient basin of Lop-nor, cross the desert southwards to Kara-koshun.",0.9
+faisullah,administers,caravan,1,"This detachment I put in charge of Faisullah, and gave him Li Loyeh and hlollah to assist him.",0.8
+khodai vardi,connects_to,clay terrace,1,"He explained that it was the clay terrace which had forced him to deviate too far to the right, and he had been unable to hit upon our track again.",0.8
+khodai vardi,regulates,camels,1,"It was a wonder that in the dark none of the camels broke their legs in crossing the deep, gaping hollows between the terraces.",0.7
+shagdur,supplies,rice and ice,1,"Obtaining from Faisullah a small supply of rice and ice, Shagdur...",0.8
+wild camels,migrates_through,desert,1,"It showed that those animals were in the habit of crossing the desert, and knew of the existence of the lakes farther south...",0.9
+kara-koshun,regulates,water,1,"While the lake of Kara-koshun... was being filled up with mud, drift-sand, and decaying vegetation...",0.9
+turdu bai,administers,camels,1,"Turdu Bai was the captain of the camels, and answerable for their condition.",0.8
+caravan,supplies,maize,1,We gave them as much kamish and maize as they could eat...,0.8
+dovlet caravan-bashi,trades_with,animals,1,"I arranged this business with an honest old fellow named Dovlet Caravan-bashi, from Bokhara, who did excellently well, though he made very little money out of the transaction...",0.9
+islam bai,transports_via,"geological specimens, skeletons of animals, botanical specimens, and archaeological finds",1,"He was to take my collections to Kashgar, through Korla, Kuchar, and Aksu, as far as Korla by camels, and the rest of the way by arabas (Turkestan carts).",0.8
+islam bai,supplies,animals,1,"He was to spend two months on the road, and I defrayed all the expenses of his journey, both for himself and the animals.",0.8
+chernoff,governs,caravan,1,Chernoff was in supreme command of the caravan.,0.9
+khalmet aksakal,exchanges_for,sugar and other commodities,1,"I had commissioned Khalmet Aksakal to buy sugar and other commodities, and send them to us.",0.8
+islam,disputes,the truth about his account,1,"it struck me as being excessively high, and in spite of all Islam's explanations...",0.6
+shagdur,transports_via,cossacks,1,"The Buriats, like true soldiers, had obeyed orders. They knew that they were never to do anything without written or verbal orders from myself...",0.5
+islam bai,controls,the mussulmans,1,"But Islam was a big, strong fellow, and the Mussulmans stood in great awe of him.",0.9
+islam,depends_on,my stores,1,"This last would of course be readily accomplished with the aid of my stores, so that it would seem to have been I who paid the piper, and not Islam.",0.8
+islam,controls,his own lawful wife and five children,1,"In the first place, the lady had to be bought for ready money ; then she had to be dressed, and her taste for Chinese silks and so forth had to be gratified ; and, finally, she, and perhaps also her parents, had to be supported.",0.7
+colonel saitseff,governs,the town of osh,1,"He was ordered to report himself to Colonel Saitseff at Osh, the town where, according to the Russian law, the sentence was to be pronounced.",0.9
+russian authorities,licenses,islam,1,"The Russian authorities had promised to allow him the privilege of wearing a gold embroidered khalat, in honour of the services he had rendered t o me ; this, and all other dignities and honours, he had forfeited by his arrogance and folly.",0.8
+russian law,regulates,islam's punishment,1,"As by his thefts he had offended against the Russian Criminal Code, and by his loose conduct transgressed against the Sheriet, or customary law of the Mohammedans, he was declared worthy of banishment to Siberia ; but his actual punishment was reduced to three months' imprisonment.",0.9
+shagdur,trades_with,mongols,1,"The first place we camped at was called Yiggdelik-tokai, on the left bank of the Charkhlik-su.",0.8
+border ranges,connects_to,kum-koll,1,BORDER RANGES TO THE KUM-KOLL.,0.95
+shereb lama,depends_on,kum-koll,1,"He would then be like Hercules at the parting of the ways : on the one hand he could return to his quiet and peaceful cell in the monastery at Kara-shahr ; on the other hand, he would have to make up his mind to face many remarkable, if not perilous, experiences.",0.8
+the cossacks,trades_with,the shepherds,1,"They rode to the mountaineers to buy from them fuel and milk, and a dozen or so of sheep.",0.85
+the cossacks,trades_with,the district,1,"The district abounded in game and other animals-arkharis, ibexes, yaks, bears, and wolves.",0.8
+sirkin,controls,'a line for controlling my itineraries',1,to measure ' a line for controlling my itineraries.,0.8
+cossacks,trades_with,mohammedans,1,"ass-drivers, more like a band of banditti and tatterdemalions than anything else-the Lama, in his red robe, turning up, now here, now there, in different parts of the caravan, like a good-natured Puck-all these contributed to make up a varied and lively picture.",0.8
+my place,connects_to,the procession,1,"My place was sometimes in the van, sometimes in the rear of the procession ; but my own special work, of which plotting the route was the most important, generally took up the greater part of my time.",0.8
+lama,administers,caravan,1,"By this means our Lama earned a certain degree of popularity in the caravan, and piqued the Mussulmans' ambition.",0.9
+the tibetan bear,depends_on,marmot,1,"But he had exercised great ingenuity in making his meal as palatable as possible ; for he had skinned the marmot down to its toe ends, rolled the skin up into a ball with the hair inside, and gulped it down whole.",0.8
+camel,depends_on,flour,1,"Every evening we gave them a big dose of flour - in fact, we used up that important commodity at such a rate that our supply, which was originally calculated for ten months, was reduced to scarce sufficient for six.",0.85
+camels,depends_on,fuel,1,"It was a long time since we had come across any fuel, and the wooden frames of the pack-saddles had been used up as fast as the camels died.",0.9
+arka-tagh,connects_to,little freshwater pools,1,The little fresh-water pools close to the Arka-tagh remained frozen for the greater part of the year.,0.8
+summer wind,regulates,temperature,1,"In fact, it was a warm current of air, a sort of fohn, which was sweeping across those lofty, icy uplands-a summer wind crossing the ice-bound lakes!",0.8
+the caravan,trades_with,scanty grass,1,"The caravan animals were scattered over the hill-sides, eagerly plucking the scanty grass.",0.9
+chernoff,administers,camels,1,"Then we picked out eleven camels, five of which had carried no loads during the last two or three days, and six horses, and left them to get a few days' rest...",0.8
+tengri-nor,connects_to,lofty range,1,but we could scarcely expect to come across human beings before we reached the other side of the lofty range...,0.9
+wild yak,depends_on,human beings,1,the wild yak we had just shot had clearly never been in contact with human beings ; otherwise he would never have allowed himself to be photographed at the cost of his own life.,0.8
+tibetans,negotiates_with,kulans,1,...the Tibetans never meddle with kulans.,0.6
+lassa,connects_to,holy land of the lamaists,1,"...we should find it warmer, and meet with better grass, and no doubt human inhabitants as well...Once on the other side of that gigantic natural wall, which it was very probable was of climatic importance, and we should find it warmer, and meet with better grass, and no doubt human inhabitants as well.",0.8
+tibetans,governs,yaks,1,Tibetans with their yaks thus early !,0.8
+cossacks,regulates,routes,1,"the Cossacks were under the impression that the Tibetans had at once set to work to collect their yaks and horses, with the intention of striking camp.",0.8
+tibetans,controls,yaks and horses,1,"the Tibetans had at once set to work to collect their yaks and horses, with the intention of striking camp.",0.8
+cossack,licenses,horses,1,"I gave him some money to buy horses with, in case the Tibetans should have any to sell...",0.8
+cossack,supplies,tea and tobacco,1,"...also let him take some tea and tobacco for presents, to convince them that they had to do with people who meant them no ill.",0.8
+cossacks,transports_via,main strength,1,"...it would be an obvious advantage to have our main strength advanced as far south as possible, so as not to be cut off from it by too great a distance...",0.8
+tibetans,regulates,mountain-range,1,"The Lama, who was an intelligent fellow, observed quite correctly, that this stupendous mountain-range filled the same place in the Tibetans' regards that the Arka-tagh did in the case of the people of East Turkestan, in that it served as a frontier wall to shut out the unknown and the uninhabited, and formed a dividing line which was seldom crossed except by the yak hunters.",0.8
+the gorge,connects_to,the road,1,"to my eyes, this looked an extremely hazardous sort of road, especially as the gorge narrowed rapidly.",0.9
+chernoff's wretched camels,migrates_through,quagmires and sky-scraping passes,1,How on earth would Chernoff's wretched camels ever get through ?,0.9
+the camels,depends_on,firm ground,1,"A little bit lower down I observed some grass on the right bank, and there too, Shagdur picked up a big earthenware vessel.",0.8
+the poor beast,extracts_from,food and fuel,1,"I instructed two men to return to him with food and fuel, and to stay all night beside the camel...",0.7
+sirkin,administers,meteorological observatory,1,"It was also Sirkin's business to take charge of the meteorological observatory, and this he carried through without a hitch.",0.9
+sirkin,controls,chronometers,1,"These I left in charge of Sirkin, after instructing him to observe the utmost caution in winding them up.",0.9
+our lama,depends_on,0rdek,1,"I decided to take 0rdek with US yet another day, for our Lama was really far from well.",0.8
+our pilgrims,trades_with,animals,1,"While we three pilgrims crept into our tent, which we shared in brotherly fashion together, 0rdek kept an eye upon the animals.",0.8
+we (pilgrims),migrates_through,hills and valleys,1,"Although the hills and valleys we passed on the way were scantily furnished with grass, yaks and kulans were remarkably numerous.",0.8
+we (pilgrims),negotiates_with,nomad camp or mounted men,1,"Not that we were now anxious to shun them ; on the contrary, if we came across a nomad camp, or mounted men, we should first endeavour to get 0rdek away unperceived, so that he might return to Camp no. XLIV., and then, like the honest pilgrims we were, we should ride straight towards them.",0.8
+we (pilgrims),supplies,animals,1,"We did not want to tire our animals too much, and it began to be time to think of stopping ; but it was no use looking for fresh water anywhere near the salt lake.",0.8
+our pilgrims,regulates,lake,1,"Concentric rings of beaches and terraces round the shore showed, at a glance, that the lake was shrinking, and consequently must be salt.",0.8
+ordek,depends_on,shagdur and others for protection,1,"He begged and prayed that he might go with us, and promised that he would keep better watch in future.",0.8
+kulans,migrates_through,brook,1,"Whilst Shagdur and the Lama looked after the animals, and hoppled them, I gathered dry yak droppings in the skirt of my voluminous Mongol coat-and found it a very interesting occupation.",0.8
+lama,negotiates_with,shagdur,1,When we camped it was his duty to issue all commands.,0.75
+shagdur,regulates,party,1,"Shagdur played his part splendidly, and I think I may say I acted mine not amiss.",0.7
+tibetans,trades_with,pass in the east,1,"Whilst I was asleep they had seen three Tibetans, who came over a pass in the east, and rode past our camp towards the north-west.",0.6
+tibetan sheep-caravan,transports_via,small lakes,1,"...which had been up to the small lakes where our robber friends had paid their respects to us, to fetch salt...",0.85
+the track,connects_to,the pass,1,"and from the top of the pass to which it led us, we again commanded a wide prospect to the south",0.8
+she,connects_to,hillsides,1,"She was fresh and lively, and kept me dodging about the hillsides a long time before I succeeded in getting hold of her halter.",0.8
+i,depends_on,packing up and reloading,1,"When I was awakened, after only a couple of hours sleep, on the morning of the 31st of July, to help with the packing up and reloading...",0.8
+our little caravan,depends_on,daybreak,1,And so away we posted to the southeast across a difficult and heady rolling country. There was not now a single dry rag throughout the whole of our little caravan...,0.8
+yaks,migrates_through,passes,1,"...and as the heavy rain soon blotted out all animals' footsteps, we concluded that the herd in question must have passed quite recently-maybe that very morning.",0.8
+sampo singhi,supplies,argol (yak-dung),1,"The Lama brought a bagful of it with him ; and it was a good thing he did, for our own supply was so wet that we should hardly have been able to make a fire without it.",0.8
+sampo singhi,exchanges_for,"information about merik, garchu-sanghi, and gom-jima",1,"The acquaintance made, and confidence established, our Lama succeeded in squeezing out of Sampo Singhi the information that the site of our camp of the previous day, between the two small lakes, was called Merik ; and a river which we had seen that day in the east was called Garchu-sanghi.",0.8
+sampo singhi,trades_with,blue chinese cloth,1,"We had brought with us two bundles of this cloth expressively for purposes of barter, and Sampo Singhi complacently assured us he would be satisfied with one of these.",0.8
+sampo singhi,exchanges_for,94 yards of blue chinese cloth,1,"Then began the usual Asiatic higgling and bargaining, which resulted in Sampo Singhi finally contenting himself with a third of a bundle--94 yards.",0.8
+sachu-sangpo,connects_to,arms of the river,1,"The Sachu-sangpo, which had been previously crossed in this neighbourhood by M. Rockhill; but in consequence of the enormous rainfall it had swollen amazingly, and was divided into at least a score of arms, each of them big enough to make a respectable river.",0.8
+the lama,trades_with,river,1,"Our Lama, who always led the way, rode straight into the water...",0.75
+the river,supplies,water,1,"...it was a river; and as we stood on the brink, and saw it rolling its overwhelming masses west-south-west, we realized that our fate was sealed.",0.7
+lama's mule,migrates_through,river,1,"The river churned and foamed around him as if he were a paddle-wheel. He merely hoisted his knees higher up on his saddle, and patted his mule as she sank deeper and deeper into the water.",0.85
+the pilgrims from kum-bum,trades_with,tashi-lumpo,1,"They were carrying it [cube tea] from Kum-bum, in the west of the Chinese province of Kan-su, to Tashi-lumpo, on the Brahmaputra.",0.8
+the caravan,trades_with,tashi-lumpo,1,"They were carrying it [cube tea] from Kum-bum, in the west of the Chinese province of Kan-su, to Tashi-lumpo, on the Brahmaputra.",0.8
+yollbars and malenki,controls,fierce dogs,1,"A troop of fierce dogs, which came rushing to meet us, were received by Yollbars and Malenki in a fashion which inspired even their owners with respect.",0.9
+tanguts,trades_with,tea,1,"They were on their way to ... the bazaars of Shigatse, where they would sell their tea.",0.8
+the tibetans,trades_with,the nomads,1,"As we advanced the track grew broader and more distinctly marked ; but it was a remarkable fact that we never met any person travelling alone, either on horseback or on foot.",0.8
+lama,governs,nakkchu,1,"The old man, who wore an air of great respectability and showed some knowledge of the world, replied, with disconcerting firmness, 'You will stop here three or four, or at the most, five days. This morning we sent messengers to the chief of Nakkchu, to ask whether we are to let you go on or not.'",0.8
+tibetans,disputes,us,1,"Their object clearly was to inspire us with a proper degree of respect ; and in this surmise we were shortly afterwards confirmed, when they dis-mounted and began to shoot with their long black muskets.",0.8
+tibetans,controls,headquarters camp,1,"At this I was seriously alarmed, and feared they meant to make an attack upon our headquarters camp whilst we were separated from it, and I felt strongly urged to turn back and go to my men's assistance.",0.8
+chief,licenses,nomads,1,"They brought with them fat and sour milk, and explained that they were forbidden by their chief to receive anything in recompense.",0.8
+lama,regulates,travel,1,"Our Lama thought to get out of the difficulty by explaining that we had travelled in company with a big caravan from Lop-nor, and that we intended continuing to Lassa.",0.8
+governor of nakk-chu,governs,travel,1,"The man answered, 'You must first obtain permission of the Governor of Nakk-chu.'",0.8
+the tibetans,controls,the nomad tents,1,Then they asked us whether our big camp was sufficiently near to the nomad tents,0.8
+kamba bombo,regulates,the caravan of mongol pilgrims,1,"He had a lively recollection of Kamba Bombo of Nakkchu, and of the thorough way in which he had searched the caravan of Mongol pilgrims with which our Lama formerly travelled to Lam.",0.7
+the tibetans,governs,the country,1,"The people of the country would not allow us to go where we wanted to go, and yet they were anxious to get rid of us at all costs.",0.6
+mongol lama,trades_with,salt,1,,0.8
+kamba bombo,governs,nakkchu province,1,"He was the ruler of Nakkchu-the province is also called Nag-tshu, and stretches beside the river of the same name, i.e., the Upper Salwin-and it was his duty to examine all caravans, and scrutinise all travelers, pilgrims, and wayfarers who approached Lassa from Tsaidam by the great highway over the pass of Tang-la.",0.95
+kamba bombo,controls,his own province,1,"At first Kamba Bombo equivocated, and said he could not be answerable for what happened outside the boundaries of his own province.",0.9
+lassa authorities,governs,tibetans,1,"the Lassa authorities had heard of the events which had recently occurred in China, and knew what stem vengeance had been exacted for the murder of Baron von Ketteler at Peking, and so considered it prudent not to injure a European.",0.8
+kamba bombo,negotiates_with,dalai lama,1,"he himself received orders every day direct from Lassa with regard to us, and for a man in his position it would be unseemly to offer advice to the Dalai Lama ; it might lead to his dismissal, if not worse.",0.7
+tibetans,supplies,rosaries,1,"They carried their swords in handsome silver-mounted scabbards, decorated with corals and turquoises ; silver gavcs or cases for burkkns, that is, little images of Buddha ; bracelets and rosaries ; and in the long plaits of their hair, various parti-coloured ornaments-in a word, they were decked out in the handsomest finery they possessed.",0.9
+kamba bombo,controls,two horses,1,"Two horses were now led forward, a dun one and a white one ; these Kamba Rombo expressed himself as willing to present to me.",0.8
+kamba bombo,exchanges_for,"tea, tsamba, and tobacco",1,"Kamba Bombo sat for a good while, and ate raisins as a horse eats oats, and was entertained with tea, tsamba, and tobacco.",0.8
+kamba rombo,administers,staff,1,"We were surrounded by the whole of his staff, who made a fine show in their fantastic attire, their women's hats and long plumes mingling peacefully with their warlike lances and swords.",0.8
+kamba bombo,exchanges_for,tibetan silver money,1,We then exchanged some of our Chinese yambas for Tibetan silver money.,0.95
+tibetans,supplies,baggage animals,1,"The Tibetans had promised to be answerable for our belongings, and sure enough they brought them up without grumbling.",0.9
+tibetans,trades_with,tea-caravan,1,"Every horse had a jingling bell round its neck, and the monotonous tinkle, tinkle had a very drowsy effect upon me.",0.8
+tibetans,trades_with,lzang (about ;68 6s),1,"For a sword in a silver mounted scabbard, studded with turquoises and coral, they demanded 50 lzang (about ;68 6s.)",0.8
+tibetans,exchanges_for,tea and raisins,1,"That afternoon Solang Undy, Anna Tsering, and an old man Dakkyeh paid their first visit to our tent, and feasted upon tea and raisins.",0.8
+tibetans,supplies,mass (with powdered cheese),1,"Some of them used to knead the mass with their right hand, and add powdered cheese to the concoction.",0.8
+tibetans,trades_with,"cloth, chinese porcelain cups, and knives",1,"Cloth, Chinese porcelain cups, and knives were the most advantageous commodities for barter in that part of the world.",0.8
+tibetans,supplies,two sheep,1,"The Tibetans also offered to give us all their surviving sheep ; but we only accepted two, they would merely have been a hindrance to us during the forced and hurried marches we intended to make after our escort left us.",0.7
+jangdang,governs,gong-gakk,1,"With regard to the political and administrative relations of that part of Tibet, I was unable to obtain any very precise information ; very probably they are not definitely fixed. I was told that the chief Jangdang was independent of both states.",0.8
+our animals,depends_on,water and grazing,1,"We stopped about an hour before sunset beside a fresh-water spring that bubbled up in a meadow, so as to give our horses an opportunity to graze before dark.",0.7
+tibetan horsemen,controls,horses,1,"All our firearms were loaded and ready for use, and our dogs tied up close beside the horses.",0.9
+lama,disputes,tibetans,1,"for the main camp was, he thought, very likely invested by the Tibetans.",0.85
+watercourses,connects_to,salt lake,1,All the watercourses were alike directed towards a little salt lake in the west-south-west.,0.9
+sirkin and turdu bai,trades_with,day's sport,1,They almost wept with joy at the success of their day's sport ; when they started out in the morning they little dreamt what 'bag' they would make before night.,0.8
+"kutchuk, ~ r d e k, and khodai kullu",trades_with,us,1,"with tears in their eyes, and crying 'Khodai sakkladi ! (God has preserved you !) Khodai shukkur !'",0.8
+chernoff,supplies,nine camels,1,he brought nine camels with him ; he had only lost two camels and two of the horses.,0.8
+tibetans,connects_to,jansung district,1,They said the district was called Jansung...,0.8
+shepherds,supplies,sheep,1,"At intervals there were big flocks of sheep with their shepherds, but no dogs ; these were all kept beside the tents.",0.9
+ordek,connects_to,river,1,0rdek took off his clothes and waded through the river...,0.8
+tibetans,governs,district,1,The chief of the district turned up with a band of soldiers...,0.9
+chernoff,depends_on,the ravine,1,it was difficult and even dangerous for Chernoff to ride across ; its bottom consisted of extremely soft mud.,0.8
+chernoff,administers,the caravan,1,"enjoined Chernoff, who was head-man of the caravan...",0.9
+kashgar,connects_to,the steppes of the 'black cap',1,"...accompanied me on several of my desert journeys, from Kashgar...",0.8
+tibetans,depends_on,fresh supplies of food,1,"They had clearly been to fetch fresh supplies of food, and to equip themselves for a longer campaign.",0.9
+tibetans,supplies,pack-horses,1,They were leading after them a large number of pack-horses.,0.8
+tibetans,controls,river,1,"...they threw stones at it just after it had swallowed a fish, and so forced it to disgorge.",0.6
+kalpet,depends_on,water,1,"but as we had none near at hand, we offered him milk, and let him drink all he wanted.",0.9
+kamba bombo,controls,men,1,and their language was now precisely the same as Kamba Bombo had used.,0.0
+russian men,trades_with,tibet,1,A large number of camels and other men were also on the road.,0.8
+european men,trades_with,nakkchu,1,"The governor of Nakkchu has communicated the said instructions to the governor of Namru, and let writings be sent with haste to Namru and Nakktsong.",0.8
+the governor of nakkchu,regulates,russian men's travel,1,Watch the frontiers of Nakktsong. It is necessary to watch the country closely bit by bit.*,0.8
+tibetans,controls,caravan,1,"I left orders with the caravan to stay where they were that day, and on the following morning to proceed to the west side of the lake...",0.9
+the lake,connects_to,the southern shore,1,By this we were only about half a mile from the southern shore ;,0.8
+cherdon,supplies,food,1,"we were well supplied with food in the shape of a whole roast goose, and two or three cakes of bread",0.8
+the peninsula,connects_to,the mainland,1,"it was a peninsula we had rowed round, and its only connection with the mainland was the narrow isthmus across which we carried our boat.",0.8
+caravan,trades_with,provisions,1,they refused to supply them with provisions,0.8
+tibetans,controls,camp,1,most of the latter were encamped round a fire in the open air,0.8
+cossacks,governs,military salute,1,the Cossacks receiving me as usual with a military salute,0.8
+hlajeh tsering,negotiates_with,cossacks,1,"Hlajeh Tsering went to the Cossacks, and asked them what had become of me",0.8
+tibetans,regulates,caravan,1,they forbade the nomads who dwelt along its southern shore to render us any assistance,0.8
+tibetans,governs,land of the burkhans,1,"Their policy of isolation during the last half century or so has not been dictated by religious, but by political motives.",0.9
+tibetans,regulates,european strangers,1,"Their tactics, peaceful, but so far successful, have aimed at guarding their frontiers against Europeans, and conducting their unbidden guests politely, but firmly, out of the country.",0.9
+tibetans,controls,land of the burkhans,1,"The Land of the Burkhans, the southern part of the Land of the Holy Books, is taboo to Europeans ; it is the patrimony of the Dalai Lama, a sacred land, his own peculiar property.",0.8
+tibetans,negotiates_with,european strangers,1,"When I said, 'I will take the southern road to Ladak,' they answered, 'There is no southern road.' When I spread the map out before them and pointed to the road, they objected, 'Well, there is a road ; but it is only for us. You may not travel through the Land of the Burkhans.'",0.7
+tibetans,licenses,"chinese, ladakis, and adjacent asiatic races",1,"Chinese, Ladakis, and the adjacent Asiatic races all have free entrance into Tibet.",0.8
+the valley of the yaggyu-rapga,connects_to,the big camp,1,"Whilst we were loading up, some of the Tibetans came forward and asked us to stop over the day ; Hlajeh Tsering and Yunduk Tsering were obliged to return, and it would be in our own interest if he bought our horses and arranged for the hire of yaks before they finally left us.",0.8
+the tibetans,regulates,the yaggyu-rapga valley,1,"I pointed west, up the valley of the Yaggyu-rapga. "" It is impossible for you to advance that way,"" they asserted, ""you must go to the north-west.""",0.8
+the lake in the west,connects_to,the nakktsong-tso,1,to all appearance it was almost as complicated as the Nakktsong-tso.,0.8
+the tibetans,controls,the route to ladak,1,"The Tibetans declared we should have an escort all the way, and they undertook to procure us everything we wanted until we reached Ladak.",0.85
+the tibetans,regulates,war,1,they never advanced beyond threats and the empty alarums of war.,0.9
+hlajeh tsering,administers,cavalry force,1,"They drew them up in rank and file, but it was anything but an easy thing to get them to stand still.",0.85
+khodai kullu,licenses,boat,1,"This time I selected Khodai Kullu to be my boatman, and we directed our course towards the outermost extremity of the craggy peninsula which bordered our bay on the south.",0.9
+khodai kullu,supplies,boatman services,1,"This time I selected Khodai Kullu to be my boatman, and we directed our course towards the outermost extremity of the craggy peninsula which bordered our bay on the south.",0.95
+tibetan soldiers,connects_to,chargut-tso,1,"The Tibetan soldiers... were drinking tea, smoking, and playing dice heside the Chargut-tso.",0.9
+the western end of the islet,connects_to,a mighty waterfall,1,"Then I mapped the island, whilst Kutchuk gathered fuel. Then I went to the south-west edge of the island, where the cliffs descended vertically into the lake, and sat and listened to the thunder of the waves.",0.9
+chargut-tso,connects_to,mountains,1,the gorge in which the lake lay were a sewer for carrying off all the dirty weather in that part of the world.,0.9
+storms,disputes,weather,1,it seemed as if all the bad weather throughout the whole of Tibet were being forced to take the path across the Chargut-tso.,0.8
+lake,connects_to,river-mouth,1,The lake soon narrowed and came to an end in a trumpet-shaped river-mouth.,0.8
+cherdon,trades_with,tibetans,1,"Patrols of Tibetans were out in every direction, they also looking for us;",0.8
+lama,connects_to,chargut-tso,1,"Chernoff and the Lama were looking for us round the Chargut-tso,",0.8
+sirkin,exchanges_for,information about our whereabouts,1,Sirkin had ridden back the day before to see if we had by any chance turned up at the old camp from which we started.,0.8
+yunduk tsering,regulates,tents of the tibetan emissaries,1,I told them bluntly that I would not permit the two officers who were to command our escort to assume a tone of authority towards us ; they must just content themselves with inquiring every morning which route I desired to adopt.,0.8
+boggtsang-sangpo,connects_to,river,1,The river was divided into several arms...,0.95
+camels,depends_on,pasture,1,...the pasture on its banks was so plentiful that we felt a day would not be lost if we stopped amongst it.,0.9
+horses,depends_on,pasture,1,while everyone of the horses that survived was in a pretty bad way.,0.85
+hunters,supplies,meat,1,...our hunters kept us well supplied with meat.,0.9
+yamdu tsering,supplies,yaks,1,"Summoning Yamdu Tsering, therefore, I told him, that the time was come for him to provide us with the yaks which the Dalai Lama had promised ; and he at once undertook to supply them without loss of time.",0.85
+littledale's caravan,exchanges_for,salt,1,"I found my men encamped at a spot called Churing, where Mollah Shah, who had been a member of Littledale's caravan, knew where he was ; and as if in proof of the fact that it was the same locality, we picked up an ass's shoe, a thing which could not possibly have been dropped by any other caravan except Littledale's.",0.8
+the caravan,depends_on,yaks,1,"we had to tie it up in smaller loads, for a yak cannot carry as much as a camel.",0.9
+yamdu tsering,connects_to,ramlung,1,"We found them, however, in the pleasant valley of Ramlung...",0.9
+yaks,trades_with,tsos,1,"We received in this part of the country eight tsos in exchange for one liang or tael (about 9.) of Chinese silver, a transaction in which we were, of course, cheated.",0.8
+lakkor-tso,depends_on,water,1,"The successive levels formed flat shelving tracts edged by ridges, behind which there were very often lagoons.",0.8
+mohammed tokta,depends_on,milk,1,"Then I asked him how he felt, and he smiled in quite a friendly way. Nobody knew exactly when he passed away.",0.8
+mohammed tokta,supplies,fuel,1,"Mollah Shah, who had the last watch, had gone off to collect fuel.",0.9
+rudokis,governs,territory,1,"he had demanded a pass from the Dalai Lama and swore that if he did not produce one, he would not allow us to march through his territory.",0.8
+high official,administers,tibet,1,"If you are a high official, you ought to know it is your bounden duty to help us on our way to Ladak.",0.8
+robbers,disputes,tibetans,1,"Our Tibetans asserted that they were robbers and had hidden themselves in some ravine, and they urged us to rout them out and shoot them.",0.8
+yak-caravan,trades_with,tibetans,1,"The yak-caravan, with its whistling, singing escort, and Shagdur carrying on a lively and playful conversation with them.",0.8
+captain bower,trades_with,nain singh,1,Our route now lay intermediate between the route of Captain Bower and the route of Nain Singh.,0.8
+shagdur,extracts_from,river tsangar-shar,1,"Shagdur and Chernoff especially distinguished themselves as anglers, and time after time brought me a bunch of beautiful fish, frozen as hard as a stone.",0.8
+chernoff,extracts_from,river tsangar-shar,1,"Shagdur and Chernoff especially distinguished themselves as anglers, and time after time brought me a bunch of beautiful fish, frozen as hard as a stone.",0.8
+lama,administers,tibetans,1,The Tibetans came to our Lama...,0.9
+lamas,controls,wood,1,it was the lamas' property.,0.9
+camels,migrates_through,gravel-and-shingle terraces,1,"without immersing them in the deep, cold water.",0.8
+caravan of sheep from ladak,supplies,firing,1,it afforded them shelter as well as an abundance of firing-as indeed it did us-and in the evening their immense fires flung.,0.9
+our tibetans,exchanges_for,fishing,1,and there we caught a number of fish.,0.8
+q e tibetans,trades_with,"roo sheep, laden with salt",1,"Tibetans carry on a considerable trade across the frontier of Kashmir, bartering roo sheep, laden with salt, for 80 sheeploads of corn.",0.9
+camels,depends_on,lake shore,1,"We kept close to the lake shore, following faithfully all its windings, although that frequently took us over very difficult gravel terraces.",0.8
+chernoff,trades_with,tso-ngombo lake,1,On the 3rd of December I sent Chernoff across the lake in the skiff to sound the depth along a line which I had previously marked out for him : the soundings gave 98+ feet.,0.85
+chernoff,trades_with,the south side of the lake,1,We continued our investigations a considerable distance along the south side of the lake without discovering any obstacle.,0.8
+loppsen,trades_with,relief column from ladak,1,"Their leader, Loppsen, by name, agreed, however, to accompany us along the northern shore of the Panggong-tso, until we met the relief column from Ladak.",0.8
+yolldash,trades_with,neighbouring encampment,1,"It was there Yolldash made some especial friends, so that we had to tie him up to prevent him from running away.",0.8
+caravan,trades_with,siriap peninsula,1,We found the caravan comfortably established on a flat peninsula called Siriap~ where bushes were very plentiful.,0.8
+chernoff and ordek,trades_with,panggong-tso,1,"I sent my two best boatmen, Chernoff and Ordek, to row south-west across the Panggong-tso and sound its depth.",0.8
+lake,supplies,water,1,"The lake ran exceedingly high, for the wind, being forced through the long narrow valley, swept across it unhindered with redoubled vehemence.",0.85
+yaks,extracts_from,top of the promontory,1,"M'hen they reached the top, fifteen of them were unloaded, and brought back to fetch my boxes, tents and other baggage ; which they took right over to the next camp on the other side.",0.9
+indus river,connects_to,valley,1,"Upon reaching Kalachi we turned up a little side-glen, leaving the valley of the Indus on our left hand.",0.95
+zoji-la,connects_to,baltal,1,"Shortly after that, however, we went down by a breaksneck descent to the station-house of Baltal...",0.85
+murree (mum) pass,connects_to,rawal pindi,1,"The road ran first through the valley of the Jehlam, across the pass of Murree (Mum), and so on down to Rawal pindi.",0.85
+tonga,trades_with,river,1,"On the right was a precipice, dropping sheer into the river...",0.8
+lord curzon,governs,"~oo,ooo,ooo subjects",1,"We in Europe have very little conception of what it means to be Governor-General of India, with almost absolute power over ~oo,ooo,ooo subjects, or very nearly as many as are ruled by all the Sovereigns of Europe together.",0.9
+lord curzon,licenses,functions of his office,1,"Lord Curzon takes an earnest view of his duties, sacrificing all his time and all his strength to the functions of his office.",0.8
+ganderbal,connects_to,mountain pass,1,"As it grew slowly lighter, the white snow-fields became more and more distinctly perceptible, and the spruces stood out blacker and blacker against them. Every now and again somebody would tumble head over heels in the [mountain pass].",0.8
+shagdur,depends_on,doctor shawe,1,Doctor Shawe diagnosed it as typhoid fever.,0.9
+aul,administers,tent-village,1,"Aul, 'tent-village,' i. 8 ; through West Turkestan, i. 9-12 ; met by Islam Bai, i. 14...",0.8
+islam bai,administers,togri-sai,1,"met by Islam Bai, i. 602-606 ; returns to Mandarlik, i. 3 ; makes trip to Ayag-kum-koll, ii. 4-36;",0.8
+islam bai,trades_with,tibetans,1,"visited by Tibetan spies, ii. 387-388 ; escorted by Tibetans, ii. 400-407 ; met by Sirkin and Turdu Bai, ii. 423-429, 432 - 441 ; drifts down Sachu-sangpo, ii. 424 - 428.",0.7
+kal-pet,depends_on,tibetan emissaries,1,"account of Tibetan emissaries, ii. 457-462;",0.6
+traveler,supplies,camels and horses,1,"camels and horses break down, ii. 508-513 ; travels beside Lakkor-tso, ii. 516-519 ; down Somrneh-sangpo, ii. 524-527;",0.7
+beglik-koll,connects_to,lake,1,"on Beglik-koll, i.",0.9
+chappgan,connects_to,reed-pass,1,"Chappgan, "" reed-pass."" i.",0.8
+ferry-boat,trades_with,goose,1,"of the ferry-boat, i.327",0.8
+gobi,depends_on,temperature,1,"temperature in, ii. 78",0.6
+tibet,governs,highlands,1,"Highlands, Tibetan. See TIBET,",0.9
+kurbanchik,governs,east turkestan,1,"i. Koral-dungning-kill, i. J., governor of East Turkestan.",0.95
+shereb lama,disputes,tibetans,1,"engages Shereb Lama, ii. 195",0.8
+tibet,governs,lower tarim,1,"' detains Tibetan shepherds, of Lower Tarim...",0.9
+yanghi-ko11,connects_to,yak-dung,1,"Yak-dung, fuel, ii. 39",0.8
+yanghi-ko11,supplies,yak-dung,1,"Yak-dung, fuel, ii. 39",0.8

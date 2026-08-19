@@ -945,6 +945,7 @@
 /visual_art/art_owner
 /visual_art/art_period_movement
 /visual_art/art_subject
+/visual_art/artwork
 /visual_art/color
 /visual_art/visual_art_form
 /visual_art/visual_art_genre

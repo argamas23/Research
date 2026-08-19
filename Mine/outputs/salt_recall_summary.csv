@@ -1,13 +1,14 @@
 Book,ResearchCircuitSentences,SaltSentences,CommodityCircuitSentences,PoliticalEconomySentences,RoutePlaceSentences,SocialActorSentences,FinalCircuitEdges,FinalSaltEdges,FinalCommodityCircuitEdges,FinalPoliticalEconomyEdges,FinalRoutePlaceEdges,FinalSocialActorEdges,EvidenceCoveredSentences,NodeCoveredSentences
 Becoming_India,696,19,90,572,128,345,70,0,25,39,6,0,0,518
-British_Garhwal,410,28,215,183,55,43,61,2,19,42,0,0,5,218
-CentralAsia_Tibet_Vol1,618,61,433,16,247,27,92,5,67,22,3,0,16,387
+British_Garhwal,410,28,215,183,55,43,63,2,20,43,0,0,5,232
+CentralAsia_Tibet_Vol1,618,61,433,16,247,27,127,7,90,33,4,0,19,507
+CentralAsia_Tibet_Vol2,1051,80,774,34,381,31,157,5,82,72,3,0,29,823
 Gutenberg_EBook,250,51,170,52,72,7,5,0,2,3,0,0,0,15
 HUMLA_NEPAL,79,50,68,4,10,25,8,5,6,0,2,0,0,39
 J&K_Gazatteer_1909,429,17,275,147,90,52,53,1,20,33,0,0,8,205
 Ladakh,441,27,317,84,126,129,62,6,34,21,7,0,0,332
 Mandi_Gazatteer,358,47,245,145,21,40,25,1,5,19,1,0,2,120
-Memo_Relations_with_Tibet,115,4,45,46,28,35,44,0,12,32,0,0,4,96
+Memo_Relations_with_Tibet,115,4,45,46,28,35,45,0,12,33,0,0,4,96
 No_Greenery_Rupshu,94,2,83,20,5,26,0,0,0,0,0,0,0,0
 Report_On_Tibet_1903,120,14,72,30,32,24,24,1,14,10,0,0,0,54
 Rupshu,125,106,119,12,35,17,17,9,9,4,4,0,0,57
