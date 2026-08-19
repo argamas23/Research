@@ -1,4 +1,5 @@
 Book,SaltEdges,Relations
+British_Garhwal,1,supplies:1
 CentralAsia_Tibet_Vol1,4,depends_on:2|governs:1|trades_with:1
 HUMLA_NEPAL,1,trades_with:1
 J&K_Gazatteer_1909,1,trades_with:1

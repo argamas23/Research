@@ -8,13 +8,13 @@ The current graph should be read as a sparse, extracted relation network, not as
 
 ## What The Validated Graph Shows
 
-The validated graph contains 501 nodes and 420 edges, with 96 connected components. Its largest component has 272 nodes.
+The validated graph contains 706 nodes and 636 edges, with 105 connected components. Its largest component has 457 nodes.
 
 Interpretation: network claims should focus on brokerage, centrality, and robustness inside the extracted relation structure. Avoid claiming that the whole Himalayan economy is represented as a complete network.
 
 ## Community Structure
 
-Louvain modularity in the validated graph has median 0.8331213543265646.
+Louvain modularity in the validated graph has median 0.8399223312594233.
 
 Interpretation: the graph has stable community structure, so community-level claims are reasonable when tied to extracted evidence.
 
