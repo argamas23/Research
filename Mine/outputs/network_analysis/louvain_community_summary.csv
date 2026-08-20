@@ -3,11 +3,11 @@ validated,modularity,0.8399223312594233,0.835139119080845,0.8417443291717953
 validated,communities,19.0,17.0,22.0
 validated_probable,modularity,0.8511649602626328,0.8470613242640026,0.853317154969828
 validated_probable,communities,20.0,19.0,22.0
-validated_no_concept,modularity,0.7268979430726723,0.7197929915354591,0.7293759045655892
-validated_no_concept,communities,12.0,10.0,15.0
-validated_probable_no_concept,modularity,0.7493818704266765,0.7429917471348859,0.7522135721206856
-validated_probable_no_concept,communities,12.5,11.0,13.0
+validated_no_concept,modularity,0.7268979430726723,0.7197929915354591,0.7284768211920529
+validated_no_concept,communities,12.0,10.0,14.0
+validated_probable_no_concept,modularity,0.7500918841257643,0.7429917471348859,0.7529152327174313
+validated_probable_no_concept,communities,13.0,12.0,15.0
 validated_trade_only,modularity,0.7974631028882141,0.7972865616834969,0.80034955158534
 validated_trade_only,communities,14.0,13.0,14.0
-validated_probable_trade_only,modularity,0.8120156168055475,0.808781539537323,0.8133267292115844
+validated_probable_trade_only,modularity,0.8120156168055475,0.8095390711496999,0.8133267292115844
 validated_probable_trade_only,communities,14.0,13.0,14.0
