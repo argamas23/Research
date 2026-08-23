@@ -48,6 +48,10 @@ def result_dirs(stem: str) -> list[Path]:
     return sorted(path for path in RESULTS_DIR.glob(f"{stem}*") if path.is_dir())
 
 
+def graph_source_ids(validation: list[dict[str, str]]) -> list[str]:
+    return sorted({book.strip() for row in validation for book in row.get("Books", "").split("|") if book.strip()})
+
+
 def corpus_rows() -> list[dict[str, object]]:
     validation = read_csv(VALIDATION_CSV)
     by_book = Counter(book.strip() for row in validation for book in row.get("Books", "").split("|") if book.strip())
@@ -59,9 +63,11 @@ def corpus_rows() -> list[dict[str, object]]:
         if book.strip()
     )
     rows = []
-    for txt in sorted(CORPUS_DIR.glob("*.txt")):
+    for stem in graph_source_ids(validation):
+        txt = CORPUS_DIR / f"{stem}.txt"
+        if not txt.exists():
+            continue
         text = txt.read_text(encoding="utf-8", errors="ignore")
-        stem = txt.stem
         pdf = BOOKS_DIR / f"{stem}.pdf"
         dirs = result_dirs(stem)
         rows.append(

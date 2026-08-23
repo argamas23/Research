@@ -9,7 +9,6 @@ from graph_rules import (
     COMMODITY_KEYWORDS,
     OUTPUT_DIR,
     POLITICAL_ECONOMY_TERMS,
-    RESULTS_ROOT,
     ROUTE_PLACE_TERMS,
     SALT_TERMS,
     SOCIAL_ACTOR_TERMS,
@@ -93,10 +92,7 @@ def load_edges() -> dict[str, list[dict[str, str]]]:
 
 
 def onboarded_books(edges_by_book: dict[str, list[dict[str, str]]]) -> set[str]:
-    books = set(edges_by_book)
-    for csv_path in Path(RESULTS_ROOT).glob("**/weighted_knowledge_graph.csv"):
-        books.add(re.sub(r"_\d{8}_\d{6}$", "", csv_path.parent.name))
-    return books
+    return set(edges_by_book)
 
 
 def edge_label(edge: dict[str, str]) -> str:

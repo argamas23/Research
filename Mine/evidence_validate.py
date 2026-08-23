@@ -70,9 +70,11 @@ def corpus_windows(text: str) -> list[str]:
     return [norm(window) for window in windows if len(window) <= 900]
 
 
-def load_corpus() -> dict[str, dict[str, object]]:
+def load_corpus(books: set[str]) -> dict[str, dict[str, object]]:
     corpus = {}
-    for path in CORPUS_DIR.glob("*.txt"):
+    for path in sorted(CORPUS_DIR / f"{book}.txt" for book in books):
+        if not path.exists():
+            continue
         raw = path.read_text(encoding="utf-8", errors="ignore")
         corpus[path.stem] = {"text": norm(raw), "windows": corpus_windows(raw)}
     return corpus
@@ -134,7 +136,7 @@ def validation_category(row: dict[str, str], corpus: dict[str, dict[str, object]
 
 
 def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
-    fields = [*rows[0].keys(), "ValidationCategory"]
+    fields = [key for key in rows[0] if key != "ValidationCategory"] + ["ValidationCategory"]
     with path.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         writer.writeheader()
@@ -163,7 +165,8 @@ def main() -> None:
         return
 
     rows = read_csv(args.edges)
-    corpus = load_corpus()
+    books = {book.strip() for row in rows for book in row.get("Books", "").split("|") if book.strip()}
+    corpus = load_corpus(books)
     for row in rows:
         row["ValidationCategory"] = validation_category(row, corpus)
     write_csv(args.output, rows)
