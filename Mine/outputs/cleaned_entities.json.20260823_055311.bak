@@ -246,19 +246,7 @@
     "confidence": 1.0
   },
   {
-    "entity": "aydna",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "baggage animals",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "baggage, ailinlals, and supplies",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -358,12 +346,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "bengin tea-plantation",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
   },
   {
     "entity": "best-quality pashm",
@@ -477,36 +459,6 @@
     "entity": "bhotias of walongchung",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bhotiya",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bhotiya villages",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "bhotiyae",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bhotiyas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "bhuksas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -636,18 +588,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "bundes",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "buniya traders",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
     "entity": "buriat cossacks",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -676,18 +616,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "byfins",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "byins",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
   },
   {
     "entity": "camel",
@@ -834,12 +762,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "chandrpur",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "chang-luk sheep",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -873,12 +795,6 @@
     "entity": "charas",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "charitable grants",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -1200,24 +1116,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "creditors",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "crops",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "crops of barley, buckwheat, and rod oats",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "cultivated fields and potato plots",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1308,12 +1206,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "dehra",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "deities",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -1369,12 +1261,6 @@
   },
   {
     "entity": "dingla",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "dispensaries",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -1626,12 +1512,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "exactions",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "export of female yak",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
@@ -1806,12 +1686,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "forest dues",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "forest dues or keth-bans, and kath mahals",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -1828,12 +1702,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
-  },
-  {
-    "entity": "forest rights",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "forest settlements",
@@ -1938,19 +1806,7 @@
     "confidence": 0.8
   },
   {
-    "entity": "ganges",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "ganges division",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "gangotri",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -1978,12 +1834,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "gaula river",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
   },
   {
     "entity": "geological specimens, skeletons of animals, botanical specimens, and archaeological finds",
@@ -2031,12 +1881,6 @@
     "entity": "gold",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "golel'la raja",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
     "confidence": 1.0
   },
   {
@@ -2172,22 +2016,10 @@
     "confidence": 1.0
   },
   {
-    "entity": "grain trade",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "grain with rupshu chang-pa for salt",
     "type": "COMMODITY",
     "circuit": "Salt anchor",
     "confidence": 0.8
-  },
-  {
-    "entity": "grain, salt, and borrr",
-    "type": "COMMODITY",
-    "circuit": "Salt anchor",
-    "confidence": 1.0
   },
   {
     "entity": "grain-salt-rice circuit",
@@ -2211,12 +2043,6 @@
     "entity": "grazing grounds high above the villages",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "grazing lands",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -2265,7 +2091,7 @@
     "entity": "gurkha government",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "gurkhalis",
@@ -2305,12 +2131,6 @@
   },
   {
     "entity": "harak deb",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "hawalbag",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -2379,12 +2199,6 @@
     "entity": "hill states",
     "type": "LOCATION",
     "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "hill-men",
-    "type": "GROUP",
-    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -2514,12 +2328,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "households",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "humla",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -2535,12 +2343,6 @@
     "entity": "humlis",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "huniya",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -2593,12 +2395,6 @@
   },
   {
     "entity": "india",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "india and england",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
@@ -2718,19 +2514,7 @@
     "confidence": 0.8
   },
   {
-    "entity": "jan",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "jang bahadur rana",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "juhhr",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -2779,12 +2563,6 @@
   },
   {
     "entity": "kami",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "kamla hill fort",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -2941,12 +2719,6 @@
   },
   {
     "entity": "khodai vardi",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "khola charity",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -3270,18 +3042,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "land, cattle or ahle to collect leaves from a forest",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "land-revenue",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "landholders",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -3534,19 +3294,7 @@
     "confidence": 1.0
   },
   {
-    "entity": "making a portion of the road",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "malla kings",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "management of temple funds",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -3621,12 +3369,6 @@
     "entity": "marginal, oppressed people",
     "type": "GROUP",
     "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "markets of rhmnagar and kotdwhra",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
     "confidence": 0.8
   },
   {
@@ -3834,12 +3576,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "moradabad",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "more enterprising men",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -3894,18 +3630,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "mr. shore",
-    "type": "PERSON",
-    "circuit": "Social actors",
-    "confidence": 0.8
-  },
-  {
-    "entity": "muafidnrs",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "mughal empire",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -3951,16 +3675,10 @@
     "entity": "mustang raja's great castle-like houses",
     "type": "LOCATION",
     "circuit": "Political economy",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "nagar and hunza",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "najibabad and rbinnagar",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
@@ -4020,12 +3738,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "ndapsni",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "neighbouring countries",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -4036,12 +3748,6 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
-  },
-  {
-    "entity": "nep61",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
   },
   {
     "entity": "nepal",
@@ -4257,7 +3963,7 @@
     "entity": "ordinary goats, sheep, and cows",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "other places and peoples",
@@ -4347,12 +4053,6 @@
     "entity": "panchgaon",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
-    "entity": "panjbb government",
-    "type": "GROUP",
-    "circuit": "Political economy",
     "confidence": 0.8
   },
   {
@@ -4480,12 +4180,6 @@
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 1.0
-  },
-  {
-    "entity": "people of gangoli",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 0.8
   },
   {
     "entity": "people of lo",
@@ -4662,12 +4356,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "qamsdli",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "rahbar",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -4821,13 +4509,7 @@
     "entity": "revenue",
     "type": "CONCEPT",
     "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
-    "entity": "revenue due",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "revenue of each pargana",
@@ -4851,12 +4533,6 @@
     "entity": "rice and ice",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "rijpur canal",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -4914,18 +4590,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "roads to both templea",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "roads to the sacred places",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "robbers",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -4950,12 +4614,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "ross",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "route from humla valley to saina chaur",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -4977,12 +4635,6 @@
     "entity": "ruler of the tract",
     "type": "GROUP",
     "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
-    "entity": "rumtore district",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
     "confidence": 0.8
   },
   {
@@ -5244,12 +4896,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "settlement",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 0.8
-  },
-  {
     "entity": "shafis or tibetan councillors",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -5430,12 +5076,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "soil",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
     "entity": "solu",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -5589,7 +5229,7 @@
     "entity": "suraj sen",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "sutlej valley",
@@ -5694,12 +5334,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "tarhi",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "tarim",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -5755,18 +5389,6 @@
   },
   {
     "entity": "tea and tobacco",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tea plantation",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tea plantations",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
@@ -5890,18 +5512,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 0.8
-  },
-  {
-    "entity": "the bhoksas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the bhotiyas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
   },
   {
     "entity": "the boat",
@@ -6048,12 +5658,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "the government",
-    "type": "GROUP",
-    "circuit": "Political economy",
-    "confidence": 1.0
-  },
-  {
     "entity": "the government of his majesty the king of nepal",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -6117,12 +5721,6 @@
     "entity": "the lama",
     "type": "PERSON",
     "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the land revenue",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
     "confidence": 1.0
   },
   {
@@ -6223,12 +5821,6 @@
   },
   {
     "entity": "the ravine",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
-    "entity": "the ritual to be observed by pilgrims",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
@@ -6339,7 +5931,7 @@
     "entity": "the village",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "the water",
@@ -6396,12 +5988,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "their more valuable metal utensils",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "their neighbours",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -6436,12 +6022,6 @@
     "type": "LOCATION",
     "circuit": "Political economy",
     "confidence": 0.8
-  },
-  {
-    "entity": "this country",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 1.0
   },
   {
     "entity": "thousands and thousands of sheep",
@@ -6894,12 +6474,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "trade with central asia",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
-    "confidence": 1.0
-  },
-  {
     "entity": "trade with the bhotias",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -6924,12 +6498,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "traders at paltibit or rbanlnngar",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
-  },
-  {
     "entity": "traders from baragaon",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -6952,12 +6520,6 @@
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
-  },
-  {
-    "entity": "traders from the lower hills or plain beyond them",
-    "type": "GROUP",
-    "circuit": "Social actors",
-    "confidence": 1.0
   },
   {
     "entity": "traders from the plains",
@@ -7015,12 +6577,6 @@
   },
   {
     "entity": "trail1",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
-    "entity": "traill",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
@@ -7095,12 +6651,6 @@
     "entity": "tsam tso lake",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "tsd-tahk",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -7236,12 +6786,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "village school",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
-  },
-  {
     "entity": "village sites or farmlands, local pastures or forests",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -7299,7 +6843,7 @@
     "entity": "villages",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "villages near the road",
@@ -7437,12 +6981,6 @@
     "entity": "weekly market of namche bazar",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
-    "confidence": 1.0
-  },
-  {
-    "entity": "weir",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {

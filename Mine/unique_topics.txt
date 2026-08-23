@@ -246,6 +246,7 @@
 /computer/operating_system_developer
 /computer/processor_manufacturer
 /computer/programming_language
+/computer/programming_language_designer
 /computer/programming_language_developer
 /computer/programming_language_paradigm
 /computer/protocol_provider
@@ -262,6 +263,7 @@
 /cricket/cricket_player
 /cricket/cricket_series
 /cricket/cricket_stadium
+/cvg/computer_game_engine
 /cvg/computer_game_engine_family
 /cvg/computer_game_rating_system
 /cvg/computer_game_region
@@ -271,6 +273,7 @@
 /cvg/cvg_developer
 /cvg/cvg_genre
 /cvg/cvg_platform
+/cvg/cvg_platform_family
 /cvg/cvg_publisher
 /cvg/game_character
 /cvg/game_series
@@ -326,6 +329,7 @@
 /exhibitions/exhibition_subject
 /exhibitions/exhibition_venue
 /exhibitions/type_of_exhibition
+/fashion/fashion_label
 /fashion/fiber
 /fashion/garment
 /fashion/textile
@@ -378,6 +382,7 @@
 /film/film_job
 /film/film_location
 /film/film_screening_venue
+/film/film_series
 /film/film_song_performer
 /film/film_story_contributor
 /film/film_subject
@@ -534,6 +539,7 @@
 /location/de_urban_district
 /location/es_autonomous_city
 /location/es_autonomous_community
+/location/es_comarca
 /location/es_province
 /location/fr_department
 /location/fr_region
@@ -542,6 +548,7 @@
 /location/id_city
 /location/id_province
 /location/id_regency
+/location/id_subdistrict
 /location/in_city
 /location/in_district
 /location/in_division
@@ -646,6 +653,7 @@
 /medicine/diagnostic_test
 /medicine/disease
 /medicine/disease_cause
+/medicine/disease_stage
 /medicine/drug
 /medicine/drug_administration_route
 /medicine/drug_brand
@@ -720,6 +728,7 @@
 /music/music_video_genre
 /music/music_video_subject
 /music/musical_group
+/music/musical_scale
 /music/performance_role
 /music/performance_venue
 /music/producer
@@ -794,6 +803,7 @@
 /protected_sites/site_listing_category
 /radio/radio_subject
 /rail/locomotive
+/rail/locomotive_builder
 /rail/locomotive_class
 /rail/locomotive_owner
 /rail/rail_gauge
@@ -839,7 +849,9 @@
 /soccer/football_team_manager
 /spaceflight/astronaut
 /spaceflight/mission_destination
+/spaceflight/rocket_engine_designer
 /spaceflight/rocket_engine_fuel
+/spaceflight/rocket_engine_manufacturer
 /spaceflight/rocket_engine_oxidizer
 /spaceflight/rocket_fuel
 /spaceflight/rocket_function
@@ -875,6 +887,7 @@
 /symbols/heraldic_brisure
 /symbols/heraldic_charge
 /symbols/heraldic_compartment
+/symbols/heraldic_ordinaire
 /symbols/heraldic_supporter
 /symbols/heraldic_tincture
 /symbols/heraldry_granting_body

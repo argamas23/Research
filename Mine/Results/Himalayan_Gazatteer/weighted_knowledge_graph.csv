@@ -1,0 +1,260 @@
+Source,Relation,Target,Weight,Evidence,Confidence
+sir henry ramsay,supplies,materials for the notice of bhjbar,1,"especially for the materials for the notice of the Bhjbar, the administration of which has been especially his own work.",0.8
+diiba,connects_to,dinpur malla,1,...,0.8
+alaknanda,connects_to,iron bridges,1,"There are four iron bridges over the Alaknora, a tie-bridge at Chnmoli, and iron suspensian-bridges at Clrhatwa-pipal Budrprayhg and Jiikhni...",0.8
+almors,connects_to,tlirri road,1,...one and a half miles below Srinagar on the Almors and T l ~ r i road.,0.8
+the chand ha'dwoje committee,administers,the naini tril chapluin,1,who visits Al~norn once a year... Close by and around are the residences of the European community...,0.8
+the 3rd gorkha regiment,supplies,a strong detachment to pithoragarh under the command of a native officer and guards to naini tbl and rauikhet,1,"The Kumaon battalion is now represented by the 3rd Gorkha regiment, who garrison the fort...",0.9
+e.,regulates,the erection of the building,1,"E., who also supervised the erection of the building...",0.9
+almora,supplies,water,1,The supply of water is of an unusually good quality ; springs abound on either side of the ridge within 300 feet of the crest and most of them within 160 feet of the top.,0.9
+almora,connects_to,ilsnikhet,1,Almora is connected with Ilsnikhet by a new cwrt-road constructed in 1872-73 and a bridle-road by HawBlbtig up the valley of the NIn4 Kosi...,0.8
+askot,connects_to,ihli river,1,"on the east lies the Ihli river, which separates it from Ncpbl.",0.9
+thokddrs,governs,naydna or thokddr,1,"they are willing to pay the customary dues called by them sometimes malikdm, sometimes nazardno, sometimes hak ramfinddri and sometimes, indeed generally, hak thnkddri to the naydna or thokddr.",0.9
+vishnngnnga,connects_to,alaknanda,1,"The village is situate on the right bank of the Vishnngnnga, a feeder of the Alaknanda...",0.9
+tapta kund,supplies,thermal spring,1,"...the Tapta kund, a tank about thirty foot square and covered with a roof of planks supported on wooden posts.",0.8
+badrinath temple,controls,idol,1,The only person who have access to the inner apartments are the servants and no one but the priest himself is allowed to touch the idol.,0.9
+badrinath temple,regulates,temple property,1,"The Rijas frequently made use of the temple property, giving villages in mortgage in exchange which were never redeemed.",0.8
+badrinath temple,administers,endowment,1,The temple possesses an endowment of 226 villages in Kumaon and Garhwal which yielded a revenue of over Rs. over 1824.,0.8
+the temple,regulates,the institution,1,The Riwal has a regular establishment to manage the temporal concerns of the institution...,0.9
+kaodni road,connects_to,someawar,1,"Roads connect it also with Someawar on the Kaodni road, ...",0.9
+kaodni road,connects_to,baijnbth,1,"...on the road to Karnyraybg, Kb6ti on the road to the Pindor glacier and Milam and Tbal on the road to Askot.",0.9
+kaodni road,connects_to,pindor glacier,1,"...on the road to Karnyraybg, Kb6ti on the road to the Pindor glacier and Milam and Tbal on the road to Askot.",0.9
+tikula road,connects_to,harju valley,1,...where it enters the Harju valley.,0.9
+topi-dringa,connects_to,lanka,1,on tlie left bank of the Lxnka...,0.9
+chidhmu,connects_to,kiogndh,1,From Chidhmu the track passes along a succession of low hillocks to the Kiogndh...,0.9
+kingri-bingri pass,connects_to,chir-chun encamping ground in tibet,1,"...meeting tho track froin Unta-dhrira by the Kingri-bingri pass (18,300 feet) at the Chir- chun (Chitichun) encamping ground in Tibet (16,130 foot)",0.9
+baudaryunchh,connects_to,peaks,1,"According to native accounts there are said to be our peaks which form the top of Baudaryunchh, only two of which are seen from the south-west and in the cavity or hollow contained between them tradition places a lake or tank of very peculiar sanctity.",0.9
+monkey,migrates_through,hadwhr,1,"The landholders aver that every year, in the month of Phlgun, a single monkey comes from the plains, by way of Hadwhr, and ascends the highest peak of this mountain, where he remains twelve months, and returns to give room to another;",0.8
+alrnora,governs,champirwrst,1,"removed the Chand capital from Champirwrst, giving the tract around the name Kbbspurja because it was distributed amongst the immediate followers of tlre court.",0.8
+kumaon,connects_to,r*lnganga river,1,"a patti of pnrganah SLIP in Kumaon, lies between the R*lnganga river to the west and the Kilbfini or Bchol river to the south and east ;",0.85
+tibetans,controls,this country,1,"The nativea assert that tho Tibetans forrnerly held this oountry, and ot;tribute to them the construction of this relic.",0.8
+furuagiri,connects_to,wilderness,1,"The first symptom of sanctity in the wilderness is a small marhi, dedicated to Bhairo as door-keeper ; here the pilgrims leave their shoes ; and no man of low caste or of a notoriously bad or even unfortunate character or filthy in person or discourse is knowingly allowed to advance further.",0.8
+bhribar tahsil,depends_on,hill portions,1,"The Bhllbnr tahsil may therefore be considered as divided into tho upper or Pah6r portion included in the general notice of tho Kutnaon district and tbe lower, lying below the hills with which we have to deal here.",0.8
+government,administers,tarhi,1,"As a preliminary measure to the arrangement of the boundary it mould appear indispensably necessary that the whole tract of the Tarhi should be declared the free and disposable property of Government, with the reservation to individuals of such portions as may be in their actual occupation.",0.8
+the thirls and bhoksas,administers,a vast extent of territory,1,These persons holding an undisturbed monopoly of a vast extent of territory...,0.9
+the bhhbar,taxes,strangers,1,The full tax wad levied only on tho strangers who came to graze.,0.8
+the bhoksas,disputes,water,1,"The Bhoksas having moved down to Gadarpur, and compensation is still paid to the heirs of Moti Chakrbynt amounting to Rs.",0.85
+the population of the bhabar,migrates_through,different parts of the hills,1,"The population of the Bhabar is, with few exceptions, migratory, consisting for the most part of Kumaonis who arrive in November and return to the bills in April-May.",0.8
+british rule,governs,ohorgaliya,1,"Under the British rule, for under the Gorkbilis there were no cultivated spots at all and few hill-men and flower plains-men ventured into the tract.",0.8
+rdlis and other low-caste men,controls,some fields,1,who have for some years made the BhJbar their lone and have become acclimatised.,0.8
+hill-men,controls,gaula river,1,"Unless any facts above detailed in allusion to the Gaula river be utterly erroneous, the conclusion arrived at must be that it is henceforth idle to comply in general and loose terms of the monopoly of water by the hill-men.",0.8
+captain ramsay,administers,bhhbar,1,"Thomason, then Liouteoant-Governor, placed the Bhhbar in charge of Captain Ramsay with power to expend as much aa he could realise in excess of the Government demand on its improvement.",0.9
+government,governs,revenue,1,"The original land revenue continued to be paid into the Government treasury, and in a short time the return from this Revenue alone greatly exceeded the revenue originally fixed...",0.8
+rhja shiurhj sirlgh,exchanges_for,chilkiya ildkah and a confiscated estate in af'zalgarh,1,Government was induced to allow Rhja Shiurhj Sirlgh to exchange the Chilkiya ildkah for a confiscated estate in Af'zalgarh.,0.9
+bhoksa villages,connects_to,gadarpur,1,the cultivators carried down to Gadarpur by Major Jones,0.8
+talladee bhhbar,supplies,people of kali kumaon,1,"The KBli Kumaon people (above Barrndeo) aro the only bad cultivators in the hills, and in cases of scarcity they used to go down to Pilibhit to purchase grain in May and June.",0.8
+barmdeo,connects_to,canal,1,"I was asked by a great of the inhabitants of eastern Kumaon to make a canal at Barmdeo, so that the people of the hills above might cultivate as others did at Raldwani or elsewhere : offers for one hundred villages were given, and I took a canal from the Irrigation Department.",0.8
+bh6bar,depends_on,manure and irrigation,1,The prosperity of the Bh6bar cultivation depends on manure and irrigation.,0.9
+bhabar,governs,pasture land,1,The Bhabar has sufficient pasture land and does not require any management on the part of the Forest Department-,0.8
+great 'r~igoaornetrical survey,administers,station,1,There is here a station of the Great 'r~igoaornetrical Survey...,0.8
+bhainskhet,connects_to,cfarh-w,1,"Bhainskhet, a village, with a bungalow on the route to Cfarh-",0.8
+r~i~naon district,governs,bhainskhet,1,is situated in patti Malla TIkhlill and pargallah BArah~nandal of the R~i~naon district.,0.8
+allnora,connects_to,bhainskhet,1,"It is distant 14 miles from Allnora and 13 miles from D~vBruLit, the next stage...",0.8
+simtola hill,depends_on,"kalmattiya (6,414 feet)",1,"The route from Al~nora lies down the north-western slope of the Simtola hill around the outlying spur of Kalmattiya (6,414 feet) to HBwalbiig...",0.8
+saur-qajeli,connects_to,tilbara bridgo,1,"The road hence to Saur-Qajeli passes on to the Tilbara bridgo, level nnci thenoe slightly undulating...",0.9
+bhagirathi river,connects_to,granite trough,1,"the stream is in a state of dirty foam, twisting violently, and with mighty noise, through the unusually hollowed trough of solid granite",0.9
+bh6bar,regulates,irrigation purposes,1,to utilise ilic reservoir so formed for irrigation purposes in tho Bh6bar during the cold weather.,0.85
+bhotiyas,trades_with,india and england,1,the Bhotiyas travel to oxchallge the yn)ducts of India and England,0.8
+himalaya,connects_to,ancient ocean,1,"He knows that the plain over which he looks is the bed of an ancient ocean, filled with the vestiges of the extinct creations of an ancient world...",0.9
+bhot,governs,tract known as bhot,1,The other great rivers having their source at the southern border of the snowy range all lie without the tract known as Bhot with which we are more intimately connected here...,0.85
+dhauli,connects_to,girthi river,1,"On the right bank, the Dhnuli receivea several glacier streams, including the Gancshganga...",0.9
+bhotiyas,controls,villages,1,"The residences of the Bhotiyas are nilh, DSrpbu, Ganpghnr, Kbil.a&, Lsqm, Lwil, Mipa, Milnlu, Yurtuli, lib- l a m b Rllko~, Tola, and Sirudu.",0.9
+ramdri,connects_to,knpliut,1,"by Ramdri on tho eastern RAmgaoga across t11e KBlamundi range to Surl~ing and Lflam, while n~lothor branches off from Khilti in the P i n d ~ r  valley...",0.9
+chaudlos,connects_to,dlrmb,1,ChaudLos-ia bouuded on the north and west by Dlrmb;,0.8
+nep61,governs,bhotiya villages,1,In the glen of the Tinkbr river on tho eastern side of the Khli are a few Bhotiya villages subject in NepB1...,0.8
+byins,depends_on,nep61,1,"Up to the Gorkbtili conquest of Kumaon, Byins held to Julijn of Nephl and was annexed through the Rijbir of Asliot to Kumaon in the last decade of the last century.",0.9
+byfins,supplies,road,1,The approaches to Byins are the same as those given for DBrma. From Rhela of Dhr~na the road continues along the right bank of the K61i to Budhi...,0.7
+chetu-binsyak,connects_to,upper byhns,1,"The summit of Chetu-binSyak is then reached after an ascent of about 1,750 feet by an easy path and thence the entrance into upper Byhns.",0.9
+girbiya,connects_to,upper byine,1,"The first village in upper By4ns is Glirbiya or Qarbiyang (10,320 feet), close to the KBli river.",0.8
+tinkhar,connects_to,river,1,"A little above the bridge and on the top of a steep bank, is the village of Chanqu (9,900 feet). The Khli now turns abruptly to the north-west through a steep rocky mountain defile...",0.8
+byins,governs,askot,1,"It was by this route that Rudrplil, Rbja-bh of Askot, entered and subdued Byins and annexed it to Kumnon under the Gorkhhlie.",0.85
+chhad~ala peak,connects_to,mangdang,1,"Two miles more along the river bank leads to Mangdang, a level under the Chhad~ala peak opposite to which is Relakang...",0.8
+himelayan passes,connects_to,plains of india,1,"the natural and political barrier-wall dividing two great kingdoms, from which the eye hopes to range one way over terraces of mountains descending to the plains of India...",0.85
+lipu-lekh,connects_to,kbli river,1,"The road, fairly or naturally good, follows the right bank of the KBli, which uses in water courses under the pass.",0.9
+avalanches,controls,houses,1,"In 1822 more than 20 houses were swept away by an avalanche in the village of MAna, although it is, at present, two miles distant from the peak whence the destructive mass must have proceeded.",0.8
+bhotiyas,supplies,jan,1,"The liquor in use is of two descriptions, d61.u or Fbhiskey, produced by distillation and jan, obtained by simple fermentation...",0.9
+rhotiyas,transports_via,instruments,1,"The Rhotiyas of both sexes and of all classes in every pass carry suspended from the waistband by small chains or thongs of leather, a variety of instruments of daily use...",0.9
+bhoti,governs,their own observation and experience,1,Their intelligo~lae is entirely the result of their own observation and experierrca ;,0.8
+bhotiya reaidents of the juhdr valley,supplies,rough account of their trading operations,1,"but of what they may become we have an example in Paodit Naiu Singh, the great explorer of the Trigonometrical Survey, and his fellow-travellers, several of whom were Bhotiya reaidents of the Juhdr valley.",0.7
+juhri bhotiyas,regulates,the power and influence they did,1,but the J u h & r i ~  are decidedly the most intelligent and most wealthy of all the Bhotiyns.,0.9
+bhotiyas,controls,their more valuable metal utensils,1,On moving down~wardu on their migrations they bury within their houses their more valaable metal utensils.,0.8
+panchachuli hills,disputes,death,1,In Juhiir they say that he who collrnits larCally amongst the Pdnchachuli hills shall surely die because of it.,0.9
+bhotiyns themselves,negotiates_with,schlagentweite,1,He assisted the Schlagentweite in their journeys.,0.7
+bhotiya brahtnans,regulates,eating,1,"Thus they often enter their chauka or cooking circle without washing their feet or taking off their coats, and eat their dinner in the same clothes that they wore at breakfast...",0.9
+khy firhais,supplies,slave-girls,1,"The girls were not bought ostensibly as either wives or conoubines, but merely as servants to aid in tho house and field, and living in the houses of their masters and eating with the family, were well treated, and comfortable.",0.8
+bhotiyas,depends_on,grain,1,For grain they have to depend in a great measure ou their winter habitations in the more southern pattis.,0.8
+bhotiya,governs,juhhr,1,The Bhotiyas of Juhhr have a Peculiar way of cutting their wheat and barley.,0.85
+bhotiyas,depends_on,tibet,1,The Bhotiya mahale belonged to Tibet up to the time that Grrhwil became consolidated under the chiefs of binagar and Kumaon under the Chnnds.,0.9
+bhotiyas,regulates,trade,1,"The Tibetan authorities have from time immemorial subjected the trade to regulations and relstriction of all kinds, nor is their interference limited to the imposition of customs-duties.",0.85
+tibetan authorities,taxes,bhotiyas,1,The taxes paid by them to the foreign Government were formally recognised by their flindu rulers in both districts.,0.9
+tibetan government,governs,bhotiyas,1,"It does not appear that this Government ever originates any inquiry into crimes or offences committed by the Bhotiyas elsewhere than in Hundes ; nor does it delegate any power, judicial or fiscal, to the Bhotiya village functionaries.",0.9
+tibet,depends_on,moradabad,1,"In 1815 Dr. Rutherford, who had charge of the Company's investment in Moradabad, proposed his depotation to Tibet with a view to open up the trade between the Company and the natives of that country.",0.85
+almora,connects_to,kbshipur,1,Further inquiry showed that the wares purchased by the Almora merchants at KBshipur were bartered to the Bhotiya carriers who disposed of them at Gartnh and other places in Chinese Tibet.,0.9
+bhotiyas,monopolizes,trade,1,"The poverty and the want of enterprise of the merchants of Kumaon and Garhwhl, the difficulties to be overcome in crossing the passes without the assistance of the Bhotiyas, the total absence of tolerable roads, and perhaps more than all the force of immemorial custom, have hitherto prevented any serious attempts towards the abolition of the Bhotiya monopoly.",0.95
+the bhotiyas,depends_on,india,1,"The agricultural productions of Hundes being utterly insufficient for the support of its inhabitants, the country almost entirely depends for its supplies on India.",0.9
+the bhotiyas,trades_with,najibabad and rbinnagar,1,"Very little borax is consumed in these districts, so that the whole of the imports are carried to Najibabad or disposed of at Rbinnagar, and there prepared for export to Farukhabad, Calcutta, and Europe.",0.9
+byhns bhotiyas,trades_with,tnklakhar,1,"The Byhns Bhotiyas trade with Tnklakhar : the Dhr- miyaa and Juhtiris with Tara, Misar, Qyanima (or Gyaoip), and Qartoh:",0.8
+buniya traders,trades_with,bhotiyas,1,"The commercial operations of the season normally commence by the arrival of the Buniya traders in Bhot, regarding the superior strength and hardihood of their sheep enable them to cross the pass earlier than the Bhotiyas.",0.8
+bhotiya,trades_with,huniya,1,"The principal part of the trade between the Bhotiyas and the Huniyas is carried on by barter, and almost every article is furnished by the Huniyas agreeably to an assize held at a remote period.",0.85
+bhotiya,licenses,huniya,1,The Bhotiyas of Juh L boast that they are the descendants of the traders who procured the fixation of prices by the government of Lblnr.,0.75
+bhotiya,regulates,trade,1,"There is limitation also as to places, and each valley has its own mart.",0.7
+enndes,trades_with,unhu~ked rice and salt,1,The rate of exchange usually obtaining in Enndes is eight pdthar of unhu~ked rice for twenty of salt,0.8
+bhotiyas,exchanges_for,borax or salt and fine grain or coorse grain,1,In Euodes the Bhotiyas obtain two parts of borax or salt for one part of fine grain and one and a half to one and a quarter parts for one of ooarse grain.,0.8
+juhar,transports_via,cotton stuffs,1,"chiefly through Juhar and the same parcels contain small amounts of European broad-cloth, pearle, and coral beads.",0.8
+acer caudatum,connects_to,kon-ehia,1,"These are made from the knois of the Acer caudatum, called kon-ehia by the Bhotiyas of Byfins...",0.9
+bhotiya,trades_with,bundes,1,but when the Bhotiya proceed with his investment directly to the marts in Bundes a ~roportinnately greater return (double) is ~lecessnrily obtained.,0.8
+bhotiyas,monopolizes,grain trade,1,In this the Huniyas do not participate.,0.9
+almora merchants,connects_to,tibetan merchants,1,From the establishment of a direct inter-course between the Almora merchants and those of Tibet...,0.8
+bhotiyas,depends_on,creditors,1,The latter is almost always in debt and entirely dependent on his creditors...,0.9
+bhotiyas,trades_with,tibetan traders,1,"He meets Tibetan traders in borax, salt, or perhaps gold-dust, who have brought these goods from places some distance beyond.",0.8
+bhotiyas,trades_with,traders from the lower hills or plain beyond them,1,"There he meets traders from the lower hills or plain beyond them, with whom he barter his Tibetan goods for grain, sugar, and cloth.",0.8
+bhotiyas,trades_with,traders at paltibit or rbanlnngar,1,"If his goods do not sell at Blgeewor, he marches on to the larger markets of PElitbit or RBnlnngar, at the foot of the Himalay.",0.8
+baniyas,trades_with,other baniyas,1,"Under the direction and with the capital of their wealthier brethren or of Baniyae at Higeewar, Almora, or Bermdeo.",0.8
+englishman,trades_with,borax sellers at blgeewar fair,1,"An English agent went to purchase borax at the Blgeewar fair to the value of a lakh of rupees was unable to obtain a single pound though the fair was flooded with it, and it was selling at no higher prices than he offered.",0.8
+tibetan traders,trades_with,bhotiyae,1,As with the Bhotiyee sheep are the mean of conveyance for these Tibet traders between Milam and their own mal-ts...,0.9
+tibetan traders,exchanges_for,gold-dust,1,"On this principle, gold-dust is said to be chiefly given in exchange for cotton cloth...",0.8
+bhotiyae,trades_with,tibetan traders,1,As with the Bhotiyee sheep are the mean of conveyance for these Tibet traders between Milam and their own mal-ts...,0.9
+sheep,transports_via,"grain, salt, and borrr",1,"Sheep and goats serve as the means of transport for nearly the whole of the grain, salt, and borrr...",0.7
+goats,transports_via,"grain, salt, and borrr",1,"Sheep and goats serve as the means of transport for nearly the whole of the grain, salt, and borrr...",0.7
+bhotiyas,governs,revenue due,1,"The Bhotiylrs wore subject to the reliefs and aids levied from all subjects on occasion of the marriage of the sovereign or his children or of war, &c.",0.9
+tibut or bhot,supplies,commodities,1,the produce of Tibut or Bhot were to be received as payment in kind.,0.9
+bhotiyns,depends_on,capital and stock of individuals,1,"The gross receipts of the inhabitants from every source of production were inadequate to answer such excessive impositions, the capital and stock of individuals were gradually dissipated in their liquidation, and ultimately a load of debt was incurred for that purpose.",0.75
+nepal government,regulates,exactions,1,"When the magnitude of the evil led to the interference of the Nepal Government, an officer of reputation, Bhagti Phiipa, was especially deputed for the re-settlement of the Bhotiya mahals.",0.8
+government,taxes,bhotiyas,1,"Though a friend to light assessments, I am still of opinion that the Bhotiyas pay to Government a smaller share of their revenue than the other inhabitants of the province ; and that considering their increased and increasing resources, the reduction made in the revenue of the passas, lu, compared to that made in the revenue of the communities, was disproportionately large.",0.8
+bhotijlrra,licenses,practically,1,"The profits of trade must to a certain extent be considered in making the assessment, for in order to make these profits, the Bhotijlrra are allowed practically exclusive occupation of gramineous terrain of grazing ground ; they have advantage of the roads and bridges constructed at great expense and yield very little to the Tibetan government.",0.8
+byins people,migrates_through,neptil,1,"The Byins people can easily evade any order that they think vexatious by migrating to Neptil, and they have no respect for law, except so far as it makes itself felt by them.",0.8
+bisaud raja,taxes,chands,1,"The former was called on to give as tribute to the Chands two live partridges every day, and wearied with the task yielded his fort ; whilst the Kat-yuri Rnja fled to Sy~inare, and his place was taken for a tima Gaz.",0.8
+udyau chl~nd',disputes,katyhri rajas of bisaud,1,Udyau Chl~nd' was the first to disturb the posseea possessions of the Katyhri Rajas of Bisaud in the first half of the 15th century.,0.9
+tsd-tahk,extracts_from,lake,1,"The lake is almost connected with a larger one, the Nagong-cho...",0.9
+champawat,depends_on,gneiss,1,"The rocks of Champawat are partly gneiss, which having become disintegrated in many places, have given way and, according to McOlellaud, caused the destruction of the greater part of the old buildings.",0.9
+chandrpur,administers,parganah ohandpur,1,"Pntti of parganah Chandpur, in British Garhwhl, is bounded on the north by tho Pindar river...",0.9
+garhniil,governs,garhwil,1,...was the ceutral pnrgnsah of Garhwhl and is characterised by lofty and ateep rnol~utai~l allges...,0.8
+chandrpur,trades_with,markets of rhmnagar and kotdwhra,1,...A good road along the line of the Nybr river and over the soutbern mountai~ls now connects this tract with the principal ~ ~ o u b s  leading to the markets of Rhmnagar and Kotdwhra...,0.8
+the road,connects_to,byhns-gahat leepa,1,The road hence to Byhns-gahat Leepa along the left bank of the Ganges river...,0.9
+yvlla rod talla patti,taxes,re. 0-10-11 per acre,1,"The land-tax falls on the whole assessable area at Re. 0-10-11, per acre, in the Malla and at Re. 0-9-7, per acre, in the Talla patti;",0.9
+chaubhainsi,taxes,re. 0-10-2 per acre,1,"On the cultivation, a t Re. The population, at the time of settlement, numbered 26,518 souls, of whom 12,400 were females.",0.85
+birlnu river,connects_to,ri!t~gt~rlg;i,1,"of the Birlnu river, an afflr~et~t of tile Ri!t~gt~rlg;i,",0.9
+chaul;ot,depends_on,better climate and pasturage,1,"The higher ~~ortions of Chaul;ot are less fertile than the more central yattis, but are oonlpensated by better climate and pasturage;",0.8
+bhlm tal,connects_to,lake*,1,"' When misfortune comes, cut up fish go back to the lake*'",0.8
+darma,governs,pattis,1,"Darma, a parganah in Kumaun, comprises four pattis, viz., DBrma Malla and Talln, Byhns, and ChaudPns.",0.8
+lissar river,connects_to,dhauli,1,The upper patti occupies the valley of the Lissar river and the upper part of the Dhauli;,0.9
+khli,connects_to,lunpiya-dhlira pass,1,The lower patti lying near the junction of the latter with the Khli.,0.85
+dehra,administers,cantonment,1,"it returned to Dehra, which had been selected as its future cantonment.",0.9
+colvin,exchanges_for,better site,1,"Colvin gave a portion of the tahsili compound for the use of the mission, which was exchanged for a better site by Mr. I n 1881.",0.8
+ndapsni,controls,water supply,1,"The water-supply of the European portion of the station is obtained from a spring at NdapSni, which issues from a small hill situated about two miles to the north-east.",0.9
+rijpur canal,supplies,water,1,two receiving supplies of water from the Rijpur canal and rhe third from rainwater only,0.9
+guru bhm hbe,governs,dehra,1,"Coming with letters of recommendation from Aurangzeb to Fateh Sbh of Garhwll, the Guru was welcomed...",0.8
+mr. shore,administers,dehra,1,"Shore then assumed charge under the designation of Joint-Magistrate, and, during his residence at Dehra (till 1828), the town along with the rest of the district gained greatly from his reforming hand...",0.85
+mr. shore,supplies,dehm jail,1,"and he himself advanced the required to build the Dehm jail, and to establish shops on the road...",0.75
+deoband or ntigal railway,connects_to,dehra,1,"The cost of a metre-gauge line about 75 miles long from Deoband or Ntigal on the Sindh, Panjbb and Delhi Railway would be M r ki and HardwBr to Dehra and thence to Rijjpur...",0.9
+brahmans,trades_with,25 villages,1,These Brahmans also enjoy the revenue derived from 25 villages granted by the Raja of Garhwal;,0.8
+dhauli,connects_to,gljirtf and hi~iiganga snow streams,1,"The Dhauli is joined by several snow streams, the chief being the Gljirtf and the Hi~iiganga, which last rises on the northern side of the Nauda Devi peak.",0.8
+dhauli,connects_to,nauda devi peak,1,The source lies to the north of the main range of the Himrilaya and the valley of the river forms one of the two into which Dlalla Dhrma is divided.,0.8
+ukhlot,connects_to,mnidi river,1,thence along the ridge to the valley of the Mnidi river...,0.9
+dkli,connects_to,pindari glacier,1,the route to the Pindari glacier in yarganuh Daupur of Humaoo,0.85
+the yindar,connects_to,the glacier,1,"a road which formerly led to the glacier, till the bridge was carried away",0.8
+dgngari,connects_to,the gauka and laser glacier streams,1,"two glacier streams descending during summer in a southern direction, which form the eastern branch of the Gori",0.8
+konra peak,transports_via,southern gorge of the konra peak,1,"The road thence passes along the southern gorge of the Konra peak (10,990 feet high), amid the same kind of forest interspersed with glades covered with grass.",0.8
+chandrgiri hill,connects_to,mritunjaya temple,1,"below the palace the bazaar colnmencee, and at the end of it is the Mritunjaya temple with a broken pinnacle",0.8
+chaudhris,administers,temple to mahtideo,1,"In the upper bazaar is a temple to Mahtideo in ruins, the image having been retrieved to the Badri-north temple...",0.9
+qamsdli,governs,village school,1,There is a village school here during the summer months,0.7
+qamsdli,supplies,"crops of barley, buckwheat, and rod oats",1,"A quantity of flat land round the village bears crops of barley, buckwheat, rod oats",0.8
+qangoli,administers,six pattis,1,"The parganal now comprise six pattis - Be], Bheraag, Barsun, RamsyIr, Pung:lrboo, and Ath- ghn-each of which is separately noticed.",0.85
+pargnndl,depends_on,high and steep ranges of hills,1,"The land capabilities in Barbon are a little better than in Bel, and perhaps best in PungarBon, which finds its surplus produce.",0.8
+gangoli hirt,connects_to,table land,1,Be1 occupies the lower part of the yarganah from river to river and from Gnngoli Hiit southwards.,0.8
+bel,governs,rillages,1,"The land capabilities in Bel, and perhaps best in PungarBon, which finds its surplus produce.",0.7
+pnnte and upretis,controls,people of gangoli,1,"and at the time of Mr. Batten's settlement they were in addition wretchedly poor, slaves of the Pnnte and Upretis, without any independence;",0.9
+bengin tea-plantation,supplies,people of gangoli,1,The Benin6g tea-plantation has greatly aided in raising the people out of debt through the constant employment and good wages they receive there.,0.9
+gangotri,supplies,pilgrims,1,"Without the enclosure there are a few wooden sheds constructed for the accommodation of pilgrims, who also find shelter in caves formed by overhanging stones...",0.85
+gangotri,regulates,the ritual to be observed by pilgrims,1,"Ablution in these pools is considered an important part of the ritual to be observed by pilgrims who visit this spot, considered popularly to be the source of the Ganges...",0.8
+brahman,licenses,flasks and similar vessels,1,"Flasks and similar vessels are filled at Gangotri with the revered water of the stream, and being sealed by the officiating Brahman, are conveyed to the plains...",0.9
+ganges,transports_via,water,1,"The Ganges thus appears to incurious spectators to derive its original source from this chain of mountains, and the end of superstition has given to the mouth of the cavern the form of the bead of a cow...",0.75
+nadhaur,connects_to,western ganga,1,It eventually joins the Western Ganga on the left bank.,0.9
+government,supplies,roads,1,"The district is well-supplied with hill-roads varjing from ten to twelve feet in width, nearly all of which are bridged...",0.8
+bridges,connects_to,pitli d6n,1,"Bridged as far as the Pitli D6n, where it enters foreign boundary.",0.8
+people,trades_with,grain,1,"where it was sold. There was no great scarcity of money at the time, ao that the majority of purchasers paid ready money, a few giving labour in exchange for food.",0.8
+government,regulates,trade with central asia,1,"The trade with Oentral Asia, which at one time gave great hopes of proving remunerative, has been practically closed by the action of our Russian friends in putting a prohibitive duty on all articles imported from India.",0.8
+bhotiya,governs,land,1,In tho Bhotiya ~nahhlg where a prejudice exists against purchasing a fellow Bhotiya's land...,0.8
+sarolas,governs,cuisine for raja abhaya phi's standing army,1,"All should eat from one vessel the food prepared by his Brah-man cooks, a custom generally observed to the present day.",0.8
+brahmana,administers,census statistics of 1872,1,"The census statistics of 1872 show 81,038 Brahmana in Garhwil, Drahmaun.",0.8
+pujpris,regulates,offerings,1,"They eke out alivelihood by el11 tivatiog the small pants of revenue-free lands in gtinth usually attached to each temple and have by pre- prescription. o right to certain portions of t,he offerings...",0.8
+dasnbmis,regulates,rituals,1,"All are eligible for Lho title, the title given to the head of each math or convent.",0.8
+chaudhris,governs,rajns,1,the Chaudhris attamed to considerable influenoe by mason of their being employed in the civil administration of the Rajns,0.9
+doms,regulates,mines,1,"They used to migrate from Kulnaon to all the principal mines in both Kumaon and Ghrwkl, taking with them their women and children.",0.85
+bhuksas,governs,villages,1,The Bhuksa villages are distributed over the forest along the foot of the hills outside the demarcated forest tracts.,0.9
+the british,governs,rumtore district,1,"Under such a system, cultivation rapidly increased and what were once flourishing villages relapsed into jungle and became the home of wild beasts.",0.8
+traill,administers,transit duties,1,The presence of a police officer at Dadnandi was entrusted with the collection of the transit duties which were still in force.,0.85
+settlers,depends_on,land produce,1,Engagements were taken either from the raydor or the smaller land-holders for their respective villages and some attempt was made to improve the cultivation by granting leases of waste land on favourable terms.,0.75
+government,regulates,forest dues,1,The mode of assessment at the first triennial settlement was similar in all respects to that adopted in ... forest produce.,0.8
+trsill,administers,dehra d6n,1,he was entrusted with the administration of Dehra D6n with Mr. Shore as Assistant,0.9
+mr. batten,governs,the settlement,1,"The duty of his successors was, it appears to me, rather to consolidate the good that had already been done than to attempt with less ability to carry it out, an imitation of the only necessary, which, if not originally of a doubtful character, had at least been pursued to its legitimate limits.",0.8
+mr. batten,regulates,the assessment,1,"His record contains a careful review of the past history of each village in regard to its padhdna and its changes from dependence on some other village (ddkhili) to independence (a,li) ; and again from its solitary position to its inclusion in other villages, and so light was the incidence of the revenue that recourse to farming leases, properly so called, was rarely found necessary during the course of the settlement.",0.75
+padhcln,regulates,cultivators of any share,1,"But the padhhln in such cases was strictly forbidden to interfere with the cultivators of any share save his own, he being entitled to collect the quota of Government revenue from the proprietary shareholders...",0.8
+villagers,governs,village,1,The villagers mere not allowed to vote sway or otherwise interfere with the actual possession of their proprietor mdlgr~za'r acquired during his holding the office of padhdn in the case of the said proprietor being now by the operation of the general rules ousted from the internal management of the villago by the Sub-stitution of a village pudhdn in his place.,0.8
+mr. beckett,regulates,water-mills,1,"As water-mills are very profitable, and usually the property of private individuals who monopolize the water and claim rights in it, it was thought only fair that the proprietor, who realized profits, should pay a small rent.",0.9
+mr. beckett,administers,taxes,1,"A mill ought to grind at least two mandays in 24 hours, so that the proprietor would get five sermons a day.",0.8
+land,supplies,crops,1,"The estimate of the produce of these three qualities of land may be considered sound, though perhaps the irrigated land should have been assessed more highly.",0.6
+traill,regulates,roads to the sacred places,1,"Accordingly, having for a few years allowed the surplus funds to accumulate, in 1817-28 he commissioned, through the landholders, the roads from Hardwk to B;tdrinLtb...",0.8
+traill,supplies,roads to both templea,1,The surplus proceeds of the assigned revenues of both the Keddrn~th and Badrinlith temples should be devoted to the formation and repair of good roads to both the templea...,0.8
+government,governs,management of temple funds,1,The officore of C2overnment never interfered with the late management.,0.8
+government,administers,khola charity,1,The Khola charities were administered as under the Native Government by a Superintendent up to ghols oharity.,0.9
+government,regulates,charitable grants,1,'Government on these issued orders to the local officers to assume charge of all the charitable grants to be managed as a grant in the spirit of the Local Agency Act',0.8
+the local committee,administers,the revenue and dispensaries,1,The revenuea have been devoted to there pur-pores and dispensaries have been ereoted at suitable rob on the pilgrim road...,0.85
+pilgrims,depends_on,dispensaries,1,A great many of them get swollen legs from the bite of a small fly; now they are treated and fed at the dispensaries...,0.8
+tea plantations,supplies,revenue,1,The following table gives a list of the tea-plantations in existence at the current settlement with borne statistics as to tenure and area...,0.9
+"gajbdhar and kishan datt, and kishnansnd and hankpati",controls,the office of kln6ngo,1,"...the office of kln6ngo au on GajBdhar and Kishan Datt, the sone, and Kishnansnd and Hankpati, the brothers...",0.8
+the government,governs,the land revenue,1,...the land revenue of the current settlement on the aaddbart villages amounted to Rs.,0.9
+the government,taxes,revenue,1,The land revenue of the current settlement on the aaddbart villages amounted to Rs.,0.85
+tea plantations,supplies,tea,1,...the only industry in Garhwhl under European superintendence...,0.8
+unirrigated land,supplies,everything but tobacco and better kinds of rice,1,"Unirrigated quality is the most useful soil, it produces everything hut tobecoo end the better kindr of rioe ; end its produotive powers are often not inferior to that of irrigated land...",0.8
+waste-lands,depends_on,elevation,1,"almost all tracts having on elevation exceeding 8,000 feet above the level of the sea are useless except for pasture",0.9
+government,controls,soil,1,Goverl~l~ent ... has reenwed to it oertain rights beyond the cultivated and measured area.,0.9
+people,negotiates_with,government,1,"the people ... look upon any attempt to abridge them as an interference with their rights, and an enemy and interloper.",0.8
+planteres,disputes,community,1,"This feeling has caused much annoyance to and disputes with the plantere, who cannot understand the community of grazing rights existing among the people around them.",0.7
+government,regulates,grazing lands,1,"there is some difficulty in dealing with laud, though waste within a village boundary. For the people here tenaciously hold to those old boundaries, and look upon any attempt to abridge them as an interference with their rights.",0.6
+government,licenses,tea plantation,1,Mr. Beckett in his Garhwhl settlement report (1865) gives a list of sites available for tea plantation.,0.8
+proprietors,governs,government demand,1,"the great muss of the cultivstore may be considered proprietors of the plots of ground which they uultivate, liable only for the pay~neut of their quota of the government demand...",0.8
+villagers,controls,soil,1,"practically, therefore, the latter, if found to be rightfully claimants of the title klrayak~rr, whether as ex-thotwanr or as uninterfered with and nc. cessary cultivators, are kept in possession so long as they pay their quota of the government revenue, plus a small amount of malikdnu...",0.8
+garhwal bhhbar,depends_on,forest boundary,1,The whole Bh4bar is included within the forest boundary...,0.9
+tl~ose act jointly together,administers,latjkja,1,form a board for the of civil asairs cnlled ' Latjkja.',0.8
+the patwbri of kandarsyun,governs,the land-revenue of this patti,1,The patwbri of Kandarsyun residing in Kl~andgaon collects the land-revenue of this patti.,0.8
+the western nybr,connects_to,the road to srinagar,1,"The patti is intereected by the western NyBr, along the left bank of which the road to Srinagar runs ae far as Kota.",0.9
+above dbng,connects_to,river,1,"Above Dbng, the river is crossed by a bridge of roekg with stones piled into the ancl about half a mile above this natural bridge, the streatn is overlain for some distance a llllge bed of snow 12 feet wide and about 300 feet thick.",0.8
+kotalgarh,controls,bisung valley,1,The fort was intended to command the fertile valley of Bisung to the south and west...,0.8
+roads,transports_via,hawalbag,1,"The roads to Sorneswar, Binsar, and RhiLhet pass through Hawalbag, and the Kosi is crossed by a fine bridge on the cart-road and also by an iron suspension bridge.",0.9
+jdhs and huniyns,exchanges_for,wares,1,"About nine miles north-east of the pass on the souther11 face of a spur is Dokpa Aur, where the Jddhs and Huniyns exchange their wares.",0.8
+mandhaul forest,connects_to,the main range,1,"large forestds of oak, firs, spruce and scattered patches of deoddr fringe all the ridges and clothe the sides both of the main range and of the lateral spurs",0.8
+tons,connects_to,mandhaul forest,1,To the werrt of the Tons is the Mandhaul f0rest.,0.9
+bodhiya forest,connects_to,lobkandi peak,1,"The Bodhiya forest lies to the west of Deoban about the Lobkandi peak, 10,188 feet.",0.9
+kanani,connects_to,bodhiya forest,1,"The northern portion is known as Kanani, and the southern as Bodhiya.",0.8
+deoban,connects_to,bodhiya forest,1,"The Bodhiya forest lies to the west of Deoban about the Lobkandi peak, 10,188 feet.",0.9
+maahak,connects_to,the main lohkaodi spur,1,"Machak is situated on the north or opposite side of the main Lohkaodi spur, Bodbi~a The ridge itself on that side is tolerably covered with a terraced patcher of deoddr, intermingled with cypreae on the higher ridges, and firs (chiefly rprsce, mixed with some willow and chid) lower down.",0.9
+inhkancii spur,connects_to,the feeder of the banbr-gid,1,"Immediately above the dwddrr at Koli, there is one of the finest and most noble torreeta of silver fir and spruce seen anywhere.",0.8
+tons,connects_to,sangota,1,"The Tons is bridged at Sangota (2,550 feet) in khat Barhm.",0.9
+udpdlta,controls,grazing land,1,"Udpdlta occupies a similar position, and like it has but little forest or grazing land.",0.8
+the ploughman,depends_on,the advances agrriuet him,1,"If the ploughman dieagrees with his msqter, he cannot feave him until he pays oB the advances agrriuet him...",0.8
+proprietary cultivators,supplies,labourers and others,1,"Tenants pay in cash (khota) or in kind (kun). If a proprietary cultivator runs away, his land should first be given to his nearest relative; but if he has none, the ruyn'na of the khat should make it over to some other proprietary cultivator.",0.8
+mr. ross,supplies,"the number of families at 829 asdmi-kl~udkdelits and 2,421 ascirni~zamitrddrs",1,"...in 1834, Mr. Ross gave the number of families at 829 asdmi-kl~udkdelits and 2,421 ascirni~zamitrddrs...",0.8
+aydna,administers,landholders,1,"The helid man of the khai or mahdl is the aaydna. Be is to keep the landholders contented, ...",0.9
+raydno,taxes,phani (revenue-roll),1,"and if there means fail he may redistribute the phani, or revenue-roll...",0.9
+mallas,governs,land or house,1,The MaLbsus ordered the land or house to be freed.,0.8
+chakrita,connects_to,kilsi,1,"The establishment of Chakrita has given it a good road from Kilsi, and has also been the means of keeping that from Mnssooree to the cantonment in good repair...",0.8
+panjbb government,disputes,making a portion of the road,1,although the road would be very useful if the PanjBb Government would agree to make their portion of it...,0.8
+bastil,connects_to,road,1,"a proposal to give Rs. 3,000 additional as land-revenue and lo furnish 300 men daily for eight months to complete a road to Bastil from Kllsi should be accepted",0.8
+government,regulates,land-revenue,1,To remedy this state of things a redistribution of the land-revenue became necessary...,0.9
+government,governs,forest rights,1,'Under native rule the respective interests of Ihe State and the people in regard to forest rights had never been clearly defined;',0.8
+the country,depends_on,"soils, population, aspect, nearness to forests, and proportion of table to terraced lands",1,"The country, the people, and the crops differ from the plains and its people to such a degree that no useful object can be attained by compelling both to follow exactly the same lines in detail...",0.8
+villages,depends_on,"land, cattle or ahle to collect leaves from a forest",1,...a village with inferior land and possessing a good herd of cattle or ahle to collect leaves from a forest will have fuller crop than a village with superior land...,0.9
+the tahsildhr,regulates,pha'ntbandi or revenue-roll,1,This was the principal change introduced in the fiscal administration by the settlement of 1873... a report by the tahsildhr on all items in the pha'ntbandi or revenue-roll differing from the distribution of the previous year which should be sent to the Superintendent for orders...,0.8
+the superintendent,governs,orders,1,"...should be sent to the Superintendent for orders before April, so as to give time for a proper inquiry before the agricultural operations of the year commenced.",0.9
+ross,administers,settlement,1,Ross was deputed to revise the settlement...,0.8
+ross,licenses,khat,1,"...he applied half the DLtn grazing rates-two annas per buffalo, one anna per cow, and one pice per sheep or goat.",0.8
+chuuntras (deti singh and jwaln singh),supplies,grant of rs. 100 each,1,"...Rosa obtained a grant of Rs. 100 each for life, with the title of chuuntra...",0.8
+superintendent,administers,justice and the collection of revenue,1,"Years after, Act XXIV of 1864 vested the administration of justice and the collection of the revenue in such officers as the Lieutenant-Governor might appoint...",0.9
+superintendent,governs,civil justice,1,"The functionaries to be employed in the administration of civil justice were the assistants to the Superintendent, the Civil jurisdiction.",0.85
+commissioner of meerut,regulates,administration of the revenue and criminal justice,1,"in the administration of the revonne and criminal justice, the tahsildar of Kblsi, the assistants, the Superintendent, and the Commissioner.",0.8
+superintendent,supplies,"assistant with executive, fiscal, or judicial duties",1,"empowering him to assign to his assistant such executive, fiscal, or judicial duties as they might be qualified to discharge...",0.75
+mary,supplies,suits,1,mary suits were thus classified...,0.9
+cantonment magistrate,administers,jaunsbr-bawar,1,the Cantonment Magistrate is the chief police officer of Jaunshr-Bawar and all offences are reported directly to him,0.8
+joshimath,connects_to,road to both m and nfti,1,"Joshimath is an important station on tbe road to both M and Nfti, and a or088 road from Rhtnni by the Kulara pass ends here.",0.85
+bandarpunch,connects_to,the valley,1,"Bandarpunch as seen from the south-west shows a ridge called Kai-lBru striking off to the southward and westward from the peak lower E of the maps (20,014 feet) and ending in a small glen in front.",0.85
