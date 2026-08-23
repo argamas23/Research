@@ -1,7 +1,7 @@
 view,removed,present,degree,strength,largest_component_nodes,components,global_efficiency_loss
-validated,salt,True,27,30.0,419,124,0.014524982376802109
-validated_probable,salt,True,27,30.0,478,138,0.013642466991339225
-validated_no_concept,salt,True,22,25.0,92,102,0.01850463517218282
-validated_probable_no_concept,salt,True,22,25.0,110,115,0.016268058439952843
-validated_trade_only,salt,True,21,23.0,186,102,0.013072742873565649
-validated_probable_trade_only,salt,True,21,23.0,209,117,0.011422154615319466
+validated,salt,True,32,37.0,699,150,0.010579883215573127
+validated_probable,salt,True,32,37.0,792,168,0.009921332165926958
+validated_no_concept,salt,True,23,28.0,157,122,0.01651174679943805
+validated_probable_no_concept,salt,True,23,28.0,185,140,0.014455169977821626
+validated_trade_only,salt,True,26,30.0,370,121,0.011313891678182988
+validated_probable_trade_only,salt,True,26,30.0,413,141,0.009789977411688841

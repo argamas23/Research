@@ -1,29 +1,35 @@
 Source,Target,MappedRelation,Circuit,Weight,Confidence,Score,SourceType,TargetType,Books,ReviewFlag,Evidence
-tibetans,salt,supplies,Commodity circuits,1.0,0.95,8.7431,GROUP,COMMODITY,TransHimalayan_Traders_Fisher,,Thus salt is the crucial commodity which has triggered a series of transactions described here as circuits.
-bhotias,salt,supplies,Commodity circuits,2.0,0.9,6.7986,GROUP,COMMODITY,British_Garhwal|TransHimalayan_Traders_Fisher,,"Salt is received in exchange for grain, and is distributed by the traders throughout all upper Garhwal.|This salt is acquired from Bhotias to the north, who have in turn crossed over into Tibet and obtained it from Tibetans, who have brought it from its source."
-tarangpurians,salt,trades_with,Commodity circuits,1.0,0.8,6.4431,CONCEPT,COMMODITY,TransHimalayan_Traders_Fisher,,"exchanged within the traditional, interregional symbiotic area, in which exchanges are made at well-established rates that change only glacially."
-himalayan farmers,salt,trades_with,Commodity circuits,1.0,0.85,5.9431,GROUP,COMMODITY,TransHimalayan_Traders_Fisher,,Barter for salt
-the water,salt,depends_on,Commodity circuits,1.0,0.9,5.7431,CONCEPT,COMMODITY,CentralAsia_Tibet_Vol1,generic_entity,The water was so heavily charged with salt that the drops which fell into the boat stiffened like stearine;
-zhao erfeng,salt,governs,Political economy,1.0,0.85,5.7431,PERSON,COMMODITY,Santiago_Lazcano,,"In 1910, after trying with little success to implement the lijin system that taxed the transportation of salt..."
-the lake,salt,governs,Political economy,1.0,0.85,5.6931,LOCATION,COMMODITY,CentralAsia_Tibet_Vol1,generic_entity,"On a hill-side was the bleached skull of a kulan, and not very far away we noticed the foot-prints of a bear. The salt lay like ice, merely covered by a thin film of water."
-the desert,salt,depends_on,Commodity circuits,1.0,0.85,5.6431,CONCEPT,COMMODITY,CentralAsia_Tibet_Vol1,generic_entity,"Although the ground was moist right up to the surface, it was nowhere frozen, owing to its very strong impregnation of salt."
-shepherds,salt,trades_with,Commodity circuits,1.0,0.8,5.5931,GROUP,COMMODITY,CentralAsia_Tibet_Vol1,,The Mollah said they were fires made by the shepherds to scare tigers and wolves away from their flocks.
-zhao erfeng,salt,taxes,Political economy,1.0,0.8,5.5931,PERSON,COMMODITY,Santiago_Lazcano,,After they returned to the salt pans Zhao was still not satisfied with the taxes obtained...
-nepal government,salt,taxes,Political economy,1.0,0.7,5.4931,GROUP,COMMODITY,TransHimalayan_Traders_Fisher,,"In 1838 taxes began to be levied on salt, wool, cloth, goats, and woolen blankets (documents 4 and 5)."
-tichurong people,salt,trades_with,Commodity circuits,1.0,0.8,5.4931,GROUP,COMMODITY,TransHimalayan_Traders_Fisher,,"Tichurong people most commonly trade buckwheat and chinu millet for salt, ..."
-amdowa tribes,salt,supplies,Commodity circuits,1.0,0.8,5.4431,GROUP,COMMODITY,Santiago_Lazcano,,"In the past many Amdowa tribes had their salt station or tshwa sgo on the shores of Lake Wu yi tshwa mtsho (Lake Tsaka). There they burned bsang and sprinkled water from the lake skyward to venerate the 1,000 female deities believed inhab-"
-gg,salt,trades_with,Commodity circuits,1.0,0.8,5.4431,CONCEPT,COMMODITY,J&K_Gazatteer_1909,generic_entity,"Salt, increasing importation of, Gg, 71..."
-lhagong monastery,salt,governs,Political economy,1.0,0.8,5.4431,CONCEPT,COMMODITY,Santiago_Lazcano,,"The one from Lhagong (Lhaweng, Lawok) in Tsakalho administered the affairs of the salt trade."
-salt,grain-salt-rice circuit,trades_with,Commodity circuits,1.0,0.8,5.4431,COMMODITY,COMMODITY,TransHimalayan_Traders_Fisher,,Traded (see Grain-salt-rice circuit)
-rupshu,salt,extracts_from,Commodity circuits,2.0,0.0,3.6986,LOCATION,COMMODITY,Rupshu,missing_evidence,
-men,salt,extracts_from,Commodity circuits,1.0,0.0,3.3931,GROUP,COMMODITY,Rupshu,missing_evidence,
-salt,barley,trades_with,Commodity circuits,1.0,0.0,3.2931,COMMODITY,COMMODITY,Rupshu,missing_evidence,
-goloks,salt,monopolizes,Political economy,1.0,0.0,3.2431,GROUP,COMMODITY,Santiago_Lazcano,zero_confidence,"According to Grenard, the Goloks also collected salt from the twin lakes Kyaring tso and Ngoring tso and exercised 'a lucrative trade, for they make sure of a monopoly in it through the terror with which they inspire their neighbours'."
-chang-pa,salt,extracts_from,Commodity circuits,1.0,0.0,3.0931,GROUP,COMMODITY,Ladakh,missing_evidence,
-chinese authorities,salt,licenses,Political economy,1.0,0.0,3.0931,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,missing_evidence,
-humlis,salt,trades_with,Commodity circuits,1.0,0.0,3.0931,GROUP,COMMODITY,HUMLA_NEPAL,missing_evidence,
-jumla and botechaur,salt,trades_with,Commodity circuits,1.0,0.0,3.0431,LOCATION,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,missing_evidence,
-salt,semi-luxuries like tea and rice,trades_with,Commodity circuits,1.0,0.0,3.0431,COMMODITY,COMMODITY,Ladakh,missing_evidence,
-salt lakes,salt,trades_with,Commodity circuits,1.0,0.0,3.0431,LOCATION,COMMODITY,Ladakh,missing_evidence,
-tibetan changpas,salt,transports_via,Route/place circuits,1.0,0.0,3.0431,GROUP,COMMODITY,Rupshu,missing_evidence,
-tibetan partners,salt,trades_with,Commodity circuits,1.0,0.0,3.0431,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,missing_evidence,
+tibetans,salt,supplies,Commodity circuits,2.0,0.95,10.4486,GROUP,COMMODITY,Traders_in_Highland_Nepal|TransHimalayan_Traders_Fisher,,"The Nawas used to give mainly salt, which they obtained from Tibetans.|Thus salt is the crucial commodity which has triggered a series of transactions described here as circuits."
+tibetans,salt,trades_with,Commodity circuits,1.0,0.8,9.2931,GROUP,COMMODITY,Traders_in_Highland_Nepal,,"In Sar, a village inside Tibet some thirty-five miles north-east of Ritak, he sold paper, ink and dyes, and bought salt, wool and woollen cloth."
+bhotias,salt,supplies,Commodity circuits,2.0,0.9,7.6986,GROUP,COMMODITY,British_Garhwal|TransHimalayan_Traders_Fisher,,"Salt is received in exchange for grain, and is distributed by the traders throughout all upper Garhwal.|This salt is acquired from Bhotias to the north, who have in turn crossed over into Tibet and obtained it from Tibetans, who have brought it from its source."
+thakalis,salt,trades_with,Commodity circuits,1.0,0.8,6.7931,CONCEPT,COMMODITY,Traders_in_Highland_Nepal,,"Thus, the salt/grain barter can be operated easily by egalitarian societies with constant and predictable needs and a fairly even standard of living."
+tarangpurians,salt,trades_with,Commodity circuits,1.0,0.8,6.7431,CONCEPT,COMMODITY,TransHimalayan_Traders_Fisher,,"exchanged within the traditional, interregional symbiotic area, in which exchanges are made at well-established rates that change only glacially."
+purangbas,salt,supplies,Commodity circuits,1.0,0.9,6.3431,CONCEPT,COMMODITY,Traders_in_Highland_Nepal,,they had come to Yari with some 360 sheep and goats carrying salt as well as provisions and cooking utensils for the journey.
+himalayan farmers,salt,trades_with,Commodity circuits,1.0,0.85,6.2431,GROUP,COMMODITY,TransHimalayan_Traders_Fisher,,Barter for salt
+the water,salt,depends_on,Commodity circuits,1.0,0.9,6.0431,CONCEPT,COMMODITY,CentralAsia_Tibet_Vol1,generic_entity,The water was so heavily charged with salt that the drops which fell into the boat stiffened like stearine;
+zhao erfeng,salt,governs,Political economy,1.0,0.85,6.0431,PERSON,COMMODITY,Santiago_Lazcano,,"In 1910, after trying with little success to implement the lijin system that taxed the transportation of salt..."
+the lake,salt,governs,Political economy,1.0,0.85,5.9931,LOCATION,COMMODITY,CentralAsia_Tibet_Vol1,generic_entity,"On a hill-side was the bleached skull of a kulan, and not very far away we noticed the foot-prints of a bear. The salt lay like ice, merely covered by a thin film of water."
+the desert,salt,depends_on,Commodity circuits,1.0,0.85,5.9431,CONCEPT,COMMODITY,CentralAsia_Tibet_Vol1,generic_entity,"Although the ground was moist right up to the surface, it was nowhere frozen, owing to its very strong impregnation of salt."
+shepherds,salt,trades_with,Commodity circuits,1.0,0.8,5.8931,GROUP,COMMODITY,CentralAsia_Tibet_Vol1,,The Mollah said they were fires made by the shepherds to scare tigers and wolves away from their flocks.
+zhao erfeng,salt,taxes,Political economy,1.0,0.8,5.8931,PERSON,COMMODITY,Santiago_Lazcano,,After they returned to the salt pans Zhao was still not satisfied with the taxes obtained...
+nepal government,salt,taxes,Political economy,1.0,0.7,5.8431,GROUP,COMMODITY,TransHimalayan_Traders_Fisher,,"In 1838 taxes began to be levied on salt, wool, cloth, goats, and woolen blankets (documents 4 and 5)."
+newars,salt,trades_with,Commodity circuits,1.0,0.8,5.8431,CONCEPT,COMMODITY,Traders_in_Highland_Nepal,,"Thus, the salt/grain barter can be operated easily by egalitarian societies with constant and predictable needs and a fairly even standard of living."
+tichurong people,salt,trades_with,Commodity circuits,1.0,0.8,5.7931,GROUP,COMMODITY,TransHimalayan_Traders_Fisher,,"Tichurong people most commonly trade buckwheat and chinu millet for salt, ..."
+amdowa tribes,salt,supplies,Commodity circuits,1.0,0.8,5.7431,GROUP,COMMODITY,Santiago_Lazcano,,"In the past many Amdowa tribes had their salt station or tshwa sgo on the shores of Lake Wu yi tshwa mtsho (Lake Tsaka). There they burned bsang and sprinkled water from the lake skyward to venerate the 1,000 female deities believed inhab-"
+bhotias of panchsati and barthapale,salt,transports_via,Route/place circuits,1.0,0.8,5.7431,GROUP,COMMODITY,Traders_in_Highland_Nepal,,"Large numbers of sheep and goats belonging to Bhotias of Panchsati and Barthapale, some carrying salt and others going empty, were on their way to the winter grazing grounds in die middle-ranges."
+gg,salt,trades_with,Commodity circuits,1.0,0.8,5.7431,CONCEPT,COMMODITY,J&K_Gazatteer_1909,generic_entity,"Salt, increasing importation of, Gg, 71..."
+lhagong monastery,salt,governs,Political economy,1.0,0.8,5.7431,CONCEPT,COMMODITY,Santiago_Lazcano,,"The one from Lhagong (Lhaweng, Lawok) in Tsakalho administered the affairs of the salt trade."
+salt,grain-salt-rice circuit,trades_with,Commodity circuits,1.0,0.8,5.7431,COMMODITY,COMMODITY,TransHimalayan_Traders_Fisher,,Traded (see Grain-salt-rice circuit)
+thakali families,salt,supplies,Commodity circuits,1.0,0.8,5.7431,CONCEPT,COMMODITY,Traders_in_Highland_Nepal,,"The abolition of the salt monopoly in 1928 meant not only that the royalty previously paid to the government no longer flowed out of Thak Khola, but also that the profits made by the contractor were now spread among a large number of Thakali families."
+rupshu,salt,extracts_from,Commodity circuits,2.0,0.0,3.9986,LOCATION,COMMODITY,Rupshu,missing_evidence,
+men,salt,extracts_from,Commodity circuits,1.0,0.0,3.7431,GROUP,COMMODITY,Rupshu,missing_evidence,
+salt,barley,trades_with,Commodity circuits,1.0,0.0,3.5931,COMMODITY,COMMODITY,Rupshu,missing_evidence,
+chinese authorities,salt,licenses,Political economy,1.0,0.0,3.5431,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,missing_evidence,
+goloks,salt,monopolizes,Political economy,1.0,0.0,3.5431,GROUP,COMMODITY,Santiago_Lazcano,zero_confidence,"According to Grenard, the Goloks also collected salt from the twin lakes Kyaring tso and Ngoring tso and exercised 'a lucrative trade, for they make sure of a monopoly in it through the terror with which they inspire their neighbours'."
+humlis,salt,trades_with,Commodity circuits,1.0,0.0,3.4931,GROUP,COMMODITY,HUMLA_NEPAL,missing_evidence,
+chang-pa,salt,extracts_from,Commodity circuits,1.0,0.0,3.3931,GROUP,COMMODITY,Ladakh,missing_evidence,
+jumla and botechaur,salt,trades_with,Commodity circuits,1.0,0.0,3.3431,LOCATION,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,missing_evidence,
+salt,semi-luxuries like tea and rice,trades_with,Commodity circuits,1.0,0.0,3.3431,COMMODITY,COMMODITY,Ladakh,missing_evidence,
+salt lakes,salt,trades_with,Commodity circuits,1.0,0.0,3.3431,LOCATION,COMMODITY,Ladakh,missing_evidence,
+tibetan changpas,salt,transports_via,Route/place circuits,1.0,0.0,3.3431,GROUP,COMMODITY,Rupshu,missing_evidence,
+tibetan partners,salt,trades_with,Commodity circuits,1.0,0.0,3.3431,GROUP,COMMODITY,Salt_routes_and_barter_caravans_in_the_H,missing_evidence,
