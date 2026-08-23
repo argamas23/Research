@@ -8,7 +8,7 @@ The current graph should be read as a sparse, extracted relation network, not as
 
 ## What The Validated Graph Shows
 
-The validated graph contains 1028 nodes and 993 edges, with 132 connected components. Its largest component has 731 nodes.
+The validated graph contains 1056 nodes and 1009 edges, with 144 connected components. Its largest component has 731 nodes.
 
 Interpretation: network claims should focus on brokerage, centrality, and robustness inside the extracted relation structure. Avoid claiming that the whole Himalayan economy is represented as a complete network.
 

@@ -19,7 +19,7 @@ amdowa tribes,salt,supplies,Commodity circuits,1.0,0.8,5.7431,GROUP,COMMODITY,Sa
 bhotias of panchsati and barthapale,salt,transports_via,Route/place circuits,1.0,0.8,5.7431,GROUP,COMMODITY,Traders_in_Highland_Nepal,,"Large numbers of sheep and goats belonging to Bhotias of Panchsati and Barthapale, some carrying salt and others going empty, were on their way to the winter grazing grounds in die middle-ranges."
 gg,salt,trades_with,Commodity circuits,1.0,0.8,5.7431,CONCEPT,COMMODITY,J&K_Gazatteer_1909,generic_entity,"Salt, increasing importation of, Gg, 71..."
 lhagong monastery,salt,governs,Political economy,1.0,0.8,5.7431,CONCEPT,COMMODITY,Santiago_Lazcano,,"The one from Lhagong (Lhaweng, Lawok) in Tsakalho administered the affairs of the salt trade."
-salt,grain-salt-rice circuit,trades_with,Commodity circuits,1.0,0.8,5.7431,COMMODITY,COMMODITY,TransHimalayan_Traders_Fisher,,Traded (see Grain-salt-rice circuit)
+salt,grain-salt-rice circuit,trades_with,Commodity circuits,1.0,0.8,5.7431,COMMODITY,CONCEPT,TransHimalayan_Traders_Fisher,,Traded (see Grain-salt-rice circuit)
 thakali families,salt,supplies,Commodity circuits,1.0,0.8,5.7431,CONCEPT,COMMODITY,Traders_in_Highland_Nepal,,"The abolition of the salt monopoly in 1928 meant not only that the royalty previously paid to the government no longer flowed out of Thak Khola, but also that the profits made by the contractor were now spread among a large number of Thakali families."
 rupshu,salt,extracts_from,Commodity circuits,2.0,0.0,3.9986,LOCATION,COMMODITY,Rupshu,missing_evidence,
 men,salt,extracts_from,Commodity circuits,1.0,0.0,3.7431,GROUP,COMMODITY,Rupshu,missing_evidence,

@@ -8,13 +8,13 @@ Salt is the most structurally central commodity in the validated graph, but the 
 
 ## Centrality
 
-In the validated graph, salt has degree 32, strength 37.0, betweenness 0.19121521242089823, and PageRank 0.012107081837178502.
+In the validated graph, salt has degree 32, strength 37.0, betweenness 0.19121521242089823, and PageRank 0.011786060727859371.
 
-In stricter views it remains central: no-CONCEPT degree 23 with betweenness 0.42253590624724585; trade-only degree 26 with betweenness 0.19627449349421894.
+In stricter views it remains central: no-CONCEPT degree 22 with betweenness 0.35133726426829864; trade-only degree 26 with betweenness 0.19627449349421894.
 
 ## Removal And Null Model
 
-Removing salt leaves the validated graph's largest component with 699 nodes and causes global efficiency loss 0.010579883215573127.
+Removing salt leaves the validated graph's largest component with 699 nodes and causes global efficiency loss 0.01003038548982084.
 
 The commodity-label null gives p_ge_salt 0.009900990099009901 for degree and 0.009900990099009901 for removal impact.
 
@@ -22,13 +22,13 @@ Interpretation: salt is unusual among commodity labels, not necessarily stronger
 
 ## All-Node Baseline
 
-The strongest degree/strength-matched all-node comparison is sherpas (CONCEPT), with removal efficiency loss 0.007950372235140182.
+The strongest degree/strength-matched all-node comparison is sherpas (CONCEPT), with removal efficiency loss 0.007538662710334862.
 
 ## Community And Brokerage
 
 Salt's validated Louvain community has median size 45.0, with participation 0.46484375.
 
-The most common shortest-path class through salt is CONCEPT--CONCEPT, with 15554 pair paths.
+The most common shortest-path class through salt is CONCEPT--CONCEPT, with 12150 pair paths.
 
 Interpretation: salt works best as a brokerage claim: it connects commodity, place, and actor relations inside the extracted graph.
 

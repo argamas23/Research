@@ -3,10 +3,10 @@ validated,modularity,0.8191125383326155,0.8171657473757401,0.8200864202655652
 validated,communities,24.5,22.0,27.0
 validated_probable,modularity,0.8307843086214077,0.8280216576426489,0.8328082049146189
 validated_probable,communities,26.0,24.0,28.0
-validated_no_concept,modularity,0.756578947368421,0.7515774084333641,0.7615420129270545
-validated_no_concept,communities,12.0,11.0,13.0
-validated_probable_no_concept,modularity,0.7778878759853789,0.7725958221400155,0.7803981151186858
-validated_probable_no_concept,communities,15.0,12.0,16.0
+validated_no_concept,modularity,0.7635672652804033,0.7577649128334384,0.7660089792060492
+validated_no_concept,communities,13.0,13.0,13.0
+validated_probable_no_concept,modularity,0.7841672965482489,0.7785840262030739,0.7846258503401361
+validated_probable_no_concept,communities,14.0,13.0,15.0
 validated_trade_only,modularity,0.7888554420904672,0.7834467984216498,0.7900832359565784
 validated_trade_only,communities,18.0,16.0,21.0
 validated_probable_trade_only,modularity,0.8004038526768047,0.7954449092656453,0.8020273899033297

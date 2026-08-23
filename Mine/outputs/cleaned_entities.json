@@ -37,14 +37,14 @@
   },
   {
     "entity": "abdall",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "abdu rehim",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -64,6 +64,12 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
+  },
+  {
+    "entity": "administration of the revenue and criminal justice",
+    "type": "CONCEPT",
+    "circuit": "Political economy",
+    "confidence": 0.8
   },
   {
     "entity": "agents for the sale of punjab government publications",
@@ -88,6 +94,12 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
+  },
+  {
+    "entity": "agricultural communities",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
   },
   {
     "entity": "agricultural operations",
@@ -138,9 +150,15 @@
     "confidence": 0.8
   },
   {
-    "entity": "almora",
+    "entity": "all trade leaving tingri for lhasa",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
+    "confidence": 0.8
+  },
+  {
+    "entity": "almora",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -169,8 +187,8 @@
   },
   {
     "entity": "animals",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -211,14 +229,14 @@
   },
   {
     "entity": "assistant commissioner of nyoma",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
     "entity": "astor",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -253,8 +271,8 @@
   },
   {
     "entity": "baggage animals",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -271,20 +289,20 @@
   },
   {
     "entity": "banias",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "baragaon",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
     "entity": "baragaonlis",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -301,7 +319,7 @@
   },
   {
     "entity": "barley, wooden wares and other basic necessities",
-    "type": "CONCEPT",
+    "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -367,7 +385,7 @@
   },
   {
     "entity": "best-quality pashm",
-    "type": "CONCEPT",
+    "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -409,8 +427,8 @@
   },
   {
     "entity": "bhotia population",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -499,14 +517,14 @@
   },
   {
     "entity": "bhotiyas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "bhuksas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -535,20 +553,20 @@
   },
   {
     "entity": "boat",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
     "entity": "boatman services",
     "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
     "entity": "borrowers",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -582,12 +600,6 @@
     "confidence": 1.0
   },
   {
-    "entity": "british rule",
-    "type": "CONCEPT",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "british traders",
     "type": "GROUP",
     "circuit": "Political economy",
@@ -613,7 +625,7 @@
   },
   {
     "entity": "buckwheat, turnips, or other vegetables",
-    "type": "CONCEPT",
+    "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -625,8 +637,8 @@
   },
   {
     "entity": "buffaloes",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -649,8 +661,8 @@
   },
   {
     "entity": "buriat cossacks",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -661,20 +673,20 @@
   },
   {
     "entity": "butwal",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
     "entity": "byansis",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "byansis of darchula",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -691,20 +703,26 @@
   },
   {
     "entity": "camel",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
+  },
+  {
+    "entity": "camel's back",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
+    "confidence": 0.8
   },
   {
     "entity": "camel-drivers and merchants (traveling to kashgar)",
     "type": "GROUP",
-    "circuit": "Social actors",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
     "entity": "camels",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -727,8 +745,8 @@
   },
   {
     "entity": "captain drummond",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -751,8 +769,8 @@
   },
   {
     "entity": "cartridges",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -768,7 +786,19 @@
     "confidence": 1.0
   },
   {
+    "entity": "cash dues",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
+    "confidence": 0.8
+  },
+  {
     "entity": "cash instead of cloth",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
+    "confidence": 0.8
+  },
+  {
+    "entity": "cash, a musk deer, a yak-tail, a pony and a hawk",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 0.8
@@ -793,8 +823,8 @@
   },
   {
     "entity": "central asia",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -811,8 +841,8 @@
   },
   {
     "entity": "chala",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -907,26 +937,32 @@
   },
   {
     "entity": "chernoff",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "chetris",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
+    "entity": "chetris of middle-ranges",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
+  },
+  {
     "entity": "chetris of thali",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "chetris of unapani",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -967,8 +1003,8 @@
   },
   {
     "entity": "chinese emperor",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -1009,20 +1045,20 @@
   },
   {
     "entity": "chinu millet",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
     "entity": "christoph von furer-haimendorf",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
     "entity": "chronometers",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -1039,8 +1075,8 @@
   },
   {
     "entity": "class i tichurong magars",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -1057,7 +1093,7 @@
   },
   {
     "entity": "cloth, cigarettes, sugar and a few other commodities",
-    "type": "CONCEPT",
+    "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -1086,9 +1122,15 @@
     "confidence": 1.0
   },
   {
+    "entity": "colonel garstin",
+    "type": "PERSON",
+    "circuit": "Social actors",
+    "confidence": 0.8
+  },
+  {
     "entity": "colonel saitseff",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -1102,6 +1144,18 @@
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 1.0
+  },
+  {
+    "entity": "commissioner",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
+  },
+  {
+    "entity": "commissioner of meerut",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
   },
   {
     "entity": "commodities circuit",
@@ -1129,9 +1183,15 @@
   },
   {
     "entity": "consul petrovsky",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
+  },
+  {
+    "entity": "consul uspensky",
+    "type": "PERSON",
+    "circuit": "Social actors",
+    "confidence": 0.8
   },
   {
     "entity": "consumers",
@@ -1141,8 +1201,8 @@
   },
   {
     "entity": "contractors",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -1153,8 +1213,8 @@
   },
   {
     "entity": "copper and brass vessels",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -1165,13 +1225,13 @@
   },
   {
     "entity": "cossacks",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "cotton cloth, shoes, tea, oil, soap, cigarettes and various household goods",
-    "type": "CONCEPT",
+    "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -1201,8 +1261,8 @@
   },
   {
     "entity": "creditors",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -1297,8 +1357,8 @@
   },
   {
     "entity": "dangali khambas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -1327,8 +1387,8 @@
   },
   {
     "entity": "deputy commissioner",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -1425,6 +1485,12 @@
     "entity": "dogra country",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
+    "entity": "dogra dynasty",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -1633,7 +1699,7 @@
   },
   {
     "entity": "export of female yak",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -1687,8 +1753,8 @@
   },
   {
     "entity": "fateh sah medini sah",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -1699,8 +1765,8 @@
   },
   {
     "entity": "ferry-boat",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -1800,6 +1866,12 @@
     "confidence": 0.8
   },
   {
+    "entity": "forest boundary",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "forest department",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -1807,14 +1879,14 @@
   },
   {
     "entity": "forest dues",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
     "entity": "forest dues or keth-bans, and kath mahals",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -1831,8 +1903,8 @@
   },
   {
     "entity": "forest rights",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -1861,8 +1933,8 @@
   },
   {
     "entity": "four camels from abdall",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -1957,12 +2029,18 @@
   },
   {
     "entity": "garhwal",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
     "entity": "garhwal and china",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
+    "entity": "garhwal bhhbar",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 0.8
@@ -1987,8 +2065,8 @@
   },
   {
     "entity": "geological specimens, skeletons of animals, botanical specimens, and archaeological finds",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -2035,7 +2113,7 @@
   },
   {
     "entity": "golel'la raja",
-    "type": "CONCEPT",
+    "type": "PERSON",
     "circuit": "Political economy",
     "confidence": 1.0
   },
@@ -2077,8 +2155,8 @@
   },
   {
     "entity": "gorkha dynasty",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -2173,7 +2251,7 @@
   },
   {
     "entity": "grain trade",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -2191,7 +2269,7 @@
   },
   {
     "entity": "grain-salt-rice circuit",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Salt anchor",
     "confidence": 1.0
   },
@@ -2269,8 +2347,8 @@
   },
   {
     "entity": "gurkhalis",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -2281,8 +2359,8 @@
   },
   {
     "entity": "gurkhas of nepal",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -2341,8 +2419,8 @@
   },
   {
     "entity": "herdsmen",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -2374,6 +2452,12 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
+  },
+  {
+    "entity": "hill state",
+    "type": "LOCATION",
+    "circuit": "Political economy",
+    "confidence": 0.8
   },
   {
     "entity": "hill states",
@@ -2538,6 +2622,12 @@
     "confidence": 1.0
   },
   {
+    "entity": "hundred and eighteenth from the founder of the dynasty",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
+  },
+  {
     "entity": "huniya",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -2563,8 +2653,8 @@
   },
   {
     "entity": "imports from tibet",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -2572,6 +2662,12 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
+  },
+  {
+    "entity": "in an economy with a negligible market",
+    "type": "CONCEPT",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
   },
   {
     "entity": "in cash and kind",
@@ -2629,8 +2725,8 @@
   },
   {
     "entity": "indians",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -2710,6 +2806,12 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
+  },
+  {
+    "entity": "jammu and kashmir",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
   },
   {
     "entity": "jammu state",
@@ -2832,6 +2934,12 @@
     "confidence": 1.0
   },
   {
+    "entity": "karsog, the second most important place in suket",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "kashmir",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -2869,8 +2977,8 @@
   },
   {
     "entity": "kashmiris",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -2892,9 +3000,15 @@
     "confidence": 1.0
   },
   {
+    "entity": "katyur valley",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "kazi amar singh thapa",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -2935,8 +3049,8 @@
   },
   {
     "entity": "khodai kullu",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -3073,8 +3187,8 @@
   },
   {
     "entity": "kumaon",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -3109,8 +3223,8 @@
   },
   {
     "entity": "kutchuk, ~ r d e k, and khodai kullu",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -3372,6 +3486,12 @@
     "confidence": 1.0
   },
   {
+    "entity": "livestock and fuel",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "lo",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -3379,9 +3499,21 @@
   },
   {
     "entity": "local chetris",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
+  },
+  {
+    "entity": "local population",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
+  },
+  {
+    "entity": "local salt-trade",
+    "type": "CONCEPT",
+    "circuit": "Salt anchor",
+    "confidence": 0.8
   },
   {
     "entity": "local timber resources",
@@ -3463,8 +3595,8 @@
   },
   {
     "entity": "m. petrovsky",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -3493,8 +3625,8 @@
   },
   {
     "entity": "magars elsewhere in nepal",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -3529,8 +3661,8 @@
   },
   {
     "entity": "maize or millet",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -3565,14 +3697,14 @@
   },
   {
     "entity": "mandi raja",
-    "type": "CONCEPT",
+    "type": "PERSON",
     "circuit": "Political economy",
     "confidence": 0.8
   },
   {
     "entity": "mandi refinery",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 0.8
   },
   {
@@ -3702,6 +3834,12 @@
     "confidence": 0.8
   },
   {
+    "entity": "merchants of gangar",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
+  },
+  {
     "entity": "merchants of kan-su and se-chuan",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -3721,8 +3859,8 @@
   },
   {
     "entity": "mian kishan singh",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -3754,6 +3892,12 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
+  },
+  {
+    "entity": "mines",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
+    "confidence": 0.8
   },
   {
     "entity": "mining and minerals",
@@ -3871,8 +4015,8 @@
   },
   {
     "entity": "movement of goods",
-    "type": "COMMODITY",
-    "circuit": "Commodity circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -3916,6 +4060,12 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
+  },
+  {
+    "entity": "mugu bhotias",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
   },
   {
     "entity": "mugu people",
@@ -4129,8 +4279,8 @@
   },
   {
     "entity": "nine camels",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -4279,14 +4429,14 @@
   },
   {
     "entity": "other villages of tichurong",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
     "entity": "our animals",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -4458,6 +4608,12 @@
     "confidence": 0.8
   },
   {
+    "entity": "pen to leave animals",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "people",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -4567,8 +4723,8 @@
   },
   {
     "entity": "population",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -4597,8 +4753,8 @@
   },
   {
     "entity": "pradhaman sah",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -4693,15 +4849,51 @@
   },
   {
     "entity": "raja",
-    "type": "CONCEPT",
+    "type": "PERSON",
     "circuit": "Political economy",
     "confidence": 0.8
   },
   {
     "entity": "raja balbir sen",
-    "type": "CONCEPT",
+    "type": "PERSON",
     "circuit": "Political economy",
     "confidence": 1.0
+  },
+  {
+    "entity": "raja jow sen",
+    "type": "PERSON",
+    "circuit": "Political economy",
+    "confidence": 0.8
+  },
+  {
+    "entity": "raja of garhwal",
+    "type": "LOCATION",
+    "circuit": "Political economy",
+    "confidence": 0.8
+  },
+  {
+    "entity": "raja of mundi",
+    "type": "PERSON",
+    "circuit": "Political economy",
+    "confidence": 0.8
+  },
+  {
+    "entity": "raja surma sen",
+    "type": "PERSON",
+    "circuit": "Political economy",
+    "confidence": 0.8
+  },
+  {
+    "entity": "raja ugar sen",
+    "type": "PERSON",
+    "circuit": "Political economy",
+    "confidence": 0.8
+  },
+  {
+    "entity": "rajas of the kalial dynasty",
+    "type": "GROUP",
+    "circuit": "Political economy",
+    "confidence": 0.8
   },
   {
     "entity": "rajput states",
@@ -4837,8 +5029,8 @@
   },
   {
     "entity": "rib muscles of an old he-camel",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -4980,6 +5172,12 @@
     "confidence": 0.8
   },
   {
+    "entity": "ruling family of kumaon",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "rumtore district",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -5017,8 +5215,8 @@
   },
   {
     "entity": "russian consul at urumchi",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "PERSON",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -5101,7 +5299,7 @@
   },
   {
     "entity": "salt circuit",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Salt anchor",
     "confidence": 1.0
   },
@@ -5161,7 +5359,7 @@
   },
   {
     "entity": "salt supply",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Salt anchor",
     "confidence": 1.0
   },
@@ -5173,13 +5371,13 @@
   },
   {
     "entity": "salt-trade",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Salt anchor",
     "confidence": 1.0
   },
   {
     "entity": "salt-trade with tibet",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Salt anchor",
     "confidence": 0.8
   },
@@ -5400,6 +5598,12 @@
     "confidence": 0.8
   },
   {
+    "entity": "sinja and jumla",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "siriap peninsula",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -5472,6 +5676,12 @@
     "confidence": 0.8
   },
   {
+    "entity": "special rights on them",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
+    "confidence": 0.8
+  },
+  {
     "entity": "spiritual concerns",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
@@ -5526,12 +5736,6 @@
     "confidence": 0.8
   },
   {
-    "entity": "statements",
-    "type": "LOCATION",
-    "circuit": "Political economy",
-    "confidence": 0.8
-  },
-  {
     "entity": "sub-montane markets",
     "type": "LOCATION",
     "circuit": "Route/place circuits",
@@ -5568,6 +5772,12 @@
     "confidence": 1.0
   },
   {
+    "entity": "suket",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
+  },
+  {
     "entity": "suket state",
     "type": "LOCATION",
     "circuit": "Political economy",
@@ -5581,8 +5791,8 @@
   },
   {
     "entity": "supreme affairs of tibet",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -5605,8 +5815,8 @@
   },
   {
     "entity": "taklakot",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -5635,13 +5845,13 @@
   },
   {
     "entity": "tarakot",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
     "entity": "tarakot's trade passing through tibrikot",
-    "type": "LOCATION",
+    "type": "CONCEPT",
     "circuit": "Route/place circuits",
     "confidence": 1.0
   },
@@ -5665,8 +5875,8 @@
   },
   {
     "entity": "tarangpur magars",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -5703,6 +5913,12 @@
     "entity": "tarim",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
+    "confidence": 0.8
+  },
+  {
+    "entity": "tarim ferry-boat",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 0.8
   },
   {
@@ -5773,7 +5989,7 @@
   },
   {
     "entity": "tea, sugar, spices, rice, and other food products at dozum fair",
-    "type": "CONCEPT",
+    "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -5788,6 +6004,12 @@
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
+  },
+  {
+    "entity": "tehri garhwal",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
   },
   {
     "entity": "tehri state",
@@ -5809,15 +6031,21 @@
   },
   {
     "entity": "thak khola",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
     "entity": "thak khola and tichurong",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
+  },
+  {
+    "entity": "thakali customs contractors",
+    "type": "GROUP",
+    "circuit": "Political economy",
+    "confidence": 0.8
   },
   {
     "entity": "thakali families",
@@ -5899,20 +6127,20 @@
   },
   {
     "entity": "the bhotiyas",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "the boat",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
     "entity": "the bodily warmth of camels",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -5923,7 +6151,7 @@
   },
   {
     "entity": "the british east india company",
-    "type": "LOCATION",
+    "type": "GROUP",
     "circuit": "Political economy",
     "confidence": 0.8
   },
@@ -5941,8 +6169,8 @@
   },
   {
     "entity": "the camels",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -5977,8 +6205,8 @@
   },
   {
     "entity": "the cossacks",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -5989,6 +6217,12 @@
   },
   {
     "entity": "the crown",
+    "type": "GROUP",
+    "circuit": "Social actors",
+    "confidence": 0.8
+  },
+  {
+    "entity": "the density of population",
     "type": "GROUP",
     "circuit": "Social actors",
     "confidence": 0.8
@@ -6186,6 +6420,12 @@
     "confidence": 1.0
   },
   {
+    "entity": "the party",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
+    "confidence": 0.8
+  },
+  {
     "entity": "the people of tarangpur",
     "type": "GROUP",
     "circuit": "Social actors",
@@ -6313,7 +6553,7 @@
   },
   {
     "entity": "the state",
-    "type": "LOCATION",
+    "type": "GROUP",
     "circuit": "Political economy",
     "confidence": 1.0
   },
@@ -6391,9 +6631,15 @@
   },
   {
     "entity": "their home",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 1.0
+  },
+  {
+    "entity": "their hosts",
     "type": "CONCEPT",
     "circuit": "Conceptual context",
-    "confidence": 1.0
+    "confidence": 0.8
   },
   {
     "entity": "their more valuable metal utensils",
@@ -6442,6 +6688,12 @@
     "type": "LOCATION",
     "circuit": "Route/place circuits",
     "confidence": 1.0
+  },
+  {
+    "entity": "this district",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
+    "confidence": 0.8
   },
   {
     "entity": "thousands and thousands of sheep",
@@ -6541,13 +6793,13 @@
   },
   {
     "entity": "tibetan dynasty",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
     "entity": "tibetan fountainhead of teaching",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -6565,8 +6817,8 @@
   },
   {
     "entity": "tibetan herdsmen",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 0.8
   },
   {
@@ -6577,8 +6829,8 @@
   },
   {
     "entity": "tibetan horsemen",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "GROUP",
+    "circuit": "Social actors",
     "confidence": 1.0
   },
   {
@@ -6679,7 +6931,7 @@
   },
   {
     "entity": "tibetan salt trade",
-    "type": "COMMODITY",
+    "type": "CONCEPT",
     "circuit": "Salt anchor",
     "confidence": 1.0
   },
@@ -6769,14 +7021,14 @@
   },
   {
     "entity": "tibrikot",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
     "entity": "tichurong",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "LOCATION",
+    "circuit": "Route/place circuits",
     "confidence": 1.0
   },
   {
@@ -6871,14 +7123,26 @@
   },
   {
     "entity": "trade between kathmandu and tibetan cities",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
+    "confidence": 0.8
+  },
+  {
+    "entity": "trade deals",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
     "entity": "trade goods",
     "type": "COMMODITY",
     "circuit": "Commodity circuits",
+    "confidence": 0.8
+  },
+  {
+    "entity": "trade in cheptu",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -6907,8 +7171,8 @@
   },
   {
     "entity": "trade with tibet",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 1.0
   },
   {
@@ -7027,8 +7291,8 @@
   },
   {
     "entity": "trans-himalayan trade",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -7483,8 +7747,8 @@
   },
   {
     "entity": "wild camel",
-    "type": "CONCEPT",
-    "circuit": "Conceptual context",
+    "type": "COMMODITY",
+    "circuit": "Commodity circuits",
     "confidence": 1.0
   },
   {
@@ -7504,12 +7768,6 @@
     "type": "CONCEPT",
     "circuit": "Conceptual context",
     "confidence": 1.0
-  },
-  {
-    "entity": "with the emergent indian nation",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
-    "confidence": 0.8
   },
   {
     "entity": "wolves",
@@ -7555,7 +7813,7 @@
   },
   {
     "entity": "wool, blankets, sweaters, mufflers, and other woolen goods",
-    "type": "CONCEPT",
+    "type": "COMMODITY",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },
@@ -7603,7 +7861,7 @@
   },
   {
     "entity": "yak population",
-    "type": "COMMODITY",
+    "type": "GROUP",
     "circuit": "Commodity circuits",
     "confidence": 1.0
   },

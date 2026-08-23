@@ -1,96 +1,96 @@
 view,source,source_type,target,target_type,path_length,path
-validated,abdall,CONCEPT,amdowa tribes,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> amdowa tribes
-validated,abdall,CONCEPT,bathang,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang
-validated,abdall,CONCEPT,tsakalho,LOCATION,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho
-validated,abdall,CONCEPT,tarangpurians,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians
-validated,abdall,CONCEPT,bhotias of panchsati and barthapale,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> bhotias of panchsati and barthapale
-validated,abdall,CONCEPT,buddhist devotees,GROUP,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho -> buddhist devotees
-validated,abdall,CONCEPT,chang-pa,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chang-pa
-validated,abdall,CONCEPT,thousands and thousands of sheep,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chang-pa -> thousands and thousands of sheep
-validated,abdall,CONCEPT,chinese authorities,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chinese authorities
-validated,abdall,CONCEPT,cloth,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> cloth
-validated,abdall,CONCEPT,ferry-boat,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat
-validated,abdall,CONCEPT,east turkestan,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chinese authorities -> east turkestan
-validated,abdall,CONCEPT,europe,LOCATION,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods -> europe
-validated,abdall,CONCEPT,manufactured goods,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods
-validated,abdall,CONCEPT,goose,COMMODITY,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose
-validated,abdall,CONCEPT,gg,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> gg
-validated,abdall,CONCEPT,goats,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> goats
-validated,abdall,CONCEPT,"grain, salt, and borrr",COMMODITY,8,"abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> goats -> grain, salt, and borrr"
-validated,abdall,CONCEPT,goloks,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks
-validated,abdall,CONCEPT,kyaring tso and ngoring tso,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks -> kyaring tso and ngoring tso
-validated,abdall,CONCEPT,tsam tso lake,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks -> tsam tso lake
-validated,abdall,CONCEPT,traders from northwestern sichuan,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks -> traders from northwestern sichuan
-validated,abdall,CONCEPT,himalayan farmers,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers
-validated,abdall,CONCEPT,labor force,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> labor force
-validated,abdall,CONCEPT,chinu millet,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> chinu millet
-validated,abdall,CONCEPT,the south and west,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> the south and west
-validated,abdall,CONCEPT,humlis,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> humlis
-validated,abdall,CONCEPT,at present,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> humlis -> at present
-validated,abdall,CONCEPT,jumla and botechaur,LOCATION,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> jumla and botechaur
-validated,abdall,CONCEPT,men,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men
-validated,abdall,CONCEPT,kashmiri shawl,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods -> europe -> kashmiri shawl
-validated,abdall,CONCEPT,kasim,CONCEPT,10,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim
-validated,abdall,CONCEPT,fish,COMMODITY,11,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish
-validated,abdall,CONCEPT,lailik,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik
-validated,abdall,CONCEPT,lhagong monastery,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> lhagong monastery
-validated,abdall,CONCEPT,limii people,GROUP,11,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> salt market -> mugu people -> limii people
-validated,abdall,CONCEPT,mugu people,GROUP,10,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> salt market -> mugu people
-validated,abdall,CONCEPT,local chetris,CONCEPT,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tichurong people -> rice -> local chetris
-validated,abdall,CONCEPT,rice,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tichurong people -> rice
-validated,abdall,CONCEPT,long-distance caravans,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho -> long-distance caravans
-validated,abdall,CONCEPT,lop-men,GROUP,12,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish -> lop-men
-validated,abdall,CONCEPT,a can of fresh water and bundles of kamish,CONCEPT,13,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish -> lop-men -> a can of fresh water and bundles of kamish
-validated,abdall,CONCEPT,fodder,CONCEPT,13,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish -> lop-men -> fodder
-validated,abdall,CONCEPT,weaving,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> weaving
-validated,abdall,CONCEPT,baskets to the owner’s house,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> baskets to the owner’s house
-validated,abdall,CONCEPT,long dagger,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> long dagger
-validated,abdall,CONCEPT,salt market,COMMODITY,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> salt market
-validated,abdall,CONCEPT,nepal government,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government
-validated,abdall,CONCEPT,tax collection,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> tax collection
-validated,abdall,CONCEPT,woolen blankets,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> woolen blankets
-validated,abdall,CONCEPT,people of lower humla,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas -> people of lower humla
-validated,abdall,CONCEPT,purangbas,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas
-validated,abdall,CONCEPT,chala people,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas -> chala people
-validated,abdall,CONCEPT,nepali traders,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas -> nepali traders
-validated,abdall,CONCEPT,regiment,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> regiment
-validated,abdall,CONCEPT,grain-salt-rice circuit,COMMODITY,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> grain-salt-rice circuit
-validated,abdall,CONCEPT,semi-luxuries like tea and rice,COMMODITY,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> semi-luxuries like tea and rice
-validated,abdall,CONCEPT,salt lakes,LOCATION,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> salt lakes
-validated,abdall,CONCEPT,sheep,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> sheep
-validated,abdall,CONCEPT,caravans,CONCEPT,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> sheep -> caravans
-validated,abdall,CONCEPT,shepherds,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds
-validated,abdall,CONCEPT,the sheep,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> the sheep
-validated,abdall,CONCEPT,tarangpur,CONCEPT,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur
-validated,abdall,CONCEPT,wealth,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth
-validated,abdall,CONCEPT,land ownership,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> land ownership
-validated,abdall,CONCEPT,gomba,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> gomba
-validated,abdall,CONCEPT,taratigp~~r,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> taratigp~~r
-validated,abdall,CONCEPT,village context,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> village context
-validated,abdall,CONCEPT,village meeting,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> village meeting
-validated,abdall,CONCEPT,nepali south,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> nepali south
-validated,abdall,CONCEPT,tibetan north,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> tibetan north
-validated,abdall,CONCEPT,world beyond their valley,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> world beyond their valley
-validated,abdall,CONCEPT,credit,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> credit
-validated,abdall,CONCEPT,sheep and goats or horses,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> sheep and goats or horses
-validated,abdall,CONCEPT,bhot to the terai,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> bhot to the terai
-validated,abdall,CONCEPT,butwal,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> butwal
-validated,abdall,CONCEPT,commodities circuit,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> commodities circuit
-validated,abdall,CONCEPT,middle hills,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> middle hills
-validated,abdall,CONCEPT,other villages of tichurong,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> other villages of tichurong
-validated,abdall,CONCEPT,terai,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> terai
-validated,abdall,CONCEPT,thakali families,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> thakali families
-validated,abdall,CONCEPT,the desert,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the desert
-validated,abdall,CONCEPT,the weather,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the desert -> the weather
-validated,abdall,CONCEPT,the lake,LOCATION,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the lake
-validated,abdall,CONCEPT,salter water,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the lake -> salter water
-validated,abdall,CONCEPT,the water,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the water
-validated,abdall,CONCEPT,tibetan changpas,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tibetan changpas
-validated,abdall,CONCEPT,tibetan partners,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tibetan partners
-validated,abdall,CONCEPT,tichurong people,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tichurong people
-validated,abdall,CONCEPT,wolves,CONCEPT,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> sheep -> wolves
-validated,abdall,CONCEPT,zhao erfeng,PERSON,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng
-validated,abdall,CONCEPT,tsakalho salt taxes,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> tsakalho salt taxes
+validated,abdall,PERSON,amdowa tribes,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> amdowa tribes
+validated,abdall,PERSON,bathang,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang
+validated,abdall,PERSON,tsakalho,LOCATION,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho
+validated,abdall,PERSON,tarangpurians,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians
+validated,abdall,PERSON,bhotias of panchsati and barthapale,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> bhotias of panchsati and barthapale
+validated,abdall,PERSON,buddhist devotees,GROUP,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho -> buddhist devotees
+validated,abdall,PERSON,chang-pa,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chang-pa
+validated,abdall,PERSON,thousands and thousands of sheep,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chang-pa -> thousands and thousands of sheep
+validated,abdall,PERSON,chinese authorities,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chinese authorities
+validated,abdall,PERSON,cloth,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> cloth
+validated,abdall,PERSON,ferry-boat,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat
+validated,abdall,PERSON,east turkestan,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> chinese authorities -> east turkestan
+validated,abdall,PERSON,europe,LOCATION,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods -> europe
+validated,abdall,PERSON,manufactured goods,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods
+validated,abdall,PERSON,goose,COMMODITY,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose
+validated,abdall,PERSON,gg,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> gg
+validated,abdall,PERSON,goats,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> goats
+validated,abdall,PERSON,"grain, salt, and borrr",COMMODITY,8,"abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> goats -> grain, salt, and borrr"
+validated,abdall,PERSON,goloks,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks
+validated,abdall,PERSON,kyaring tso and ngoring tso,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks -> kyaring tso and ngoring tso
+validated,abdall,PERSON,tsam tso lake,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks -> tsam tso lake
+validated,abdall,PERSON,traders from northwestern sichuan,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks -> traders from northwestern sichuan
+validated,abdall,PERSON,himalayan farmers,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers
+validated,abdall,PERSON,labor force,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> labor force
+validated,abdall,PERSON,chinu millet,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> chinu millet
+validated,abdall,PERSON,the south and west,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> the south and west
+validated,abdall,PERSON,humlis,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> humlis
+validated,abdall,PERSON,at present,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> humlis -> at present
+validated,abdall,PERSON,jumla and botechaur,LOCATION,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> jumla and botechaur
+validated,abdall,PERSON,men,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men
+validated,abdall,PERSON,kashmiri shawl,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods -> europe -> kashmiri shawl
+validated,abdall,PERSON,kasim,CONCEPT,10,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim
+validated,abdall,PERSON,fish,COMMODITY,11,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish
+validated,abdall,PERSON,lailik,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik
+validated,abdall,PERSON,lhagong monastery,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> lhagong monastery
+validated,abdall,PERSON,limii people,GROUP,11,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> salt market -> mugu people -> limii people
+validated,abdall,PERSON,mugu people,GROUP,10,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> salt market -> mugu people
+validated,abdall,PERSON,local chetris,GROUP,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tichurong people -> rice -> local chetris
+validated,abdall,PERSON,rice,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tichurong people -> rice
+validated,abdall,PERSON,long-distance caravans,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho -> long-distance caravans
+validated,abdall,PERSON,lop-men,GROUP,12,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish -> lop-men
+validated,abdall,PERSON,a can of fresh water and bundles of kamish,CONCEPT,13,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish -> lop-men -> a can of fresh water and bundles of kamish
+validated,abdall,PERSON,fodder,CONCEPT,13,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> lailik -> kasim -> fish -> lop-men -> fodder
+validated,abdall,PERSON,weaving,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> weaving
+validated,abdall,PERSON,baskets to the owner’s house,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> baskets to the owner’s house
+validated,abdall,PERSON,long dagger,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> long dagger
+validated,abdall,PERSON,salt market,COMMODITY,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> salt market
+validated,abdall,PERSON,nepal government,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government
+validated,abdall,PERSON,tax collection,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> tax collection
+validated,abdall,PERSON,woolen blankets,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> woolen blankets
+validated,abdall,PERSON,people of lower humla,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas -> people of lower humla
+validated,abdall,PERSON,purangbas,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas
+validated,abdall,PERSON,chala people,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas -> chala people
+validated,abdall,PERSON,nepali traders,GROUP,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> purangbas -> nepali traders
+validated,abdall,PERSON,regiment,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose -> regiment
+validated,abdall,PERSON,grain-salt-rice circuit,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> grain-salt-rice circuit
+validated,abdall,PERSON,semi-luxuries like tea and rice,COMMODITY,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> semi-luxuries like tea and rice
+validated,abdall,PERSON,salt lakes,LOCATION,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> salt lakes
+validated,abdall,PERSON,sheep,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> sheep
+validated,abdall,PERSON,caravans,CONCEPT,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> sheep -> caravans
+validated,abdall,PERSON,shepherds,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds
+validated,abdall,PERSON,the sheep,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> the sheep
+validated,abdall,PERSON,tarangpur,CONCEPT,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur
+validated,abdall,PERSON,wealth,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth
+validated,abdall,PERSON,land ownership,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> land ownership
+validated,abdall,PERSON,gomba,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> gomba
+validated,abdall,PERSON,taratigp~~r,CONCEPT,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> taratigp~~r
+validated,abdall,PERSON,village context,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> village context
+validated,abdall,PERSON,village meeting,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> village meeting
+validated,abdall,PERSON,nepali south,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> nepali south
+validated,abdall,PERSON,tibetan north,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> tibetan north
+validated,abdall,PERSON,world beyond their valley,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> world beyond their valley
+validated,abdall,PERSON,credit,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> credit
+validated,abdall,PERSON,sheep and goats or horses,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> sheep and goats or horses
+validated,abdall,PERSON,bhot to the terai,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> bhot to the terai
+validated,abdall,PERSON,butwal,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> butwal
+validated,abdall,PERSON,commodities circuit,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> commodities circuit
+validated,abdall,PERSON,middle hills,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> middle hills
+validated,abdall,PERSON,other villages of tichurong,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> other villages of tichurong
+validated,abdall,PERSON,terai,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> terai
+validated,abdall,PERSON,thakali families,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> thakali families
+validated,abdall,PERSON,the desert,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the desert
+validated,abdall,PERSON,the weather,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the desert -> the weather
+validated,abdall,PERSON,the lake,LOCATION,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the lake
+validated,abdall,PERSON,salter water,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the lake -> salter water
+validated,abdall,PERSON,the water,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> the water
+validated,abdall,PERSON,tibetan changpas,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tibetan changpas
+validated,abdall,PERSON,tibetan partners,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tibetan partners
+validated,abdall,PERSON,tichurong people,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tichurong people
+validated,abdall,PERSON,wolves,CONCEPT,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> shepherds -> sheep -> wolves
+validated,abdall,PERSON,zhao erfeng,PERSON,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng
+validated,abdall,PERSON,tsakalho salt taxes,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> tsakalho salt taxes
 validated,hunters,CONCEPT,amdowa tribes,GROUP,5,hunters -> meat -> yak -> thakalis -> salt -> amdowa tribes
 validated,hunters,CONCEPT,bathang,LOCATION,6,hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang
 validated,hunters,CONCEPT,tsakalho,LOCATION,7,hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho

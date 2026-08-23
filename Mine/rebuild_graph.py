@@ -79,6 +79,10 @@ def has_any(entity: str, terms: set[str]) -> bool:
     return any(term in entity for term in terms)
 
 
+def has_term(entity: str, terms: set[str]) -> bool:
+    return any(re.search(rf"(?<![a-z0-9]){re.escape(term)}(?![a-z0-9])", entity) for term in terms)
+
+
 def circuit_for_node(entity: str, node_type: str) -> str:
     words = set(re.findall(r"[a-z]+", entity))
     if has_any(entity, SALT_TERMS):
@@ -188,9 +192,9 @@ def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
         return "GROUP"
     if entity in ENTITY_TYPE_OVERRIDES:
         return ENTITY_TYPE_OVERRIDES[entity][0]
-    if has_any(entity, CONCEPT_PHRASE_TERMS):
+    if has_term(entity, CONCEPT_PHRASE_TERMS):
         return "CONCEPT"
-    if has_any(
+    if has_term(
         entity,
         COMMODITY_KEYWORDS
         | {
@@ -218,7 +222,7 @@ def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
         },
     ) and not words & BAD_COMMODITY_TERMS:
         return "COMMODITY"
-    if has_any(
+    if has_term(
         entity,
         LOCATION_KEYWORDS
         | {
@@ -242,6 +246,33 @@ def classify_entity(entity: str, entity_types: dict[str, str]) -> str:
     if known in KEEP_ENTITY_TYPES and known != "CONCEPT":
         return known
     return known if known in KEEP_ENTITY_TYPES else "CONCEPT"
+
+
+def self_check() -> None:
+    stale_types = {
+        "supreme affairs of tibet": "LOCATION",
+        "tibetan horsemen": "LOCATION",
+        "imports from tibet": "LOCATION",
+        "tibetan dynasty": "LOCATION",
+        "tibetan fountainhead of teaching": "COMMODITY",
+        "movement of goods": "COMMODITY",
+        "garhwal": "CONCEPT",
+        "gurkhalis": "CONCEPT",
+        "their home": "CONCEPT",
+    }
+    expected = {
+        "supreme affairs of tibet": "CONCEPT",
+        "tibetan horsemen": "GROUP",
+        "imports from tibet": "CONCEPT",
+        "tibetan dynasty": "GROUP",
+        "tibetan fountainhead of teaching": "CONCEPT",
+        "movement of goods": "CONCEPT",
+        "garhwal": "LOCATION",
+        "gurkhalis": "GROUP",
+        "their home": "LOCATION",
+    }
+    for entity, entity_type in expected.items():
+        assert classify_entity(entity, stale_types) == entity_type, entity
 
 
 def replace_html_data(html: str, data_id: str, rows: list[dict]) -> str:
@@ -328,6 +359,7 @@ def graph_stats(edge_rows: dict[tuple[str, str, str], dict]) -> tuple[dict[str, 
 
 
 def main() -> None:
+    self_check()
     entity_types = load_entity_types()
     edge_rows: dict[tuple[str, str, str], dict] = {}
     strict_review = []
