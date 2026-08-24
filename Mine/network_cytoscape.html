@@ -70,6 +70,15 @@
               <option value="weak">Weak connection</option>
             </select>
           </span>
+          <span class="control">
+            <label for="paper-view">Paper view</label>
+            <select id="paper-view">
+              <option value="ALL">Main graph</option>
+              <option value="SALT_COMMODITY">Fig. 3 Salt layer</option>
+              <option value="RUPSHU_TSO_KAR">Fig. 4 Rupshu-Tso Kar</option>
+              <option value="GOVERNANCE">Fig. 5 Governance</option>
+            </select>
+          </span>
           <span class="control search-control">
             <label for="search-node">Search</label>
             <input id="search-node" type="search" placeholder="Type a node label" />
@@ -138,6 +147,7 @@
 
     const nodesData = JSON.parse(document.getElementById('graph-nodes-data').textContent);
     const edgesData = JSON.parse(document.getElementById('graph-edges-data').textContent);
+    const nodeById = new Map(nodesData.map(function(node) { return [node.id, node]; }));
     const tooltip = document.getElementById('graph-tooltip');
     const supportCounts = edgesData.reduce(function(counts, edge) {
       counts[edge.supportLabel] = (counts[edge.supportLabel] || 0) + 1;
@@ -276,9 +286,124 @@
     });
     window.cy = cy;
     const fitPadding = 40;
+    const paperViewEdgeTarget = 130;
+    const paperViewCache = new Map();
+    const saltLayerTypes = new Set(['COMMODITY', 'GROUP', 'LOCATION']);
+    const saltLayerCircuits = new Set(['Salt anchor', 'Commodity circuits', 'Route/place circuits', 'Social actors']);
+    const governanceRelations = new Set(['controls', 'disputes', 'governs', 'licenses', 'monopolizes', 'negotiates_with', 'taxes']);
+    const rupshuAnchors = ['rupshu', 'tso kar', 'tso-kar', 'tshokar', 'kharnak'];
+    const rupshuPastoralTerms = ['chang-pa', 'changpa', 'rupshu nomads', 'nomadic pastoralists', 'pastoralists'];
+    const rupshuContextTerms = ['salt', 'barley', 'pasture', 'grazing', 'trade', 'agreement', 'ownership', 'access', 'tibetan government', 'assistant commissioner', 'ladakh', 'tibet', 'nomad', 'chang'];
+    const saltLayerTerms = ['salt', 'barley', 'grain', 'rice', 'tea', 'wool', 'butter', 'yak', 'sheep', 'goats', 'bhotia', 'tibet', 'trade', 'barter', 'caravan', 'route', 'chang-pa', 'rupshu', 'humla', 'thakali', 'dolpo', 'mugu', 'amdowa'];
+    const saltGovernanceTerms = ['salt', 'lijin', 'tsakalho', 'tshwa', 'salt-trade', 'salt mining', 'salt mines', 'salt quarries', 'salt market', 'salt sources', 'salt circuit', 'salt taxes', 'salt transportation'];
+    const governanceContextTerms = ['revenue', 'tax', 'taxes', 'taxation', 'regulat', 'license', 'monopoly', 'access', 'permit', 'rights', 'customs', 'government', 'authorities', 'state', 'border', 'trade'];
+    const rankedEdgesData = edgesData.slice().sort(function(a, b) {
+      return Number(b.score || 0) - Number(a.score || 0);
+    });
 
     function fitVisible() {
-      cy.fit(cy.elements().not('.hidden'), fitPadding);
+      const visible = cy.elements().not('.hidden');
+      if (visible.length) cy.fit(visible, fitPadding);
+    }
+
+    function containsAny(text, terms) {
+      return terms.some(function(term) { return text.includes(term); });
+    }
+
+    function edgeSearchText(edge) {
+      return [
+        edge.from,
+        edge.to,
+        edge.label,
+        edge.relation,
+        edge.circuit,
+        edge.title,
+        (edge.books || []).join(' '),
+        (edge.evidence || []).join(' ')
+      ].join(' ').toLowerCase();
+    }
+
+    function nodeType(id) {
+      const node = nodeById.get(id);
+      return node && node.type;
+    }
+
+    function isSaltLayerEdge(edge) {
+      return saltLayerTypes.has(nodeType(edge.from))
+        && saltLayerTypes.has(nodeType(edge.to))
+        && saltLayerCircuits.has(edge.circuit)
+        && Number(edge.score || 0) >= 3;
+    }
+
+    function buildPaperView(view) {
+      if (paperViewCache.has(view)) return paperViewCache.get(view);
+      const nodeIds = new Set();
+      const edgeIds = new Set();
+      function addEdge(edge) {
+        edgeIds.add(edge.id);
+        nodeIds.add(edge.from);
+        nodeIds.add(edge.to);
+      }
+      function addRankedEdges(predicate) {
+        rankedEdgesData.some(function(edge) {
+          if (edgeIds.size >= paperViewEdgeTarget) return true;
+          if (predicate(edge)) addEdge(edge);
+          return false;
+        });
+      }
+
+      if (view === 'SALT_COMMODITY') {
+        const saltNeighborIds = new Set();
+        edgesData.forEach(function(edge) {
+          if (edge.from === 'salt') saltNeighborIds.add(edge.to);
+          if (edge.to === 'salt') saltNeighborIds.add(edge.from);
+        });
+        addRankedEdges(function(edge) {
+          if (edge.from !== 'salt' && edge.to !== 'salt') return false;
+          return saltLayerTypes.has(nodeType(edge.from === 'salt' ? edge.to : edge.from))
+            && saltLayerCircuits.has(edge.circuit)
+            && Number(edge.score || 0) >= 2.8;
+        });
+        addRankedEdges(function(edge) {
+          return (saltNeighborIds.has(edge.from) || saltNeighborIds.has(edge.to)) && isSaltLayerEdge(edge);
+        });
+        const expandedSaltLayerIds = new Set(nodeIds);
+        addRankedEdges(function(edge) {
+          return (expandedSaltLayerIds.has(edge.from) || expandedSaltLayerIds.has(edge.to))
+            && isSaltLayerEdge(edge)
+            && containsAny(edgeSearchText(edge), saltLayerTerms);
+        });
+        addRankedEdges(function(edge) {
+          return isSaltLayerEdge(edge) && containsAny(edgeSearchText(edge), saltLayerTerms);
+        });
+      } else if (view === 'RUPSHU_TSO_KAR') {
+        edgesData.forEach(function(edge) {
+          const text = edgeSearchText(edge);
+          const anchorHit = containsAny(text, rupshuAnchors);
+          const pastoralHit = containsAny(text, rupshuPastoralTerms) && containsAny(text, rupshuContextTerms);
+          if (anchorHit || pastoralHit) addEdge(edge);
+        });
+        const rupshuSeedIds = new Set(nodeIds);
+        addRankedEdges(function(edge) {
+          return (rupshuSeedIds.has(edge.from) || rupshuSeedIds.has(edge.to))
+            && Number(edge.score || 0) >= 3
+            && (nodeType(edge.from) !== 'CONCEPT' || nodeType(edge.to) !== 'CONCEPT');
+        });
+      } else if (view === 'GOVERNANCE') {
+        addRankedEdges(function(edge) {
+          return governanceRelations.has(edge.relation) && containsAny(edgeSearchText(edge), saltGovernanceTerms);
+        });
+        addRankedEdges(function(edge) {
+          return governanceRelations.has(edge.relation)
+            && Number(edge.score || 0) >= 3
+            && (nodeType(edge.from) !== 'CONCEPT' || nodeType(edge.to) !== 'CONCEPT')
+            && containsAny(edgeSearchText(edge), saltGovernanceTerms.concat(governanceContextTerms));
+        });
+      }
+
+      const result = { nodes: nodeIds, edges: edgeIds };
+      paperViewCache.set(view, result);
+      return result;
     }
 
     function runLayout() {
@@ -346,7 +471,9 @@
       const supportSummary = Object.keys(supportCounts).sort().map(function(key) {
         return key + ': ' + supportCounts[key];
       }).join(', ');
-      document.getElementById('counts').textContent = visibleNodes + ' nodes, ' + visibleEdges + ' edges, weight ' + totalWeight.toFixed(1) + ' | ' + supportSummary;
+      const paperSelect = document.getElementById('paper-view');
+      const viewLabel = paperSelect.value === 'ALL' ? '' : paperSelect.selectedOptions[0].textContent + ' | ';
+      document.getElementById('counts').textContent = viewLabel + visibleNodes + ' nodes, ' + visibleEdges + ' edges, weight ' + totalWeight.toFixed(1) + ' | ' + supportSummary;
     }
 
     function clearHighlight() {
@@ -358,9 +485,11 @@
       const relation = document.getElementById('filter-relation').value;
       const circuit = document.getElementById('filter-circuit').value;
       const support = document.getElementById('filter-support').value;
+      const paperView = document.getElementById('paper-view').value;
+      const paperSets = paperView === 'ALL' ? null : buildPaperView(paperView);
       const query = document.getElementById('search-node').value.trim().toLowerCase();
       const coreOnly = document.getElementById('core-only').checked;
-      const largeComponentsOnly = document.getElementById('large-components-only').checked;
+      const largeComponentsOnly = paperView === 'ALL' && document.getElementById('large-components-only').checked;
       const showEdgeLabels = document.getElementById('show-edge-labels').checked;
       const nodesWithVisibleEdge = new Set();
 
@@ -370,6 +499,7 @@
           const nodeCircuits = circuitByNode.get(data.id) || new Set();
           const visible = (type === 'ALL' || data.type === type)
             && (circuit === 'ALL' || data.circuit === circuit || nodeCircuits.has(circuit))
+            && (!paperSets || paperSets.nodes.has(data.id))
             && (!query || data.label.toLowerCase().includes(query))
             && (!coreOnly || data.core)
             && (!largeComponentsOnly || (componentSizeByNode.get(data.id) || 1) > 2);
@@ -380,6 +510,7 @@
           const data = edge.data();
           const visible = !edge.source().hasClass('hidden')
             && !edge.target().hasClass('hidden')
+            && (!paperSets || paperSets.edges.has(data.id))
             && (relation === 'ALL' || data.relation === relation)
             && (circuit === 'ALL' || data.circuit === circuit)
             && (support === 'ALL' || data.support === support);
@@ -389,7 +520,7 @@
           }
         });
 
-        if (relation !== 'ALL' || circuit !== 'ALL') {
+        if (relation !== 'ALL' || circuit !== 'ALL' || support !== 'ALL' || paperSets) {
           cy.nodes().not('.hidden').forEach(function(node) {
             if (!nodesWithVisibleEdge.has(node.id())) node.addClass('hidden');
           });
@@ -399,6 +530,7 @@
           const data = edge.data();
           const visible = !edge.source().hasClass('hidden')
             && !edge.target().hasClass('hidden')
+            && (!paperSets || paperSets.edges.has(data.id))
             && (relation === 'ALL' || data.relation === relation)
             && (circuit === 'ALL' || data.circuit === circuit)
             && (support === 'ALL' || data.support === support);
@@ -416,6 +548,7 @@
       document.getElementById('filter-relation').value = 'ALL';
       document.getElementById('filter-circuit').value = 'ALL';
       document.getElementById('filter-support').value = 'ALL';
+      document.getElementById('paper-view').value = 'ALL';
       document.getElementById('search-node').value = '';
       document.getElementById('core-only').checked = false;
       document.getElementById('large-components-only').checked = true;
@@ -598,6 +731,7 @@
     document.getElementById('filter-relation').addEventListener('change', function() { applyFilters(true); });
     document.getElementById('filter-circuit').addEventListener('change', function() { applyFilters(true); });
     document.getElementById('filter-support').addEventListener('change', function() { applyFilters(true); });
+    document.getElementById('paper-view').addEventListener('change', function() { clearHighlight(); applyFilters(true); });
     document.getElementById('search-node').addEventListener('input', function() { clearHighlight(); applyFilters(true); });
     document.getElementById('search-node').addEventListener('keydown', function(event) {
       if (event.key === 'Enter') focusSearch();
