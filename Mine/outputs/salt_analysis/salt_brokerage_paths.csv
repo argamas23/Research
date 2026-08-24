@@ -14,7 +14,6 @@ validated,abdall,PERSON,east turkestan,CONCEPT,7,abdall -> hunters -> meat -> ya
 validated,abdall,PERSON,europe,LOCATION,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods -> europe
 validated,abdall,PERSON,manufactured goods,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods
 validated,abdall,PERSON,goose,COMMODITY,8,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat -> goose
-validated,abdall,PERSON,gg,CONCEPT,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> gg
 validated,abdall,PERSON,goats,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> goats
 validated,abdall,PERSON,"grain, salt, and borrr",COMMODITY,8,"abdall -> hunters -> meat -> yak -> thakalis -> salt -> nepal government -> goats -> grain, salt, and borrr"
 validated,abdall,PERSON,goloks,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> goloks
@@ -26,7 +25,6 @@ validated,abdall,PERSON,labor force,CONCEPT,7,abdall -> hunters -> meat -> yak -
 validated,abdall,PERSON,chinu millet,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> chinu millet
 validated,abdall,PERSON,the south and west,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> himalayan farmers -> the south and west
 validated,abdall,PERSON,humlis,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> humlis
-validated,abdall,PERSON,at present,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> humlis -> at present
 validated,abdall,PERSON,jumla and botechaur,LOCATION,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> jumla and botechaur
 validated,abdall,PERSON,men,GROUP,6,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men
 validated,abdall,PERSON,kashmiri shawl,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> men -> manufactured goods -> europe -> kashmiri shawl
@@ -70,7 +68,6 @@ validated,abdall,PERSON,village context,LOCATION,9,abdall -> hunters -> meat -> 
 validated,abdall,PERSON,village meeting,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> village meeting
 validated,abdall,PERSON,nepali south,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> nepali south
 validated,abdall,PERSON,tibetan north,LOCATION,9,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> wealth -> tarangpur -> tibetan north
-validated,abdall,PERSON,world beyond their valley,LOCATION,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> world beyond their valley
 validated,abdall,PERSON,credit,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> credit
 validated,abdall,PERSON,sheep and goats or horses,COMMODITY,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> sheep and goats or horses
 validated,abdall,PERSON,bhot to the terai,CONCEPT,7,abdall -> hunters -> meat -> yak -> thakalis -> salt -> tarangpurians -> bhot to the terai
@@ -99,3 +96,6 @@ validated,hunters,CONCEPT,bhotias of panchsati and barthapale,GROUP,5,hunters ->
 validated,hunters,CONCEPT,buddhist devotees,GROUP,8,hunters -> meat -> yak -> thakalis -> salt -> zhao erfeng -> bathang -> tsakalho -> buddhist devotees
 validated,hunters,CONCEPT,chang-pa,GROUP,5,hunters -> meat -> yak -> thakalis -> salt -> chang-pa
 validated,hunters,CONCEPT,thousands and thousands of sheep,COMMODITY,6,hunters -> meat -> yak -> thakalis -> salt -> chang-pa -> thousands and thousands of sheep
+validated,hunters,CONCEPT,chinese authorities,GROUP,5,hunters -> meat -> yak -> thakalis -> salt -> chinese authorities
+validated,hunters,CONCEPT,cloth,COMMODITY,6,hunters -> meat -> yak -> thakalis -> salt -> nepal government -> cloth
+validated,hunters,CONCEPT,ferry-boat,COMMODITY,6,hunters -> meat -> yak -> thakalis -> salt -> men -> ferry-boat

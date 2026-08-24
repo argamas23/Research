@@ -8,13 +8,13 @@ Salt is the most structurally central commodity in the validated graph, but the 
 
 ## Centrality
 
-In the validated graph, salt has degree 32, strength 37.0, betweenness 0.19121521242089823, and PageRank 0.011786060727859371.
+In the validated graph, salt has degree 31, strength 36.0, betweenness 0.19423054548557697, and PageRank 0.012020419371794273.
 
-In stricter views it remains central: no-CONCEPT degree 22 with betweenness 0.35133726426829864; trade-only degree 26 with betweenness 0.19627449349421894.
+In stricter views it remains central: no-CONCEPT degree 22 with betweenness 0.35671355334003146; trade-only degree 25 with betweenness 0.19181846853268367.
 
 ## Removal And Null Model
 
-Removing salt leaves the validated graph's largest component with 699 nodes and causes global efficiency loss 0.01003038548982084.
+Removing salt leaves the validated graph's largest component with 661 nodes and causes global efficiency loss 0.010275616843209434.
 
 The commodity-label null gives p_ge_salt 0.009900990099009901 for degree and 0.009900990099009901 for removal impact.
 
@@ -22,25 +22,25 @@ Interpretation: salt is unusual among commodity labels, not necessarily stronger
 
 ## All-Node Baseline
 
-The strongest degree/strength-matched all-node comparison is sherpas (CONCEPT), with removal efficiency loss 0.007538662710334862.
+The strongest degree/strength-matched all-node comparison is sherpas (CONCEPT), with removal efficiency loss 0.007703110138739866.
 
 ## Community And Brokerage
 
-Salt's validated Louvain community has median size 45.0, with participation 0.46484375.
+Salt's validated Louvain community has median size 43.0, with participation 0.4765868886576482.
 
-The most common shortest-path class through salt is CONCEPT--CONCEPT, with 12150 pair paths.
+The most common shortest-path class through salt is CONCEPT--GROUP, with 10495 pair paths.
 
 Interpretation: salt works best as a brokerage claim: it connects commodity, place, and actor relations inside the extracted graph.
 
 ## Evidence Audit
 
-The validated graph has 34 salt edges; 16 are flagged for manual review because of generic entities, missing evidence, or zero confidence.
+The validated graph has 33 salt edges; 15 are flagged for manual review because of generic entities, missing evidence, or zero confidence.
 
 Interpretation: review the flagged rows before using edge-level examples in prose.
 
 ## Source Robustness
 
-Salt remains present after dropping the largest sources. The largest listed betweenness reduction occurs when dropping TransHimalayan_Traders_Fisher, where salt betweenness is 0.15093134410219458.
+Salt remains present after dropping the largest sources. The largest listed betweenness reduction occurs when dropping TransHimalayan_Traders_Fisher, where salt betweenness is 0.15331581535663133.
 
 ## Defensible Wording
 

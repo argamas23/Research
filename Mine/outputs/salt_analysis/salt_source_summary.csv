@@ -2,7 +2,6 @@ Book,SaltEdges,Relations
 British_Garhwal,1,supplies:1
 CentralAsia_Tibet_Vol1,4,depends_on:2|governs:1|trades_with:1
 HUMLA_NEPAL,1,trades_with:1
-J&K_Gazatteer_1909,1,trades_with:1
 Ladakh,3,trades_with:2|extracts_from:1
 Rupshu,4,extracts_from:2|trades_with:1|transports_via:1
 Salt_routes_and_barter_caravans_in_the_H,3,trades_with:2|licenses:1

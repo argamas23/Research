@@ -600,18 +600,36 @@ ENTITY_TYPE_OVERRIDES = {
 }
 
 NOISY_ENTITIES = {
+    "acts",
+    "access to outsiders",
+    "at present",
     "complex pattern",
+    "facts",
+    "gg",
+    "gujars and their milk",
     "harvest time",
+    "information",
+    "juhhr",
     "loads",
     "material base",
     "medical aid to remote villages",
+    "monks and their superstitions",
     "nomadic herdspeople of western tibet higher prices",
+    "none specified",
+    "of this historical stage",
     "one crop",
+    "one lakh 'company' rupees every year",
     "prized gifts from tibetan highlands",
+    "riwals rtt",
     "sale",
+    "salt beyond their own homes",
+    "statements",
+    "support",
     "there and in villages along the route",
     "true",
+    "us with fresh meat",
     "valuable corrective",
+    "xirab",
 }
 
 GROUP_KEYWORDS = {

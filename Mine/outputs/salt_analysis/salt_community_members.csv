@@ -1,11 +1,11 @@
 view,node,type,degree_in_lcc,salt_neighbor
-validated,salt,COMMODITY,32,False
+validated,salt,COMMODITY,31,False
 validated,purangbas,CONCEPT,7,True
 validated,barley,COMMODITY,4,True
 validated,chinese authorities,GROUP,4,True
 validated,goloks,GROUP,4,True
-validated,humlis,GROUP,4,True
 validated,rupshu,LOCATION,4,True
+validated,humlis,GROUP,3,True
 validated,tsakalho,LOCATION,3,False
 validated,zhao erfeng,PERSON,3,True
 validated,bathang,LOCATION,2,False
@@ -16,12 +16,10 @@ validated,the desert,CONCEPT,2,True
 validated,the lake,LOCATION,2,True
 validated,tichurong people,GROUP,2,True
 validated,amdowa tribes,GROUP,1,True
-validated,at present,CONCEPT,1,False
 validated,bhotias of panchsati and barthapale,GROUP,1,True
 validated,buddhist devotees,GROUP,1,False
 validated,chala people,GROUP,1,False
 validated,east turkestan,CONCEPT,1,False
-validated,gg,CONCEPT,1,True
 validated,grain-salt-rice circuit,CONCEPT,1,True
 validated,jumla and botechaur,LOCATION,1,True
 validated,khaltse,LOCATION,1,False
@@ -44,13 +42,13 @@ validated,tibetan partners,GROUP,1,True
 validated,traders from northwestern sichuan,GROUP,1,False
 validated,tsakalho salt taxes,COMMODITY,1,False
 validated,tsam tso lake,LOCATION,1,False
-validated_probable,salt,COMMODITY,32,False
+validated_probable,salt,COMMODITY,31,False
 validated_probable,purangbas,CONCEPT,7,True
 validated_probable,barley,COMMODITY,5,True
 validated_probable,chinese authorities,GROUP,5,True
 validated_probable,goloks,GROUP,5,True
 validated_probable,rupshu,LOCATION,5,True
-validated_probable,humlis,GROUP,4,True
+validated_probable,humlis,GROUP,3,True
 validated_probable,kharnak,LOCATION,3,False
 validated_probable,the lake,LOCATION,3,True
 validated_probable,tsakalho,LOCATION,3,False
@@ -63,14 +61,12 @@ validated_probable,the desert,CONCEPT,2,True
 validated_probable,the river tarim,LOCATION,2,False
 validated_probable,tichurong people,GROUP,2,True
 validated_probable,amdowa tribes,GROUP,1,True
-validated_probable,at present,CONCEPT,1,False
 validated_probable,bhoti bhotias,GROUP,1,False
 validated_probable,bhotias of panchsati and barthapale,GROUP,1,True
 validated_probable,"buckwheat, turnips, or other vegetables",COMMODITY,1,False
 validated_probable,buddhist devotees,GROUP,1,False
 validated_probable,chala people,GROUP,1,False
 validated_probable,east turkestan,CONCEPT,1,False
-validated_probable,gg,CONCEPT,1,True
 validated_probable,grain-salt-rice circuit,CONCEPT,1,True
 validated_probable,jumla and botechaur,LOCATION,1,True
 validated_probable,kyaring tso and ngoring tso,CONCEPT,1,False
@@ -128,18 +124,17 @@ validated_no_concept,traders from northwestern sichuan,GROUP,1,False
 validated_no_concept,tsakalho salt taxes,COMMODITY,1,False
 validated_no_concept,tsam tso lake,LOCATION,1,False
 validated_probable_no_concept,salt,COMMODITY,22,False
+validated_probable_no_concept,bhotias,GROUP,11,True
 validated_probable_no_concept,barley,COMMODITY,5,True
 validated_probable_no_concept,rupshu,LOCATION,5,True
 validated_probable_no_concept,goloks,GROUP,4,True
 validated_probable_no_concept,himalayan farmers,GROUP,3,True
-validated_probable_no_concept,the lake,LOCATION,3,True
 validated_probable_no_concept,zhao erfeng,PERSON,3,True
 validated_probable_no_concept,bathang,LOCATION,2,False
 validated_probable_no_concept,chang-pa,GROUP,2,True
 validated_probable_no_concept,khaltse,LOCATION,2,False
 validated_probable_no_concept,kharnak,LOCATION,2,False
 validated_probable_no_concept,rice,COMMODITY,2,False
-validated_probable_no_concept,the river tarim,LOCATION,2,False
 validated_probable_no_concept,tichurong people,GROUP,2,True
 validated_probable_no_concept,tsakalho,LOCATION,2,False
 validated_probable_no_concept,amdowa tribes,GROUP,1,True
@@ -149,65 +144,70 @@ validated_probable_no_concept,"buckwheat, turnips, or other vegetables",COMMODIT
 validated_probable_no_concept,buddhist devotees,GROUP,1,False
 validated_probable_no_concept,chinese authorities,GROUP,1,True
 validated_probable_no_concept,chinu millet,COMMODITY,1,False
+validated_probable_no_concept,drokpas,GROUP,1,False
+validated_probable_no_concept,grazing grounds high above the villages,LOCATION,1,False
+validated_probable_no_concept,hindu villages in middle-ranges,LOCATION,1,False
 validated_probable_no_concept,jumla and botechaur,LOCATION,1,True
 validated_probable_no_concept,local chetris,GROUP,1,False
 validated_probable_no_concept,merchants of kan-su and se-chuan,GROUP,1,False
 validated_probable_no_concept,rupshu's land from the west,LOCATION,1,False
 validated_probable_no_concept,salt lakes,LOCATION,1,True
-validated_probable_no_concept,salter water,COMMODITY,1,False
+validated_probable_no_concept,"salt on the backs of yak, sheep and goats to tarakot",COMMODITY,1,False
 validated_probable_no_concept,semi-luxuries like tea and rice,COMMODITY,1,True
+validated_probable_no_concept,sub-montane markets,LOCATION,1,False
 validated_probable_no_concept,"tea, sugar, spices, rice, and other food products at dozum fair",COMMODITY,1,False
-validated_probable_no_concept,the lakes,LOCATION,1,False
 validated_probable_no_concept,thousands and thousands of sheep,COMMODITY,1,False
 validated_probable_no_concept,tibetan changpas,GROUP,1,True
 validated_probable_no_concept,tibetan partners,GROUP,1,True
+validated_probable_no_concept,tibetan trade-centre of taklakot,LOCATION,1,False
 validated_probable_no_concept,traders from northwestern sichuan,GROUP,1,False
 validated_probable_no_concept,tsakalho salt taxes,COMMODITY,1,False
 validated_probable_no_concept,tsam tso lake,LOCATION,1,False
 validated_probable_no_concept,villagers in khasan and bhot,GROUP,1,False
-validated_trade_only,salt,COMMODITY,26,False
+validated_trade_only,salt,COMMODITY,25,False
 validated_trade_only,purangbas,CONCEPT,7,True
 validated_trade_only,barley,COMMODITY,4,True
-validated_trade_only,himalayan farmers,GROUP,4,True
-validated_trade_only,humlis,GROUP,4,True
+validated_trade_only,men,GROUP,4,True
 validated_trade_only,rupshu,LOCATION,4,True
+validated_trade_only,humlis,GROUP,3,True
 validated_trade_only,sheep,COMMODITY,3,False
 validated_trade_only,chang-pa,GROUP,2,True
+validated_trade_only,europe,LOCATION,2,False
 validated_trade_only,"grain, salt, and borrr",COMMODITY,2,False
+validated_trade_only,manufactured goods,COMMODITY,2,False
 validated_trade_only,rice,COMMODITY,2,False
 validated_trade_only,shepherds,GROUP,2,True
 validated_trade_only,tichurong people,GROUP,2,True
 validated_trade_only,amdowa tribes,GROUP,1,True
-validated_trade_only,at present,CONCEPT,1,False
+validated_trade_only,baskets to the owner’s house,CONCEPT,1,False
 validated_trade_only,bhotias of panchsati and barthapale,GROUP,1,True
 validated_trade_only,caravans,CONCEPT,1,False
 validated_trade_only,chala people,GROUP,1,False
 validated_trade_only,chinese authorities,GROUP,1,False
-validated_trade_only,chinu millet,COMMODITY,1,False
-validated_trade_only,gg,CONCEPT,1,True
 validated_trade_only,goats,COMMODITY,1,False
 validated_trade_only,grain-salt-rice circuit,CONCEPT,1,True
 validated_trade_only,jumla and botechaur,LOCATION,1,True
+validated_trade_only,kashmiri shawl,LOCATION,1,False
 validated_trade_only,khaltse,LOCATION,1,False
 validated_trade_only,kharnak,LOCATION,1,False
 validated_trade_only,local chetris,GROUP,1,False
+validated_trade_only,long dagger,COMMODITY,1,False
 validated_trade_only,nepali traders,GROUP,1,False
 validated_trade_only,people of lower humla,GROUP,1,False
 validated_trade_only,salt lakes,LOCATION,1,True
 validated_trade_only,semi-luxuries like tea and rice,COMMODITY,1,True
 validated_trade_only,thakali families,CONCEPT,1,True
 validated_trade_only,the desert,CONCEPT,1,True
-validated_trade_only,the south and west,CONCEPT,1,False
 validated_trade_only,the water,CONCEPT,1,True
 validated_trade_only,thousands and thousands of sheep,COMMODITY,1,False
 validated_trade_only,tibetan changpas,GROUP,1,True
 validated_trade_only,tibetan partners,GROUP,1,True
-validated_probable_trade_only,salt,COMMODITY,26,False
+validated_probable_trade_only,salt,COMMODITY,25,False
 validated_probable_trade_only,purangbas,CONCEPT,7,True
 validated_probable_trade_only,barley,COMMODITY,5,True
 validated_probable_trade_only,rupshu,LOCATION,5,True
-validated_probable_trade_only,humlis,GROUP,4,True
 validated_probable_trade_only,men,GROUP,4,True
+validated_probable_trade_only,humlis,GROUP,3,True
 validated_probable_trade_only,sheep,COMMODITY,3,False
 validated_probable_trade_only,shepherds,GROUP,3,True
 validated_probable_trade_only,chang-pa,GROUP,2,True
@@ -218,7 +218,6 @@ validated_probable_trade_only,manufactured goods,COMMODITY,2,False
 validated_probable_trade_only,rice,COMMODITY,2,False
 validated_probable_trade_only,tichurong people,GROUP,2,True
 validated_probable_trade_only,amdowa tribes,GROUP,1,True
-validated_probable_trade_only,at present,CONCEPT,1,False
 validated_probable_trade_only,baskets to the owner’s house,CONCEPT,1,False
 validated_probable_trade_only,bhoti bhotias,GROUP,1,False
 validated_probable_trade_only,bhotias of panchsati and barthapale,GROUP,1,True
@@ -227,7 +226,6 @@ validated_probable_trade_only,caravans,CONCEPT,1,False
 validated_probable_trade_only,chala people,GROUP,1,False
 validated_probable_trade_only,chinese authorities,GROUP,1,False
 validated_probable_trade_only,fumigation of juniper to buddhist divinities and tutelary spirits,CONCEPT,1,False
-validated_probable_trade_only,gg,CONCEPT,1,True
 validated_probable_trade_only,goats,COMMODITY,1,False
 validated_probable_trade_only,grain-salt-rice circuit,CONCEPT,1,True
 validated_probable_trade_only,jumla and botechaur,LOCATION,1,True

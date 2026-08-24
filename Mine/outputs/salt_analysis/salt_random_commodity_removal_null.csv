@@ -1,601 +1,601 @@
 view,run,removed,degree,strength,largest_component_nodes,components,global_efficiency_loss
-validated,1,wooden tubes or buckets,1,1.0,731,144,-0.0001783644152920788
-validated,2,goose,3,3.0,723,146,0.001053072944370001
-validated,3,rice and ice,1,1.0,730,144,4.314014090546492e-05
-validated,4,food grains,1,1.0,730,144,7.529891853608195e-05
-validated,5,coarse wool,1,1.0,731,144,-0.0001803129091063893
-validated,6,two sheep,1,1.0,730,144,0.00014090735905267215
-validated,7,salt from the lakes in trucks,1,1.0,731,144,-0.0001803129091063893
-validated,8,duties on goods imported and expo.rtoa,1,1.0,731,144,-0.00017746511045471647
-validated,9,hair,1,1.0,730,144,0.00010889080914446014
-validated,10,animals,7,7.0,727,147,0.0015553062664570294
-validated,11,"their cattle, on their sheep and goats",1,1.0,731,144,-0.00018031290910636155
-validated,12,indian tea,1,1.0,731,144,-0.00018031290910636155
-validated,13,"10,000 maunds of wood annually",1,1.0,731,144,-0.00017941360426905473
-validated,14,nine camels,1,1.0,730,144,6.0541819280779396e-05
-validated,15,movements of goods from namche bazar across the nangpa la to kyabrak,1,1.0,730,144,0.00012319261099462409
-validated,16,unrefined sugar (ghuv),1,1.0,730,144,4.465111577944825e-05
-validated,17,chang-luk sheep,1,1.0,731,144,-0.0001803129091063893
-validated,18,barley,4,4.0,729,145,0.00043126362794534967
-validated,19,tea,7,7.0,725,148,0.0013343720036926715
-validated,20,salt and wool,1,1.0,730,144,2.5758487014471143e-05
-validated,21,tibetan luxury goods,1,1.0,730,144,7.241614691608222e-05
-validated,22,boat,3,3.0,727,145,0.000573058271432822
-validated,23,tibetan salt and butter,1,1.0,731,144,-0.00018031290910636155
-validated,24,"bartering salt, wool, blankets and goats",1,1.0,730,144,0.00010165069147251293
-validated,25,two horses,1,1.0,730,144,5.120241526195002e-05
-validated,26,hair,1,1.0,730,144,0.00010889080914446014
-validated,27,boat,3,3.0,727,145,0.000573058271432822
-validated,28,grain and cloth,1,1.0,730,144,5.405598866967121e-05
-validated,29,hair,1,1.0,730,144,0.00010889080914446014
-validated,30,rice and ice,1,1.0,730,144,4.314014090546492e-05
-validated,31,food grains,1,1.0,730,144,7.529891853608195e-05
-validated,32,"sugar, tea, stearine candles, petroleum, leather trunks, saddles, and so forth",1,1.0,730,144,2.8595669497033516e-05
-validated,33,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,730,144,0.00013613390607722375
-validated,34,woolen goods,1,1.0,730,144,2.5758487014471143e-05
-validated,35,cotton clothes,1,1.0,730,144,-1.3307309130239364e-05
-validated,36,"tibetan salt, wool and butter",1,1.0,731,144,-0.00017941360426899922
-validated,37,unrefined sugar (ghuv),1,1.0,730,144,4.465111577944825e-05
-validated,38,manufactured goods,2,2.0,728,145,0.000459447750708733
-validated,39,"cloth, chinese porcelain cups, and knives",1,1.0,730,144,0.00014090735905267215
-validated,40,cultivator,1,1.0,731,144,-0.0001803129091063893
-validated,41,"wood, milk, vegetables",1,1.0,731,144,-0.00018031290910636155
-validated,42,"warm, high-altitude clothing of western manufacture",1,1.0,730,144,6.240453524408718e-05
-validated,43,cotton textiles and manufactured goods,1,1.0,730,144,8.145409564661032e-05
-validated,44,clothes to wear,1,1.0,730,144,9.264765082227233e-05
-validated,45,wool,6,6.0,728,145,0.0008120827911923534
-validated,46,wheat,1,1.0,730,144,5.146997566995992e-05
-validated,47,"wood, milk, vegetables",1,1.0,731,144,-0.00018031290910636155
-validated,48,tibetan rock salt,1,1.0,731,144,-0.00018031290910636155
-validated,49,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,731,144,-0.00018031290910636155
-validated,50,salt from the lakes in trucks,1,1.0,731,144,-0.0001803129091063893
-validated,51,availability of a reasonable amount of cash,1,1.0,730,144,2.5758487014471143e-05
-validated,52,camels,10,11.0,728,146,0.001131542372416125
-validated,53,tibetan salt and butter,1,1.0,731,144,-0.00018031290910636155
-validated,54,boat,3,3.0,727,145,0.000573058271432822
-validated,55,crops,2,2.0,729,145,0.0002306444807697594
-validated,56,camel's back,1,1.0,731,144,-0.00018031290910636155
-validated,57,baggage animals,1,1.0,730,144,0.00014090735905267215
-validated,58,tea and home-brewed beer,1,1.0,731,144,-0.00018031290910636155
-validated,59,salt market,2,2.0,728,145,0.00035117593533055824
-validated,60,trade goods,1,1.0,731,144,-0.00018031290910636155
-validated,61,hair,1,1.0,730,144,0.00010889080914446014
-validated,62,sheep and goats or horses,1,1.0,730,144,0.00010281537558505527
-validated,63,"crops of barley, buckwheat, and rod oats",1,1.0,731,144,-0.00018031290910636155
-validated,64,"agricultural advances, chiefly seed-grain",1,1.0,730,144,7.550226783957503e-05
-validated,65,porcelain cups,1,1.0,731,144,-0.00018031290910636155
-validated,66,clothes to wear,1,1.0,730,144,9.264765082227233e-05
-validated,67,wild camel,1,1.0,730,144,-1.3025603811792075e-05
-validated,68,charas,1,1.0,730,144,8.318632806214588e-05
-validated,69,grain and cloth,1,1.0,730,144,5.405598866967121e-05
-validated,70,"agricultural advances, chiefly seed-grain",1,1.0,730,144,7.550226783957503e-05
-validated,71,buckets,1,1.0,731,144,-0.0001783644152920788
-validated,72,salter water,1,1.0,730,144,6.503672134232363e-05
-validated,73,foodgrains,3,3.0,731,146,-0.00017401777524483908
-validated,74,sugarcane and tobacco cultivation,1,1.0,730,144,1.9176087696276545e-05
-validated,75,long dagger,1,1.0,730,144,7.09200306882457e-05
-validated,76,coarse wool,1,1.0,731,144,-0.0001803129091063893
-validated,77,cultivator,1,1.0,731,144,-0.0001803129091063893
-validated,78,mining and minerals,1,1.0,730,144,0.0001445075631083398
-validated,79,unrefined sugar (ghuv),1,1.0,730,144,4.465111577944825e-05
-validated,80,"grain, salt, and borrr",2,2.0,730,144,3.3677520447014664e-05
-validated,81,foodgrains,3,3.0,731,146,-0.00017401777524483908
-validated,82,goose,3,3.0,723,146,0.001053072944370001
-validated,83,the horses,1,1.0,730,144,-6.161469229271077e-06
-validated,84,unrefined sugar (ghuv),1,1.0,730,144,4.465111577944825e-05
-validated,85,grain,12,12.0,722,148,0.002567869069899628
-validated,86,thousands and thousands of sheep,1,1.0,730,144,6.503672134482164e-05
-validated,87,woolen goods,1,1.0,730,144,2.5758487014471143e-05
-validated,88,"wood, milk, vegetables",1,1.0,731,144,-0.00018031290910636155
-validated,89,salt market,2,2.0,728,145,0.00035117593533055824
-validated,90,foodgrains,3,3.0,731,146,-0.00017401777524483908
-validated,91,cash crops and pastoral goods,2,2.0,728,145,0.00035801802900944923
-validated,92,tsakalho salt taxes,1,1.0,730,144,6.602595666341249e-05
-validated,93,camel's back,1,1.0,731,144,-0.00018031290910636155
-validated,94,wheat,1,1.0,730,144,5.146997566995992e-05
-validated,95,sheep and goats or horses,1,1.0,730,144,0.00010281537558505527
-validated,96,chang-luk sheep,1,1.0,731,144,-0.0001803129091063893
-validated,97,tea,7,7.0,725,148,0.0013343720036926715
-validated,98,chronometers,2,2.0,731,145,-0.00017311847040747674
-validated,99,tibetan wool,1,2.0,730,144,2.91835667008411e-05
-validated,100,camels,10,11.0,728,146,0.001131542372416125
-validated_probable,1,salt mines,2,2.0,827,168,-0.00014307772010206665
-validated_probable,2,"yak, sheep and goats",1,1.0,827,167,-0.00014852830644927761
-validated_probable,3,our animals,2,2.0,825,168,0.00023145216036775385
-validated_probable,4,two sheep,1,1.0,826,167,0.00012228162815386412
-validated_probable,5,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,826,167,0.00011844783279561788
-validated_probable,6,the salt from this place,1,1.0,827,167,-0.00014852830644927761
-validated_probable,7,raw wool,1,1.0,826,167,4.500142377741878e-05
-validated_probable,8,charas,1,1.0,826,167,7.650681038226526e-05
-validated_probable,9,salt market,2,2.0,822,168,0.0005618009364909138
-validated_probable,10,"the horses, cattle, sheep and camels",1,1.0,827,167,-0.00014852830644927761
-validated_probable,11,british capital,1,1.0,827,167,-0.00014852830644927761
-validated_probable,12,unrefined sugar (ghuv),1,1.0,826,167,4.1424068102313694e-05
-validated_probable,13,grains,1,1.0,827,167,-0.00014852830644927761
-validated_probable,14,"10,000 maunds of wood annually",1,1.0,827,167,-0.00014784698315588318
-validated_probable,15,chang-pa goats,1,1.0,827,167,-0.00014852830644927761
-validated_probable,16,"tea, sugar, spices, rice, and other food products at dozum fair",1,1.0,826,167,9.174698922256863e-05
-validated_probable,17,"crops of barley, buckwheat, and rod oats",1,1.0,827,167,-0.00014852830644927761
-validated_probable,18,camels,10,11.0,824,169,0.0009824620048746041
-validated_probable,19,indian salt,7,7.0,823,170,0.0007475536362238216
-validated_probable,20,"pashm, or 'cashmere",1,1.0,827,167,-0.00014852830644927761
-validated_probable,21,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,826,167,4.2890943766582534e-05
-validated_probable,22,duties on goods imported and expo.rtoa,1,1.0,827,167,-0.00014603012104014157
-validated_probable,23,animals,7,7.0,822,170,0.0015093247643368224
-validated_probable,24,tea plantations,2,2.0,826,167,0.00013816259801538444
-validated_probable,25,grain for salt,1,1.0,827,167,-0.00014852830644927761
-validated_probable,26,distribution of salt,1,1.0,827,167,-0.00014852830644927761
-validated_probable,27,tibetan horses,1,1.0,826,167,5.7074315231428474e-05
-validated_probable,28,mining and minerals,1,1.0,826,167,0.00012638092330190254
-validated_probable,29,"the horses, cattle, sheep and camels",1,1.0,827,167,-0.00014852830644927761
-validated_probable,30,animals,7,7.0,822,170,0.0015093247643368224
-validated_probable,31,tibetan salt and wool,1,1.0,826,167,2.9111991258143344e-05
-validated_probable,32,"the horses, cattle, sheep and camels",1,1.0,827,167,-0.00014852830644927761
-validated_probable,33,our animals,2,2.0,825,168,0.00023145216036775385
-validated_probable,34,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,826,167,0.00011844783279561788
-validated_probable,35,gujars and their milk,1,1.0,827,167,-0.00014852830644927761
-validated_probable,36,grain,12,12.0,817,171,0.0024197493620756877
-validated_probable,37,sheep and goats or horses,1,1.0,826,167,9.100938056344487e-05
-validated_probable,38,ferry-boat,3,3.0,815,168,0.0014320637720492968
-validated_probable,39,best-quality pashm,1,1.0,826,167,3.299666465146622e-05
-validated_probable,40,"crops of barley, buckwheat, and rod oats",1,1.0,827,167,-0.00014852830644927761
-validated_probable,41,"bartering salt, wool, blankets and goats",1,1.0,826,167,9.056445580596373e-05
-validated_probable,42,"beds, warm clothes, and provisions",1,1.0,827,167,-0.00014603012104014157
-validated_probable,43,wool,6,6.0,824,168,0.0006872381285019241
-validated_probable,44,trade goods,1,1.0,827,167,-0.00014852830644927761
-validated_probable,45,sheep and goats,4,4.0,824,169,0.00041711791556973965
-validated_probable,46,goods,2,3.0,826,167,0.00013968884840731555
-validated_probable,47,tibetan salt and butter,1,1.0,827,167,-0.00014852830644927761
-validated_probable,48,livestock,3,3.0,825,168,0.00034919930046101166
-validated_probable,49,nine camels,1,1.0,826,167,5.5090222996101446e-05
-validated_probable,50,tibetan wool,1,2.0,826,167,2.9111991258143344e-05
-validated_probable,51,trade goods,1,1.0,827,167,-0.00014852830644927761
-validated_probable,52,buckets,1,1.0,827,167,-0.0001470521059802471
-validated_probable,53,"grain, salt, and borrr",2,2.0,826,167,3.249075431312198e-05
-validated_probable,54,wells,2,2.0,827,168,-0.00014387259727770274
-validated_probable,55,charas,1,1.0,826,167,7.650681038226526e-05
-validated_probable,56,"cloth, cigarettes, sugar and a few other commodities",1,1.0,826,167,4.2890943766582534e-05
-validated_probable,57,milk,1,1.0,826,167,9.569001259995824e-05
-validated_probable,58,boat,3,3.0,823,168,0.0004889084571450125
-validated_probable,59,tea plantations,2,2.0,826,167,0.00013816259801538444
-validated_probable,60,animals,7,7.0,822,170,0.0015093247643368224
-validated_probable,61,pen to leave animals,1,1.0,827,167,-0.00014852830644927761
-validated_probable,62,mandi salt sources,1,1.0,826,167,6.959835932177083e-05
-validated_probable,63,maize or millet,1,1.0,826,167,4.1424068102313694e-05
-validated_probable,64,tibetan salt and butter,1,1.0,827,167,-0.00014852830644927761
-validated_probable,65,tibetan wool and woollen cloth,1,1.0,826,167,0.00010854057609610557
-validated_probable,66,goods imported and expo.rtoa,1,1.0,827,167,-0.00014603012104014157
-validated_probable,67,livestock and fuel,1,1.0,827,167,-0.00014852830644927761
-validated_probable,68,rice and ice,1,1.0,826,167,4.0529813318132546e-05
-validated_probable,69,"the horses, cattle, sheep and camels",1,1.0,827,167,-0.00014852830644927761
-validated_probable,70,tsakhalho: salt production and the preservation of a catholic church,1,1.0,827,167,-0.00014852830644927761
-validated_probable,71,salt mining in the punjab,1,1.0,827,167,-0.00014852830644927761
-validated_probable,72,wood,1,1.0,827,167,-0.00014852830644927761
-validated_probable,73,four camels from abdall,1,1.0,826,167,2.8140328496101263e-05
-validated_probable,74,livestock,3,3.0,825,168,0.00034919930046101166
-validated_probable,75,grain and cloth,1,1.0,826,167,5.092636511257187e-05
-validated_probable,76,indian tea,1,1.0,827,167,-0.00014852830644927761
-validated_probable,77,coarse wool,1,1.0,826,167,2.8640079018718567e-05
-validated_probable,78,tibetan salt and wool,1,1.0,826,167,2.9111991258143344e-05
-validated_probable,79,wood,1,1.0,827,167,-0.00014852830644927761
-validated_probable,80,movements of goods from namche bazar across the nangpa la to kyabrak,1,1.0,826,167,0.00010854057609610557
-validated_probable,81,the sheep,1,1.0,826,167,6.0553786931247244e-05
-validated_probable,82,"tibetan salt, wool and butter",1,1.0,827,167,-0.00014784698315588318
-validated_probable,83,water of salt lakes,1,1.0,827,167,-0.00014648433656909432
-validated_probable,84,porcelain cups,1,1.0,827,167,-0.00014852830644927761
-validated_probable,85,camel's back,1,1.0,827,167,-0.00014852830644927761
-validated_probable,86,the salt from this place,1,1.0,827,167,-0.00014852830644927761
-validated_probable,87,wool,6,6.0,824,168,0.0006872381285019241
-validated_probable,88,tea and home-brewed beer,1,1.0,827,167,-0.00014852830644927761
-validated_probable,89,"crops of barley, buckwheat, and rod oats",1,1.0,827,167,-0.00014852830644927761
-validated_probable,90,manufactured goods,2,2.0,824,168,0.00039469640468552114
-validated_probable,91,"tibetan salt, wool and butter",1,1.0,827,167,-0.00014784698315588318
-validated_probable,92,"yak, sheep and goats",1,1.0,827,167,-0.00014852830644927761
-validated_probable,93,sheep-owners from chala,1,1.0,826,167,3.637840741280152e-05
-validated_probable,94,"crops of barley, buckwheat, and rod oats",1,1.0,827,167,-0.00014852830644927761
-validated_probable,95,barley,5,5.0,823,169,0.0007808031544960514
-validated_probable,96,woolen goods,1,1.0,826,167,2.6414880471697932e-05
-validated_probable,97,chang-luk sheep,2,2.0,825,168,0.00024172436253225293
-validated_probable,98,sheep and goats or horses,1,1.0,826,167,9.100938056344487e-05
-validated_probable,99,trade goods,1,1.0,827,167,-0.00014852830644927761
-validated_probable,100,livestock and fuel,1,1.0,827,167,-0.00014852830644927761
-validated_no_concept,1,indian tea,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,2,ferry-boat,3,3.0,230,118,0.0007613732955436478
-validated_no_concept,3,butter,2,2.0,232,116,0.00021699740488253377
-validated_no_concept,4,tibetan luxury goods,1,1.0,232,116,0.0001645800557478136
-validated_no_concept,5,british capital,1,1.0,233,116,-0.00018268343427704087
-validated_no_concept,6,camels,3,3.0,233,118,-6.930557689433653e-05
-validated_no_concept,7,"cloth, chinese porcelain cups, and knives",1,1.0,232,116,0.00026660564746157356
-validated_no_concept,8,foodgrains,3,3.0,233,118,-0.0001571408365218241
-validated_no_concept,9,thousands and thousands of sheep,1,1.0,232,116,0.00016401823443652763
-validated_no_concept,10,porcelain cups,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,11,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,12,camel,2,2.0,233,117,-9.898364285754885e-05
-validated_no_concept,13,milk,1,1.0,232,116,0.00020483426309444303
-validated_no_concept,14,wooden tubes or buckets,1,1.0,233,116,-0.00017477739211467502
-validated_no_concept,15,goose,1,1.0,232,116,0.00010936518400165435
-validated_no_concept,16,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,232,116,0.0002726524665221039
-validated_no_concept,17,coarse wool,1,1.0,233,116,-0.00018268343427704087
-validated_no_concept,18,refined salt,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,19,salt mines,1,1.0,233,116,-0.00017903449174060115
-validated_no_concept,20,boat,2,2.0,233,117,-0.00011844466971864392
-validated_no_concept,21,"grain, salt, and borrr",2,2.0,232,116,0.00011734072983133476
-validated_no_concept,22,coarse wool,1,1.0,233,116,-0.00018268343427704087
-validated_no_concept,23,punjab salt mines,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,24,mandi rock salt,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,25,camel,2,2.0,233,117,-9.898364285754885e-05
-validated_no_concept,26,"cloth, chinese porcelain cups, and knives",1,1.0,232,116,0.00026660564746157356
-validated_no_concept,27,duties on goods imported and expo.rtoa,1,1.0,233,116,-0.00017112844957822143
-validated_no_concept,28,tea,4,4.0,230,118,0.0008699959436839697
-validated_no_concept,29,"salt, cloth, iron and the like",1,1.0,232,116,7.837813230310298e-05
-validated_no_concept,30,sheep and goats,2,2.0,233,117,-0.00015957346487945057
-validated_no_concept,31,sheep and goats,2,2.0,233,117,-0.00015957346487945057
-validated_no_concept,32,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,33,camel,2,2.0,233,117,-9.898364285754885e-05
-validated_no_concept,34,goods imported and expo.rtoa,1,1.0,233,116,-0.00017112844957822143
-validated_no_concept,35,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,36,butter,2,2.0,232,116,0.00021699740488253377
-validated_no_concept,37,british capital,1,1.0,233,116,-0.00018268343427704087
-validated_no_concept,38,"salt, cloth, iron and the like",1,1.0,232,116,7.837813230310298e-05
-validated_no_concept,39,food grains,1,1.0,232,116,0.0001645800557478136
-validated_no_concept,40,"roo sheep, laden with salt",1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,41,salt and wool,1,1.0,232,116,0.00012186426018194474
-validated_no_concept,42,cloth,2,2.0,232,116,0.0001741136421207351
-validated_no_concept,43,distribution of salt,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,44,salt mines,1,1.0,233,116,-0.00017903449174060115
-validated_no_concept,45,wool,2,2.0,232,116,0.0001741136421207351
-validated_no_concept,46,pack-horses,2,2.0,231,117,0.0006187343942016532
-validated_no_concept,47,tea,4,4.0,230,118,0.0008699959436839697
-validated_no_concept,48,goods imported and expo.rtoa,1,1.0,233,116,-0.00017112844957822143
-validated_no_concept,49,tibetan salt,8,8.0,221,121,0.00371803324120578
-validated_no_concept,50,"roo sheep, laden with salt",1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,51,goods,1,1.0,232,116,0.00026660564746157356
-validated_no_concept,52,grain and salt,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,53,"yak, sheep and goats",1,1.0,233,116,-0.00018268343427704087
-validated_no_concept,54,charas,1,1.0,232,116,0.00018173877362744062
-validated_no_concept,55,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,56,goods imported and expo.rtoa,1,1.0,233,116,-0.00017112844957822143
-validated_no_concept,57,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,233,116,-0.00017416923502526493
-validated_no_concept,58,yak,7,8.0,229,119,0.0015463071709135856
-validated_no_concept,59,pashm,4,5.0,228,118,0.0017216562357069906
-validated_no_concept,60,thousands and thousands of sheep,1,1.0,232,116,0.00016401823443652763
-validated_no_concept,61,punjab salt mines,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,62,the camels,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,63,boat,2,2.0,233,117,-0.00011844466971864392
-validated_no_concept,64,duties on goods imported and expo.rtoa,1,1.0,233,116,-0.00017112844957822143
-validated_no_concept,65,camel,2,2.0,233,117,-9.898364285754885e-05
-validated_no_concept,66,sheep,2,2.0,232,116,0.00017630300764261836
-validated_no_concept,67,"apricots, grain, walnuts, and white radish to trade for salt",1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,68,wells,2,2.0,233,117,-0.00015774899361122724
-validated_no_concept,69,grain and salt,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,70,foodgrains,3,3.0,233,118,-0.0001571408365218241
-validated_no_concept,71,mandi rock salt,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,72,enormous herds of yak and sheep,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,73,indian salt,4,4.0,230,118,0.0008969459907033628
-validated_no_concept,74,their salt onward to leh,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,75,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,76,tsakalho salt taxes,1,1.0,232,116,0.00016742391413725188
-validated_no_concept,77,"agricultural advances, chiefly seed-grain",1,1.0,232,116,0.00018810125517736143
-validated_no_concept,78,porcelain cups,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,79,chinu millet,1,1.0,232,116,0.000164018234436486
-validated_no_concept,80,soil,2,2.0,229,117,0.0009755267317127503
-validated_no_concept,81,yaks and horses,1,1.0,232,116,0.00026660564746157356
-validated_no_concept,82,"yak, sheep and goats",1,1.0,233,116,-0.00018268343427704087
-validated_no_concept,83,tibetan wool,1,2.0,233,116,-0.0001729529208464517
-validated_no_concept,84,enormous herds of yak and sheep,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,85,soil,2,2.0,229,117,0.0009755267317127503
-validated_no_concept,86,chang-luk sheep,1,1.0,233,116,-0.00018268343427704087
-validated_no_concept,87,goods imported and expo.rtoa,1,1.0,233,116,-0.00017112844957822143
-validated_no_concept,88,chinu millet,1,1.0,232,116,0.000164018234436486
-validated_no_concept,89,salt and livestock products,2,2.0,231,117,0.00038284473915022044
-validated_no_concept,90,wells,2,2.0,233,117,-0.00015774899361122724
-validated_no_concept,91,tibetan salt and butter,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,92,buffaloes,1,1.0,233,116,-0.00017903449174060115
-validated_no_concept,93,clothes,1,1.0,233,116,-0.00017538554920409205
-validated_no_concept,94,"tibetan salt, wool and butter",1,1.0,233,116,-0.00017903449174054564
-validated_no_concept,95,tibetan rock salt,1,1.0,233,116,-0.00018268343427703393
-validated_no_concept,96,salt production,1,1.0,233,116,-0.0001826834342769923
-validated_no_concept,97,camels,3,3.0,233,118,-6.930557689433653e-05
-validated_no_concept,98,tea,4,4.0,230,118,0.0008699959436839697
-validated_no_concept,99,woolen blankets,1,1.0,232,116,0.0001704646995842954
-validated_no_concept,100,salt mines,1,1.0,233,116,-0.00017903449174060115
-validated_probable_no_concept,1,salt and livestock products,2,2.0,269,137,0.0003175447076002799
-validated_probable_no_concept,2,the mandi salt mines,1,1.0,270,136,0.00015491864735886485
-validated_probable_no_concept,3,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,271,136,-0.00013689468247851666
-validated_probable_no_concept,4,chang-luk sheep,2,2.0,269,137,0.0003327552140841433
-validated_probable_no_concept,5,charas,1,1.0,270,136,0.00015491864735878852
-validated_probable_no_concept,6,"wood, milk, vegetables",1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,7,grain for salt,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,8,water of salt lakes,1,1.0,271,136,-0.00013516317069557637
-validated_probable_no_concept,9,meat,2,2.0,268,137,0.0006462145025335
-validated_probable_no_concept,10,availability of a reasonable amount of cash,1,1.0,270,136,0.00010502018815799347
-validated_probable_no_concept,11,kiraiyakashi,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,12,boat,2,2.0,271,137,-9.316164201785687e-05
-validated_probable_no_concept,13,cloth,2,2.0,270,136,0.00014594982858793376
-validated_probable_no_concept,14,tibetan wool,1,2.0,271,136,-0.00013602892658705346
-validated_probable_no_concept,15,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,270,136,0.0001253324704297079
-validated_probable_no_concept,16,"pashm, or 'cashmere",1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,17,butter,2,2.0,270,136,0.00018305777515545407
-validated_probable_no_concept,18,wool,2,2.0,270,136,0.00014594982858793376
-validated_probable_no_concept,19,yak-caravan,1,1.0,270,136,0.0002199266081908402
-validated_probable_no_concept,20,tea plantations,1,1.0,270,136,0.00012115416759154313
-validated_probable_no_concept,21,thousands and thousands of sheep,1,1.0,270,136,0.00013876405468874614
-validated_probable_no_concept,22,manufactured goods,2,2.0,268,137,0.0005829264351148514
-validated_probable_no_concept,23,best-quality pashm,1,1.0,270,136,0.00010869552804860377
-validated_probable_no_concept,24,thousands and thousands of sheep,1,1.0,270,136,0.00013876405468874614
-validated_probable_no_concept,25,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,271,136,-0.00013689468247851666
-validated_probable_no_concept,26,chang-luk sheep,2,2.0,269,137,0.0003327552140841433
-validated_probable_no_concept,27,porcelain cups,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,28,the salt from this place,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,29,grain with rupshu chang-pa for salt,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,30,"salt, cloth, iron and the like",1,1.0,270,136,6.955923910729328e-05
-validated_probable_no_concept,31,salt mining in the punjab,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,32,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,270,136,0.0001253324704297079
-validated_probable_no_concept,33,"grain, salt, and borrr",2,2.0,270,136,0.00010007301163435234
-validated_probable_no_concept,34,cash instead of cloth,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,35,yak,7,8.0,265,139,0.001732453683680163
-validated_probable_no_concept,36,wooden tubes or buckets,1,1.0,271,136,-0.0001373275604242552
-validated_probable_no_concept,37,tsakalho salt taxes,1,1.0,270,136,0.00014118817118565635
-validated_probable_no_concept,38,chinu millet,1,1.0,270,136,0.00014006268852597564
-validated_probable_no_concept,39,cultivator,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,40,indian salt,5,5.0,268,138,0.0007420289438366465
-validated_probable_no_concept,41,tsakhalho: salt production and the preservation of a catholic church,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,42,grain for salt,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,43,milk,1,1.0,270,136,0.00017353446034965025
-validated_probable_no_concept,44,chang-pa goats,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,45,thousands and thousands of sheep,1,1.0,270,136,0.00013876405468874614
-validated_probable_no_concept,46,"buckwheat, turnips, or other vegetables",1,1.0,270,136,0.00010996942600335902
-validated_probable_no_concept,47,"cloth, chinese porcelain cups, and knives",1,1.0,270,136,0.00021992660819061816
-validated_probable_no_concept,48,"ordinary goats, sheep, and cows",1,1.0,270,136,0.00012971278297667366
-validated_probable_no_concept,49,grain and salt,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,50,salt pans,1,1.0,271,136,-0.00013343165891262915
-validated_probable_no_concept,51,horses,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,52,"their cattle, on their sheep and goats",1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,53,semi-luxuries like tea and rice,1,1.0,270,136,0.0002171376374260625
-validated_probable_no_concept,54,tibetan wool in pongdzu,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,55,livestock and fuel,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,56,chinu millet,1,1.0,270,136,0.00014006268852597564
-validated_probable_no_concept,57,rice,2,2.0,269,137,0.00037642435351496056
-validated_probable_no_concept,58,tea,5,5.0,267,139,0.0009794851716322592
-validated_probable_no_concept,59,tibetan wool in pongdzu,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,60,nepalese grain for tibetan salt,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,61,goods,1,1.0,270,136,0.00021992660819061816
-validated_probable_no_concept,62,duties on goods imported and expo.rtoa,1,1.0,271,136,-0.00013343165891264303
-validated_probable_no_concept,63,salter water,1,1.0,270,136,0.0001407552932392378
-validated_probable_no_concept,64,"warm, high-altitude clothing of western manufacture",1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,65,charas,1,1.0,270,136,0.00015491864735878852
-validated_probable_no_concept,66,yak,7,8.0,265,139,0.001732453683680163
-validated_probable_no_concept,67,salt and wool,1,1.0,270,136,0.00010502018815799347
-validated_probable_no_concept,68,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,270,136,0.0001253324704297079
-validated_probable_no_concept,69,grains,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,70,duties on goods imported and expo.rtoa,1,1.0,271,136,-0.00013343165891264303
-validated_probable_no_concept,71,the mandi salt mines,1,1.0,270,136,0.00015491864735886485
-validated_probable_no_concept,72,two sheep,1,1.0,270,136,0.00021992660819061816
-validated_probable_no_concept,73,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,270,136,0.0001253324704297079
-validated_probable_no_concept,74,camels,3,3.0,271,138,-5.359659777748327e-05
-validated_probable_no_concept,75,nine camels,1,1.0,271,136,-0.00011983929141646393
-validated_probable_no_concept,76,grain with rupshu chang-pa for salt,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,77,salt pans,1,1.0,271,136,-0.00013343165891262915
-validated_probable_no_concept,78,duties on goods imported and expo.rtoa,1,1.0,271,136,-0.00013343165891264303
-validated_probable_no_concept,79,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,80,"cloth, chinese porcelain cups, and knives",1,1.0,270,136,0.00021992660819061816
-validated_probable_no_concept,81,"their cattle, on their sheep and goats",1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,82,"pashm, or 'cashmere",1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,83,wool,2,2.0,270,136,0.00014594982858793376
-validated_probable_no_concept,84,long dagger,1,1.0,270,136,0.00014387201444853587
-validated_probable_no_concept,85,enormous herds of yak and sheep,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,86,chang-pa goats,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,87,thousands and thousands of sheep,1,1.0,270,136,0.00013876405468874614
-validated_probable_no_concept,88,woolen blankets,1,1.0,270,136,0.0001433525609136413
-validated_probable_no_concept,89,salter water,1,1.0,270,136,0.0001407552932392378
-validated_probable_no_concept,90,their salt onward to leh,1,1.0,271,136,-0.00014295497371880767
-validated_probable_no_concept,91,salt beyond their own homes,1,1.0,270,136,0.00011475581928889478
-validated_probable_no_concept,92,goods imported and expo.rtoa,1,1.0,271,136,-0.00013343165891264303
-validated_probable_no_concept,93,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,270,136,0.00022569625280995792
-validated_probable_no_concept,94,mining and minerals,1,1.0,270,136,0.0002505681827779105
-validated_probable_no_concept,95,"tea, sugar, spices, rice, and other food products at dozum fair",1,1.0,270,136,0.00020049038842732958
-validated_probable_no_concept,96,tibetan rock salt,1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,97,"yak, sheep and goats",1,1.0,271,136,-0.00014295497371878685
-validated_probable_no_concept,98,goods,1,1.0,270,136,0.00021992660819061816
-validated_probable_no_concept,99,thousands and thousands of sheep,1,1.0,270,136,0.00013876405468874614
-validated_probable_no_concept,100,kiraiya-kash; way of life of the kiraiyakash,1,1.0,271,136,-0.00014295497371880767
-validated_trade_only,1,rice and ice,1,1.0,398,108,-1.695832958510668e-05
-validated_trade_only,2,"grain, salt, and borrr",2,2.0,397,109,0.0003206624462631924
-validated_trade_only,3,the boat,5,5.0,395,111,0.0008035368879546895
-validated_trade_only,4,food grains,1,1.0,398,108,0.00012338269440972938
-validated_trade_only,5,coarse wool,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,6,cloth,1,1.0,398,108,0.00012734764905832086
-validated_trade_only,7,salt market,1,1.0,399,108,-0.0002172409913217821
-validated_trade_only,8,animals,7,7.0,394,112,0.0026674566384783938
-validated_trade_only,9,livestock,2,2.0,398,108,0.00026197984659342977
-validated_trade_only,10,"10,000 maunds of wood annually",1,1.0,399,108,-0.00022409684919515171
-validated_trade_only,11,tea,7,7.0,393,112,0.0022435428915703326
-validated_trade_only,12,buckets,1,1.0,399,108,-0.00022143068224439455
-validated_trade_only,13,"their cattle, on their sheep and goats",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,14,chang-luk sheep,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,15,"tibetan salt, wool and butter",1,1.0,399,108,-0.0002240968491951656
-validated_trade_only,16,salt from the lakes in trucks,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,17,thousanns of mules,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,18,boat,1,1.0,398,108,7.914790137385219e-05
-validated_trade_only,19,unrefined sugar,1,1.0,398,108,1.3369259235396225e-05
-validated_trade_only,20,rice,2,2.0,397,109,0.0004162864435779817
-validated_trade_only,21,boat,1,1.0,398,108,7.914790137385219e-05
-validated_trade_only,22,the boat,5,5.0,395,111,0.0008035368879546895
-validated_trade_only,23,food grains,1,1.0,398,108,0.00012338269440972938
-validated_trade_only,24,sheep and goats,4,4.0,395,111,0.0007308863815600058
-validated_trade_only,25,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,398,108,0.0002280542324335083
-validated_trade_only,26,ferry-boat,1,1.0,399,108,-0.00021899304388946217
-validated_trade_only,27,"roo sheep, laden with salt",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,28,"their cattle, on their sheep and goats",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,29,"salt, cloth, iron and the like",1,1.0,399,108,-0.0002263821351529416
-validated_trade_only,30,cotton clothes,1,1.0,398,108,1.3369259235396225e-05
-validated_trade_only,31,semi-luxuries like tea and rice,1,1.0,398,108,0.00021441869288500726
-validated_trade_only,32,indian salt,6,6.0,395,111,0.001304464974570374
-validated_trade_only,33,tea and tobacco,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,34,"sugar, tea, stearine candles, petroleum, leather trunks, saddles, and so forth",1,1.0,398,108,7.332030803074152e-05
-validated_trade_only,35,goods,1,2.0,398,108,0.00018943487834918726
-validated_trade_only,36,cloth,1,1.0,398,108,0.00012734764905832086
-validated_trade_only,37,camels,8,8.0,395,111,0.0011281830916607533
-validated_trade_only,38,boat,1,1.0,398,108,7.914790137385219e-05
-validated_trade_only,39,porcelain cups,1,1.0,399,108,-0.0002263821351529416
-validated_trade_only,40,yak-caravan,1,1.0,398,108,0.00020794915716201845
-validated_trade_only,41,mining and minerals,1,1.0,398,108,0.00023368038881484143
-validated_trade_only,42,tsakhalho: salt production and the preservation of a catholic church,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,43,cotton textiles and manufactured goods,1,1.0,398,108,0.00014641709077228837
-validated_trade_only,44,availability of a reasonable amount of cash,1,1.0,398,108,6.961768310480287e-05
-validated_trade_only,45,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,398,108,9.14238111951321e-05
-validated_trade_only,46,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,47,"agricultural advances, chiefly seed-grain",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,48,indian salt,6,6.0,395,111,0.001304464974570374
-validated_trade_only,49,four horses,1,1.0,398,108,8.26810260128874e-05
-validated_trade_only,50,a young yak,1,1.0,398,108,0.00015070637135761178
-validated_trade_only,51,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,52,milk,1,1.0,398,108,0.00018206920054908426
-validated_trade_only,53,unrefined sugar (ghuv),1,1.0,398,108,9.904439895865036e-05
-validated_trade_only,54,"cloth, chinese porcelain cups, and knives",1,1.0,398,108,0.00020794915716160212
-validated_trade_only,55,cash crops and pastoral goods,2,2.0,397,109,0.00032429387954632793
-validated_trade_only,56,coarse wool,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,57,cotton clothes,1,1.0,398,108,1.3369259235396225e-05
-validated_trade_only,58,"their cattle, on their sheep and goats",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,59,chinu millet,1,1.0,398,108,0.0001386743243014521
-validated_trade_only,60,unrefined sugar (ghuv),1,1.0,398,108,9.904439895865036e-05
-validated_trade_only,61,"grain, salt, and borrr",2,2.0,397,109,0.0003206624462631924
-validated_trade_only,62,hair,1,1.0,398,108,0.00018206920054908426
-validated_trade_only,63,"their cattle, on their sheep and goats",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,64,grain,12,12.0,390,112,0.0034793858006287176
-validated_trade_only,65,thousands and thousands of sheep,1,1.0,398,108,0.00012210055995036384
-validated_trade_only,66,tsakhalho: salt production and the preservation of a catholic church,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,67,unrefined sugar (ghuv),1,1.0,398,108,9.904439895865036e-05
-validated_trade_only,68,tea and home-brewed beer,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,69,yak-caravan,1,1.0,398,108,0.00020794915716201845
-validated_trade_only,70,availability of a reasonable amount of cash,1,1.0,398,108,6.961768310480287e-05
-validated_trade_only,71,chang-luk sheep,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,72,salt from the lakes in trucks,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,73,salt and livestock products,2,2.0,397,109,0.00032429387954632793
-validated_trade_only,74,260 young goats,1,1.0,398,108,0.0001177021264570921
-validated_trade_only,75,camels,8,8.0,395,111,0.0011281830916607533
-validated_trade_only,76,boat,1,1.0,398,108,7.914790137385219e-05
-validated_trade_only,77,salt production,1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,78,"cloth, chinese porcelain cups, and knives",1,1.0,398,108,0.00020794915716160212
-validated_trade_only,79,pack-horses,2,2.0,397,109,0.0005543114498551827
-validated_trade_only,80,tibetan salt and wool,1,1.0,398,108,3.663416279726939e-05
-validated_trade_only,81,tibetan luxury goods,1,1.0,398,108,0.00011693310959476344
-validated_trade_only,82,the expedition (mainly meat),1,1.0,398,108,0.000136954753792759
-validated_trade_only,83,woolen goods,1,1.0,398,108,6.961768310480287e-05
-validated_trade_only,84,copper and brass vessels,1,1.0,398,108,0.00019333420934579404
-validated_trade_only,85,tibetan salt,10,10.0,384,114,0.004426783462357517
-validated_trade_only,86,dairy produce and meat,1,1.0,398,108,0.00017664271814279986
-validated_trade_only,87,milk,1,1.0,398,108,0.00018206920054908426
-validated_trade_only,88,boat,1,1.0,398,108,7.914790137385219e-05
-validated_trade_only,89,butter,4,4.0,398,108,0.0007278769143831132
-validated_trade_only,90,cash crops and pastoral goods,2,2.0,397,109,0.00032429387954632793
-validated_trade_only,91,"apricots, grain, walnuts, and white radish to trade for salt",1,1.0,399,108,-0.0002263821351529416
-validated_trade_only,92,"agricultural advances, chiefly seed-grain",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,93,the boat,5,5.0,395,111,0.0008035368879546895
-validated_trade_only,94,"the horses, cattle, sheep and camels",1,1.0,399,108,-0.00022638213515291383
-validated_trade_only,95,yak-caravan,1,1.0,398,108,0.00020794915716201845
-validated_trade_only,96,a young yak,1,1.0,398,108,0.00015070637135761178
-validated_trade_only,97,chinu millet,1,1.0,398,108,0.0001386743243014521
-validated_trade_only,98,"cloth, chinese porcelain cups, and knives",1,1.0,398,108,0.00020794915716160212
-validated_trade_only,99,the camels,4,5.0,394,111,0.0011639559976609204
-validated_trade_only,100,foodgrains,3,3.0,399,110,-0.00021038513344844023
-validated_probable_trade_only,1,salt and livestock products,2,2.0,441,132,0.00027685477790173607
-validated_probable_trade_only,2,manufactured goods,2,2.0,440,132,0.0005584673197893686
-validated_probable_trade_only,3,grain or dried apricots,1,1.0,442,131,7.584816057423782e-05
-validated_probable_trade_only,4,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,442,131,0.00019554877354270583
-validated_probable_trade_only,5,the salt from this place,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,6,mining and minerals,1,1.0,442,131,0.00020248046992338287
-validated_probable_trade_only,7,a young yak,1,1.0,442,131,0.00013292242719188663
-validated_probable_trade_only,8,salt mines,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,9,tibetan salt and butter,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,10,british capital,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,11,the camels,4,5.0,438,134,0.0009603581302175812
-validated_probable_trade_only,12,indian tea,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,13,"10,000 maunds of wood annually",1,1.0,443,131,-0.0001754649254267493
-validated_probable_trade_only,14,chang-pa goats,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,15,yak blood,1,1.0,442,131,0.00016982104700076495
-validated_probable_trade_only,16,sugar candy,1,1.0,442,131,8.956478822648439e-05
-validated_probable_trade_only,17,camels,8,8.0,439,134,0.0009243608807869286
-validated_probable_trade_only,18,porcelain cups,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,19,"pashm, or 'cashmere",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,20,two sheep,1,1.0,442,131,0.00017917978517777156
-validated_probable_trade_only,21,unrefined sugar (ghuv),1,1.0,442,131,8.956478822648439e-05
-validated_probable_trade_only,22,animals,7,7.0,438,135,0.002224710237241981
-validated_probable_trade_only,23,availability of a reasonable amount of cash,1,1.0,442,131,6.687943533097152e-05
-validated_probable_trade_only,24,tea and tobacco,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,25,fish,2,3.0,443,132,-0.00014710429193631747
-validated_probable_trade_only,26,tibetan salt and butter,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,27,animals,7,7.0,438,135,0.002224710237241981
-validated_probable_trade_only,28,cotton textiles and manufactured goods,1,1.0,442,131,0.0001310820764544307
-validated_probable_trade_only,29,tibetan salt and butter,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,30,grain or dried apricots,1,1.0,442,131,7.584816057423782e-05
-validated_probable_trade_only,31,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,442,131,0.00019554877354270583
-validated_probable_trade_only,32,buffaloes,1,1.0,442,131,2.9301165018882913e-05
-validated_probable_trade_only,33,grain,12,12.0,433,135,0.003179818580863761
-validated_probable_trade_only,34,"cloth, chinese porcelain cups, and knives",1,1.0,442,131,0.00017917978517777156
-validated_probable_trade_only,35,dairy produce and meat,1,1.0,442,131,0.000155729010946834
-validated_probable_trade_only,36,"agricultural advances, chiefly seed-grain",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,37,sugar candy,1,1.0,442,131,8.956478822648439e-05
-validated_probable_trade_only,38,cotton clothes,1,1.0,442,131,1.973981029801397e-05
-validated_probable_trade_only,39,tibetan horses,1,1.0,442,131,0.00010773374229844368
-validated_probable_trade_only,40,grain for salt,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,41,woolen goods,1,1.0,442,131,6.687943533097152e-05
-validated_probable_trade_only,42,wells,2,2.0,443,132,-0.00016551026180904038
-validated_probable_trade_only,43,tea-caravan,1,1.0,442,131,0.00017917978517777156
-validated_probable_trade_only,44,grains,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,45,tea,8,8.0,434,136,0.0025722330232025165
-validated_probable_trade_only,46,nepalese grain for tibetan salt,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,47,woolen goods,1,1.0,442,131,6.687943533097152e-05
-validated_probable_trade_only,48,gujars and their milk,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,49,salt production,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,50,a young yak,1,1.0,442,131,0.00013292242719188663
-validated_probable_trade_only,51,baggage animals,1,1.0,442,131,0.00017917978517777156
-validated_probable_trade_only,52,boat,1,1.0,442,131,7.517725195278768e-05
-validated_probable_trade_only,53,availability of a reasonable amount of cash,1,1.0,442,131,6.687943533097152e-05
-validated_probable_trade_only,54,animals,7,7.0,438,135,0.002224710237241981
-validated_probable_trade_only,55,grain with rupshu chang-pa for salt,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,56,crops,2,2.0,443,132,-0.00016920770829560727
-validated_probable_trade_only,57,tarim ferry-boat,1,1.0,443,131,-0.0001754649254267493
-validated_probable_trade_only,58,thousanns of mules,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,59,tibetan luxury goods,1,1.0,442,131,0.00010517668040604944
-validated_probable_trade_only,60,salt pans,1,1.0,442,131,4.671590213817245e-05
-validated_probable_trade_only,61,sheep and goats or horses,1,1.0,442,131,0.0001637252468642686
-validated_probable_trade_only,62,tibetan salt and butter,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,63,"cloth, cigarettes, sugar and a few other commodities",1,1.0,442,131,8.578928043191658e-05
-validated_probable_trade_only,64,semi-luxuries like tea and rice,1,1.0,442,131,0.00018372100791319568
-validated_probable_trade_only,65,"warm, high-altitude clothing of western manufacture",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,66,pashm,4,4.0,433,133,0.0025501392105964776
-validated_probable_trade_only,67,grains,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,68,best-quality pashm,1,1.0,442,131,7.186629512723197e-05
-validated_probable_trade_only,69,coarse wool,1,1.0,442,131,6.830379374075934e-05
-validated_probable_trade_only,70,cotton textiles and manufactured goods,1,1.0,442,131,0.0001310820764544307
-validated_probable_trade_only,71,"warm, high-altitude clothing of western manufacture",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,72,"their cattle, on their sheep and goats",1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,73,"the horses, cattle, sheep and camels",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,74,"roo sheep, laden with salt",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,75,raw wool,1,1.0,442,131,8.820277846822988e-05
-validated_probable_trade_only,76,four horses,1,1.0,442,131,7.725080161254116e-05
-validated_probable_trade_only,77,hair,1,1.0,442,131,0.00015867859562915254
-validated_probable_trade_only,78,the salt from this place,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,79,grain for salt,1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,80,salter water,1,1.0,443,131,-0.00017546492542666603
-validated_probable_trade_only,81,sugar candy,1,1.0,442,131,8.956478822648439e-05
-validated_probable_trade_only,82,"salt, cloth, iron and the like",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,83,"roo sheep, laden with salt",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,84,manufactured goods,2,2.0,440,132,0.0005584673197893686
-validated_probable_trade_only,85,tibetan wool,1,2.0,442,131,3.884192943549858e-05
-validated_probable_trade_only,86,sugar candy,1,1.0,442,131,8.956478822648439e-05
-validated_probable_trade_only,87,barley,5,5.0,439,133,0.0011459735144679906
-validated_probable_trade_only,88,chang-luk sheep,2,2.0,441,132,0.0003662638055171863
-validated_probable_trade_only,89,"cloth, chinese porcelain cups, and knives",1,1.0,442,131,0.00017917978517777156
-validated_probable_trade_only,90,woolen goods,1,1.0,442,131,6.687943533097152e-05
-validated_probable_trade_only,91,salt pans,1,1.0,442,131,4.671590213817245e-05
-validated_probable_trade_only,92,"roo sheep, laden with salt",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,93,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,94,grain and cloth,1,1.0,443,131,-0.00017148305997961855
-validated_probable_trade_only,95,tarim ferry-boat,1,1.0,443,131,-0.0001754649254267493
-validated_probable_trade_only,96,nepalese grain for tibetan salt,1,1.0,443,131,-0.00017717143918970224
-validated_probable_trade_only,97,"cloth, cigarettes, sugar and a few other commodities",1,1.0,442,131,8.578928043191658e-05
-validated_probable_trade_only,98,camels,8,8.0,439,134,0.0009243608807869286
-validated_probable_trade_only,99,"pashm, or 'cashmere",1,1.0,443,131,-0.00017717143918977163
-validated_probable_trade_only,100,mandi rock salt,1,1.0,443,131,-0.00017717143918977163
+validated,1,salt pans,1,1.0,691,135,9.944063771819e-06
+validated,2,"salt, cloth, iron and the like",1,1.0,691,135,1.2744680086551607e-05
+validated,3,the sheep,1,1.0,691,135,6.894741225363377e-05
+validated,4,british capital,1,1.0,692,135,-0.00019242374833923492
+validated,5,thousands and thousands of sheep,1,1.0,691,135,6.764088746936958e-05
+validated,6,salt and wool,1,1.0,691,135,2.6709464062538157e-05
+validated,7,cloth,2,2.0,691,135,8.97656643198963e-05
+validated,8,"barley, wooden wares and other basic necessities",1,1.0,692,135,-0.00019242374833920717
+validated,9,boat,3,3.0,688,136,0.0006064740168099103
+validated,10,enormous herds of yak and sheep,1,1.0,692,135,-0.00019242374833929043
+validated,11,four camels from abdall,1,1.0,691,135,2.9057799486365e-05
+validated,12,grain,12,12.0,683,139,0.0026998633013253087
+validated,13,tea,7,7.0,686,139,0.0014253285221753759
+validated,14,sugarcane and tobacco cultivation,1,1.0,691,135,2.0158037167622433e-05
+validated,15,"mating of male yak and cows, or female yak and khirkoo bulls",1,1.0,691,135,0.00013029838776913716
+validated,16,coarse wool,1,1.0,692,135,-0.0001924237483392488
+validated,17,wild camel,1,1.0,691,135,-1.5023988875886851e-05
+validated,18,salt from the lakes in trucks,1,1.0,692,135,-0.0001924237483392488
+validated,19,260 young goats,1,1.0,691,135,6.87050764864583e-05
+validated,20,movements of goods from namche bazar across the nangpa la to kyabrak,1,1.0,691,135,0.00013029838776913716
+validated,21,camels,10,11.0,689,137,0.0011880443519807354
+validated,22,wheat,1,1.0,691,135,5.457314631636401e-05
+validated,23,dairy produce and meat,1,1.0,691,135,0.00010777240092915696
+validated,24,walnut oil revenue,1,1.0,691,135,7.700493981416257e-05
+validated,25,camels,10,11.0,689,137,0.0011880443519807354
+validated,26,yak-caravan,1,1.0,691,135,0.0001471083830618669
+validated,27,the sheep,1,1.0,691,135,6.894741225363377e-05
+validated,28,british capital,1,1.0,692,135,-0.00019242374833923492
+validated,29,two horses,1,1.0,691,135,5.236459767679613e-05
+validated,30,food grains,1,1.0,691,135,7.76425674606368e-05
+validated,31,"wood, milk, vegetables",1,1.0,692,135,-0.00019242374833929043
+validated,32,unrefined sugar,1,1.0,691,135,-1.577291716957363e-05
+validated,33,four horses,1,1.0,691,135,3.92691122423211e-05
+validated,34,"mating of male yak and cows, or female yak and khirkoo bulls",1,1.0,691,135,0.00013029838776913716
+validated,35,"apricots, grain, walnuts, and white radish to trade for salt",1,1.0,692,135,-0.0001924237483392488
+validated,36,woolen goods,1,1.0,691,135,2.6709464062538157e-05
+validated,37,"bartering salt, wool, blankets and goats",1,1.0,691,135,0.00010777240092915696
+validated,38,milk,1,1.0,691,135,0.00011402266235170655
+validated,39,salt market,2,2.0,689,136,0.00037172768987922544
+validated,40,grain and cloth,1,1.0,691,135,5.6468498038406145e-05
+validated,41,grains,1,1.0,692,135,-0.00019242374833920717
+validated,42,horses,5,5.0,688,137,0.0006470105610969223
+validated,43,tsakalho salt taxes,1,1.0,691,135,6.874640843961e-05
+validated,44,milk,1,1.0,691,135,0.00011402266235170655
+validated,45,distribution of salt,1,1.0,692,135,-0.00019242374833920717
+validated,46,salt production,1,1.0,692,135,-0.00019242374833920717
+validated,47,cloth,2,2.0,691,135,8.97656643198963e-05
+validated,48,tibetan salt and butter,1,1.0,692,135,-0.00019242374833929043
+validated,49,chang-luk sheep,1,1.0,692,135,-0.0001924237483392488
+validated,50,wheat,1,1.0,691,135,5.457314631636401e-05
+validated,51,camels,10,11.0,689,137,0.0011880443519807354
+validated,52,indian salt,6,6.0,688,138,0.0009169445756008615
+validated,53,mining and minerals,1,1.0,691,135,0.00015454726443754618
+validated,54,availability of a reasonable amount of cash,1,1.0,691,135,2.6709464062538157e-05
+validated,55,copper and brass vessels,1,1.0,691,135,0.00013029838776913716
+validated,56,wooden tubes or buckets,1,1.0,692,135,-0.00019024620703118889
+validated,57,"the horses, cattle, sheep and camels",1,1.0,692,135,-0.00019242374833929043
+validated,58,trade goods,1,1.0,692,135,-0.00019242374833929043
+validated,59,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,692,135,-0.00019242374833920717
+validated,60,"warm, high-altitude clothing of western manufacture",1,1.0,691,135,6.541476298788096e-05
+validated,61,pashm,4,5.0,687,137,0.0011998716269598086
+validated,62,grains,1,1.0,692,135,-0.00019242374833920717
+validated,63,porcelain cups,1,1.0,692,135,-0.00019242374833920717
+validated,64,a young yak,1,1.0,691,135,8.92266086394422e-05
+validated,65,yak-caravan,1,1.0,691,135,0.0001471083830618669
+validated,66,"warm, high-altitude clothing of western manufacture",1,1.0,691,135,6.541476298788096e-05
+validated,67,"cloth, chinese porcelain cups, and knives",1,1.0,691,135,0.0001471083830618669
+validated,68,thousanns of mules,1,1.0,692,135,-0.00019242374833929043
+validated,69,punjab salt mines,1,1.0,692,135,-0.00019242374833920717
+validated,70,goods,2,3.0,691,135,0.00016840282273153373
+validated,71,"tibetan salt, wool and butter",1,1.0,692,135,-0.00019141872927394554
+validated,72,thousands and thousands of sheep,1,1.0,691,135,6.764088746936958e-05
+validated,73,"bartering salt, wool, blankets and goats",1,1.0,691,135,0.00010777240092915696
+validated,74,yaks and horses,1,1.0,691,135,0.0001471083830618669
+validated,75,"mating of male yak and cows, or female yak and khirkoo bulls",1,1.0,691,135,0.00013029838776913716
+validated,76,soil,2,2.0,691,135,0.0001479290761211005
+validated,77,punjab salt mines,1,1.0,692,135,-0.00019242374833920717
+validated,78,"salt, cloth, iron and the like",1,1.0,691,135,1.2744680086551607e-05
+validated,79,clothes,1,1.0,692,135,-0.00019041371020886433
+validated,80,"mating of male yak and cows, or female yak and khirkoo bulls",1,1.0,691,135,0.00013029838776913716
+validated,81,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,691,135,0.00014343049186435475
+validated,82,charas,1,1.0,691,135,8.716863994610857e-05
+validated,83,"wood, milk, vegetables",1,1.0,692,135,-0.00019242374833929043
+validated,84,milk,1,1.0,691,135,0.00011402266235170655
+validated,85,wooden tubes or buckets,1,1.0,692,135,-0.00019024620703118889
+validated,86,punjab salt mines,1,1.0,692,135,-0.00019242374833920717
+validated,87,"crops of barley, buckwheat, and rod oats",1,1.0,692,135,-0.00019242374833920717
+validated,88,mining and minerals,1,1.0,691,135,0.00015454726443754618
+validated,89,tsakalho salt taxes,1,1.0,691,135,6.874640843961e-05
+validated,90,trade goods,1,1.0,692,135,-0.00019242374833929043
+validated,91,coarse wool,1,1.0,692,135,-0.0001924237483392488
+validated,92,salt from the lakes in trucks,1,1.0,692,135,-0.0001924237483392488
+validated,93,salt mines,1,1.0,692,135,-0.00019141872927394554
+validated,94,the camels,4,5.0,687,138,0.0008981536084134434
+validated,95,chang-luk sheep,1,1.0,692,135,-0.0001924237483392488
+validated,96,camels,10,11.0,689,137,0.0011880443519807354
+validated,97,wells,2,2.0,692,136,-0.00018555611806009287
+validated,98,yak-caravan,1,1.0,691,135,0.0001471083830618669
+validated,99,goods,2,3.0,691,135,0.00016840282273153373
+validated,100,long dagger,1,1.0,691,135,7.394778092040255e-05
+validated_probable,1,mandi rock salt,1,1.0,780,157,-0.0001581758518392623
+validated_probable,2,28 pathi of salt and r50 in cash,1,1.0,779,157,2.5265559577727914e-05
+validated_probable,3,punjab salt mines,1,1.0,780,157,-0.0001581758518392623
+validated_probable,4,nepalese grain for tibetan salt,1,1.0,780,157,-0.0001581758518392623
+validated_probable,5,food grains,1,1.0,779,157,7.014656237085137e-05
+validated_probable,6,chang-luk sheep,2,2.0,778,158,0.0002559162661117803
+validated_probable,7,sheep and goats or horses,1,1.0,779,157,9.524436386798563e-05
+validated_probable,8,a young yak,1,1.0,779,157,7.97384437365295e-05
+validated_probable,9,wooden tubes or buckets,1,1.0,780,157,-0.0001565217562987109
+validated_probable,10,salter water,1,1.0,779,157,6.258487259427903e-05
+validated_probable,11,animals,5,5.0,777,159,0.0011435353141368426
+validated_probable,12,movements of goods from namche bazar across the nangpa la to kyabrak,1,1.0,779,157,0.00011520152505138659
+validated_probable,13,tibetan rock salt,1,1.0,780,157,-0.0001581758518392623
+validated_probable,14,barley,5,5.0,776,159,0.0008279758047188834
+validated_probable,15,"pashm, or 'cashmere",1,1.0,780,157,-0.00015817585183929006
+validated_probable,16,salt production,1,1.0,780,157,-0.0001581758518392623
+validated_probable,17,"tea, sugar, spices, rice, and other food products at dozum fair",1,1.0,779,157,9.753409918668299e-05
+validated_probable,18,the salt from this place,1,1.0,780,157,-0.00015817585183929006
+validated_probable,19,four camels from abdall,1,1.0,779,157,2.8827790481744664e-05
+validated_probable,20,charas,1,1.0,779,157,8.062047972878794e-05
+validated_probable,21,trade goods,1,1.0,780,157,-0.0001581758518392623
+validated_probable,22,"barley, wooden wares and other basic necessities",1,1.0,779,157,2.9944032742604265e-05
+validated_probable,23,boat,3,3.0,776,158,0.0005176572742962016
+validated_probable,24,"the horses, cattle, sheep and camels",1,1.0,780,157,-0.0001581758518392623
+validated_probable,25,horses,5,5.0,776,159,0.0005508025711286474
+validated_probable,26,tibetan salt,11,11.0,763,163,0.003161585318069274
+validated_probable,27,tea-caravan,1,1.0,779,157,0.00012805246485755872
+validated_probable,28,"cloth, chinese porcelain cups, and knives",1,1.0,779,157,0.00012805246485755872
+validated_probable,29,salter water,1,1.0,779,157,6.258487259427903e-05
+validated_probable,30,boat,3,3.0,776,158,0.0005176572742962016
+validated_probable,31,the camels,4,5.0,775,160,0.0007642244758697542
+validated_probable,32,salter water,1,1.0,779,157,6.258487259427903e-05
+validated_probable,33,punjab salt mines,1,1.0,780,157,-0.0001581758518392623
+validated_probable,34,food grains,1,1.0,779,157,7.014656237085137e-05
+validated_probable,35,chinu millet,1,1.0,779,157,6.994281613707798e-05
+validated_probable,36,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,779,157,0.0001249133187048168
+validated_probable,37,tibetan salt and wool,1,1.0,779,157,3.053810298447868e-05
+validated_probable,38,cultivator,1,1.0,780,157,-0.00015817585183929006
+validated_probable,39,wood,1,1.0,780,157,-0.0001581758518392623
+validated_probable,40,"tea, sugar, spices, rice, and other food products at dozum fair",1,1.0,779,157,9.753409918668299e-05
+validated_probable,41,dairy produce and meat,1,1.0,779,157,9.610974831712749e-05
+validated_probable,42,goods,2,3.0,779,157,0.00014582030418132386
+validated_probable,43,grain for salt,1,1.0,780,157,-0.00015817585183929006
+validated_probable,44,the boat,5,5.0,776,160,0.0005294501632594067
+validated_probable,45,livestock and fuel,1,1.0,780,157,-0.0001581758518392623
+validated_probable,46,tibetan wool,1,2.0,779,157,3.053810298447868e-05
+validated_probable,47,hair,1,1.0,779,157,0.00010068178296117336
+validated_probable,48,goats,2,2.0,779,157,7.290630758807759e-05
+validated_probable,49,tea,8,8.0,774,161,0.0013198241283525203
+validated_probable,50,the horses,1,1.0,779,157,-1.1627573234945787e-06
+validated_probable,51,the boat,5,5.0,776,160,0.0005294501632594067
+validated_probable,52,salt and wool,1,1.0,779,157,2.776256634297314e-05
+validated_probable,53,soil,2,2.0,779,157,0.00013617677337689205
+validated_probable,54,salt pans,1,1.0,779,157,1.3533086474809553e-05
+validated_probable,55,a young yak,1,1.0,779,157,7.97384437365295e-05
+validated_probable,56,grain and salt,1,1.0,780,157,-0.0001581758518392623
+validated_probable,57,camels,10,11.0,777,159,0.0010339062627226503
+validated_probable,58,"the horses, cattle, sheep and camels",1,1.0,780,157,-0.0001581758518392623
+validated_probable,59,boat,3,3.0,776,158,0.0005176572742962016
+validated_probable,60,baggage animals,1,1.0,779,157,0.00012805246485755872
+validated_probable,61,clothes to wear,1,1.0,779,157,8.796171664908481e-05
+validated_probable,62,"mating of male yak and cows, or female yak and khirkoo bulls",1,1.0,779,157,0.00011520152505138659
+validated_probable,63,hair,1,1.0,779,157,0.00010068178296117336
+validated_probable,64,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,779,157,4.501304691818808e-05
+validated_probable,65,semi-luxuries like tea and rice,1,1.0,779,157,0.00011745408040048089
+validated_probable,66,salt mines,2,2.0,780,158,-0.00015206842215102767
+validated_probable,67,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,779,157,2.690779566198731e-05
+validated_probable,68,salter water,1,1.0,779,157,6.258487259427903e-05
+validated_probable,69,chang-thang sheep's wool,1,1.0,779,157,3.632203939549217e-05
+validated_probable,70,wells,2,2.0,780,158,-0.00015295908898059485
+validated_probable,71,sheep and goats,4,4.0,777,159,0.00044349482728285594
+validated_probable,72,two horses,1,1.0,779,157,5.0070497313634e-05
+validated_probable,73,goats,2,2.0,779,157,7.290630758807759e-05
+validated_probable,74,tsakalho salt taxes,1,1.0,779,157,6.283934883129227e-05
+validated_probable,75,"sugar, tea, stearine candles, petroleum, leather trunks, saddles, and so forth",1,1.0,779,157,2.8827790481744664e-05
+validated_probable,76,thousands and thousands of sheep,1,1.0,779,157,6.199957724878358e-05
+validated_probable,77,the camels,4,5.0,775,160,0.0007642244758697542
+validated_probable,78,sheep and goats,4,4.0,777,159,0.00044349482728285594
+validated_probable,79,sugarcane and tobacco cultivation,1,1.0,779,157,2.1768773895189386e-05
+validated_probable,80,tea and home-brewed beer,1,1.0,780,157,-0.0001581758518392623
+validated_probable,81,"agricultural advances, chiefly seed-grain",1,1.0,779,157,7.3177600611124e-05
+validated_probable,82,blue chinese cloth,1,1.0,780,157,-0.00015741242312823645
+validated_probable,83,pashm,4,5.0,771,159,0.001782664974360651
+validated_probable,84,enormous herds of yak and sheep,1,1.0,780,157,-0.0001581758518392623
+validated_probable,85,chang-luk sheep,2,2.0,778,158,0.0002559162661117803
+validated_probable,86,grain for salt,1,1.0,780,157,-0.00015817585183929006
+validated_probable,87,tibetan wool and woollen cloth,1,1.0,779,157,0.00011520152505138659
+validated_probable,88,"tea, sugar, spices, rice, and other food products at dozum fair",1,1.0,779,157,9.753409918668299e-05
+validated_probable,89,"apricots, grain, walnuts, and white radish to trade for salt",1,1.0,780,157,-0.0001581758518392623
+validated_probable,90,"agricultural advances, chiefly seed-grain",1,1.0,779,157,7.3177600611124e-05
+validated_probable,91,28 pathi of salt and r50 in cash,1,1.0,779,157,2.5265559577727914e-05
+validated_probable,92,tibetan luxury goods,1,1.0,779,157,6.77399442436527e-05
+validated_probable,93,"tea, sugar, spices, rice, and other food products at dozum fair",1,1.0,779,157,9.753409918668299e-05
+validated_probable,94,grain,12,12.0,770,161,0.0025375685895028532
+validated_probable,95,grain and cloth,1,1.0,779,157,5.360600948399463e-05
+validated_probable,96,coarse wool,1,1.0,779,157,2.9727524563052943e-05
+validated_probable,97,tibetan salt and wool,1,1.0,779,157,3.053810298447868e-05
+validated_probable,98,the boat,5,5.0,776,160,0.0005294501632594067
+validated_probable,99,salt mines,2,2.0,780,158,-0.00015206842215102767
+validated_probable,100,"agricultural advances, chiefly seed-grain",1,1.0,779,157,7.3177600611124e-05
+validated_no_concept,1,indian tea,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,2,ferry-boat,3,3.0,226,114,0.0007964374360020648
+validated_no_concept,3,butter,2,2.0,228,112,0.0002246462373179034
+validated_no_concept,4,tea and home-brewed beer,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,5,british capital,1,1.0,229,112,-0.00019441195733117117
+validated_no_concept,6,camels,3,3.0,229,114,-8.671462068159802e-05
+validated_no_concept,7,availability of a reasonable amount of cash,1,1.0,228,112,0.00012515793371054712
+validated_no_concept,8,pack-horses,2,2.0,227,113,0.0006451034188291044
+validated_no_concept,9,thousands and thousands of sheep,1,1.0,228,112,0.0001694263153504197
+validated_no_concept,10,porcelain cups,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,11,"barley, wooden wares and other basic necessities",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,12,camel,2,2.0,229,113,-0.00011531681463813892
+validated_no_concept,13,tsakalho salt taxes,1,1.0,228,112,0.00017305012272951503
+validated_no_concept,14,woolen blankets,1,1.0,228,112,0.00017628566503229137
+validated_no_concept,15,goose,1,1.0,228,112,0.00011204012077468267
+validated_no_concept,16,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,228,112,0.00028315408655867763
+validated_no_concept,17,coarse wool,1,1.0,229,112,-0.00019441195733117117
+validated_no_concept,18,refined salt,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,19,salt mines,1,1.0,229,112,-0.00019052930656782846
+validated_no_concept,20,boat,2,2.0,229,113,-0.00013214163461260087
+validated_no_concept,21,"grain, salt, and borrr",2,2.0,228,112,0.0001205264860145161
+validated_no_concept,22,coarse wool,1,1.0,229,112,-0.00019441195733117117
+validated_no_concept,23,"roo sheep, laden with salt",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,24,mandi rock salt,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,25,camel,2,2.0,229,113,-0.00011531681463813892
+validated_no_concept,26,availability of a reasonable amount of cash,1,1.0,228,112,0.00012515793371054712
+validated_no_concept,27,goods imported and expo.rtoa,1,1.0,229,112,-0.00018211689658061136
+validated_no_concept,28,tea,4,4.0,226,114,0.00090592510605874
+validated_no_concept,29,"salt, cloth, iron and the like",1,1.0,228,112,7.870170918056196e-05
+validated_no_concept,30,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,229,112,-0.00018535243888338077
+validated_no_concept,31,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,229,112,-0.00018535243888338077
+validated_no_concept,32,"barley, wooden wares and other basic necessities",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,33,camel,2,2.0,229,113,-0.00011531681463813892
+validated_no_concept,34,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,35,"barley, wooden wares and other basic necessities",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,36,butter,2,2.0,228,112,0.0002246462373179034
+validated_no_concept,37,british capital,1,1.0,229,112,-0.00019441195733117117
+validated_no_concept,38,"salt, cloth, iron and the like",1,1.0,228,112,7.870170918056196e-05
+validated_no_concept,39,food grains,1,1.0,228,112,0.00016937701184877724
+validated_no_concept,40,duties on goods imported and expo.rtoa,1,1.0,229,112,-0.00018211689658061136
+validated_no_concept,41,cotton textiles and manufactured goods,1,1.0,228,112,0.0002115099355687461
+validated_no_concept,42,cloth,2,2.0,228,112,0.00018016831579562714
+validated_no_concept,43,distribution of salt,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,44,salt mines,1,1.0,229,112,-0.00019052930656782846
+validated_no_concept,45,wool,2,2.0,228,112,0.00018016831579562714
+validated_no_concept,46,punjab salt mines,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,47,tea,4,4.0,226,114,0.00090592510605874
+validated_no_concept,48,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,49,tibetan salt,8,8.0,217,117,0.0038972116981934313
+validated_no_concept,50,duties on goods imported and expo.rtoa,1,1.0,229,112,-0.00018211689658061136
+validated_no_concept,51,tea-caravan,1,1.0,228,112,0.00027613758196482624
+validated_no_concept,52,tibetan salt and wool,1,1.0,229,112,-0.00018405822196227578
+validated_no_concept,53,"yak, sheep and goats",1,1.0,229,112,-0.00019441195733117117
+validated_no_concept,54,charas,1,1.0,228,112,0.00018597380312740386
+validated_no_concept,55,"barley, wooden wares and other basic necessities",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,56,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,57,the sheep,1,1.0,228,112,0.00017240301426896254
+validated_no_concept,58,yak,7,8.0,225,115,0.001617131200367064
+validated_no_concept,59,pashm,4,5.0,224,114,0.001801899154668593
+validated_no_concept,60,thousands and thousands of sheep,1,1.0,228,112,0.0001694263153504197
+validated_no_concept,61,"roo sheep, laden with salt",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,62,salter water,1,1.0,228,112,0.0001694263153504058
+validated_no_concept,63,boat,2,2.0,229,113,-0.00013214163461260087
+validated_no_concept,64,goods imported and expo.rtoa,1,1.0,229,112,-0.00018211689658061136
+validated_no_concept,65,camel,2,2.0,229,113,-0.00011531681463813892
+validated_no_concept,66,sheep and goats,2,2.0,229,113,-0.00016982183583006544
+validated_no_concept,67,"apricots, grain, walnuts, and white radish to trade for salt",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,68,wooden tubes or buckets,1,1.0,229,112,-0.0001859995473439402
+validated_no_concept,69,tibetan salt and wool,1,1.0,229,112,-0.00018405822196227578
+validated_no_concept,70,pack-horses,2,2.0,227,113,0.0006451034188291044
+validated_no_concept,71,mandi rock salt,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,72,yaks and horses,1,1.0,228,112,0.00027613758196482624
+validated_no_concept,73,indian salt,4,4.0,226,114,0.0009386133277235753
+validated_no_concept,74,"warm, high-altitude clothing of western manufacture",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,75,"barley, wooden wares and other basic necessities",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,76,"agricultural advances, chiefly seed-grain",1,1.0,228,112,0.0001942228952651684
+validated_no_concept,77,porcelain cups,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,78,chinu millet,1,1.0,228,112,0.00016942631535043357
+validated_no_concept,79,soil,2,2.0,225,113,0.001014849987848343
+validated_no_concept,80,two sheep,1,1.0,228,112,0.00027613758196482624
+validated_no_concept,81,"yak, sheep and goats",1,1.0,229,112,-0.00019441195733117117
+validated_no_concept,82,the boat,1,1.0,229,112,-0.00018664665580449963
+validated_no_concept,83,yaks and horses,1,1.0,228,112,0.00027613758196482624
+validated_no_concept,84,soil,2,2.0,225,113,0.001014849987848343
+validated_no_concept,85,chang-luk sheep,1,1.0,229,112,-0.00019441195733117117
+validated_no_concept,86,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,87,chinu millet,1,1.0,228,112,0.00016942631535043357
+validated_no_concept,88,foodgrains,3,3.0,229,114,-0.00016723340198785547
+validated_no_concept,89,wooden tubes or buckets,1,1.0,229,112,-0.0001859995473439402
+validated_no_concept,90,hair,1,1.0,228,112,0.00021170406810676334
+validated_no_concept,91,buffaloes,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,92,thousanns of mules,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,93,"tibetan salt, wool and butter",1,1.0,229,112,-0.00019052930656782846
+validated_no_concept,94,tibetan rock salt,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,95,tsakhalho: salt production and the preservation of a catholic church,1,1.0,229,112,-0.0001944119573311573
+validated_no_concept,96,camels,3,3.0,229,114,-8.671462068159802e-05
+validated_no_concept,97,tea,4,4.0,226,114,0.00090592510605874
+validated_no_concept,98,salt pans,1,1.0,229,112,-0.00018405822196228966
+validated_no_concept,99,salt mines,1,1.0,229,112,-0.00019052930656782846
+validated_no_concept,100,"bartering salt, wool, blankets and goats",1,1.0,228,112,0.00021833230762422634
+validated_probable_no_concept,1,pack-horses,2,2.0,263,132,0.0005276642181565108
+validated_probable_no_concept,2,the mandi salt mines,1,1.0,264,131,0.00015840531104215766
+validated_probable_no_concept,3,tea and home-brewed beer,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,4,chang-luk sheep,2,2.0,263,132,0.00034666297683870473
+validated_probable_no_concept,5,charas,1,1.0,264,131,0.00015840531104211603
+validated_probable_no_concept,6,yak-caravan,1,1.0,264,131,0.00022864098527079768
+validated_probable_no_concept,7,grain for salt,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,8,tsakhalho: salt production and the preservation of a catholic church,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,9,meat,2,2.0,262,132,0.0006750574516563856
+validated_probable_no_concept,10,cotton textiles and manufactured goods,1,1.0,264,131,0.0001790675230523356
+validated_probable_no_concept,11,kiraiya-kash; way of life of the kiraiyakash,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,12,boat,2,2.0,265,132,-0.00010277754997510546
+validated_probable_no_concept,13,cloth,2,2.0,264,131,0.00015153404709935397
+validated_probable_no_concept,14,salter water,1,1.0,264,131,0.0001459877353965841
+validated_probable_no_concept,15,tibetan salt and wool,1,1.0,265,131,-0.00014420321619289245
+validated_probable_no_concept,16,"pashm, or 'cashmere",1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,17,rice,2,2.0,263,132,0.00039305831441517614
+validated_probable_no_concept,18,wool,2,2.0,264,131,0.00015153404709935397
+validated_probable_no_concept,19,tibetan wool,1,2.0,265,131,-0.00014420321619289245
+validated_probable_no_concept,20,thousands and thousands of sheep,1,1.0,264,131,0.0001438616492439454
+validated_probable_no_concept,21,manufactured goods,2,2.0,262,132,0.0006095587517985709
+validated_probable_no_concept,22,pashm,4,5.0,256,133,0.0024817442787273825
+validated_probable_no_concept,23,thousands and thousands of sheep,1,1.0,264,131,0.0001438616492439454
+validated_probable_no_concept,24,tea and home-brewed beer,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,25,chang-luk sheep,2,2.0,263,132,0.00034666297683870473
+validated_probable_no_concept,26,best-quality pashm,1,1.0,264,131,0.00011139591752642314
+validated_probable_no_concept,27,the salt from this place,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,28,"salt, cloth, iron and the like",1,1.0,264,131,6.99702513086986e-05
+validated_probable_no_concept,29,tibetan wool in pongdzu,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,30,tibetan salt and wool,1,1.0,265,131,-0.00014420321619289245
+validated_probable_no_concept,31,"grain, salt, and borrr",2,2.0,264,131,0.00010332955546676209
+validated_probable_no_concept,32,grain with rupshu chang-pa for salt,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,33,yak,7,8.0,259,134,0.0018129757359987286
+validated_probable_no_concept,34,salt pans,1,1.0,265,131,-0.00014143006034152833
+validated_probable_no_concept,35,tibetan salt,9,9.0,252,136,0.003459658073195815
+validated_probable_no_concept,36,cultivator,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,37,indian tea,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,38,grain or dried apricots,1,1.0,264,131,0.00011648003658729089
+validated_probable_no_concept,39,grain for salt,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,40,chang-pa goats,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,41,thousands and thousands of sheep,1,1.0,264,131,0.0001438616492439454
+validated_probable_no_concept,42,wild camel,1,1.0,265,131,-0.0001377193137023225
+validated_probable_no_concept,43,salt and wool,1,1.0,264,131,0.00010806592958744615
+validated_probable_no_concept,44,milk,1,1.0,264,131,0.00018003152484785678
+validated_probable_no_concept,45,the boat,1,1.0,265,131,-0.00014605198676047315
+validated_probable_no_concept,46,salt and livestock products,2,2.0,263,132,0.0003305698692308498
+validated_probable_no_concept,47,yaks and horses,1,1.0,264,131,0.00022864098527152626
+validated_probable_no_concept,48,tibetan horses,1,1.0,264,131,0.0001244209463585888
+validated_probable_no_concept,49,salt production,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,50,wooden tubes or buckets,1,1.0,265,131,-0.00014558979411857104
+validated_probable_no_concept,51,fish,1,1.0,265,131,-0.00014697637204424963
+validated_probable_no_concept,52,tibetan salt,9,9.0,252,136,0.003459658073195815
+validated_probable_no_concept,53,livestock and fuel,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,54,tea,5,5.0,261,134,0.0010212947633683814
+validated_probable_no_concept,55,wooden tubes or buckets,1,1.0,265,131,-0.00014558979411857104
+validated_probable_no_concept,56,cash instead of cloth,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,57,cash crops and pastoral goods,1,1.0,264,131,0.00010806592958744615
+validated_probable_no_concept,58,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,59,mining and minerals,1,1.0,264,131,0.00026080959314787877
+validated_probable_no_concept,60,salt market,1,1.0,265,131,-0.00014327883090911597
+validated_probable_no_concept,61,charas,1,1.0,264,131,0.00015840531104211603
+validated_probable_no_concept,62,yak,7,8.0,259,134,0.0018129757359987286
+validated_probable_no_concept,63,tibetan salt and butter,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,64,tibetan salt and wool,1,1.0,265,131,-0.00014420321619289245
+validated_probable_no_concept,65,grains,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,66,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,67,the mandi salt mines,1,1.0,264,131,0.00015840531104215766
+validated_probable_no_concept,68,availability of a reasonable amount of cash,1,1.0,264,131,0.00010806592958744615
+validated_probable_no_concept,69,tibetan salt and wool,1,1.0,265,131,-0.00014420321619289245
+validated_probable_no_concept,70,camels,3,3.0,265,133,-6.543238451008765e-05
+validated_probable_no_concept,71,nine camels,1,1.0,265,131,-0.0001296903672373742
+validated_probable_no_concept,72,salt and livestock products,2,2.0,263,132,0.0003305698692308498
+validated_probable_no_concept,73,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,74,"barley, wooden wares and other basic necessities",1,1.0,264,131,0.00010388858847167753
+validated_probable_no_concept,75,salt and wool,1,1.0,264,131,0.00010806592958744615
+validated_probable_no_concept,76,tibetan horses,1,1.0,264,131,0.0001244209463585888
+validated_probable_no_concept,77,"pashm, or 'cashmere",1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,78,wool,2,2.0,264,131,0.00015153404709935397
+validated_probable_no_concept,79,"tibetan salt, wool and butter",1,1.0,265,131,-0.00014882514261183727
+validated_probable_no_concept,80,two sheep,1,1.0,264,131,0.00022864098527152626
+validated_probable_no_concept,81,chang-pa goats,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,82,thousands and thousands of sheep,1,1.0,264,131,0.0001438616492439454
+validated_probable_no_concept,83,the salt from tso kar,1,1.0,265,131,-0.00014143006034152833
+validated_probable_no_concept,84,mining and minerals,1,1.0,264,131,0.00026080959314787877
+validated_probable_no_concept,85,salt mining in the punjab,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,86,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,265,131,-0.0001451276014766828
+validated_probable_no_concept,87,"tea, sugar, spices, rice, and other food products at dozum fair",1,1.0,264,131,0.00020858182461328673
+validated_probable_no_concept,88,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,264,131,0.00023484757217722557
+validated_probable_no_concept,89,buckets,1,1.0,265,131,-0.00014558979411857104
+validated_probable_no_concept,90,semi-luxuries like tea and rice,1,1.0,264,131,0.00022640265233443702
+validated_probable_no_concept,91,tibetan rock salt,1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,92,"yak, sheep and goats",1,1.0,265,131,-0.00015159829846317363
+validated_probable_no_concept,93,cash crops and pastoral goods,1,1.0,264,131,0.00010806592958744615
+validated_probable_no_concept,94,thousands and thousands of sheep,1,1.0,264,131,0.0001438616492439454
+validated_probable_no_concept,95,porcelain cups,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,96,salt market,1,1.0,265,131,-0.00014327883090911597
+validated_probable_no_concept,97,goose,1,1.0,264,131,9.72682291058638e-05
+validated_probable_no_concept,98,fish,1,1.0,265,131,-0.00014697637204424963
+validated_probable_no_concept,99,tea and home-brewed beer,1,1.0,265,131,-0.00015159829846319445
+validated_probable_no_concept,100,tibetan luxury goods,1,1.0,264,131,0.0001437273932860736
+validated_trade_only,1,chinu millet,1,1.0,383,103,0.00014179690382294663
+validated_trade_only,2,hair,1,1.0,383,103,0.0001886914136502854
+validated_trade_only,3,a young yak,1,1.0,383,103,0.00015528757026275763
+validated_trade_only,4,barley,4,4.0,382,104,0.0007044227591257723
+validated_trade_only,5,sugar candy,1,1.0,383,103,0.00010033767799315363
+validated_trade_only,6,yak,12,13.0,374,109,0.004558477825494331
+validated_trade_only,7,grain,12,12.0,375,107,0.0036067795542991665
+validated_trade_only,8,mining and minerals,1,1.0,383,103,0.00024605059595322887
+validated_trade_only,9,foodgrains,3,3.0,384,105,-0.00022014309524472087
+validated_trade_only,10,british capital,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,11,indian tea,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,12,"barley, wooden wares and other basic necessities",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,13,dried apricots,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,14,tibetan salt and butter,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,15,wells,2,2.0,384,104,-0.00022055577950823302
+validated_trade_only,16,"bartering salt, wool, blankets and goats",1,1.0,383,103,0.0001837609979337823
+validated_trade_only,17,meat,4,4.0,381,104,0.0015046948471043181
+validated_trade_only,18,food grains,1,1.0,383,103,0.00012670230694258877
+validated_trade_only,19,sheep and goats,4,4.0,380,106,0.000763444455718465
+validated_trade_only,20,livestock,2,2.0,383,103,0.0002727630587827101
+validated_trade_only,21,"10,000 maunds of wood annually",1,1.0,384,103,-0.00023499972873156083
+validated_trade_only,22,unrefined sugar,1,1.0,383,103,1.1832088817956277e-05
+validated_trade_only,23,food grains,1,1.0,383,103,0.00012670230694258877
+validated_trade_only,24,cash crops and pastoral goods,2,2.0,382,104,0.00033926016732421793
+validated_trade_only,25,butter,4,4.0,383,103,0.0007374811185859448
+validated_trade_only,26,dried apricots,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,27,mining and minerals,1,1.0,383,103,0.00024605059595322887
+validated_trade_only,28,"crops of barley, buckwheat, and rod oats",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,29,camels,8,8.0,380,106,0.001182086104491803
+validated_trade_only,30,hair,1,1.0,383,103,0.0001886914136502854
+validated_trade_only,31,dairy produce and meat,1,1.0,383,103,0.0001837609979337823
+validated_trade_only,32,sheep,3,3.0,380,105,0.000998451240646514
+validated_trade_only,33,sheep,3,3.0,380,105,0.000998451240646514
+validated_trade_only,34,"barley, wooden wares and other basic necessities",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,35,hair,1,1.0,383,103,0.0001886914136502854
+validated_trade_only,36,dried apricots,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,37,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,38,"barley, wooden wares and other basic necessities",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,39,barley,4,4.0,382,104,0.0007044227591257723
+validated_trade_only,40,yak,12,13.0,374,109,0.004558477825494331
+validated_trade_only,41,dairy produce and meat,1,1.0,383,103,0.0001837609979337823
+validated_trade_only,42,the expedition (mainly meat),1,1.0,383,103,0.0001407414325554357
+validated_trade_only,43,"roo sheep, laden with salt",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,44,two sheep,1,1.0,383,103,0.0002148339791625542
+validated_trade_only,45,coarse wool,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,46,"grain, salt, and borrr",2,2.0,382,104,0.0003325430197665402
+validated_trade_only,47,livestock,2,2.0,383,103,0.0002727630587827101
+validated_trade_only,48,thousands and thousands of sheep,1,1.0,383,103,0.00012527774230305933
+validated_trade_only,49,pack-horses,2,2.0,382,104,0.000575738158594713
+validated_trade_only,50,camels,8,8.0,380,106,0.001182086104491803
+validated_trade_only,51,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,52,grains,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,53,"roo sheep, laden with salt",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,54,thousanns of mules,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,55,copper and brass vessels,1,1.0,383,103,0.00020253598810947293
+validated_trade_only,56,cloth,1,1.0,383,103,0.0001282864071005252
+validated_trade_only,57,animals,5,5.0,381,105,0.002012628246515963
+validated_trade_only,58,"barley, wooden wares and other basic necessities",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,59,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,60,"wool, blankets, sweaters, mufflers, and other woolen goods",1,1.0,383,103,3.6686773708521914e-06
+validated_trade_only,61,wool,4,4.0,382,104,0.0009503314859454215
+validated_trade_only,62,"sugar, tea, stearine candles, petroleum, leather trunks, saddles, and so forth",1,1.0,383,103,7.37312102924853e-05
+validated_trade_only,63,british capital,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,64,cash crops and pastoral goods,2,2.0,382,104,0.00033926016732421793
+validated_trade_only,65,sheep and goats or horses,1,1.0,383,103,0.00019407220903240596
+validated_trade_only,66,"10,000 maunds of wood annually",1,1.0,384,103,-0.00023499972873156083
+validated_trade_only,67,"crops of barley, buckwheat, and rod oats",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,68,dried apricots,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,69,rice and ice,1,1.0,383,103,-1.93542259829399e-05
+validated_trade_only,70,cultivator,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,71,"warm, high-altitude clothing of western manufacture",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,72,copper and brass vessels,1,1.0,383,103,0.00020253598810947293
+validated_trade_only,73,foodgrains,3,3.0,384,105,-0.00022014309524472087
+validated_trade_only,74,butter,4,4.0,383,103,0.0007374811185859448
+validated_trade_only,75,the camels,4,5.0,379,106,0.0012156179720734794
+validated_trade_only,76,tibetan rock salt,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,77,long dagger,1,1.0,383,103,0.00012882682696925551
+validated_trade_only,78,"barley, wooden wares and other basic necessities",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,79,"wood, milk, vegetables",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,80,refined salt,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,81,indian tea,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,82,clothes to wear,1,1.0,383,103,0.00016622191673394682
+validated_trade_only,83,manufactured goods,2,2.0,381,104,0.0006955088340032667
+validated_trade_only,84,salter water,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,85,cloth,1,1.0,383,103,0.0001282864071005252
+validated_trade_only,86,"tea, tibetan boots and coats, leather belts with pockets and similar goods",1,1.0,383,103,9.453133546098724e-05
+validated_trade_only,87,the camels,4,5.0,379,106,0.0012156179720734794
+validated_trade_only,88,manufactured goods,2,2.0,381,104,0.0006955088340032667
+validated_trade_only,89,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,383,103,0.00023678288649266188
+validated_trade_only,90,"cash, a musk deer, a yak-tail, a pony and a hawk",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,91,clothes to wear,1,1.0,383,103,0.00016622191673394682
+validated_trade_only,92,salt and livestock products,2,2.0,382,104,0.0003392601673246898
+validated_trade_only,93,"warm, high-altitude clothing of western manufacture",1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,94,availability of a reasonable amount of cash,1,1.0,383,103,7.25964178937416e-05
+validated_trade_only,95,horses,3,3.0,383,103,0.00013738296871548816
+validated_trade_only,96,grain and salt,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,97,mandi rock salt,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,98,goats,1,1.0,383,103,2.410601692913461e-05
+validated_trade_only,99,tsakhalho: salt production and the preservation of a catholic church,1,1.0,384,103,-0.00023747583431270314
+validated_trade_only,100,grain,12,12.0,375,107,0.0036067795542991665
+validated_probable_trade_only,1,cash crops and pastoral goods,2,2.0,424,125,0.0002901292961401819
+validated_probable_trade_only,2,"apricots, grain, walnuts, and white radish to trade for salt",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,3,maize or millet,1,1.0,425,124,9.11464817642954e-05
+validated_probable_trade_only,4,food grains,1,1.0,425,124,0.00011394456997598779
+validated_probable_trade_only,5,chang-luk sheep,2,2.0,424,125,0.0003832422850075512
+validated_probable_trade_only,6,availability of a reasonable amount of cash,1,1.0,425,124,6.948177594043314e-05
+validated_probable_trade_only,7,nine camels,1,1.0,425,124,4.252213775787772e-05
+validated_probable_trade_only,8,argol (yak-dung),1,1.0,426,124,-0.00018520529071534841
+validated_probable_trade_only,9,milk,1,1.0,425,124,0.0001651875326593305
+validated_probable_trade_only,10,animals,5,5.0,423,126,0.0017012739061685322
+validated_probable_trade_only,11,thousanns of mules,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,12,buffaloes,1,1.0,425,124,3.035564076322994e-05
+validated_probable_trade_only,13,barley,5,5.0,422,126,0.0011977700150642978
+validated_probable_trade_only,14,"pashm, or 'cashmere",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,15,"cloth, cigarettes, sugar and a few other commodities",1,1.0,425,124,8.862160070266523e-05
+validated_probable_trade_only,16,copper and brass vessels,1,1.0,425,124,0.00017830583731627547
+validated_probable_trade_only,17,the salt from this place,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,18,pashm,4,4.0,417,126,0.002432977555216931
+validated_probable_trade_only,19,a young yak,1,1.0,425,124,0.00013734746026865252
+validated_probable_trade_only,20,nepalese grain for tibetan salt,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,21,tibetan wool and woollen cloth,1,1.0,425,124,0.00017830583731627547
+validated_probable_trade_only,22,boat,1,1.0,425,124,7.680382167497835e-05
+validated_probable_trade_only,23,"wood, milk, vegetables",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,24,cultivator,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,25,kiraiyakashi,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,26,milk,1,1.0,425,124,0.0001651875326593305
+validated_probable_trade_only,27,boat,1,1.0,425,124,7.680382167497835e-05
+validated_probable_trade_only,28,cash instead of cloth,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,29,milk,1,1.0,425,124,0.0001651875326593305
+validated_probable_trade_only,30,maize or millet,1,1.0,425,124,9.11464817642954e-05
+validated_probable_trade_only,31,food grains,1,1.0,425,124,0.00011394456997598779
+validated_probable_trade_only,32,"buckwheat, turnips, or other vegetables",1,1.0,425,124,8.567966099989888e-05
+validated_probable_trade_only,33,"salt on the backs of yak, sheep and goats to tarakot",1,1.0,425,124,0.0002036101663477341
+validated_probable_trade_only,34,tibetan salt and butter,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,35,28 pathi of salt and r50 in cash,1,1.0,425,124,5.760638443493005e-05
+validated_probable_trade_only,36,tibetan wool in pongdzu,1,1.0,426,124,-0.00018396618401216036
+validated_probable_trade_only,37,copper and brass vessels,1,1.0,425,124,0.00017830583731627547
+validated_probable_trade_only,38,unrefined sugar,1,1.0,425,124,1.864680450786027e-05
+validated_probable_trade_only,39,salt and wool,1,1.0,425,124,6.948177594043314e-05
+validated_probable_trade_only,40,tea and tobacco,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,41,wheat,1,1.0,425,124,6.748598064976186e-05
+validated_probable_trade_only,42,the salt from tso kar,1,1.0,425,124,4.7190110185280076e-05
+validated_probable_trade_only,43,260 young goats,1,1.0,425,124,0.00010947493508065009
+validated_probable_trade_only,44,tibetan rock salt,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,45,salt from the lakes in trucks,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,46,hair,1,1.0,425,124,0.0001651875326593305
+validated_probable_trade_only,47,wheat,1,1.0,425,124,6.748598064976186e-05
+validated_probable_trade_only,48,tibetan salt,11,11.0,411,130,0.00388502516828651
+validated_probable_trade_only,49,rice and ice,1,1.0,425,124,-5.177353182159172e-06
+validated_probable_trade_only,50,nine camels,1,1.0,425,124,4.252213775787772e-05
+validated_probable_trade_only,51,cotton textiles and manufactured goods,1,1.0,425,124,0.0001376929081967765
+validated_probable_trade_only,52,camels,8,8.0,422,127,0.0009730070245601574
+validated_probable_trade_only,53,"wood, milk, vegetables",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,54,boat,1,1.0,425,124,7.680382167497835e-05
+validated_probable_trade_only,55,indian tea,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,56,camel's back,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,57,tea-caravan,1,1.0,425,124,0.0001859676470976207
+validated_probable_trade_only,58,raw wool,1,1.0,425,124,9.125027706588518e-05
+validated_probable_trade_only,59,foodgrains,3,3.0,426,126,-0.00017405333038658655
+validated_probable_trade_only,60,tibetan salt and wool,1,1.0,425,124,3.984880527597989e-05
+validated_probable_trade_only,61,milk,1,1.0,425,124,0.0001651875326593305
+validated_probable_trade_only,62,tea plantations,2,2.0,423,125,0.0005803463445928081
+validated_probable_trade_only,63,tsakhalho: salt production and the preservation of a catholic church,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,64,wooden tubes or buckets,1,1.0,426,124,-0.00018303685398475544
+validated_probable_trade_only,65,butter,4,4.0,425,124,0.000652417409763073
+validated_probable_trade_only,66,tibetan rock salt,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,67,livestock,2,2.0,425,124,0.00023404941256258138
+validated_probable_trade_only,68,thousands and thousands of sheep,1,1.0,425,124,0.00011224401671805495
+validated_probable_trade_only,69,cash instead of cloth,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,70,wooden tubes or buckets,1,1.0,426,124,-0.00018303685398475544
+validated_probable_trade_only,71,two sheep,1,1.0,425,124,0.0001859676470976207
+validated_probable_trade_only,72,salter water,1,1.0,426,124,-0.00018520529071534841
+validated_probable_trade_only,73,"barley, wooden wares and other basic necessities",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,74,sheep and goats or horses,1,1.0,425,124,0.00016860862044194846
+validated_probable_trade_only,75,"warm, high-altitude clothing of western manufacture",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,76,chang-luk sheep,2,2.0,424,125,0.0003832422850075512
+validated_probable_trade_only,77,tea and tobacco,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,78,tibetan horses,1,1.0,425,124,0.00011347842983534806
+validated_probable_trade_only,79,copper and brass vessels,1,1.0,425,124,0.00017830583731627547
+validated_probable_trade_only,80,goats,1,1.0,425,124,2.9433686370913814e-05
+validated_probable_trade_only,81,"barley, wooden wares and other basic necessities",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,82,"apricots, grain, walnuts, and white radish to trade for salt",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,83,the horses,1,1.0,425,124,1.6816440070593908e-05
+validated_probable_trade_only,84,copper and brass vessels,1,1.0,425,124,0.00017830583731627547
+validated_probable_trade_only,85,grain,12,12.0,416,128,0.003292414104083499
+validated_probable_trade_only,86,coarse wool,1,1.0,425,124,7.046667596437295e-05
+validated_probable_trade_only,87,tibetan salt and butter,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,88,wheat,1,1.0,425,124,6.748598064976186e-05
+validated_probable_trade_only,89,foodgrains,3,3.0,426,126,-0.00017405333038658655
+validated_probable_trade_only,90,"barley, wooden wares and other basic necessities",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,91,salt mines,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,92,camel's back,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,93,hair,1,1.0,425,124,0.0001651875326593305
+validated_probable_trade_only,94,tea plantations,2,2.0,423,125,0.0005803463445928081
+validated_probable_trade_only,95,the salt from this place,1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,96,a young yak,1,1.0,425,124,0.00013734746026865252
+validated_probable_trade_only,97,long dagger,1,1.0,425,124,0.00011490809612980935
+validated_probable_trade_only,98,"the horses, cattle, sheep and camels",1,1.0,426,124,-0.00018706395077014437
+validated_probable_trade_only,99,camels,8,8.0,422,127,0.0009730070245601574
+validated_probable_trade_only,100,boat,1,1.0,425,124,7.680382167497835e-05

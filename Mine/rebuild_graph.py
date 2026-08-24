@@ -49,6 +49,55 @@ CYTOSCAPE_HTML_PATHS = [
     Path(OUTPUT_DIR) / "network_cytoscape.html",
 ]
 ENTITIES_PATH = Path(OUTPUT_DIR) / "cleaned_entities.json"
+GENERIC_ENTITY_HEADS = {
+    "area",
+    "areas",
+    "country",
+    "district",
+    "districts",
+    "home",
+    "place",
+    "places",
+    "province",
+    "region",
+    "regions",
+    "spot",
+    "state",
+    "states",
+    "village",
+    "villages",
+}
+GENERIC_ENTITY_PREFIXES = {
+    "all",
+    "entire",
+    "few",
+    "many",
+    "nearby",
+    "neighboring",
+    "neighbouring",
+    "other",
+    "several",
+    "some",
+    "whole",
+}
+SHORT_ENTITY_WHITELIST = {"leh", "tea", "tso", "yak"}
+OCR_JUNK_TOKENS = {"rtt"}
+PRONOUN_ENTITY_PREFIXES = {"her", "his", "its", "my", "our", "their"}
+PRONOUN_ENTITIES = {"he", "her", "him", "i", "it", "me", "she", "them", "they", "us", "we", "you"}
+PRONOUN_PREFIX_EXCEPTIONS = ("her majesty", "his majesty")
+LOW_VALUE_ENTITY_PREFIXES = (
+    "a line for ",
+    "and gave responsibility for ",
+    "farming of ",
+    "fields next to ",
+    "functions of ",
+    "making a portion of ",
+    "position on ",
+    "rest of ",
+    "the building of ",
+    "whose produce ",
+    "world beyond ",
+)
 SCOPED_BOOK_TERMS = {
     "salt_industry_india": {
         "place": re.compile(
@@ -72,7 +121,27 @@ def clean_entity(value: str) -> str:
 def is_noise(entity: str) -> bool:
     words = entity.split()
     # ponytail: phrase-length filter is a cheap guard; replace with NER spans if precision matters.
-    return entity in NOISY_ENTITIES or len(words) > 12 or entity in {"none", "true", "you", "i"}
+    if entity in NOISY_ENTITIES or len(words) > 12 or entity in {"none", "true", "you", "i"}:
+        return True
+    if entity.startswith(LOW_VALUE_ENTITY_PREFIXES):
+        return True
+    if set(words) & OCR_JUNK_TOKENS:
+        return True
+    if re.fullmatch(r"(" + "|".join(PRONOUN_ENTITIES) + r")(\s*\([^)]*\))?", entity):
+        return True
+    if re.fullmatch(r"(" + "|".join(PRONOUN_ENTITY_PREFIXES) + r")\b.*", entity) and not entity.startswith(PRONOUN_PREFIX_EXCEPTIONS):
+        return True
+    if re.fullmatch(r"[a-z]{1,4}", entity) and entity not in SHORT_ENTITY_WHITELIST:
+        return len(set(entity)) == 1 or not re.search(r"[aeiou]", entity)
+    if re.fullmatch(r"(group|groups|class|classes|category|categories)\s+\d+(\s*(and|or|,|-|to|through)\s*\d+)*", entity):
+        return True
+    if re.fullmatch(r"(the|this|that|these|those|their|his|her|its|our|my)(\s+own)?\s+(" + "|".join(GENERIC_ENTITY_HEADS) + r")", entity):
+        return True
+    if re.fullmatch(r"(" + "|".join(GENERIC_ENTITY_PREFIXES) + r")\s+(" + "|".join(GENERIC_ENTITY_HEADS) + r")", entity):
+        return True
+    if re.fullmatch(r"(the|this|that)\s+((north|south|east|west|northern|southern|eastern|western)\s+)?side of (the )?(lake|river|mountain|valley)", entity):
+        return True
+    return False
 
 
 def has_any(entity: str, terms: set[str]) -> bool:
@@ -273,6 +342,27 @@ def self_check() -> None:
     }
     for entity, entity_type in expected.items():
         assert classify_entity(entity, stale_types) == entity_type, entity
+    for entity in (
+        "the village",
+        "their home",
+        "his own province",
+        "riwals rtt",
+        "gg",
+        "acts",
+        "juhhr",
+        "groups 8 and 9",
+        "groups 1 through 7",
+        "this district",
+        "other villages",
+        "at present",
+        "us",
+        "access to outsiders",
+        "xirab",
+        "its own flow",
+        "a line for controlling my itineraries",
+        "the south side of the lake",
+    ):
+        assert is_noise(entity), entity
 
 
 def replace_html_data(html: str, data_id: str, rows: list[dict]) -> str:
