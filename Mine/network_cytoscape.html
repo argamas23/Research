@@ -89,6 +89,7 @@
           <button id="layout-button" type="button">Run layout</button>
           <button id="focus-button" type="button">Salt</button>
           <button id="reset-button" type="button">Reset view</button>
+          <button id="export-button" type="button">Export PNG</button>
         </div>
         <div id="legends">
           <div class="legend">
@@ -280,7 +281,41 @@
         { selector: '.faded', style: { 'opacity': 0.12, 'text-opacity': 0.12 } },
         { selector: '.highlight', style: { 'border-width': 3, 'z-index': 20 } },
         { selector: 'edge.highlight', style: { 'width': 5, 'opacity': 1, 'z-index': 20 } },
-        { selector: '.neighbor', style: { 'border-width': 3, 'z-index': 15 } }
+        { selector: '.neighbor', style: { 'border-width': 3, 'z-index': 15 } },
+        {
+          selector: 'node.paper-export',
+          style: {
+            'font-size': 22,
+            'min-zoomed-font-size': 0,
+            'text-max-width': 180,
+            'text-background-color': '#ffffff',
+            'text-background-opacity': 0.96,
+            'text-background-padding': 3,
+            'text-outline-color': '#ffffff',
+            'text-outline-width': 1
+          }
+        },
+        {
+          selector: 'edge.paper-export',
+          style: {
+            'font-size': 11,
+            'text-background-color': '#ffffff',
+            'text-background-opacity': 0.96,
+            'text-background-padding': 2,
+            'opacity': 0.72
+          }
+        },
+        {
+          selector: 'node.export-pad',
+          style: {
+            'label': '',
+            'width': 1,
+            'height': 1,
+            'opacity': 0,
+            'background-opacity': 0,
+            'border-width': 0
+          }
+        }
       ],
       layout: { name: 'preset' }
     });
@@ -386,12 +421,6 @@
           const anchorHit = containsAny(text, rupshuAnchors);
           const pastoralHit = containsAny(text, rupshuPastoralTerms) && containsAny(text, rupshuContextTerms);
           if (anchorHit || pastoralHit) addEdge(edge);
-        });
-        const rupshuSeedIds = new Set(nodeIds);
-        addRankedEdges(function(edge) {
-          return (rupshuSeedIds.has(edge.from) || rupshuSeedIds.has(edge.to))
-            && Number(edge.score || 0) >= 3
-            && (nodeType(edge.from) !== 'CONCEPT' || nodeType(edge.to) !== 'CONCEPT');
         });
       } else if (view === 'GOVERNANCE') {
         edgesData.forEach(function(edge) {
@@ -559,6 +588,86 @@
       document.getElementById('show-edge-labels').checked = true;
       clearHighlight();
       applyFilters(true);
+    }
+
+    function capturePositions(nodes) {
+      const positions = new Map();
+      nodes.forEach(function(node) {
+        positions.set(node.id(), { x: node.position('x'), y: node.position('y') });
+      });
+      return positions;
+    }
+
+    function restorePositions(positions) {
+      cy.batch(function() {
+        positions.forEach(function(position, id) {
+          cy.getElementById(id).position(position);
+        });
+      });
+    }
+
+    function runExportLayout(visible) {
+      const nodeCount = visible.nodes().length;
+      return new Promise(function(resolve) {
+        const layout = cy.layout({
+          name: 'cose',
+          eles: visible,
+          animate: false,
+          fit: true,
+          padding: fitPadding,
+          randomize: false,
+          idealEdgeLength: nodeCount > 250 ? 100 : 180,
+          nodeRepulsion: nodeCount > 250 ? 160000 : 520000,
+          componentSpacing: nodeCount > 250 ? 140 : 320,
+          nodeOverlap: 80,
+          gravity: 0.2,
+          numIter: nodeCount > 250 ? 600 : 1200
+        });
+        layout.one('layoutstop', resolve);
+        layout.run();
+      });
+    }
+
+    function addExportPadding(visible) {
+      const box = visible.boundingBox({ includeLabels: true });
+      const pad = 320;
+      return cy.add([
+        { group: 'nodes', data: { id: '__export_pad_1' }, position: { x: box.x1 - pad, y: box.y1 - pad }, classes: 'export-pad' },
+        { group: 'nodes', data: { id: '__export_pad_2' }, position: { x: box.x2 + pad, y: box.y2 + pad }, classes: 'export-pad' }
+      ]);
+    }
+
+    async function exportPng() {
+      const visible = cy.elements().not('.hidden');
+      if (!visible.length) return;
+      const positions = capturePositions(visible.nodes());
+      visible.addClass('paper-export');
+      const paperSelect = document.getElementById('paper-view');
+      const paperName = paperSelect.value === 'ALL' ? 'main-graph' : paperSelect.value.toLowerCase();
+      const coreName = document.getElementById('core-only').checked ? '-core' : '';
+      const tightExport = paperSelect.value !== 'ALL';
+      let exportPadding = cy.collection();
+      try {
+        clearHighlight();
+        await runExportLayout(visible);
+        fitVisible();
+        await new Promise(function(resolve) {
+          requestAnimationFrame(function() { requestAnimationFrame(resolve); });
+        });
+        if (tightExport) exportPadding = addExportPadding(visible);
+        const png = cy.png({ output: 'blob', bg: '#ffffff', full: tightExport, maxWidth: 6000, maxHeight: 6000 });
+        const link = document.createElement('a');
+        const url = URL.createObjectURL(png);
+        link.download = 'himalayan-' + paperName + coreName + '.png';
+        link.href = url;
+        link.click();
+        setTimeout(function() { URL.revokeObjectURL(url); }, 1000);
+      } finally {
+        exportPadding.remove();
+        visible.removeClass('paper-export');
+        restorePositions(positions);
+        fitVisible();
+      }
     }
 
     function focusSearch() {
@@ -731,6 +840,7 @@
     document.getElementById('reset-button').addEventListener('click', resetView);
     document.getElementById('layout-button').addEventListener('click', runLayout);
     document.getElementById('focus-button').addEventListener('click', showResearchFocus);
+    document.getElementById('export-button').addEventListener('click', exportPng);
     document.getElementById('filter-type').addEventListener('change', function() { applyFilters(true); });
     document.getElementById('filter-relation').addEventListener('change', function() { applyFilters(true); });
     document.getElementById('filter-circuit').addEventListener('change', function() { applyFilters(true); });
