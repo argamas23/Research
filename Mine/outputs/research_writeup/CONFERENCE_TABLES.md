@@ -1,30 +1,30 @@
 # Conference Tables
 
-Note: Table 1 summarizes the 19 source-linked corpus files in `Mine/outputs/corpus/corpus_table.csv`. Years and source classifications are taken from repository filenames/PDF title pages where visible, otherwise marked `n.d.` or inferred conservatively from the source title.
+Note: Table 1 summarizes the 19 source-linked corpus files in `Mine/outputs/corpus/corpus_table.csv`. Titles and years were checked against online catalogue or publisher records, with local title pages used only to identify the exact edition in the repository.
 
 ## Table 1. Corpus Summary
 
 | Source | Year | Source type | Region | Classification |
 | --- | ---: | --- | --- | --- |
-| Becoming India | n.d. | Historical monograph | Western Himalayas | Secondary |
-| British Garhwal | 1910 | District gazetteer | Garhwal | Primary |
-| Central Asia and Tibet, Vol. 1 | 1903 | Travelogue / expedition account | Central Asia, Tibet | Primary |
-| Central Asia and Tibet, Vol. 2 | 1903 | Travelogue / expedition account | Central Asia, Tibet | Primary |
-| Western Himalaya and Tibet (Gutenberg) | n.d. | Travelogue / digitized book | Western Himalaya, Tibet | Primary |
-| Adaptation to a Changing Salt Trade: Humla | 1983 | Journal article | Humla, Nepal | Secondary |
-| Himalayan Gazetteer | 1882 | Gazetteer | Western Himalayas | Primary |
-| Kashmir and Jammu Gazetteer | 1909 | Imperial gazetteer | Kashmir, Jammu | Primary |
-| Ladakh | n.d. | Regional historical source | Ladakh | Primary |
-| Mandi State Gazetteer | 1904 | State gazetteer | Mandi | Primary |
-| Memo: Relations with Tibet | n.d. | Administrative memorandum | Tibet frontier | Primary |
+| Becoming India: Western Himalayas under British Rule | 2007 | Historical monograph | Western Himalayas | Secondary |
+| British Garhwal: A Gazetteer | 1910 | District gazetteer | Garhwal | Primary |
+| Central Asia and Tibet: Towards the Holy City of Lassa, Vol. 1 | 1903 | Travelogue / expedition account | Central Asia, Tibet | Primary |
+| Central Asia and Tibet: Towards the Holy City of Lassa, Vol. 2 | 1903 | Travelogue / expedition account | Central Asia, Tibet | Primary |
+| Western Himalaya and Tibet: A Narrative of a Journey Through the Mountains of Northern India, During the Years 1847-8 | 1852 | Travelogue / expedition account | Western Himalaya, Tibet | Primary |
+| Adaptation to a Changing Salt Trade: The View from Humla | 1983 | Journal article | Humla, Nepal | Secondary |
+| The Himalayan Gazetteer: The Himalayan Districts of the North-Western Provinces of India | 1882-1886 | Gazetteer | Western Himalayas | Primary |
+| Imperial Gazetteer of India: Provincial Series, Kashmir and Jammu | 1909 | Imperial gazetteer | Kashmir, Jammu | Primary |
+| Ladakh: Crossroads of High Asia | 1996 (orig. 1983) | Regional history / ethnographic monograph | Ladakh | Secondary |
+| Gazetteer of the Mandi State | 1904 | State gazetteer | Mandi | Primary |
+| Report of a Mission to Sikkim and the Tibetan Frontier; with a Memorandum on Our Relations with Tibet | 1885 | Administrative memorandum | Sikkim, Tibet frontier | Primary |
 | Report on Tibet | 1903 | Administrative report | Tibet | Primary |
-| Rupshu: Annual Trek to Tso Kar | 1990 | Ethnographic article | Rupshu, Ladakh | Secondary |
-| Salt Industry in India | n.d. | Administrative / industry report | India | Primary |
-| Salt Routes and Barter Caravans | n.d. | Book chapter | Tibet, Nepal Himalaya | Secondary |
-| The Salt Trips in Tibet and the Himalayas | 2022 | Journal article | Tibet, Himalayas | Secondary |
-| Himalayan Traders: Life in Highland Nepal | n.d. | Ethnography / monograph | Highland Nepal | Secondary |
-| Trans-Himalayan Traders | n.d. | Ethnographic source | Himalayan trade regions | Secondary |
-| Transformation Processes in Nomadic Pastoralism | 2013 | Journal article | Ladakh | Secondary |
+| The Salt Trade: Rupshu's Annual Trek to Tso Kar | 1999 | Book chapter | Rupshu, Ladakh | Secondary |
+| The Salt Industry in India | 1956 | Government industry report | India | Primary |
+| Salt Routes and Barter Caravans in the Himalayan Regions of Nepal and Tibet from an Ethnographical Perspective | 2021 | Book chapter | Nepal, Tibet Himalaya | Secondary |
+| The Salt Trips in Tibet and the Himalayas: Extraction and Trade in Pre-modern Times | 2022 | Journal article | Tibet, Himalayas | Secondary |
+| Himalayan Traders: Life in Highland Nepal | 1975 | Ethnographic monograph | Highland Nepal | Secondary |
+| Trans-Himalayan Traders: Economy, Society, and Culture in Northwest Nepal | 1986 | Ethnographic monograph | Northwest Nepal | Secondary |
+| Transformation Processes in Nomadic Pastoralism in Ladakh | 2013 | Journal article | Ladakh | Secondary |
 
 ## Table 2. Network Characteristics
 

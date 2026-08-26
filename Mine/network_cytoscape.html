@@ -306,6 +306,33 @@
           }
         },
         {
+          selector: 'edge.paper-export[support = "weak"]',
+          style: {
+            'label': '',
+            'opacity': 0.42
+          }
+        },
+        {
+          selector: 'node.overview-export',
+          style: {
+            'label': '',
+            'text-opacity': 0,
+            'width': 9,
+            'height': 9,
+            'opacity': 0.92,
+            'border-width': 1
+          }
+        },
+        {
+          selector: 'edge.overview-export',
+          style: {
+            'label': '',
+            'width': 1.35,
+            'opacity': 0.52,
+            'target-arrow-shape': 'none'
+          }
+        },
+        {
           selector: 'node.export-pad',
           style: {
             'label': '',
@@ -321,7 +348,8 @@
     });
     window.cy = cy;
     const fitPadding = 40;
-    const paperViewEdgeTarget = 130;
+    const defaultPaperViewEdgeTarget = 130;
+    const paperViewEdgeTargets = { SALT_COMMODITY: 75, GOVERNANCE: 75 };
     const paperViewCache = new Map();
     const saltLayerTypes = new Set(['COMMODITY', 'GROUP', 'LOCATION']);
     const saltLayerCircuits = new Set(['Salt anchor', 'Commodity circuits', 'Route/place circuits', 'Social actors']);
@@ -375,6 +403,7 @@
       if (paperViewCache.has(view)) return paperViewCache.get(view);
       const nodeIds = new Set();
       const edgeIds = new Set();
+      const paperViewEdgeTarget = paperViewEdgeTargets[view] || defaultPaperViewEdgeTarget;
       function addEdge(edge) {
         edgeIds.add(edge.id);
         nodeIds.add(edge.from);
@@ -394,8 +423,8 @@
           if (edge.from === 'salt') saltNeighborIds.add(edge.to);
           if (edge.to === 'salt') saltNeighborIds.add(edge.from);
         });
-        edgesData.forEach(function(edge) {
-          if (saltLayerCircuits.has(edge.circuit) && containsAny(edgeSearchText(edge), saltPlaceTerms)) addEdge(edge);
+        addRankedEdges(function(edge) {
+          return saltLayerCircuits.has(edge.circuit) && containsAny(edgeSearchText(edge), saltPlaceTerms);
         });
         addRankedEdges(function(edge) {
           if (edge.from !== 'salt' && edge.to !== 'salt') return false;
@@ -423,8 +452,8 @@
           if (anchorHit || pastoralHit) addEdge(edge);
         });
       } else if (view === 'GOVERNANCE') {
-        edgesData.forEach(function(edge) {
-          if (governanceRelations.has(edge.relation) && containsAny(edgeSearchText(edge), saltGovernanceTerms)) addEdge(edge);
+        addRankedEdges(function(edge) {
+          return governanceRelations.has(edge.relation) && containsAny(edgeSearchText(edge), saltGovernanceTerms);
         });
         addRankedEdges(function(edge) {
           return governanceRelations.has(edge.relation)
@@ -645,7 +674,9 @@
       const paperSelect = document.getElementById('paper-view');
       const paperName = paperSelect.value === 'ALL' ? 'main-graph' : paperSelect.value.toLowerCase();
       const coreName = document.getElementById('core-only').checked ? '-core' : '';
-      const tightExport = paperSelect.value !== 'ALL';
+      const overviewExport = paperSelect.value === 'ALL';
+      const tightExport = !overviewExport;
+      if (overviewExport) visible.addClass('overview-export');
       let exportPadding = cy.collection();
       try {
         clearHighlight();
@@ -664,7 +695,7 @@
         setTimeout(function() { URL.revokeObjectURL(url); }, 1000);
       } finally {
         exportPadding.remove();
-        visible.removeClass('paper-export');
+        visible.removeClass('paper-export overview-export');
         restorePositions(positions);
         fitVisible();
       }
