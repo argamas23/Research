@@ -28,16 +28,13 @@ Note: Table 1 summarizes the 19 source-linked corpus files in `Mine/outputs/corp
 
 ## Table 2. Network Characteristics
 
-Graph views from `Mine/outputs/network_analysis/graph_diagnostics.csv` and Louvain medians from `louvain_community_summary.csv`.
+Compact version for the results section. LCC = largest connected component; Louvain reports median community count and modularity.
 
-| View | Nodes | Edges | Components | Largest component | Density | Avg. degree | Avg. strength | Clustering | LCC path length | LCC diameter | Louvain communities | Modularity |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Validated | 999 | 958 | 135 | 692 | 0.0019 | 1.92 | 2.02 | 0.0069 | 5.64 | 15 | 22 | 0.815 |
-| Validated + probable | 1146 | 1086 | 157 | 780 | 0.0017 | 1.90 | 1.99 | 0.0062 | 5.78 | 19 | 24 | 0.826 |
-| Validated, concepts excluded | 509 | 422 | 112 | 229 | 0.0033 | 1.66 | 1.74 | 0.0096 | 4.73 | 11 | 13 | 0.762 |
-| Validated + probable, concepts excluded | 602 | 497 | 131 | 265 | 0.0027 | 1.65 | 1.73 | 0.0090 | 4.88 | 11 | 14 | 0.780 |
-| Validated trade relations only | 637 | 591 | 103 | 384 | 0.0029 | 1.86 | 1.96 | 0.0098 | 5.59 | 14 | 17 | 0.786 |
-| Validated + probable trade only | 735 | 669 | 124 | 426 | 0.0025 | 1.82 | 1.91 | 0.0079 | 5.65 | 14 | 18 | 0.797 |
+| Graph view | Nodes | Edges | Components | LCC size | Density | Avg. degree | Louvain |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| Validated | 999 | 958 | 135 | 692 | 0.0019 | 1.92 | 22 communities; Q = 0.815 |
+| Concept-excluded | 509 | 422 | 112 | 229 | 0.0033 | 1.66 | 13 communities; Q = 0.762 |
+| Trade-oriented | 637 | 591 | 103 | 384 | 0.0029 | 1.86 | 17 communities; Q = 0.786 |
 
 ## Table 3. Commodity Centrality Comparison
 
