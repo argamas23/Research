@@ -13,7 +13,7 @@ from networkx.algorithms.community import louvain_communities, modularity
 OUTPUT_DIR = Path(__file__).resolve().parent / "outputs"
 DEFAULT_EDGES = OUTPUT_DIR / "edge_validation.csv"
 DEFAULT_OUT = OUTPUT_DIR / "network_analysis"
-TRADE_RELATIONS = {"trades_with", "supplies", "extracts_from", "depends_on", "transports_via"}
+TRADE_RELATIONS = {"trades_with", "supplies", "extracts_from", "depends_on", "transports_via", "connects_to"}
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:

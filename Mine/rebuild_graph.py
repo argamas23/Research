@@ -21,6 +21,7 @@ from graph_rules import (
     DEFAULT_SHAPE,
     EDGE_COLOR_BY_RELATION,
     ENTITY_ALIASES,
+    ENTITY_EXPANSIONS,
     ENTITY_TYPE_OVERRIDES,
     GROUP_KEYWORDS,
     KEEP_ENTITY_TYPES,
@@ -118,6 +119,10 @@ def clean_entity(value: str) -> str:
     return ENTITY_ALIASES.get(entity, entity)
 
 
+def expand_entity(entity: str) -> list[str]:
+    return ENTITY_EXPANSIONS.get(entity, [entity])
+
+
 def is_noise(entity: str) -> bool:
     words = entity.split()
     # ponytail: phrase-length filter is a cheap guard; replace with NER spans if precision matters.
@@ -173,7 +178,7 @@ def circuit_for_edge(source: str, relation: str, target: str, evidence: list[str
         return "Political economy"
     if relation in {"trades_with", "supplies", "extracts_from", "depends_on"}:
         return "Commodity circuits"
-    if relation == "transports_via":
+    if relation in {"transports_via", "connects_to"}:
         return "Route/place circuits"
     if has_any(text, SALT_TERMS):
         return "Salt anchor"
@@ -460,50 +465,54 @@ def main() -> None:
             for row in csv.DictReader(f):
                 if not in_book_scope(book, row):
                     continue
-                source = clean_entity(row.get("Source", ""))
-                target = clean_entity(row.get("Target", ""))
+                raw_source = clean_entity(row.get("Source", ""))
+                raw_target = clean_entity(row.get("Target", ""))
                 raw_relation = row.get("Relation", "")
                 legacy = is_legacy_row(row)
                 relation = mapped_relation(raw_relation)
+                strict_relation = ""
                 if legacy:
                     strict_relation = mapped_legacy_relation(raw_relation)
+                    relation = relation or strict_relation
                     strict_review.append(
                         [
                             book,
-                            source,
+                            raw_source,
                             raw_relation,
-                            target,
+                            raw_target,
                             "keep" if strict_relation else "drop",
                             f"would map to {strict_relation}" if strict_relation else "legacy row without strict relation mapping",
                         ]
                     )
-                if (
-                    not source
-                    or not target
-                    or source == target
-                    or not relation
-                    or is_noise(source)
-                    or is_noise(target)
-                ):
-                    continue
-                key = (source, relation, target)
-                item = edge_rows.setdefault(
-                    key,
-                    {"weight": 0.0, "confidence": 0.0, "books": set(), "evidence": set(), "raw": set()},
-                )
-                try:
-                    item["weight"] += float(row.get("Weight") or 1)
-                except ValueError:
-                    item["weight"] += 1
-                try:
-                    item["confidence"] = max(item["confidence"], float(row.get("Confidence") or 0))
-                except ValueError:
-                    pass
-                item["books"].add(book)
-                if row.get("Evidence"):
-                    item["evidence"].add(row["Evidence"].strip())
-                if row.get("Relation"):
-                    item["raw"].add(row["Relation"].strip())
+                for source in expand_entity(raw_source):
+                    for target in expand_entity(raw_target):
+                        if (
+                            not source
+                            or not target
+                            or source == target
+                            or not relation
+                            or is_noise(source)
+                            or is_noise(target)
+                        ):
+                            continue
+                        key = (source, relation, target)
+                        item = edge_rows.setdefault(
+                            key,
+                            {"weight": 0.0, "confidence": 0.0, "books": set(), "evidence": set(), "raw": set()},
+                        )
+                        try:
+                            item["weight"] += float(row.get("Weight") or 1)
+                        except ValueError:
+                            item["weight"] += 1
+                        try:
+                            item["confidence"] = max(item["confidence"], float(row.get("Confidence") or 0))
+                        except ValueError:
+                            pass
+                        item["books"].add(book)
+                        if row.get("Evidence"):
+                            item["evidence"].add(row["Evidence"].strip())
+                        if row.get("Relation"):
+                            item["raw"].add(row["Relation"].strip())
 
     degree, weighted = graph_stats(edge_rows)
     focus_component = reachable_from_focus(edge_rows)

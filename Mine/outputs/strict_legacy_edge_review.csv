@@ -1394,7 +1394,7 @@ Becoming_India,sarkaghat,LIES,in the southwest of the state,drop,legacy row with
 Becoming_India,saraj,LAYS,in the north-eastern corner of mandi and in the british territory of kullu,drop,legacy row without strict relation mapping
 Becoming_India,pastoralism,FORMED AN IMPORTANT PART,of the local economy,drop,legacy row without strict relation mapping
 Becoming_India,"salt, iron and trade",FORMED IMPORTANT ASPECTS,of the mandi state's economy,drop,legacy row without strict relation mapping
-Becoming_India,the salt mines at gumma and drang,PRODUCED ROCK SALT,"which was exported to kangra, kullu and eastwards to the sutlej and tons valleys",drop,legacy row without strict relation mapping
+Becoming_India,the salt mines at gumma and drang,PRODUCED ROCK SALT,"which was exported to kangra, kullu and eastwards to the sutlej and tons valleys",keep,would map to supplies
 Becoming_India,mandi,EMERGED OUT OF,the partition of suket,drop,legacy row without strict relation mapping
 Becoming_India,it,CONSOLIDATED ITSELF,"in the fifteenth and sixteenth centuries when its territorial limits stabilised and it emerged as a bigger, richer and more strategically placed hill state than suket",drop,legacy row without strict relation mapping
 Becoming_India,mandi,BECAME AN IMPORTANT CENTRE,for their control of the beas valley,drop,legacy row without strict relation mapping
@@ -1421,7 +1421,7 @@ Becoming_India,state's administration,REFORMED BY,removing the bengali baboos,dr
 Becoming_India,raja,REMAINED LEGAL RULER BUT POWER WAS VESTED WITH,mr,drop,legacy row without strict relation mapping
 Becoming_India,british government,FELT THAT SALE OF 'UNTAXED' MANDI SALT...,was leading to loss of revenue,drop,legacy row without strict relation mapping
 Becoming_India,mandi,PAID A VERY HIGH TRIBUTE TO,the british,drop,legacy row without strict relation mapping
-Becoming_India,financial commissioner of punjab,SENT HIS MEN TO TAKE CHARGE OF,the salt mines at gumma and drang,drop,legacy row without strict relation mapping
+Becoming_India,financial commissioner of punjab,SENT HIS MEN TO TAKE CHARGE OF,the salt mines at gumma and drang,keep,would map to controls
 Becoming_India,the british councillor,ABUSE,angrez lok' and 'angrez raj,drop,legacy row without strict relation mapping
 Becoming_India,the british councillor,INSULT,the raja,drop,legacy row without strict relation mapping
 Becoming_India,servants of the british officer,BEAT UP,a crowd,drop,legacy row without strict relation mapping
@@ -3526,7 +3526,7 @@ Gutenberg_EBook,grass,GREW ON,swampy spots,drop,legacy row without strict relati
 Gutenberg_EBook,sesquicarbonate of soda,CONSISTS OF,saline matter,drop,legacy row without strict relation mapping
 Gutenberg_EBook,piti,WAS FORMERLY ALMOST INDEPENDENT,"but paid tribute to, or exchanged presents with",drop,legacy row without strict relation mapping
 Gutenberg_EBook,garu,"PAID TRIBUTE TO, OR EXCHANGED PRESENTS WITH",tibetan countries in its neighbourhood,drop,legacy row without strict relation mapping
-Gutenberg_EBook,ladak,"PAID TRIBUTE TO, OR EXCHANGED PRESENTS WITH",tibetan countries in its neighbourhood,drop,legacy row without strict relation mapping
+Gutenberg_EBook,ladakh,"PAID TRIBUTE TO, OR EXCHANGED PRESENTS WITH",tibetan countries in its neighbourhood,drop,legacy row without strict relation mapping
 Gutenberg_EBook,lahul,FOLLOWED THE FORTUNES OF,british rule,drop,legacy row without strict relation mapping
 Gutenberg_EBook,kunawar,WAS TRANSFERRED TO,british rule,drop,legacy row without strict relation mapping
 Gutenberg_EBook,valley of piti,IS A VERY THINLY POPULATED VALLEY,none,drop,legacy row without strict relation mapping
@@ -5531,7 +5531,7 @@ Gutenberg_EBook,road,DESCENDED,stream,drop,legacy row without strict relation ma
 Gutenberg_EBook,steep stony slopes,ASCENDED,left bank of stream,drop,legacy row without strict relation mapping
 Gutenberg_EBook,one of these,ASCENDED,steeply on the north side,drop,legacy row without strict relation mapping
 Gutenberg_EBook,the other,WAS,in the bed of the stream,drop,legacy row without strict relation mapping
-Gutenberg_EBook,i,TOOK,the lower road,drop,legacy row without strict relation mapping
+Gutenberg_EBook,i,TOOK,the lower road,keep,would map to extracts_from
 Gutenberg_EBook,the ravine,OPENED OUT INTO,a gravelly plain,drop,legacy row without strict relation mapping
 Gutenberg_EBook,i,CONTINUED,for nearly five miles,drop,legacy row without strict relation mapping
 Gutenberg_EBook,one place only,CONTRACTED AGAIN FOR A FEW HUNDRED YARDS INTO,a gorge,drop,legacy row without strict relation mapping
@@ -7099,7 +7099,7 @@ Ladakh,leh merchants of kashmiri origin,ESTABLISHED_MONOPOLY,pashm trade,drop,le
 Ladakh,rich buddhist merchants of leh,BREACHED_MONOPOLY,pashm trade,drop,legacy row without strict relation mapping
 Ladakh,farmers of the sham ilaqa,CLAIMED_RIGHT_TO,carry foodgrains and other necessities of life to western tibet,drop,legacy row without strict relation mapping
 Ladakh,shamma,TRADE,leh area merchants,keep,would map to trades_with
-Ladakh,shamma,BUSINESS,rudok chang-pa,drop,legacy row without strict relation mapping
+Ladakh,shamma,BUSINESS,rudok chang-pa,keep,would map to trades_with
 Ladakh,shamma,TRADE,tibet baqals,keep,would map to trades_with
 Ladakh,shamma,SELL,pashm,keep,would map to trades_with
 Ladakh,tibet baqals,BUY,pashm,keep,would map to trades_with
@@ -7146,7 +7146,7 @@ Ladakh,trade with western tibet,BRIEFNESS,1950s,drop,legacy row without strict r
 Ladakh,private caravans,ABSENCE,lhasa after the early 1930s,drop,legacy row without strict relation mapping
 Ladakh,losar (new year) ceremonies,HOSTING,leh palace,drop,legacy row without strict relation mapping
 Ladakh,the caravans,USE,"bolan, guleri and khyber passes",drop,legacy row without strict relation mapping
-Ladakh,sind and the punjab in india,TRADE_WITH,afghanistan,drop,legacy row without strict relation mapping
+Ladakh,sind and the punjab in india,TRADE_WITH,afghanistan,keep,would map to trades_with
 Ladakh,ladakh's situation,BE_UNIQUE,its mid-way position between trading centres,drop,legacy row without strict relation mapping
 Ladakh,the traffic along this route,CARRY_ON,for centuries without a break,drop,legacy row without strict relation mapping
 Ladakh,ladakh and ladakhi,NOT_PROFIT_DIRECTLY,from the trade,drop,legacy row without strict relation mapping
@@ -7759,11 +7759,11 @@ Ladakh,jersey cows,DO WELL IN,ladakh,drop,legacy row without strict relation map
 Ladakh,angora goat farm,PRODUCTION,cashgorcu,drop,legacy row without strict relation mapping
 Ladakh,civil administration,ECONOMIC_CHANGE,ladakh,drop,legacy row without strict relation mapping
 Ladakh,"armed forces (army, air force and paramilitary forces)",IMPACT,local economy (especially leh district),drop,legacy row without strict relation mapping
-Ladakh,co-operative marketing societies,BUSINESS,74 lakhs of rupees,drop,legacy row without strict relation mapping
+Ladakh,co-operative marketing societies,BUSINESS,74 lakhs of rupees,keep,would map to trades_with
 Ladakh,army,CUSTOMER,ladakh's traditional transporter communities,drop,legacy row without strict relation mapping
-Ladakh,transporters,BUSINESS,400 lakh,drop,legacy row without strict relation mapping
+Ladakh,transporters,BUSINESS,400 lakh,keep,would map to trades_with
 Ladakh,co-operative societies,ESTABLISHED,1964,drop,legacy row without strict relation mapping
-Ladakh,ladakh transport co-operative society,BUSINESS,400 lakh,drop,legacy row without strict relation mapping
+Ladakh,ladakh transport co-operative society,BUSINESS,400 lakh,keep,would map to trades_with
 Ladakh,departmental staff,DIRECTION,co-operative movement,drop,legacy row without strict relation mapping
 Ladakh,local artisans (including women),POOLING EXPERTISE,making shawls or carpets,drop,legacy row without strict relation mapping
 Ladakh,"producers (vegetables, pashm, transport)",NEGOTIATION,fair price,drop,legacy row without strict relation mapping
@@ -8457,9 +8457,9 @@ No_Greenery_Rupshu,livestock data,REVIEWED,local sheep and animal husbandry depa
 No_Greenery_Rupshu,community members,PROVIDE INFORMATION,"pasture use, migration patterns and socio-economic changes",drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,adult member of each family,OBTAIN INFORMATION,family size and livestock holdings,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,village goba,OBTAIN INFORMATION,time spent at particular seasonal locations and pastures,drop,legacy row without strict relation mapping
-No_Greenery_Rupshu,herders,MAP SEASONAL PASTURE USE,tso kar basin,drop,legacy row without strict relation mapping
+No_Greenery_Rupshu,herders,MAP SEASONAL PASTURE USE,tso kar,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,nomads,RECORD GPS LOCATIONS,herder camps from 2005 to 2007 during the summer season,drop,legacy row without strict relation mapping
-No_Greenery_Rupshu,argali and livestock,ESTIMATE SEASONAL PASTURE USE,tso kar basin,drop,legacy row without strict relation mapping
+No_Greenery_Rupshu,argali and livestock,ESTIMATE SEASONAL PASTURE USE,tso kar,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,rupshu pastoralists,USE,pasture area,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,livestock,GRAZING,pastures,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,argali,SPACE USE OVERLAP,livestock,drop,legacy row without strict relation mapping
@@ -8508,7 +8508,7 @@ No_Greenery_Rupshu,samad group,GRAZING INTENSITY,winter,drop,legacy row without 
 No_Greenery_Rupshu,korzok (including refugees),GRAZING PRESSURE,increase by 25%,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,samad group,GRAZING PRESSURE,almost four times increase,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,korzok group,GRAZING PRESSURE,tripled,drop,legacy row without strict relation mapping
-No_Greenery_Rupshu,tso kar basin,USED AS,summer pasture,drop,legacy row without strict relation mapping
+No_Greenery_Rupshu,tso kar,USED AS,summer pasture,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,samad pastoralists,USE,seasonal grazing units,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,nomads and tibetan refugees,USE,29 camp sites within tso kar basin,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,summer pastures,GRAZED,215 days per year,drop,legacy row without strict relation mapping
@@ -8534,7 +8534,7 @@ No_Greenery_Rupshu,50% volume contours,REPRESENT,intensity of usage,drop,legacy 
 No_Greenery_Rupshu,summer,USAGE,areas,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,winter,USAGE,areas,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,argali,SUMMER VS,livestock winter,drop,legacy row without strict relation mapping
-No_Greenery_Rupshu,tso kar basin,LOCATION,"eastern ladakh, india",drop,legacy row without strict relation mapping
+No_Greenery_Rupshu,tso kar,LOCATION,"eastern ladakh, india",drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,singh et al,RESEARCH,changthang,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,nomadic pastoral groups,HAVE,fixed village space,drop,legacy row without strict relation mapping
 No_Greenery_Rupshu,herders,CULTIVATE,barley,drop,legacy row without strict relation mapping
@@ -8623,26 +8623,26 @@ Rupshu,zanskaris,COVET,salt,drop,legacy row without strict relation mapping
 Rupshu,changthang,SPAN,ladakh to the chinese province of qinghai,drop,legacy row without strict relation mapping
 Rupshu,rupshu,TRADE,"tea, sugar, spices, rice, and other food products at dozum fair",keep,would map to trades_with
 Rupshu,farmers from lower ladakh (or sham),BRING,"apricots, grain, walnuts, and white radish to trade for salt",keep,would map to transports_via
-Rupshu,rupshu,COLLECT,salt,keep,would map to extracts_from
-Rupshu,azem,TOOK,salt from tso kar lake,drop,legacy row without strict relation mapping
+Rupshu,rupshu,COLLECT,salt from tso kar,keep,would map to extracts_from
+Rupshu,azem,TOOK,tso kar,keep,would map to extracts_from
 Rupshu,geological survey of india,PUT,medicine in the lake,drop,legacy row without strict relation mapping
 Rupshu,tourists,PUT,medicine' in the lake,drop,legacy row without strict relation mapping
-Rupshu,lama yulsa gespo,CREATE,tso kar lake,drop,legacy row without strict relation mapping
+Rupshu,lama yulsa gespo,CREATE,tso kar,drop,legacy row without strict relation mapping
 Rupshu,rupshu,LEAVE,salt for sbas lung mi in a hole near the red mountain,drop,legacy row without strict relation mapping
 Rupshu,abi yangzom,RECOLLECTED,that she had heard it said,drop,legacy row without strict relation mapping
 Rupshu,rupshu,BELIEVE,that if they do not eat enough salt they will grow 'wool' on their face and body,drop,legacy row without strict relation mapping
 Rupshu,champas,REMOVE,the salt from this place,keep,would map to extracts_from
-Rupshu,tso kar salt lakes,CONTINUE TO DETERIORATE,— the yield for the year having only been 415 maunds,drop,legacy row without strict relation mapping
-Rupshu,nomads,TRADE WITH,the salt from tso kar,drop,legacy row without strict relation mapping
+Rupshu,tso kar,CONTINUE TO DETERIORATE,— the yield for the year having only been 415 maunds,drop,legacy row without strict relation mapping
+Rupshu,nomads,TRADE WITH,the salt from tso kar,keep,would map to trades_with
 Rupshu,tonyot shah,STATED,that they never ate the salt from tso kar because it used to make one's stomach swell up,drop,legacy row without strict relation mapping
 Rupshu,rupshu,TRADED IN,the salt from here,drop,legacy row without strict relation mapping
 Rupshu,poorer people,WENT INSTEAD TO,tso kar,drop,legacy row without strict relation mapping
 Rupshu,owners of large and small herds,FOLLOWED THE CUSTOM,of removal of salt from tso kar,drop,legacy row without strict relation mapping
-Rupshu,rupshu,REMOVE,salt,keep,would map to extracts_from
+Rupshu,rupshu,REMOVE,salt from tso kar,keep,would map to extracts_from
 Rupshu,tso kar,SAFEGUARD,lake and its precincts,drop,legacy row without strict relation mapping
 Rupshu,chu dpon,DECIDE,quarter of the lake,drop,legacy row without strict relation mapping
 Rupshu,kotwal,EXPLAIN,division of the lake into four parts,drop,legacy row without strict relation mapping
-Rupshu,men,REMOVE,salt,keep,would map to extracts_from
+Rupshu,men,REMOVE,salt from tso kar,keep,would map to extracts_from
 Rupshu,yak or sheep horn,MARK,pile of salt,drop,legacy row without strict relation mapping
 Rupshu,sheep and goats,CARRY,saddle-bags,keep,would map to transports_via
 Rupshu,rupshu,MAINTAIN,tso kar belongs to them,drop,legacy row without strict relation mapping
@@ -8662,7 +8662,7 @@ Rupshu,rupshu,TRYING TO PROTECT,tso kar and its precincts,drop,legacy row withou
 Rupshu,guards,POSTED AT,tso kar and its precincts,drop,legacy row without strict relation mapping
 Rupshu,kharnak,RECEIVE SHARE OF SALT,rupshu,drop,legacy row without strict relation mapping
 Rupshu,remainder salt,DISTRIBUTED OR CONSUMED BY,each tent in rupshu,drop,legacy row without strict relation mapping
-Rupshu,monasteries at korzok and thugje,DONATE PORTION OF SALT TO,tsering samphel,drop,legacy row without strict relation mapping
+Rupshu,monasteries at korzok and thugje,DONATE PORTION OF SALT TO,tsering samphel,keep,would map to supplies
 Rupshu,more enterprising men,CARRY,their salt onward to leh,keep,would map to transports_via
 Rupshu,men,TRADE,there and in villages along the route,keep,would map to trades_with
 Rupshu,salt,BARTER,barley,keep,would map to trades_with

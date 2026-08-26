@@ -15,7 +15,7 @@ OUTPUT_DIR = Path(__file__).resolve().parent / "outputs"
 DEFAULT_EDGES = OUTPUT_DIR / "edge_validation.csv"
 DEFAULT_OUT = OUTPUT_DIR / "salt_analysis"
 COMMODITIES = ["salt", "wool", "pashm", "grain", "barley", "tea", "borax"]
-TRADE_RELATIONS = {"trades_with", "supplies", "extracts_from", "depends_on", "transports_via"}
+TRADE_RELATIONS = {"trades_with", "supplies", "extracts_from", "depends_on", "transports_via", "connects_to"}
 REVIEW_NODES = {"gg", "men", "the water", "the desert", "the lake"}
 
 

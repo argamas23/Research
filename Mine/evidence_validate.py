@@ -6,6 +6,8 @@ import re
 from collections import Counter
 from pathlib import Path
 
+from graph_rules import ENTITY_ALIASES
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 CORPUS_DIR = BASE_DIR / "corpus"
@@ -58,6 +60,11 @@ def terms(text: str) -> list[str]:
     return [word for word in word_norm(text).split() if len(word) > 2 and word not in STOPWORDS]
 
 
+def variants(text: str) -> list[str]:
+    text = norm(text)
+    return [text, *(alias for alias, canonical in ENTITY_ALIASES.items() if canonical == text)]
+
+
 def read_csv(path: Path) -> list[dict[str, str]]:
     with path.open(newline="", encoding="utf-8") as f:
         return list(csv.DictReader(f))
@@ -104,25 +111,25 @@ def evidence_found(row: dict[str, str], corpus: dict[str, dict[str, object]]) ->
 
 
 def phrase_pair_found(row: dict[str, str], corpus: dict[str, dict[str, object]]) -> bool:
-    source, target = norm(row.get("Source", "")), norm(row.get("Target", ""))
-    if not source or not target:
+    sources, targets = variants(row.get("Source", "")), variants(row.get("Target", ""))
+    if not sources[0] or not targets[0]:
         return False
     for book in row.get("Books", "").split("|"):
         for window in corpus.get(book.strip(), {}).get("windows", []):
-            if source in window and target in window:
+            if any(source in window for source in sources) and any(target in window for target in targets):
                 return True
     return False
 
 
 def term_pair_found(row: dict[str, str], corpus: dict[str, dict[str, object]]) -> bool:
-    source_terms, target_terms = terms(row.get("Source", "")), terms(row.get("Target", ""))
-    if not source_terms or not target_terms:
+    source_variants, target_variants = [terms(item) for item in variants(row.get("Source", ""))], [terms(item) for item in variants(row.get("Target", ""))]
+    if not source_variants[0] or not target_variants[0]:
         return False
     for book in row.get("Books", "").split("|"):
         for window in corpus.get(book.strip(), {}).get("windows", []):
-            source_hits = sum(term in window for term in source_terms) / len(source_terms)
-            target_hits = sum(term in window for term in target_terms) / len(target_terms)
-            if source_hits >= 0.6 and target_hits >= 0.6:
+            if any(sum(term in window for term in source_terms) / len(source_terms) >= 0.6 for source_terms in source_variants if source_terms) and any(
+                sum(term in window for term in target_terms) / len(target_terms) >= 0.6 for target_terms in target_variants if target_terms
+            ):
                 return True
     return False
 
@@ -149,6 +156,8 @@ def self_check() -> None:
     assert validation_category({"Source": "Rupshu", "Target": "salt", "Evidence": "Rupshu produces salt.", "Books": "Book"}, corpus) == "Validated"
     assert validation_category({"Source": "Ladakh wool", "Target": "trade", "Evidence": "", "Books": "Book"}, corpus) == "Validated"
     assert validation_category({"Source": "Ladakh wool cloth", "Target": "trade market goods", "Evidence": "", "Books": "Book"}, corpus) == "Probable"
+    alias_text = "The Gumma salt works supplied the district through the old route."
+    assert validation_category({"Source": "guma", "Target": "salt", "Evidence": "", "Books": "Book"}, {"Book": {"text": norm(alias_text), "windows": corpus_windows(alias_text)}}) == "Validated"
     assert validation_category({"Source": "tea", "Target": "tax", "Evidence": "", "Books": "Book"}, corpus) == "Missing"
 
 
