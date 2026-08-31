@@ -1,10 +1,11 @@
 Book,SaltEdges,Relations
-British_Garhwal,1,supplies:1
+British_Garhwal,2,supplies:2
 CentralAsia_Tibet_Vol1,4,depends_on:2|governs:1|trades_with:1
-HUMLA_NEPAL,1,trades_with:1
-Ladakh,3,trades_with:2|extracts_from:1
-Rupshu,4,extracts_from:2|trades_with:1|transports_via:1
+CentralAsia_Tibet_Vol2,1,trades_with:1
+HUMLA_NEPAL,2,trades_with:2
+Ladakh,5,trades_with:4|extracts_from:1
+Rupshu,6,extracts_from:2|trades_with:2|transports_via:2
 Salt_routes_and_barter_caravans_in_the_H,3,trades_with:2|licenses:1
-Santiago_Lazcano,5,governs:2|taxes:1|supplies:1|monopolizes:1
-Traders_in_Highland_Nepal,7,supplies:3|trades_with:3|transports_via:1
+Santiago_Lazcano,8,transports_via:2|governs:2|taxes:2|supplies:1|monopolizes:1
+Traders_in_Highland_Nepal,13,trades_with:4|supplies:3|transports_via:2|depends_on:1|controls:1|governs:1|monopolizes:1
 TransHimalayan_Traders_Fisher,7,trades_with:4|supplies:2|taxes:1
