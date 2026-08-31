@@ -57,14 +57,8 @@ def add_legend(path: Path):
     img = Image.open(path).convert('RGBA')
     h = img.size[1]
 
-    x0, y0 = 90, max(80, h - 950)
+    x0, y0 = 90, max(80, h - 1050)
     box_w, box_h = 2100, 760
-
-    overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
-    draw = ImageDraw.Draw(overlay)
-    draw.rounded_rectangle((x0, y0, x0 + box_w, y0 + box_h), radius=32, fill=BOX_BG, outline=BOX_BORDER, width=6)
-
-    draw.text((x0 + 40, y0 + 30), 'Knowledge Graph Legend', fill=TEXT, font=font(72, bold=True))
 
     node_items = [
         ('PERSON', NODE_COLORS['PERSON']),
@@ -75,13 +69,55 @@ def add_legend(path: Path):
         ('RESEARCH FOCUS', NODE_COLORS['FOCUS']),
     ]
 
+    # Layout parameters (for measurement)
     x = x0 + 50
-    y = y0 + 150
-    draw.text((x, y - 40), 'Node types', fill=TEXT, font=font(42, bold=True))
+    y = y0 + 200
+    header_font = font(42, bold=True)
+    section_gap = 28
+    header_to_items_gap = 48
+    item_gap = 72
+
+    # Relation items (needed for measurement)
+    relation_items = [
+        ('trades_with', EDGE_COLORS['trades_with']),
+        ('extracts_from', EDGE_COLORS['extracts_from']),
+        ('governs', EDGE_COLORS['governs']),
+        ('supplies', EDGE_COLORS['supplies']),
+        ('transports_via', EDGE_COLORS['transports_via']),
+        ('taxes', EDGE_COLORS['taxes']),
+        ('disputes', EDGE_COLORS['disputes']),
+        ('licenses', EDGE_COLORS['licenses']),
+    ]
+
+    # Measure vertical space required by node and relation columns
+    y_nodes_end = y + header_to_items_gap + item_gap * len(node_items)
+    y2_start = y0 + 200
+    y_rels_end = y2_start + header_to_items_gap + item_gap * len(relation_items)
+
+    content_bottom = max(y_nodes_end, y_rels_end) + 32
+    needed_height = content_bottom - y0 + 40
+    box_h = max(box_h, int(needed_height))
+
+    # Now create overlay and draw background rectangle and title behind content
+    overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(overlay)
+    draw.rounded_rectangle((x0, y0, x0 + box_w, y0 + box_h), radius=32, fill=BOX_BG, outline=BOX_BORDER, width=6)
+    draw.text((x0 + 40, y0 + 30), 'Legend', fill=TEXT, font=font(72, bold=True))
+
+    # Layout parameters (computed to avoid overlaps)
+    x = x0 + 50
+    y = y0 + 200
+    header_font = font(42, bold=True)
+    section_gap = 28
+    header_to_items_gap = 48
+    item_gap = 72
+
+    draw.text((x, y - 60), 'Node types', fill=TEXT, font=header_font)
+    y += header_to_items_gap
     for label, color in node_items:
         draw.ellipse((x, y, x + 42, y + 42), fill=color, outline=(0, 0, 0, 170), width=3)
         draw.text((x + 62, y + 2), label, fill=TEXT, font=font(36))
-        y += 56
+        y += item_gap
 
     relation_items = [
         ('trades_with', EDGE_COLORS['trades_with']),
@@ -95,20 +131,13 @@ def add_legend(path: Path):
     ]
 
     x2 = x0 + 1050
-    y2 = y0 + 150
-    draw.text((x2, y2 - 40), 'Relations', fill=TEXT, font=font(42, bold=True))
+    y2 = y0 + 200
+    draw.text((x2, y2 - 60), 'Relations', fill=TEXT, font=header_font)
+    y2 += header_to_items_gap
     for label, color in relation_items:
         draw.line((x2, y2 + 20, x2 + 90, y2 + 20), fill=color, width=10)
         draw.text((x2 + 120, y2), label, fill=TEXT, font=font(32))
-        y2 += 56
-
-    draw.text((x0 + 50, y0 + 470), 'Circuit border colors', fill=TEXT, font=font(42, bold=True))
-    cx = x0 + 100
-    cy = y0 + 540
-    for name, color in list(CIRCUIT_COLORS.items())[:4]:
-        draw.rectangle((cx, cy, cx + 32, cy + 32), fill=color, outline=(0, 0, 0, 150), width=3)
-        draw.text((cx + 52, cy + 4), name, fill=TEXT, font=font(30))
-        cx += 420
+        y2 += item_gap
 
     result = Image.alpha_composite(img, overlay)
     result = result.convert('RGB')
