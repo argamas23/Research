@@ -42,7 +42,7 @@ CIRCUIT_COLORS = {
     'Conceptual context': '#937860',
 }
 
-BOX_BG = (255, 255, 255, 250)
+BOX_BG = (255, 255, 255, 255)
 BOX_BORDER = (120, 126, 132, 230)
 TEXT = '#111111'
 
@@ -55,10 +55,10 @@ def font(size: int, bold: bool = False):
 
 def add_legend(path: Path):
     img = Image.open(path).convert('RGBA')
-    h = img.size[1]
+    w, h = img.size
 
-    x0, y0 = 90, max(80, h - 1050)
-    box_w, box_h = 2100, 760
+    box_w, box_h = 2100, 900
+    x0, y0 = w - box_w - 90, h - box_h - 20
 
     node_items = [
         ('PERSON', NODE_COLORS['PERSON']),
@@ -146,7 +146,7 @@ def add_legend(path: Path):
 
 for src in FILES:
     dst = BASE / src.name
-    if BASE != SOURCE_DIR:
+    if src.resolve() != dst.resolve():
         shutil.copy2(src, dst)
     add_legend(dst)
     print(f'Updated {dst.name} from {src.name}')

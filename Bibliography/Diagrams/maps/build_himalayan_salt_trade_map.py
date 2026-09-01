@@ -491,15 +491,6 @@ def main():
         pad=16,
         color="#3b3430",
     )
-    fig.text(
-        0.5,
-        0.025,
-        "Evidence base: mock paper, cleaned salt graph evidence, corpus summaries, and modern gazetteer coordinates. Historical regions are labels; route lines are schematic corridor families, not surveyed caravan tracks.",
-        ha="center",
-        va="bottom",
-        fontsize=8,
-        color="#625a54",
-    )
     fig.subplots_adjust(left=0.055, right=0.99, top=0.90, bottom=0.18)
 
     for ext in ("png", "pdf", "svg"):
