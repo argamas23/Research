@@ -9,8 +9,26 @@ from collections import defaultdict
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # === CONFIGURATION ===
-textrazor.api_key = "864276b8fd6c183c43d0244bf5926cb31275c7d30097228a089a0e25"
 chunk_size_bytes = 190 * 1024                      # ≈ 190 KB
+
+def load_api_key(name):
+    env_key = os.environ.get(f"{name.upper()}_API_KEY")
+    if env_key:
+        return env_key
+
+    keys_path = os.path.join(os.path.dirname(__file__), "API_KEYS.txt")
+    if not os.path.exists(keys_path):
+        raise SystemExit(f"Missing {keys_path}; copy API_KEYS.example to API_KEYS.txt")
+
+    with open(keys_path, encoding="utf-8") as fh:
+        for line in fh:
+            if "=" not in line:
+                continue
+            key, value = [part.strip() for part in line.split("=", 1)]
+            if key.lower() == name.lower() and value:
+                return value
+
+    raise SystemExit(f"Missing {name} key in {keys_path}")
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Run TextRazor NER on a text file.")
@@ -19,6 +37,7 @@ def parse_args():
     return parser.parse_args()
 
 # === Initialise client ===
+textrazor.api_key = load_api_key("TextRazor")
 client = textrazor.TextRazor(extractors=["entities", "topics"])
 
 # === Utility: write line only if last line differs ===

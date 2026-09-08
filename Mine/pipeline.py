@@ -82,7 +82,7 @@ def main():
         return
 
     # Base directories
-    base_dir = "/home/samagra-bharti/Desktop/Research"
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     mine_dir = os.path.join(base_dir, "Mine")
     books_dir = os.path.join(base_dir, "Books")
     # External corpus directory as requested

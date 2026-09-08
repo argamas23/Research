@@ -37,6 +37,10 @@ def write_csv(path: Path, rows: list[dict[str, object]], fields: list[str]) -> N
         writer.writerows(rows)
 
 
+def repo_path(path: Path) -> str:
+    return path.relative_to(BASE_DIR).as_posix()
+
+
 def pdf_pages(pdf: Path | None) -> int:
     if not pdf or not pdf.exists():
         return 0
@@ -73,8 +77,8 @@ def corpus_rows() -> list[dict[str, object]]:
         rows.append(
             {
                 "source_id": stem,
-                "text_file": txt.as_posix(),
-                "pdf_file": pdf.as_posix() if pdf.exists() else "",
+                "text_file": repo_path(txt),
+                "pdf_file": repo_path(pdf) if pdf.exists() else "",
                 "pdf_pages": pdf_pages(pdf if pdf.exists() else None),
                 "characters": len(text),
                 "words": len(words(text)),
