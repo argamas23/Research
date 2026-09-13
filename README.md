@@ -321,10 +321,10 @@ If the graph looks noisy, review these files:
 
 ## Citation
 
-If you use this repository or the archived dataset, cite the Zenodo record associated with the release. Add the final DOI here after publication:
+If you use this repository or the archived dataset, cite the Zenodo record associated with the release. Add the final author name(s) and DOI after publication or after anonymous review:
 
 ```text
-Samagra Bharti. Historical NLP Knowledge Graphs for Himalayan Trade Networks. Zenodo. DOI: <add DOI>
+Author(s). Historical NLP Knowledge Graphs for Himalayan Trade Networks. Zenodo. DOI: <add DOI>
 ```
 
 ## License And Rights

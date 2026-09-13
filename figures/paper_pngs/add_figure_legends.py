@@ -4,10 +4,10 @@ from PIL import Image, ImageDraw, ImageFont
 
 BASE = Path(__file__).resolve().parent
 REPO_ROOT = BASE.parents[2]
-SOURCE_DIR = REPO_ROOT / 'pipeline' / 'outputs' / 'paper_pngs'
+SOURCE_DIR = REPO_ROOT / 'Mine' / 'outputs' / 'paper_pngs'
 FILES = sorted((SOURCE_DIR.glob('*.png') if SOURCE_DIR.exists() else BASE.glob('*.png')))
 
-# Match the project graph styling in pipeline/graph_rules.py
+# Match the project graph styling in Mine/graph_rules.py
 NODE_COLORS = {
     'PERSON': '#4c72b0',
     'GROUP': '#8172b2',
