@@ -56,7 +56,7 @@ In this checkout, `Books/`, `corpus/`, and `bibliography/` may be absent because
 
 ## Requirements
 
-Use Python 3.10 or newer. The scripts have been run with Python 3.12-style bytecode in this workspace, but no Python 3.12-only feature is required.
+Use Python 3.10 or newer.
 
 Python packages:
 
@@ -96,15 +96,16 @@ Alternative setup, using a local key file:
 cp pipeline/API_KEYS.example pipeline/API_KEYS.txt
 ```
 
-Then edit `pipeline/API_KEYS.txt`:
+Then edit `pipeline/API_KEYS.txt` and keep only the keys you need:
 
 ```text
+OpenAI = YOUR_OPENAI_API_KEY
 TextRazor = your_textrazor_key_here
 ```
 
 `pipeline/API_KEYS.txt` is ignored by git and should not be uploaded to Zenodo or committed to a public repository.
 
-`pipeline/API_KEYS.example` also contains an `OpenAI` placeholder. The current production pipeline does not use the OpenAI API; relation extraction is done locally through Ollama. Keep an OpenAI key only if you add your own OpenAI-based scripts or experiments.
+The current production pipeline does not use the OpenAI API; relation extraction is done locally through Ollama. Keep an OpenAI key only if you add your own OpenAI-based scripts or experiments.
 
 ## Quick Start
 
@@ -205,19 +206,27 @@ make delete BOOK=book.pdf
 - `pipeline/outputs/cleaned_entities.json`: current entity list and inferred entity types.
 - `pipeline/outputs/entity_type_review.csv`: review table for entity classifications.
 - `pipeline/outputs/edge_validation.csv`: edge rows classified as `Validated`, `Probable`, or `Missing`.
-- `pipeline/outputs/network_visualization.html`: vis-network browser graph.
-- `pipeline/outputs/network_cytoscape.html`: Cytoscape browser graph.
+- `pipeline/outputs/network_visualization.html`: vis-network browser graph, also copied to `pipeline/network_visualization.html`.
+- `pipeline/outputs/network_cytoscape.html`: Cytoscape browser graph, also copied to `pipeline/network_cytoscape.html`.
+- `pipeline/outputs/network_visualization.css`: shared visualization stylesheet, also copied to `pipeline/network_visualization.css`.
 - `pipeline/outputs/network_analysis/NETWORK_ANALYSIS.md`: general network metrics.
 - `pipeline/outputs/network_analysis/NETWORK_INTERPRETATION.md`: interpretation scaffold generated from graph metrics.
+- `pipeline/outputs/network_analysis/*.csv`: graph diagnostics and Louvain community tables.
 - `pipeline/outputs/salt_analysis/SALT_METRICS.md`: salt-specific centrality, robustness, community, and path metrics.
 - `pipeline/outputs/salt_analysis/SALT_INTERPRETATION.md`: salt-focused interpretation scaffold.
+- `pipeline/outputs/salt_analysis/*.csv`: salt centrality, removal, null-model, community, source-drop, evidence, and path tables.
 - `pipeline/outputs/corpus/CORPUS_STATISTICS.md`: corpus totals, source table, and related corpus measures.
+- `pipeline/outputs/corpus/corpus_statistics.csv`: machine-readable corpus totals.
 - `pipeline/outputs/corpus/corpus_table.csv`: machine-readable source-level corpus table.
 - `pipeline/outputs/citations/CITATION_VERIFICATION.md`: page-candidate verification summary.
 - `pipeline/outputs/citations/citation_verification.csv`: machine-readable citation verification table.
 - `pipeline/outputs/research_writeup/DH_RELATED_WORK.md`: digital-humanities related-work note.
 - `pipeline/outputs/research_writeup/CONFERENCE_TABLES.md`: tables prepared for conference/paper use.
+- `pipeline/outputs/research_writeup/CONFERENCE_TABLES.tex`: LaTeX version of the conference tables.
 - `pipeline/outputs/research_writeup/CTR_CLAIM_GRAPH_LEDGER.md`: claim-to-graph support ledger.
+- `pipeline/outputs/entity_corrections_log.json`: log of entity-type corrections.
+- `pipeline/outputs/strict_legacy_edge_review.csv`: review table for filtered legacy relation labels.
+- `pipeline/outputs/cleaned_entities.json.*.bak`: timestamped backups from entity-cleaning runs.
 
 Per-source outputs are stored in `pipeline/results/<source>/`:
 
@@ -227,6 +236,8 @@ Per-source outputs are stored in `pipeline/results/<source>/`:
 - `weighted_knowledge_graph.jsonl`, when available
 - `weighted_knowledge_graph.ollama_errors.jsonl`, when Ollama parsing failures are logged
 - `.pipeline_state.json`, when the source was run through the orchestrator
+
+Some older exploratory source folders may contain extra geoparsing outputs such as maps, coordinates, tagged XML, or filtered relation tables. These are retained for comparison but are not required by the current pipeline.
 
 ## Research Model
 
@@ -269,59 +280,17 @@ The repository separates extraction from historical interpretation.
 
 `audit_salt_recall.py` scans corpus sentences for salt-related trade, taxation, transport, licensing, monopoly, and commodity-circuit language, then compares those sentences with final graph evidence.
 
-## Reproducibility Notes For Zenodo
+## Reproducibility Notes
 
-For a third-party user to reproduce a full run from source PDFs, the archive should include or clearly reference:
+To reproduce the full pipeline, users need the source PDFs or extracted corpus text, the files in `pipeline/results/` and `pipeline/outputs/`, the software requirements listed above, a TextRazor API key, and a local Ollama installation with the `llama3` model.
 
-- this repository;
-- the source PDFs, if redistribution is allowed;
-- any extracted `corpus/*.txt` files, if PDFs cannot be redistributed but text can be;
-- `pipeline/results/`, if publishing the per-source extraction record;
-- `pipeline/outputs/`, if publishing the final graph and analysis artifacts;
-- the software requirements listed above;
-- a TextRazor API key supplied by the user, not by the archive;
-- a local Ollama installation with the `llama3` model.
+Private credentials, paid API keys, and non-redistributable PDFs are not included. If source PDFs are absent, users can inspect the generated graph outputs and figures but cannot fully rerun text extraction or citation verification.
 
-Do not include private credentials, paid API keys, or source PDFs whose licenses do not allow redistribution.
-
-If source PDFs are not included, users can still inspect the generated graph outputs and figures, but they cannot fully rerun OCR/text extraction or citation verification without obtaining the original documents.
-
-## Troubleshooting
-
-If a PDF is not found, confirm the file is inside `Books/` and pass the exact filename:
-
-```bash
-make run BOOK=book.pdf
-```
-
-If relation extraction is slow or unstable, lower worker count:
-
-```bash
-make run BOOK=book.pdf WORKERS=1
-```
-
-If Ollama fails, check that the service is running and the model is installed:
-
-```bash
-ollama list
-ollama pull llama3
-ollama serve
-```
-
-If TextRazor fails, check the API key, internet access, and TextRazor quota.
-
-If OCR quality is poor or extracted text is missing from scanned PDFs, install the `tesseract` binary and rerun text extraction.
-
-If the graph looks noisy, review these files:
-
-- `pipeline/graph_rules.py`
-- `pipeline/selected_topics.txt`
-- `pipeline/outputs/entity_type_review.csv`
-- `pipeline/outputs/edge_validation.csv`
+For anonymous review, exclude `.git/` history and any local source-PDF folders from the shared archive unless those files have been checked separately for identifying metadata and redistribution rights.
 
 ## Citation
 
-If you use this repository or the archived dataset, cite the Zenodo record associated with the release. Add the final author name(s) and DOI after publication or after anonymous review:
+If you use this repository or archived dataset, cite the Zenodo record for this release:
 
 ```text
 Author(s). Historical NLP Knowledge Graphs for Himalayan Trade Networks. Zenodo. DOI: <add DOI>
@@ -329,8 +298,4 @@ Author(s). Historical NLP Knowledge Graphs for Himalayan Trade Networks. Zenodo.
 
 ## License And Rights
 
-The code, generated outputs, figures, and source PDFs may have different rights status. Before publishing on Zenodo, add the intended license for the code and generated outputs, and confirm whether the source PDFs can be redistributed. If the PDFs cannot be redistributed, deposit only metadata, derived outputs, or extracted text where allowed, and describe how users can obtain the original sources.
-
-## Project Status
-
-This is an active research codebase. The current production path is the `pipeline/` workflow plus the validation and analysis scripts listed above. Older geoparser outputs and domain-adaptive NER experiments may be retained outside the current pipeline for comparison and research history.
+Code, generated outputs, figures, and source PDFs may have different rights status. Check redistribution rights before including PDFs in the archive.
