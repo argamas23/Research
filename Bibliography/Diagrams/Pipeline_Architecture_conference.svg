@@ -121,16 +121,16 @@
   </text>
 
   <path class="edge" d="M 590 223 L 885 223"/>
-  <rect class="label-bg" x="668" y="174" width="140" height="34" rx="8"/>
-  <text class="edge-label" x="738" y="198" text-anchor="middle">script.py</text>
+  <rect class="label-bg" x="648" y="174" width="180" height="34" rx="8"/>
+  <text class="edge-label" x="738" y="198" text-anchor="middle">Corpus cleanup</text>
 
   <path class="edge" d="M 1315 223 L 1610 223"/>
-  <rect class="label-bg" x="1376" y="174" width="172" height="34" rx="8"/>
-  <text class="edge-label" x="1462" y="198" text-anchor="middle">Textrazor.py</text>
+  <rect class="label-bg" x="1372" y="174" width="180" height="34" rx="8"/>
+  <text class="edge-label" x="1462" y="198" text-anchor="middle">Entity tagging</text>
 
   <path class="support-edge" d="M 1100 295 L 1100 365 L 1825 365 L 1825 495"/>
-  <rect class="label-bg" x="1340" y="348" width="240" height="34" rx="8"/>
-  <text class="edge-label" x="1460" y="373" text-anchor="middle">Text stream / topics.py</text>
+  <rect class="label-bg" x="1370" y="348" width="180" height="34" rx="8"/>
+  <text class="edge-label" x="1460" y="373" text-anchor="middle">Topic input</text>
 
   <path class="edge" d="M 1610 568 L 1190 568"/>
   <rect class="label-bg" x="1310" y="518" width="180" height="34" rx="8"/>
@@ -145,20 +145,20 @@
   <text class="data-label" x="2025" y="705" text-anchor="middle">NER results</text>
 
   <path class="edge" d="M 590 923 L 885 923"/>
-  <rect class="label-bg" x="674" y="873" width="128" height="34" rx="8"/>
-  <text class="edge-label" x="738" y="897" text-anchor="middle">relation.py</text>
+  <rect class="label-bg" x="650" y="873" width="176" height="34" rx="8"/>
+  <text class="edge-label" x="738" y="897" text-anchor="middle">Triple building</text>
 
   <path class="edge" d="M 1315 923 L 1610 923"/>
 
   <path class="support-edge" d="M 1825 995 L 1825 1065 L 375 1065 L 375 1225"/>
-  <rect class="label-bg" x="1012" y="1051" width="176" height="34" rx="8"/>
-  <text class="edge-label" x="1100" y="1076" text-anchor="middle">update_config.py</text>
+  <rect class="label-bg" x="1000" y="1051" width="200" height="34" rx="8"/>
+  <text class="edge-label" x="1100" y="1076" text-anchor="middle">Feedback update</text>
 
   <path class="edge" d="M 590 1298 L 850 1298"/>
-  <rect class="label-bg" x="600" y="1248" width="240" height="34" rx="8"/>
-  <text class="edge-label" x="720" y="1272" text-anchor="middle">correct_entity_types.py</text>
+  <rect class="label-bg" x="642" y="1248" width="156" height="34" rx="8"/>
+  <text class="edge-label" x="720" y="1272" text-anchor="middle">Type review</text>
 
   <path class="edge" d="M 1350 1298 L 1610 1298"/>
-  <rect class="label-bg" x="1376" y="1248" width="208" height="34" rx="8"/>
-  <text class="edge-label" x="1480" y="1272" text-anchor="middle">regenerate_html.py</text>
+  <rect class="label-bg" x="1388" y="1248" width="184" height="34" rx="8"/>
+  <text class="edge-label" x="1480" y="1272" text-anchor="middle">Graph refresh</text>
 </svg>
