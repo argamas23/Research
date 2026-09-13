@@ -7,3 +7,4 @@ API_KEYS.txt
 __pycache__/
 agents.md
 try.txt
+.vscode/
