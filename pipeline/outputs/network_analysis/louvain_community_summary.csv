@@ -1,0 +1,13 @@
+view,metric,median,min,max
+validated,modularity,0.0,0.0,0.0
+validated,communities,1.0,1.0,1.0
+validated_probable,modularity,0.0,0.0,0.0
+validated_probable,communities,1.0,1.0,1.0
+validated_no_concept,modularity,0.0,0.0,0.0
+validated_no_concept,communities,1.0,1.0,1.0
+validated_probable_no_concept,modularity,0.0,0.0,0.0
+validated_probable_no_concept,communities,1.0,1.0,1.0
+validated_trade_only,modularity,0.0,0.0,0.0
+validated_trade_only,communities,1.0,1.0,1.0
+validated_probable_trade_only,modularity,0.0,0.0,0.0
+validated_probable_trade_only,communities,1.0,1.0,1.0

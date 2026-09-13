@@ -1,0 +1,7 @@
+view,removed,present,degree,strength,largest_component_nodes,components,global_efficiency_loss
+validated,salt,False,0,0,3,7,0.0
+validated_probable,salt,False,0,0,3,7,0.0
+validated_no_concept,salt,False,0,0,2,2,0.0
+validated_probable_no_concept,salt,False,0,0,2,2,0.0
+validated_trade_only,salt,False,0,0,2,5,0.0
+validated_probable_trade_only,salt,False,0,0,2,5,0.0

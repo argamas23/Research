@@ -1,0 +1,7 @@
+view,nodes,edges,components,largest_component_nodes,density,average_degree,average_strength,clustering,lcc_average_shortest_path,lcc_diameter,node_types
+validated,15,8,7,3,0.0761904761904762,1.0666666666666667,1.0666666666666667,0.0,1.3333333333333333,2,CONCEPT:6|LOCATION:5|GROUP:3|COMMODITY:1
+validated_probable,15,8,7,3,0.0761904761904762,1.0666666666666667,1.0666666666666667,0.0,1.3333333333333333,2,CONCEPT:6|LOCATION:5|GROUP:3|COMMODITY:1
+validated_no_concept,4,2,2,2,0.3333333333333333,1.0,1.0,0.0,1.0,1,GROUP:2|LOCATION:2
+validated_probable_no_concept,4,2,2,2,0.3333333333333333,1.0,1.0,0.0,1.0,1,GROUP:2|LOCATION:2
+validated_trade_only,10,5,5,2,0.1111111111111111,1.0,1.0,0.0,1.0,1,LOCATION:5|CONCEPT:4|COMMODITY:1
+validated_probable_trade_only,10,5,5,2,0.1111111111111111,1.0,1.0,0.0,1.0,1,LOCATION:5|CONCEPT:4|COMMODITY:1

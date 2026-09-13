@@ -1,0 +1,7 @@
+view,commodity,present
+validated,salt,False
+validated_probable,salt,False
+validated_no_concept,salt,False
+validated_probable_no_concept,salt,False
+validated_trade_only,salt,False
+validated_probable_trade_only,salt,False

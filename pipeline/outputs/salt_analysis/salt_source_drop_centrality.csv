@@ -1,0 +1,2 @@
+view,dropped_source,dropped_source_edges,nodes,edges,salt_present,salt_degree,salt_strength,salt_betweenness_lcc,salt_pagerank,salt_in_lcc
+validated_drop_source,Commodity,8,0,0,False,0,0,0,0,False

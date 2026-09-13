@@ -20,34 +20,34 @@ help:
 		"  make delete BOOK=1910.pdf"
 
 run: check-book
-	$(PYTHON) Mine/pipeline.py --book "$(BOOK)" --workers "$(WORKERS)"
+	$(PYTHON) pipeline/pipeline.py --book "$(BOOK)" --workers "$(WORKERS)"
 
 graph:
-	$(PYTHON) Mine/rebuild_graph.py
-	$(PYTHON) Mine/salt_recall_audit.py
+	$(PYTHON) pipeline/rebuild_graph.py
+	$(PYTHON) pipeline/audit_salt_recall.py
 
 validation-auto:
-	$(PYTHON) Mine/evidence_validate.py
+	$(PYTHON) pipeline/validate_evidence.py
 
 network-analysis:
-	$(PYTHON) Mine/network_analysis.py
+	$(PYTHON) pipeline/analyze_network.py
 
 salt-analysis:
-	$(PYTHON) Mine/salt_analysis.py
+	$(PYTHON) pipeline/analyze_salt.py
 
 corpus-audit:
-	$(PYTHON) Mine/corpus_audit.py
+	$(PYTHON) pipeline/audit_corpus.py
 
 citation-verify:
-	$(PYTHON) Mine/citation_verify.py
+	$(PYTHON) pipeline/verify_citations.py
 
 research-outputs: corpus-audit citation-verify
 
 delete-preview: check-book
-	$(PYTHON) Mine/pipeline.py --book "$(BOOK)" --delete --dry-run
+	$(PYTHON) pipeline/pipeline.py --book "$(BOOK)" --delete --dry-run
 
 delete: check-book
-	$(PYTHON) Mine/pipeline.py --book "$(BOOK)" --delete
+	$(PYTHON) pipeline/pipeline.py --book "$(BOOK)" --delete
 
 check-book:
 	@test -n "$(BOOK)" || (echo "Set BOOK=book.pdf"; exit 1)
