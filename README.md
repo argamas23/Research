@@ -1,36 +1,46 @@
 # Historical NLP Knowledge Graphs for Himalayan Trade Networks
 
-This repository is an active research pipeline for turning historical PDFs into evidence-backed knowledge graphs about Himalayan salt routes, commodity circulation, and frontier governance.
+This repository contains a reproducible research pipeline for converting historical PDFs into evidence-backed knowledge graphs of Himalayan trade networks. It was built for a digital-history project on Himalayan salt routes, commodity circulation, frontier governance, and the political economy of exchange across Ladakh, Tibet, Kashmir, Garhwal, Kumaon, Nepal, and related mountain regions.
 
-The core question is whether salt functioned as a structural backbone for multi-commodity trade and political economy in the Western Himalayas. The pipeline extracts text, entities, co-occurrences, relation triples, cleaned graph outputs, validation tables, interactive visualizations, and salt-specific network metrics.
+The central research question is whether salt functioned as a structural backbone for multi-commodity trade and governance in the Western Himalayas. The pipeline extracts text from historical sources, identifies entities and topics, mines co-occurrences, asks a local LLM to extract relation triples, cleans and normalizes the graph, validates extracted edges against the corpus, and produces network-analysis outputs and browser-based visualizations.
 
-## Repository Layout
+The graph should be read as a computational model of the deposited corpus, not as a complete reconstruction of Himalayan political economy. Each edge is an extracted claim that depends on OCR quality, named-entity recognition, relation extraction, cleaning rules, and later validation.
+
+## Repository Contents
 
 ```text
 .
-├── Books/                         # Input PDFs for pipeline runs
-├── corpus/                        # Extracted text files, one per PDF
-├── pipeline/
-│   ├── pipeline.py                # Orchestrates one PDF through the main pipeline
-│   ├── extract_text.py            # PDF text extraction with PyMuPDF
-│   ├── extract_entities.py        # TextRazor entity/topic extraction
-│   ├── deduplicate_topics.py      # Deduplicates extracted topics
-│   ├── extract_cooccurrences.py   # Topic-anchored entity co-occurrence mining
-│   ├── extract_relations.py       # Ollama/Llama relation extraction
-│   ├── classify_entities.py       # Rebuilds entity type review/corrections
-│   ├── rebuild_graph.py           # Rebuilds cleaned graph and HTML visualizations
-│   ├── validate_evidence.py       # Checks extracted edges against corpus text
-│   ├── analyze_network.py         # General graph diagnostics/community analysis
-│   ├── analyze_salt.py            # Salt centrality, robustness, and brokerage metrics
-│   ├── audit_salt_recall.py       # Audits research-circuit sentence coverage
-│   ├── audit_corpus.py            # Corpus statistics and related-work writeup
-│   ├── verify_citations.py        # Finds PDF page candidates for edge evidence
-│   ├── graph_rules.py             # Entity aliases, relation rules, visual styling
-│   ├── selected_topics.txt        # Manually curated topic anchors
-│   ├── results/                   # Per-source extraction outputs
-│   └── outputs/                   # Aggregated graph, validation, and analysis outputs
-├── bibliography/                  # Bibliographic PDFs
-└── figures/                       # Diagrams, maps, and paper figures
+├── Makefile                       # Convenience commands for running the pipeline
+├── README.md                      # Project documentation
+├── Books/                         # Input PDFs for new runs; ignored by git
+├── corpus/                        # Extracted plain text from PDFs; ignored by git
+├── bibliography/                  # Bibliographic/source PDFs, if supplied separately
+├── figures/
+│   ├── *.png, *.svg, *.pdf        # Maps, diagrams, and paper/conference figures
+│   ├── maps/                      # Map-building script and geographic assets
+│   └── paper_pngs/                # Final PNG figures and legend-building helper
+└── pipeline/
+    ├── pipeline.py                # Main one-book orchestrator
+    ├── extract_text.py            # PDF text extraction; uses OCR fallback if available
+    ├── extract_entities.py        # TextRazor entity/topic extraction
+    ├── deduplicate_topics.py      # Deduplicates extracted topics
+    ├── extract_cooccurrences.py   # Topic-anchored entity co-occurrence mining
+    ├── extract_relations.py       # Local Ollama/Llama relation extraction
+    ├── classify_entities.py       # Entity type inference and correction table
+    ├── rebuild_graph.py           # Cleaned graph tables and HTML visualizations
+    ├── validate_evidence.py       # Checks extracted edges against corpus text
+    ├── verify_citations.py        # Finds PDF page candidates for edge evidence
+    ├── analyze_network.py         # General graph metrics and communities
+    ├── analyze_salt.py            # Salt-specific centrality and robustness metrics
+    ├── audit_salt_recall.py       # Salt-circuit sentence coverage audit
+    ├── audit_corpus.py            # Corpus statistics and related-work output
+    ├── delete_source.py           # Removes one source and rebuilds graph outputs
+    ├── graph_rules.py             # Entity aliases, allowed relations, colors, rules
+    ├── selected_topics.txt        # Manually curated topic anchors
+    ├── unique_topics.txt          # Deduplicated topic list from TextRazor outputs
+    ├── API_KEYS.example           # Template for local API credentials
+    ├── results/                   # Per-source extraction outputs
+    └── outputs/                   # Aggregated graph, validation, analysis, visualizations
 ```
 
 Main data flow:
@@ -38,64 +48,115 @@ Main data flow:
 ```text
 Books/*.pdf
   -> corpus/*.txt
-  -> pipeline/results/<book>[_timestamp]/
+  -> pipeline/results/<source>/
   -> pipeline/outputs/
 ```
 
-## Prerequisites
+In this checkout, `Books/`, `corpus/`, and `bibliography/` may be absent because the source PDFs and extracted text are ignored by git. A Zenodo deposit can include them separately if redistribution rights permit it. The generated graph and analysis outputs live under `pipeline/results/` and `pipeline/outputs/`.
 
-Use Python 3.10+.
+## Requirements
+
+Use Python 3.10 or newer. The scripts have been run with Python 3.12-style bytecode in this workspace, but no Python 3.12-only feature is required.
+
+Python packages:
 
 ```bash
-pip install pymupdf textrazor ollama spacy networkx pandas numpy tqdm
+pip install pymupdf textrazor ollama spacy networkx pandas numpy tqdm matplotlib pillow
 python3 -m spacy download en_core_web_sm
 ```
 
-Ollama must be installed separately:
+System tools:
+
+- `make`, for the convenience commands in the `Makefile`
+- `ollama`, required for local LLM relation extraction
+- `tesseract`, optional but recommended for scanned PDFs or pages with weak embedded text
+
+Install and prepare Ollama separately:
 
 ```bash
 ollama pull llama3
 ollama serve
 ```
 
-TextRazor requires an API key. Keep credentials out of committed files before publishing or sharing this repository.
+The relation-extraction script currently uses the local Ollama model name `llama3` in `pipeline/extract_relations.py`.
+
+## API Keys
+
+The current pipeline requires a TextRazor API key for `pipeline/extract_entities.py`.
+
+Preferred setup, using an environment variable:
+
+```bash
+export TEXTRAZOR_API_KEY="your_textrazor_key_here"
+```
+
+Alternative setup, using a local key file:
+
+```bash
+cp pipeline/API_KEYS.example pipeline/API_KEYS.txt
+```
+
+Then edit `pipeline/API_KEYS.txt`:
+
+```text
+TextRazor = your_textrazor_key_here
+```
+
+`pipeline/API_KEYS.txt` is ignored by git and should not be uploaded to Zenodo or committed to a public repository.
+
+`pipeline/API_KEYS.example` also contains an `OpenAI` placeholder. The current production pipeline does not use the OpenAI API; relation extraction is done locally through Ollama. Keep an OpenAI key only if you add your own OpenAI-based scripts or experiments.
 
 ## Quick Start
 
-Put a PDF in `Books/`, then run:
+Create and activate a virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install pymupdf textrazor ollama spacy networkx pandas numpy tqdm matplotlib pillow
+python3 -m spacy download en_core_web_sm
+```
+
+Start Ollama in another terminal if it is not already running:
+
+```bash
+ollama serve
+```
+
+Place a PDF in `Books/`, then run the full pipeline for that source:
 
 ```bash
 make run BOOK=book.pdf
 ```
 
-Use fewer Ollama workers on a smaller machine:
+Use fewer workers on a smaller machine:
 
 ```bash
 make run BOOK=book.pdf WORKERS=1
 ```
 
-Open the graph:
+Open the generated graph in a browser:
 
 ```bash
 xdg-open pipeline/outputs/network_visualization.html
 ```
 
-The visualization is also copied to `pipeline/network_visualization.html`.
+The main visualization is also copied to `pipeline/network_visualization.html`.
 
 ## Pipeline Stages
 
-| Step | Script | Output |
-| --- | --- | --- |
-| 1 | `pipeline/extract_text.py` | `corpus/<book>.txt` |
-| 2 | `pipeline/extract_entities.py` | `pipeline/results/<book>/ner_results.txt` |
-| 3 | `pipeline/deduplicate_topics.py` | `pipeline/unique_topics.txt` |
-| 4 | `pipeline/extract_cooccurrences.py` | `pipeline/results/<book>/entity_cooccurrences.txt` |
-| 5 | `pipeline/extract_relations.py` | `pipeline/results/<book>/weighted_knowledge_graph.csv` |
-| 6 | `pipeline/classify_entities.py` | `pipeline/outputs/cleaned_entities.json`, `entity_type_review.csv` |
-| 7 | `pipeline/rebuild_graph.py` | cleaned edge tables and HTML graphs |
-| 8 | `pipeline/audit_salt_recall.py` | `salt_recall_audit.csv`, `salt_recall_summary.csv` |
+| Step | Script | Purpose | Main output |
+| --- | --- | --- | --- |
+| 1 | `pipeline/extract_text.py` | Extract text from a PDF, with optional Tesseract OCR fallback | `corpus/<book>.txt` |
+| 2 | `pipeline/extract_entities.py` | Run TextRazor entity and topic extraction | `pipeline/results/<book>/ner_results.txt` |
+| 3 | `pipeline/deduplicate_topics.py` | Build a deduplicated topic list | `pipeline/unique_topics.txt` |
+| 4 | `pipeline/extract_cooccurrences.py` | Find entity co-occurrences around selected topics | `pipeline/results/<book>/entity_cooccurrences.txt` |
+| 5 | `pipeline/extract_relations.py` | Extract relation triples with local Ollama/Llama | `pipeline/results/<book>/weighted_knowledge_graph.csv` |
+| 6 | `pipeline/classify_entities.py` | Infer and review entity types | `pipeline/outputs/cleaned_entities.json`, `pipeline/outputs/entity_type_review.csv` |
+| 7 | `pipeline/rebuild_graph.py` | Aggregate, clean, score, and visualize the graph | `pipeline/outputs/cleaned_aggregated_edges.csv`, HTML graphs |
+| 8 | `pipeline/audit_salt_recall.py` | Audit salt-related sentence coverage | `pipeline/outputs/salt_recall_audit.csv`, `pipeline/outputs/salt_recall_summary.csv` |
 
-`pipeline/pipeline.py` resumes completed steps when its `.pipeline_state.json` and expected outputs are present.
+`pipeline/pipeline.py` can resume a partly completed source if `.pipeline_state.json` and the expected output files exist in that source's result directory.
 
 ## Common Commands
 
@@ -118,6 +179,7 @@ Manual equivalents:
 ```bash
 python3 pipeline/pipeline.py --book book.pdf --workers 4
 python3 pipeline/rebuild_graph.py
+python3 pipeline/audit_salt_recall.py
 python3 pipeline/validate_evidence.py
 python3 pipeline/analyze_network.py
 python3 pipeline/analyze_salt.py
@@ -125,24 +187,50 @@ python3 pipeline/audit_corpus.py
 python3 pipeline/verify_citations.py
 ```
 
+To preview removal of one source and its generated data:
+
+```bash
+make delete-preview BOOK=book.pdf
+```
+
+To remove it and rebuild graph outputs:
+
+```bash
+make delete BOOK=book.pdf
+```
+
 ## Important Outputs
 
-- `pipeline/outputs/cleaned_aggregated_edges.csv`: cleaned relation table used by later checks
-- `pipeline/outputs/cleaned_entities.json`: current entity list and inferred types
-- `pipeline/outputs/edge_validation.csv`: edge rows classified as `Validated`, `Probable`, or `Missing`
-- `pipeline/outputs/network_visualization.html`: vis-network browser graph
-- `pipeline/outputs/network_cytoscape.html`: Cytoscape browser graph
-- `pipeline/outputs/network_analysis/NETWORK_ANALYSIS.md`: general network metrics
-- `pipeline/outputs/network_analysis/NETWORK_INTERPRETATION.md`: generated interpretation scaffold
-- `pipeline/outputs/salt_analysis/SALT_METRICS.md`: salt-specific metric tables
-- `pipeline/outputs/salt_analysis/SALT_INTERPRETATION.md`: generated salt interpretation scaffold
-- `pipeline/outputs/corpus/CORPUS_STATISTICS.md`: corpus totals and source table
-- `pipeline/outputs/citations/CITATION_VERIFICATION.md`: PDF page verification summary
-- `pipeline/outputs/research_writeup/DH_RELATED_WORK.md`: digital humanities related-work note
+- `pipeline/outputs/cleaned_aggregated_edges.csv`: cleaned relation table used by validation and analysis.
+- `pipeline/outputs/cleaned_entities.json`: current entity list and inferred entity types.
+- `pipeline/outputs/entity_type_review.csv`: review table for entity classifications.
+- `pipeline/outputs/edge_validation.csv`: edge rows classified as `Validated`, `Probable`, or `Missing`.
+- `pipeline/outputs/network_visualization.html`: vis-network browser graph.
+- `pipeline/outputs/network_cytoscape.html`: Cytoscape browser graph.
+- `pipeline/outputs/network_analysis/NETWORK_ANALYSIS.md`: general network metrics.
+- `pipeline/outputs/network_analysis/NETWORK_INTERPRETATION.md`: interpretation scaffold generated from graph metrics.
+- `pipeline/outputs/salt_analysis/SALT_METRICS.md`: salt-specific centrality, robustness, community, and path metrics.
+- `pipeline/outputs/salt_analysis/SALT_INTERPRETATION.md`: salt-focused interpretation scaffold.
+- `pipeline/outputs/corpus/CORPUS_STATISTICS.md`: corpus totals, source table, and related corpus measures.
+- `pipeline/outputs/corpus/corpus_table.csv`: machine-readable source-level corpus table.
+- `pipeline/outputs/citations/CITATION_VERIFICATION.md`: page-candidate verification summary.
+- `pipeline/outputs/citations/citation_verification.csv`: machine-readable citation verification table.
+- `pipeline/outputs/research_writeup/DH_RELATED_WORK.md`: digital-humanities related-work note.
+- `pipeline/outputs/research_writeup/CONFERENCE_TABLES.md`: tables prepared for conference/paper use.
+- `pipeline/outputs/research_writeup/CTR_CLAIM_GRAPH_LEDGER.md`: claim-to-graph support ledger.
+
+Per-source outputs are stored in `pipeline/results/<source>/`:
+
+- `ner_results.txt`
+- `entity_cooccurrences.txt`
+- `weighted_knowledge_graph.csv`
+- `weighted_knowledge_graph.jsonl`, when available
+- `weighted_knowledge_graph.ollama_errors.jsonl`, when Ollama parsing failures are logged
+- `.pipeline_state.json`, when the source was run through the orchestrator
 
 ## Research Model
 
-The current graph code keeps five broad entity types:
+The cleaned graph uses five broad entity types:
 
 - `PERSON`
 - `GROUP`
@@ -165,19 +253,38 @@ Relations are normalized through `pipeline/graph_rules.py`. The active allowed r
 - `disputes`
 - `negotiates_with`
 
-The current research focus node is `salt`.
+The current research focus node is `salt`. Salt variants and aliases are handled in `pipeline/graph_rules.py`, along with relation mapping, entity aliases, visual colors, and pruning rules.
 
 ## Validation And Analysis
 
-The repository separates graph construction from research claims:
+The repository separates extraction from historical interpretation.
 
-- `validate_evidence.py` checks whether evidence snippets or entity pairs can be found in extracted corpus text.
-- `verify_citations.py` maps evidence snippets back to one-indexed PDF page candidates.
-- `analyze_network.py` writes general graph diagnostics, community summaries, and interpretation scaffolds.
-- `analyze_salt.py` tests salt centrality, removal effect, commodity-label nulls, source-drop robustness, community membership, and shortest paths through salt.
-- `audit_salt_recall.py` scans corpus sentences for research-circuit coverage against final graph evidence.
+`validate_evidence.py` checks whether evidence snippets or entity pairs can be found in the extracted corpus text.
 
-Treat the graph as an extracted, evidence-weighted model of the corpus, not a complete reconstruction of the historical economy.
+`verify_citations.py` maps evidence snippets back to one-indexed PDF page candidates in `Books/`.
+
+`analyze_network.py` writes general graph diagnostics, Louvain community summaries, and interpretation scaffolds.
+
+`analyze_salt.py` tests salt centrality, salt removal effects, commodity-label nulls, source-drop robustness, community membership, and shortest paths through salt.
+
+`audit_salt_recall.py` scans corpus sentences for salt-related trade, taxation, transport, licensing, monopoly, and commodity-circuit language, then compares those sentences with final graph evidence.
+
+## Reproducibility Notes For Zenodo
+
+For a third-party user to reproduce a full run from source PDFs, the archive should include or clearly reference:
+
+- this repository;
+- the source PDFs, if redistribution is allowed;
+- any extracted `corpus/*.txt` files, if PDFs cannot be redistributed but text can be;
+- `pipeline/results/`, if publishing the per-source extraction record;
+- `pipeline/outputs/`, if publishing the final graph and analysis artifacts;
+- the software requirements listed above;
+- a TextRazor API key supplied by the user, not by the archive;
+- a local Ollama installation with the `llama3` model.
+
+Do not include private credentials, paid API keys, or source PDFs whose licenses do not allow redistribution.
+
+If source PDFs are not included, users can still inspect the generated graph outputs and figures, but they cannot fully rerun OCR/text extraction or citation verification without obtaining the original documents.
 
 ## Troubleshooting
 
@@ -193,7 +300,7 @@ If relation extraction is slow or unstable, lower worker count:
 make run BOOK=book.pdf WORKERS=1
 ```
 
-If Ollama fails, check the service and model:
+If Ollama fails, check that the service is running and the model is installed:
 
 ```bash
 ollama list
@@ -201,10 +308,29 @@ ollama pull llama3
 ollama serve
 ```
 
-If TextRazor fails, check the API key, internet access, and quota.
+If TextRazor fails, check the API key, internet access, and TextRazor quota.
 
-If the graph looks noisy, review `pipeline/graph_rules.py`, `pipeline/selected_topics.txt`, `pipeline/outputs/entity_type_review.csv`, and `pipeline/outputs/edge_validation.csv`.
+If OCR quality is poor or extracted text is missing from scanned PDFs, install the `tesseract` binary and rerun text extraction.
 
-## Status
+If the graph looks noisy, review these files:
 
-This is an active research codebase. The current production path is the `pipeline/` pipeline plus the validation and analysis scripts listed above. Older geoparser outputs and domain-adaptive NER experiments are kept for comparison and research history.
+- `pipeline/graph_rules.py`
+- `pipeline/selected_topics.txt`
+- `pipeline/outputs/entity_type_review.csv`
+- `pipeline/outputs/edge_validation.csv`
+
+## Citation
+
+If you use this repository or the archived dataset, cite the Zenodo record associated with the release. Add the final DOI here after publication:
+
+```text
+Samagra Bharti. Historical NLP Knowledge Graphs for Himalayan Trade Networks. Zenodo. DOI: <add DOI>
+```
+
+## License And Rights
+
+The code, generated outputs, figures, and source PDFs may have different rights status. Before publishing on Zenodo, add the intended license for the code and generated outputs, and confirm whether the source PDFs can be redistributed. If the PDFs cannot be redistributed, deposit only metadata, derived outputs, or extracted text where allowed, and describe how users can obtain the original sources.
+
+## Project Status
+
+This is an active research codebase. The current production path is the `pipeline/` workflow plus the validation and analysis scripts listed above. Older geoparser outputs and domain-adaptive NER experiments may be retained outside the current pipeline for comparison and research history.

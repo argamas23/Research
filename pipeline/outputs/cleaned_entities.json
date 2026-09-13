@@ -241,8 +241,8 @@
   },
   {
     "entity": "askot",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -457,8 +457,8 @@
   },
   {
     "entity": "bhabar",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -1633,8 +1633,8 @@
   },
   {
     "entity": "dhauli",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -2197,8 +2197,8 @@
   },
   {
     "entity": "fotu la",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -3085,8 +3085,8 @@
   },
   {
     "entity": "jammu",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -3127,8 +3127,8 @@
   },
   {
     "entity": "jhelum",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -3271,8 +3271,8 @@
   },
   {
     "entity": "kashgar",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -5113,8 +5113,8 @@
   },
   {
     "entity": "pindar",
-    "type": "PERSON",
-    "circuit": "Social actors",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -6235,8 +6235,8 @@
   },
   {
     "entity": "srinagar",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -6691,8 +6691,8 @@
   },
   {
     "entity": "tharali",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -7963,8 +7963,8 @@
   },
   {
     "entity": "tsering samphel",
-    "type": "PERSON",
-    "circuit": "Social actors",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -8053,8 +8053,8 @@
   },
   {
     "entity": "ukhimath",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {
@@ -8605,8 +8605,8 @@
   },
   {
     "entity": "zoji la",
-    "type": "LOCATION",
-    "circuit": "Route/place circuits",
+    "type": "CONCEPT",
+    "circuit": "Conceptual context",
     "confidence": 0.8
   },
   {

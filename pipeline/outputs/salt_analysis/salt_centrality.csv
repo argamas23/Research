@@ -1,7 +1,7 @@
-view,commodity,present
-validated,salt,False
-validated_probable,salt,False
-validated_no_concept,salt,False
-validated_probable_no_concept,salt,False
-validated_trade_only,salt,False
-validated_probable_trade_only,salt,False
+view,commodity,present,degree,strength,betweenness_lcc,pagerank,in_lcc
+validated,salt,True,44,52.0,0.21727716925822377,0.013513438641294088,True
+validated_probable,salt,True,44,52.0,0.21458942931571995,0.012084300114581762,True
+validated_no_concept,salt,True,33,40.0,0.3913041498518692,0.02258802247931882,True
+validated_probable_no_concept,salt,True,33,40.0,0.37397362936217127,0.019439627262194156,True
+validated_trade_only,salt,True,35,41.0,0.23839239046595082,0.01547421181715929,True
+validated_probable_trade_only,salt,True,35,41.0,0.23076818463700022,0.01382302796322293,True

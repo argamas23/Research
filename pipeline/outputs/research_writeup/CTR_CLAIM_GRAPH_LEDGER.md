@@ -1,7 +1,7 @@
 # CTR Report Claim-Graph Ledger
 
 Source checked: `References/CTR Report.pdf`  
-Graph checked: `pipeline/outputs/cleaned_aggregated_edges.csv` and `pipeline/outputs/cleaned_entities.json`  
+Graph checked: `Mine/outputs/cleaned_aggregated_edges.csv` and `Mine/outputs/cleaned_entities.json`  
 Last checked: 2026-08-21
 
 Use this as a living ledger. When new books are added, update `Support`, add new edge rows, and move claims from `Missing / weak` to `Partial` or `Strong` only when the graph itself contains matching nodes/edges.
@@ -88,7 +88,7 @@ The PDF's main named writers are Polanyi, James C. Scott, and E. P. Thompson. Th
 | British/government rule formalized trade through administration, taxation, settlement, and regulation. | Strong | `british government --governs--> trade`; `british government --governs--> trade between india and tibet`; `british government --taxes--> raja balbir sen`; `government --governs--> all rivers`; `government --licenses--> contractors`; `kashmir --governs--> land revenue levied`. | Add chronology fields if arguing a before/after transformation. |
 | Settlement agreements and legal property claims replaced flexible/customary access. | Partial | `government --governs--> all rivers`; evidence says rivers are government property and fishing rights are conveyed by settlement agreements. `british --disputes--> village sites or farmlands, local pastures or forests`. | Need more direct edges comparing customary access with legal settlement. |
 | India Salt Act 1882 transformed salt into a government monopoly. | Weak / missing | No current graph hits for `India Salt Act`, `Salt Act`, or `1882`. | Add sources about the Act and extract edges for monopoly, authorized depots, taxation per maund. |
-| Inland Customs Line / Inland Customs Department shaped salt administration. | Partial | `punjab salt mines --governs--> inland customs department`; evidence says the Punjab Salt pipelines were administered originally by the Inland Customs Department. | No graph edge for the Inland Customs Line as a barrier/checkpoint system. |
+| Inland Customs Line / Inland Customs Department shaped salt administration. | Partial | `punjab salt mines --governs--> inland customs department`; evidence says the Punjab Salt Mines were administered originally by the Inland Customs Department. | No graph edge for the Inland Customs Line as a barrier/checkpoint system. |
 | Licensing, quotas, inspection checkpoints, and permits eroded barter routes. | Partial | `government --licenses--> contractors`; `chinese authorities --licenses--> salt`; `tibetan government --licenses--> rupshu nomads`. | `quota`, `checkpoint`, and `permit` are missing. Need direct evidence of erosion/disruption. |
 | Mandi salt mines came under government administration/licensing. | Strong | `mandi --controls--> salt mines`; `mandi --governs--> salt quarries`; `government --governs--> the mandi salt mines`; `government of india --governs--> mandi salt sources`. | If the report claims early colonial licensing specifically, add date-specific edges. |
 | Scott's moral economy / subsistence ethic fits Rupshu and Changpa livelihoods. | Partial | `the rupshu people --depends_on--> their cattle, on their sheep and goats`; `rupshu nomads --trades_with--> barley, wooden wares and other basic necessities`; `grain --supplies--> clothes to wear`; `himalayan farmers --depends_on--> chinu millet`. | The graph lacks `moral economy`, `safety first`, `subsistence threshold`, and explicit risk-management nodes. |

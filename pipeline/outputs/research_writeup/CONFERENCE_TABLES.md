@@ -1,6 +1,6 @@
 # Conference Tables
 
-Note: Table 1 summarizes the 19 source-linked corpus files in `pipeline/outputs/corpus/corpus_table.csv`. Titles and years were checked against online catalogue or publisher records, with local title pages used only to identify the exact edition in the repository.
+Note: Table 1 summarizes the 19 source-linked corpus files in `Mine/outputs/corpus/corpus_table.csv`. Titles and years were checked against online catalogue or publisher records, with local title pages used only to identify the exact edition in the repository.
 
 ## Table 1. Corpus Summary
 
